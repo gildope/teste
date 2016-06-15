@@ -29,7 +29,7 @@
 <channel>
 <name>Drama HD</name>
 <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Drama-icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/dr.txt</externallink>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/dr%20720.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
