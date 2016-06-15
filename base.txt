@@ -27,7 +27,15 @@
 </channel>
 
 <channel>
-<name>Drama</name>
+<name>Drama HD</name>
+<thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Drama-icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/dr.txt</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Drama SD</name>
 <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Drama-icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/dr.txt</externallink>
 <fanart></fanart>
