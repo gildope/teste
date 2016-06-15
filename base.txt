@@ -11,9 +11,9 @@
 </channel>
 
 <channel>
-<name>Aventura</name>
-<thumbnail>http://icon-icons.com/icons2/515/PNG/256/Adventure-Movies_icon-icons.com_51063.png</thumbnail>
-<externallink>https://goo.gl/4bBDBV</externallink>
+<name>Drama SD</name>
+<thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Drama-icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/dr360.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
