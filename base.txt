@@ -11,14 +11,6 @@
 </channel>
 
 <channel>
-<name>Drama SD</name>
-<thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Drama-icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/dr360.txt</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
-
-<channel>
 <name>Comedia</name>
 <thumbnail>http://orig11.deviantart.net/212a/f/2015/109/b/c/comedy_folder_icon_by_mikromike-d8qctc1.png</thumbnail>
 <externallink>https://goo.gl/BABdHQ</externallink>
