@@ -139,9 +139,9 @@
 <thumbnail>http://cinedoanula.com/imdb/posters/264644movie.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Sempre Ao Seu Lado</title>
+<utube>gONeXM7L440</utube>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/f/fa/Poster-66478-54154.jpg</thumbnail>
 </item>
 <item>
 <title></title>
