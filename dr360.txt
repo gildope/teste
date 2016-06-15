@@ -114,19 +114,24 @@
 <thumbnail>http://image.tmdb.org/t/p/w342/9PN2F4xcy3qAPx1DSbEw6wjJPWg.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>O Poderoso Chefão (1972)</title>
+<link>https://lh3.googleusercontent.com/c4cZPUA0T-TKK-T8sUFZbBiE8rFQX6UGnuPvSguIIUw=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/238movie.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>O Poderoso Chefão: Parte II - The Godfather: Part II (1974)</title>
+<link>https://lh3.googleusercontent.com/8njFookR8dIbqqv-wY4ZtamwGpY8WsNsWk7quxhJmEU=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/240movie.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>O Poderoso Chefão: Parte III - The Godfather: Part III (1990)</title>
+<link>https://lh3.googleusercontent.com/iEp0LqIy5W_AHkKLz9BTXvDGHkaX-TIP_jkO-ivp94Q=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/242movie.jpg</thumbnail>
+</item>
+<item>
+<title>A Lista de Schindler (1993)</title>
+<link>https://lh3.googleusercontent.com/vPcjT-ryf-aRG5UN8jh3snpmr8lcjwSwQLGvuPZZht8=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/424movie.jpg</thumbnail>
 </item>
 <item>
 <title></title>
