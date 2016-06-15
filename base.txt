@@ -26,13 +26,6 @@
 <info></info>
 </channel>
 
-<item>
-<title>Um Sonho de Liberdade - The Shawshank Redemption (1994)</title>
-<link>https://lh3.googleusercontent.com/1KZevmxOFeR_Iz8JX99O5h2DWXoGWuCNwBDaabiLS88=m22</link>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/278movie.jpg</thumbnail>
-</item>
-<item>
-
 <channel>
 <name>Drama HD</name>
 <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Drama-icon.png</thumbnail>
