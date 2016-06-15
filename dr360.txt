@@ -59,9 +59,59 @@
 <thumbnail>http://image.tmdb.org/t/p/w342/dzx58zDEaq0DaK4x4ybr6lqTMP4.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>A Incrível História de Adaline - The Age of Adaline (2015)</title>
+<link>https://lh3.googleusercontent.com/yNw4aMnuz1LeHsGTC2HjHplBmcT9bMHAyTKRxG8uMrM=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/293863movie.jpg</thumbnail>
+</item>
+<item>
+<title>A Grande Escolha (2014)</title>
+<link>https://lh3.googleusercontent.com/6dZZLFMlmCVXM_pkXez-5BhWeyKg1yETdssL6n7ydx0=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/200505movie.jpg</thumbnail>
+</item>
+<item>
+<title>Uma Longa Jornada (2015)</title>
+<link>https://lh3.googleusercontent.com/5yzCZ9Oex8KD6N5rndshiX6w2XCUhkzP9_xjs7WlZIk=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/228205movie.jpg</thumbnail>
+</item>
+<item>
+<title>Dívida de Honra (2014)</title>
+<link>https://lh3.googleusercontent.com/j_i2jle5dCd69mzNHiKKzHu4w-yuJXDFT2XV-SAizPE=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/264656movie.jpg</thumbnail>
+</item>
+<item>
+<title>Caipira (2011)</title>
+<link>https://lh3.googleusercontent.com/NVpDTgPlNiIbzGZrTnZkhUzclzv0i_G-xQVdBm7wuBE=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/94363movie.jpg</thumbnail>
+</item>
+<item>
+<title>Platoon (1986)</title>
+<link>https://lh3.googleusercontent.com/VJG3fBBZ1LHmIQxRmAj2qX0M7BMcrHnQhDSQITlcTFo=m18</link>
+<thumbnail>http://cinedoanula.com/imdb/posters/792movie.jpg</thumbnail>
+</item>
+<item>
+<title>O Grande Herói (2013)</title>
+<link>https://lh3.googleusercontent.com/yVmmjCBlSx8PU1iftTZfgNG5Eq5hug-9U3c-8DHm-4E=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/56YdftREqQ7tU3iQXtD4YPzcBaE.jpg</thumbnail>
+</item>
+<item>
+<title>Filha de Deus (2016)</title>
+<link>https://lh3.googleusercontent.com/kLTmZAhWKj4DCv2ex9ujOhiG6Spn7N_s5jAl27eVibt9aDA-Nc-v92Y6uCetDmUwXYxv3g=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/AaOswAcze4IAnKTXzAXtwOIuXnN.jpg</thumbnail>
+</item>
+<item>
+<title>Corações de Ferro - Fury (2014)</title>
+<link>https://lh3.googleusercontent.com/dyO-F5mL31p3XEfwRU9R1yiUaCEBA70PVuju6jwMRq8=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/228150movie.jpg</thumbnail>
+</item>
+<item>
+<title>Enquanto Somos Jovens (2014)</title>
+<link>https://lh3.googleusercontent.com/icF32fSaswbMJ7W6pb8WGEtHzhtw6awpF3P947_MJ3Q=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/252512movie.jpg</thumbnail>
+</item>
+<item>
+<title>Garota Exemplar - Gone Girl (2014)</title>
+<link>https://lh3.googleusercontent.com/ozZzqGVSRa3S8a3Nd5IV463SCYvO4mK_kqUgk42Ac4g=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/9PN2F4xcy3qAPx1DSbEw6wjJPWg.jpg</thumbnail>
 </item>
 <item>
 <title></title>
@@ -113,3 +163,9 @@
 <link></link>
 <thumbnail></thumbnail>
 </item>
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
