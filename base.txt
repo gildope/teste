@@ -69,7 +69,7 @@
 <channel>
 <name>Terror</name>
 <thumbnail>http://orig10.deviantart.net/18f7/f/2016/001/2/0/horror_by_themustang24-d9md38l.png</thumbnail>
-<externallink>http://pastebin.com/raw/yBEzr8Tb</externallink>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/terror.xml</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
