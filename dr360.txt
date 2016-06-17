@@ -149,6 +149,14 @@
 <thumbnail>http://www.filmesonlinehd1.com/wp-content/uploads/2015/01/cao-vermelho-poster-filmesonlinehd1.fw_.png</thumbnail>
 </item>
 <item>
+<title>Mad Max Estrada Da Fúria – Ultra HD 4K Legendado</title>
+<link>magnet:?xt=urn:btih:8A867B8BF4E14B9B9A7A1071232E5BEE07F5418A&dn=mad+max+fury+road+2015+uhd+4k+upscaled+x264+ac3+soup&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
+<thumbnail>http://www.megatorrentshd.com/wp-content/uploads/2016/05/capa-Mad-Max-Estrada-Da-F%C3%BAria-Ultra-HD-4K.png</thumbnail>
+<fanart>http://www.megatorrentshd.com/wp-content/uploads/2016/05/capa-Mad-Max-Estrada-Da-F%C3%BAria-Ultra-HD-4K.png</fanart>
+<info>É um polícia renegado num mundo que se rege pela lei do mais forte. Num futuro pós-apocalíptico, perseguido por um passado tumultuoso, Max acredita que o único modo de sobreviver é não depender de ninguém para além de si próprio. Ainda assim, acaba por se juntar a um grupo de rebeldes liderados por Furiosa, uma mulher corajosa que anseia poder mudar o estado das coisas. Este bando, em fuga de uma cidadela tiranizada pelo implacável Immortan Joe, libertou um grupo de mulheres escravizadas. Sedento de vingança e determinado a recuperar cada uma das prisioneiras, o vilão dá início à mais implacável perseguição de sempre…</info>
+<genre>AÇÃO</genre>
+</item>
+<item>
 <title></title>
 <link></link>
 <thumbnail></thumbnail>
