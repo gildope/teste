@@ -93,7 +93,7 @@
 <channel>
 <name>Torrent Filmes</name>
 <thumbnail>http://orig02.deviantart.net/3269/f/2013/276/1/3/the_bible_by_rest_in_torment-d6p2wfn.png</thumbnail>
-<externallink>https://goo.gl/W6So7E</externallink>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/torrentfilmes.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
