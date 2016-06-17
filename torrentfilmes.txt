@@ -4,8 +4,8 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>Contos do dias das bruxas</title>
+<link>magnet:?xt=urn:btih:A79C66D704A274ACAE41351EC6029CA06EC783D6&dn=Contos%20Do%20Dia%20Das%20Bruxas.%282007%29.Dublado.720p.By.Luan.Harper&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce</link>
 <thumbnail></thumbnail>
 </item>
 <item>
