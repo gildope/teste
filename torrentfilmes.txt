@@ -1,0 +1,20 @@
+<item>
+<title>Regresso do Mal 2016 720p BluRay DUAL</title>
+<link>magnet:?xt=urn:btih:fa4570c1a9e8c922047ddc23fc0dd81bb0894019&dn=Regresso+do+Mal+2016+720p+BluRay+DUAL+%5BDublado%5D+LAPUMiA&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
