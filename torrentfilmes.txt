@@ -19,69 +19,69 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Shaun: O Carneiro</title>
+<link>magnet:?xt=urn:btih:B3AF59FB8C13A280275973B61C06EEFEE9EAEA3F&dn=Shaun%20-%20O%20Carneiro%20%282015%29%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/05/Shaum.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Trumbo – Lista Negra</title>
+<link>magnet:?xt=urn:btih:F953D8E5CD167214E5D8E4E270A694A7249C3406&dn=Lista%20Negra%20%282016%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/05/Lista-1.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>13º Andar (1999)</title>
+<link>magnet:?xt=urn:btih:E87419080CC0D2AC8A606C551B6C07F72E6945A5&dn=13%c2%ba%20Andar%20%281999%29%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/05/o-13-andar-.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>13 Horas: Os Soldados Secretos de Benghazi (2016)</title>
+<link>magnet:?xt=urn:btih:A9221FC4968E74B4E5455241261C354EAD3A6A7A&dn=13%20Horas%20Os%20Soldados%20Secretos%20de%20Benghazi%20%282016%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/05/Horas-peq.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Presságios de Um Crime (2016)</title>
+<link>magnet:?xt=urn:btih:CC6ACE6F5ECEE986234F6ED2EB58FFF7D288265F&dn=Press%c3%a1gios%20de%20Um%20Crime%20%282016%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/05/Press-peq.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Horas Decisivas (2016) </title>
+<link>magnet:?xt=urn:btih:95E9E64FDEDCD8C9F0FCD90E3A1AB3BC9F1B6EA2&dn=Horas%20Decisivas%202016%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/05/horas-decisivas-.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>O Último Matador (1996)</title>
+<link>magnet:?xt=urn:btih:F399634F67E29AD4AE88BF9526718A50447A14F7&dn=O%20%c3%9altimo%20Matador%201996%20BluRay%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/05/o-ultimo-matador-.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Até o Fim (2016)</title>
+<link>magnet:?xt=urn:btih:DFF21C81BB0894E87AE87774E3F7FD20B0304FBB&dn=At%c3%a9%20o%20Fim%202016%20720p%20WEBRip%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/05/ate-o-fim-capa.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>O Procurado (2008)</title>
+<link>magnet:?xt=urn:btih:9D31C028065964A5369C5059692878895FCEAAAA&dn=O%20Procurado%20%282008%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/05/ProcPeq.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Zootopia (2016)</title>
+<link>magnet:?xt=urn:btih:9A45A45E25644305474C698CF5520AD275556C75&dn=Zootopia%20%282016%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/06/Zoo-peq.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Amor e Revolução (2016)</title>
+<link>magnet:?xt=urn:btih:3172D7B0CEBC6D8EC28B4E2693A825E6EACE4E88&dn=Amor%20e%20Revolu%c3%a7%c3%a3o%202015%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/06/Amor-e-Revolu%C3%A7%C3%A3o-capa.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Deuses do Egito (2016)</title>
+<link>magnet:?xt=urn:btih:D2C4A592D40D7E9BE45EB5244C5FEDA5E7A3B916&dn=Deuses%20do%20Egito%202016%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.openbittorrent.com%3a80/announce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/06/deuses-do-egito-capa.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Joe (2016)</title>
+<link>magnet:?xt=urn:btih:DCF2406FFD8D63F04AE8A95DF8F13FF51C7B8B88&dn=Joe%202016%20720p%20Bluray%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.publicbt.com%3a80/announce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/06/joe-capa.jpg</thumbnail>
 </item>
 <item>
 <title></title>
