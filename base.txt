@@ -45,7 +45,7 @@
 <channel>
 <name>Ficção</name>
 <thumbnail>http://icons.iconarchive.com/icons/lajonard/movie-folder/256/Science-Fiction-icon.png</thumbnail>
-<externallink>https://goo.gl/2LFxYu</externallink>
+<externallink>https://github.com/gildope/teste/blob/master/Fic%C3%A7%C3%A3o.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
