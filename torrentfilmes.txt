@@ -89,29 +89,29 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Victor Frankenstein 2016 720p BluRay DUAL [Dublado]</title>
+<link>magnet:?xt=urn:btih:9a620166709e085f9595b472acc403b80c1980fa&dn=Victor+Frankenstein+2016+720p+BluRay+DUAL+%5BDublado%5D+LAPUMiA&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTc2Mjk0MTM0NF5BMl5BanBnXkFtZTgwNjgyOTg1NjE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Pai em Dose Dupla 2016 720p BluRay DUAL [Dublado]</title>
+<link>magnet:?xt=urn:btih:007a8a8623f34438e44ce148d003299d6fe0e6f2&dn=Pai+em+Dose+Dupla+2016+720p+BluRay+DUAL+%5BDublado%5D+LAPUMiA&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTQ0OTE1MTk4N15BMl5BanBnXkFtZTgwMDM5OTk5NjE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>O Bom Dinossauro 2016 720p BluRay DUAL [Dublado]</title>
+<link>magnet:?xt=urn:btih:781231e7c2de963703ed5d6a9463f42820b660c3&dn=O+Bom+Dinossauro+2016+720p+BluRay+DUAL+%5BDublado%5D+LAPUMiA&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTc5MTg2NjQ4MV5BMl5BanBnXkFtZTgwNzcxOTY5NjE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Cacadores de Emocao Alem do Limite 2016 720p BluRay DUAL</title>
+<link>magnet:?xt=urn:btih:0728b0b852964f65caf7f24fdfb9d5f493ded8ee&dn=Cacadores+de+Emocao+Alem+do+Limite+2016+720p+BluRay+DUAL-LAPUMiA&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjIxNDkzOTAyNV5BMl5BanBnXkFtZTgwNjEyOTY3NjE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>007 Contra Spectre 2015 1080p BluRay DUAL [Dublado]</title>
+<link>magnet:?xt=urn:btih:124bdeb84023aec30e85f19a39581ea888274e0e&dn=007+Contra+Spectre+2015+1080p+BluRay+DUAL+%5BDublado%5D+LAPUMiA&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjM2Nzg4MzkwOF5BMl5BanBnXkFtZTgwNzA0OTE3NjE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 </item>
 <item>
 <title></title>
