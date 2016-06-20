@@ -84,8 +84,8 @@
 <thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/06/joe-capa.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>UP: Altas Aventuras</title>
+<link>magnet:?xt=urn:btih:d010f4a83c625c946ba906f147f11468df6f18c9&dn=UP+Altas+Aventuras+%282009%29+Dublado+720p+BRrip+x264&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80</link>
 <thumbnail></thumbnail>
 </item>
 <item>
