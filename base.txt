@@ -1,7 +1,7 @@
 <item>
 <title>[COLOR green] [COLOR green][I][B]SERIADOS[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://114.imagebam.com/download/EBOH_giH6T-KNSszlfRR_Q/47632/476311586/portugal.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/_BgymwE-9mH0/TdUEfrPT0VI/AAAAAAAAEy0/1PuI8Y5fkAA/Seriados-1A2.png</thumbnail>
 <fanart>http://113.imagebam.com/download/fdM83GTZTSo8CpqNLXND5g/46519/465185244/ike.png</fanart>
 <externallink>http://pastebin.com/raw/5qizybAw</externallink>
 </item>
