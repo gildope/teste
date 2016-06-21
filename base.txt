@@ -3,7 +3,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://lh3.googleusercontent.com/_BgymwE-9mH0/TdUEfrPT0VI/AAAAAAAAEy0/1PuI8Y5fkAA/Seriados-1A2.png</thumbnail>
 <fanart>http://113.imagebam.com/download/fdM83GTZTSo8CpqNLXND5g/46519/465185244/ike.png</fanart>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/seriados.txt</externallink>
+<externallink>http://pastebin.com/raw/5qizybAw</externallink>
 </item>
 <item>
 <title>[COLOR brown] [COLOR darkviolet][I][B]FILMES[/I][/B][/COLOR]</title>
