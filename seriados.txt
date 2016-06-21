@@ -1,2 +1,14 @@
-Lista pmachad0
-https://raw.githubusercontent.com/pmachad0/OnSerieS/playlistv/onseries.m3u8
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Lista pmachad0</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/pmachad0/OnSerieS/playlistv/onseries.m3u8</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+
+</channels>
