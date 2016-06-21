@@ -10,5 +10,5 @@
 <link>http://ignorame</link>
 <thumbnail>http://114.imagebam.com/download/sOSd7uGpgrU6Cb5Wj8Ltew/47725/477248816/concertos.png</thumbnail>
 <fanart>http://113.imagebam.com/download/fdM83GTZTSo8CpqNLXND5g/46519/465185244/ike.png</fanart>
-<externallink>http://pastebin.com/raw/yLyYnGAQ</externallink>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/filmes.txt</externallink>
 </item>
