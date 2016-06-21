@@ -4,8 +4,8 @@
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>A Batalha de Riddick</title>
+<link>magnet:?xt=urn:btih:0253eaae9d236119166e588c2c2f148936afa3c1&dn=A+Batalha+de+Riddick+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
 <thumbnail></thumbnail>
 </item>
 <item>
