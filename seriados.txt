@@ -1,6 +1,6 @@
 <item>
 <title>Diário de um Vampiro</title>
 <thumbnail></thumbnail>
-<link>https://raw.githubusercontent.com/gildope/teste/master/diario.txt</link>
+<link>https://drive.google.com/uc?export=download&id=0BxtAboHPLxK3Nnh2aklZNjIwRUE</link>
 </item>
 
