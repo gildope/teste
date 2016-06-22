@@ -15,7 +15,7 @@
 </item>
 <item>
 <title>TVD 7x15 I Would for You</title>
-<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/DDUVT07EP15.mp4?ONSeries</link>
+<link>http://goo.gl/Im0fqS?gdriveurl</link>
 <thumbnail></thumbnail>
 </item>
 <item>
