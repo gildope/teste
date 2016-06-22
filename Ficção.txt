@@ -10,7 +10,7 @@
 </item>
 <item>
 <title>A Quinta Onda (2016)</title>
-<link>magnet:?xt=urn:btih:377E30BF829D29CB3DB50566B50798774053D74F&dn=A%205%c2%aa%20Onda%20%282016%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<link>https://lh3.googleusercontent.com/mozHQyuZHI6y_HfYhWiay7MK1cWcUHMc8h9ubF-Dhv7yG1chsxezTHg5TCV6_QA3JV8FLw=m18</link>
 <thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/04/Quinta.jpg</thumbnail>
 </item>
 <item>
@@ -75,7 +75,7 @@
 </item>
 <item>
 <title>Perdido em Marte (2015)</title>
-<link>magnet:?xt=urn:btih:E8020429D8B393BA9F83CDEB5CED7549A877BD97&dn=Perdido%20Em%20marte%20%282015%29%20720p%20Bluray%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=http%3a%2f%2fannounce.torrentsmd.com%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=http%3a%2f%2ftracker.best-torrents.net%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=http%3a%2f%2ftracker.torrenty.org%3a6969%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.btzoo.eu%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce</link>
+<link>https://lh3.googleusercontent.com/D4o3w8YZzIsxuQ69qarXJPW8ERNR--j9d5W3E9sTplY=m18</link>
 <thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/01/nWOKBtV-poster-filme.jpg</thumbnail>
 </item>
 <item>
@@ -100,48 +100,48 @@
 </item>
 <item>
 <title>Destino Especial (2016) BRRip Blu-Ray 720p</title>
-<link>magnet:?xt=urn:btih:842850F3236D691D7B148B945DD5CA7667F43E4D&dn=Destino%20Especiall%202016%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce</link>
+<link>https://lh3.googleusercontent.com/1QGW-xZo4L9A7wXo9OdmZkhz7TvWUra65Tm24qqu-6D18ZNUA4i2LOGhm-CQnam_weuM1pNjjA=m18</link>
 <thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/06/Destino-Especiall-capa-1.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Maze Runner: Prova de Fogo</title>
+<link>https://lh3.googleusercontent.com/I-mi3TJ4ynCc3alogAkhYb_07mVHUl80ErRTGbOIxz4=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/294254movie.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Guerra nas Estrelas: Episódio VII - O Despertar da Força - Star Wars: Episode VII - The Force Awakens (2015)</title>
+<link>https://lh3.googleusercontent.com/WZ3ZGPmNhFEJrhGeDCPZ4EN8YKkiPVGiIlj5SPcIAaXaHomFhjzFMlhgVjff5EVkwwBAzw=m18</link>
+<thumbnail>http://cinedoanula.com/imdb/posters/140607movie.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Quarteto Fantástico - Fantastic Four (2015)</title>
+<link>https://lh3.googleusercontent.com/Nqv7JHjoPgN_mESyZSHJKYoYfG3TS7CzYLbe3q51ZqA=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/166424movie.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Rua Cloverfield 10 - 10 Cloverfield Lane (2016)</title>
+<link>https://lh3.googleusercontent.com/ld8KzAb_gS7LTDFC8i67Cb7aAMH2rAaqqyXjYBgM8YK_WIKRuNUuoPql60o09nlqG1X6_gY0UA=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/333371movie.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Vingadores: Era de Ultron - Avengers: Age of Ultron (2015)</title>
+<link>https://lh3.googleusercontent.com/jMyG6_KO-nB6bih0LEkYqftlHNXGSH5-W-rBT-le9kQ=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/kldrjhg2NhywlAGsck2mRTKiVyb.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Homem-Formiga - Ant-Man (2015)</title>
+<link>https://lh3.googleusercontent.com/XcFF_GDJJHyxPG2vH6CQ9JLZmG-s3C9ijeMtH_UZqRs=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/tR3CZJltJR1hxDhN6N791vBZS3q.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Tomorrowland - Terra do Amanhã (2015)</title>
+<link>https://lh3.googleusercontent.com/XQ-rYx3zNfh2Tds2OpFRHIP_rOvEjeyUAaCJ5ce_yE8=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/158852movie.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Sem Retorno - Self Less (2015)</title>
+<link>https://lh3.googleusercontent.com/DjWyazsOMxdGFiO5unq0xemzf3l2Kjvr_je28_ieKsE=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/238615movie.jpg</thumbnail>
 </item>
 <item>
 <title></title>
