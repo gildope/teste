@@ -4,24 +4,24 @@
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 </item>
 <item>
-<title>A Batalha de Riddick</title>
-<link>magnet:?xt=urn:btih:0253eaae9d236119166e588c2c2f148936afa3c1&dn=A+Batalha+de+Riddick+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
-<thumbnail></thumbnail>
+<title>Pod (2016) Bluray 720p Legendado</title>
+<link>magnet:?xt=urn:btih:A03A191DCCE915C705499BDEA76DB4DDE304A1FF&dn=Pod%202015%20Bluray%20720p%20Legendado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/05/pod_capa.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>A Quinta Onda (2016)</title>
+<link>magnet:?xt=urn:btih:377E30BF829D29CB3DB50566B50798774053D74F&dn=A%205%c2%aa%20Onda%20%282016%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/04/Quinta.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>No Limite do Amanhã (2014)</title>
+<link>magnet:?xt=urn:btih:72053147f6581eb3fd45112067cd22e469a7331f&dn=No+Limite+do+Amanh%26atilde%3B+%282014%29+Blu-Ray+1080p+Dublado+-+TPF&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%C2%A0</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/03/no_limite_do_manha_capa.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Super 8 (2011)</title>
+<link>magnet:?xt=urn:btih:27655361c3374dbd70c2a6c3db1484d5c604a5b3&dn=Super+8+%282011%29+720p+Dublado+pt-BR+%2F+Brazilian+Pt&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2015/03/super8_capa.jpg</thumbnail>
 </item>
 <item>
 <title></title>
