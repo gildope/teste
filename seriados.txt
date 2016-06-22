@@ -1,6 +1,6 @@
 <item>
-<title>Lista pmachad0</title>
+<title>Diário de um Vampiro</title>
 <thumbnail></thumbnail>
-<link>https://raw.githubusercontent.com/gildope/teste/master/series</link>
+<link>https://raw.githubusercontent.com/gildope/teste/master/diario.txt</link>
 </item>
 
