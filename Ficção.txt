@@ -24,9 +24,84 @@
 <thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2015/03/super8_capa.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Alta Frequência (2000)</title>
+<link>magnet:?xt=urn:btih:53A469C0AFDC3EC29F91ED44095429F288819FBF&dn=Alta%20Frequ%c3%aancia%202000%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/03/alta_frequencia_capa.jpg</thumbnail>
+</item>
+<item>
+<title>A Máquina do Tempo (2002)</title>
+<link>magnet:?xt=urn:btih:9B60B7ABE1D053331835ECFA92412CAF138D5F0A&dn=A%20M%c3%a1quina%20do%20Tempo%202002%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/03/a_maquina_do_tempo_capa.jpg</thumbnail>
+</item>
+<item>
+<title>Equilibrium (2002)</title>
+<link>magnet:?xt=urn:btih:6F1F5B3C0E480D965F79BF6068C5383563962962&dn=Equilibrium%20720p%20-%20The%20Pirate%20Filmes&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2014/04/equilibrium_capa.jpg</thumbnail>
+</item>
+<item>
+<title>Elysium (2013)</title>
+<link>magnet:?xt=urn:btih:ee9fcd61f855562edf91c1b5423249d8be6e0e5a&dn=Elysium.%282013%29.BDrip.Dublado.720p+-+AndreTPF&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2013/11/Elysium_capa.jpg</thumbnail>
+</item>
+<item>
+<title>O Soldado do Futuro (1999)</title>
+<link>magnet:?xt=urn:btih:FB8664E3E4ADC98314413B0EAB1F3A94B551613E&dn=O%20Soldado%20do%20Futuro%20%281999%29%20BluRay%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/02/soldado_do_futuro_capa.jpg</thumbnail>
+</item>
+<item>
+<title>Inimigo Meu (1985)</title>
+<link>magnet:?xt=urn:btih:52DEC82222FEA10D592800C1421F3C923C30A0E5&dn=Inimigo%20Meu%201985%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/02/inimigo_meu_capa.jpg</thumbnail>
+</item>
+<item>
+<title>Ex-Machina: Instinto Artificial (2015)</title>
+<link>magnet:?xt=urn:btih:C451F7B51AEF49620AFC381B2324BC308748EDDC&dn=Ex%20Machina%202015%20720p%20BluRay%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/02/ex_machine_capa.jpg</thumbnail>
+</item>
+<item>
+<title>Prometheus (2012)</title>
+<link>magnet:?xt=urn:btih:A59ACAD50A4AC234F53F67D04BB5EFC2D2AEE07A&dn=Prometheus%202012%20720p%20BluRay%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2013/01/Prometheus_capa.jpg</thumbnail>
+</item>
+<item>
+<title>Independence Day (1996)</title>
+<link>magnet:?xt=urn:btih:c2c955e4cfd4d56544fcc174d1df94a4b679059a&dn=Independence+Day+%281996%29+BDRip+bluray+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2013/07/independenceday-movie.jpg</thumbnail>
+</item>
+<item>
+<title>Invasão do Mundo – Batalha de Los Angeles (2011)</title>
+<link>magnet:?xt=urn:btih:2cd7c3f27960355d885dc6dc4165d12a533a04c3&dn=Batalha+de+Los+Angeles+%282011%29+bluray+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2013/11/invasaodomundo-movie.jpg</thumbnail>
+</item>
+<item>
+<title>Perdido em Marte (2015)</title>
+<link>magnet:?xt=urn:btih:E8020429D8B393BA9F83CDEB5CED7549A877BD97&dn=Perdido%20Em%20marte%20%282015%29%20720p%20Bluray%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=http%3a%2f%2fannounce.torrentsmd.com%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=http%3a%2f%2ftracker.best-torrents.net%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=http%3a%2f%2ftracker.torrenty.org%3a6969%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.btzoo.eu%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/01/nWOKBtV-poster-filme.jpg</thumbnail>
+</item>
+<item>
+<title>13º Andar (1999) Bluray 720p</title>
+<link>magnet:?xt=urn:btih:E87419080CC0D2AC8A606C551B6C07F72E6945A5&dn=13%c2%ba%20Andar%20%281999%29%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/05/o-13-andar-.jpg</thumbnail>
+</item>
+<item>
+<title>Kill Command (2016) Bluray 720p Legendado</title>
+<link>magnet:?xt=urn:btih:626C3AB65B9D05A382400D5D41E54EC9C191CBF2&dn=Kill%20Command%202016%20720p%20Bluray%20720p%20Legendado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/05/kill-command-capa.jpg</thumbnail>
+</item>
+<item>
+<title>A Série Divergente: Convergente (2016) Bluray 1080p 5.1 CH Legendado</title>
+<link>magnet:?xt=urn:btih:613C7972E6A1AFEF122248C9053D1FE5A344B9BE&dn=A%20S%c3%a9rie%20Divergente%20-%20Convergente%202016%20Bluray%201080p%20Legendado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.publicbt.com%3a80/announce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/06/A-S%C3%A9rie-Divergente-Convergente-capa.jpg</thumbnail>
+</item>
+<item>
+<title>Celular (2016) Bluray 720p Legendado</title>
+<link>magnet:?xt=urn:btih:18DCB94DEC1C84E2634496D131D90DD3105BC942&dn=Cell%202016%20Bluray%20720p%20Legendado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.openbittorrent.com%3a80/announce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/06/cell-capa.jpg</thumbnail>
+</item>
+<item>
+<title>Destino Especial (2016) BRRip Blu-Ray 720p</title>
+<link>magnet:?xt=urn:btih:842850F3236D691D7B148B945DD5CA7667F43E4D&dn=Destino%20Especiall%202016%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce</link>
+<thumbnail>http://www.thepiratefilmes.com/wp-content/uploads/2016/06/Destino-Especiall-capa-1.jpg</thumbnail>
 </item>
 <item>
 <title></title>
@@ -76,85 +151,3 @@
 <item>
 <title></title>
 <link></link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
