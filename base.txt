@@ -2,7 +2,7 @@
 <title>[COLOR green] [COLOR green][I][B]SERIADOS[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://lh3.googleusercontent.com/_BgymwE-9mH0/TdUEfrPT0VI/AAAAAAAAEy0/1PuI8Y5fkAA/Seriados-1A2.png</thumbnail>
-<externallink>http://pastebin.com/raw/5qizybAw</externallink>
+<externallink>https://www.dropbox.com/s/083whe53x160hhl/diario_06222016_070739.xml?dl=0</externallink>
 </item>
 <item>
 <title>[COLOR brown] [COLOR darkviolet][I][B]FILMES[/I][/B][/COLOR]</title>
