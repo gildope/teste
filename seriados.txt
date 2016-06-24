@@ -3,9 +3,9 @@
 
 <channels>
 <channel>
-<name>Ação</name>
-<thumbnail>http://icon-icons.com/icons2/515/PNG/256/Action-Movies_icon-icons.com_51064.png</thumbnail>
-<externallink>https://goo.gl/DBi3Nx</externallink>
+<name>Diário de um Vampiro</name>
+<thumbnail>https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjVkaLN1sDNAhVBgpAKHWdkDZ4QjRwIBw&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FThe_Vampire_Diaries_(s%25C3%25A9rie)&psig=AFQjCNHdChKkkVrsoEtnNEsb_Rv2X3KiXA&ust=1466858151226559</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/diario.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
