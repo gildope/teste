@@ -4,7 +4,7 @@
 <channels>
 <channel>
 <name>Diário de um Vampiro</name>
-<thumbnail>https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjVkaLN1sDNAhVBgpAKHWdkDZ4QjRwIBw&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FThe_Vampire_Diaries_(s%25C3%25A9rie)&psig=AFQjCNHdChKkkVrsoEtnNEsb_Rv2X3KiXA&ust=1466858151226559</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/b/b3/Sem_t%C3%ADtulo-1_c%C3%B3pia.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/diario.txt</externallink>
 <fanart></fanart>
 <info></info>
