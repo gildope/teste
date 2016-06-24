@@ -15,7 +15,7 @@
 </item>
 <item>
 <title>TVD 7x15 I Would for You</title>
-<link>https://raw.githubusercontent.com/gildope/teste/master/onseries.m3u8</link>
+<link>https://www.blogger.com/video-play.mp4?contentId=50059928329b896d</link>
 <thumbnail></thumbnail>
 </item>
 <item>
