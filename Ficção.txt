@@ -159,17 +159,19 @@
 </item>
 <item>
 <title>Transformers: Era da Extinção (2014)</title>
-<link></link>
-<thumbnail>http://image.tmdb.org/t/p/w342/qPrE4voXz5OugKTh1D0aucssJOL.jpg</thumbnail>
-<item>
-<title></title>
-<link></link>
+<link>https://lh3.googleusercontent.com/qyVb_y4czsDLWV0kHFLHVWumtQfSEZc48Xm3MlS8bqs=m18</link>
 <thumbnail>http://image.tmdb.org/t/p/w342/qPrE4voXz5OugKTh1D0aucssJOL.jpg</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Matrix Reloaded (2003)</title>
+<link>https://lh3.googleusercontent.com/Fv4rDKSb28lqA0wKyjSgH89EgsseHYEpEq575mlTfDE=m18</link>
+<thumbnail>http://cinedoanula.com/imdb/posters/604movie.jpg</thumbnail>
+</item>
+<item>
+<title>Lucy (2014)</title>
+<link>https://lh3.googleusercontent.com/qxvvcyv32VbIAO5Sognsw4hBK77H5RZyyBnx_JCOpV4=m18</link>
+<thumbnail>http://cinedoanula.com/imdb/posters/240832movie.jpg</thumbnail>
+</item>
 <item>
 <title></title>
 <link></link>
