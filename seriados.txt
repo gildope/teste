@@ -19,9 +19,9 @@
 </channel>
 
 <channel>
-<name>Drama HD</name>
+<name>Dawsons Creek</name>
 <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Drama-icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/dr%20720.txt</externallink>
+<externallink>http://89.46.103.90/bzjhoqkko4qwws4phxltsm634zohqrxlum4zmajnpgufre747v7fcv2loa4q/video.mp4?start=0</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
