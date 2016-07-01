@@ -40,6 +40,11 @@
 </item>
 <item>
 <title>Game of Thrones: Temporada 6, Episódio 9</title>
-<link>https://lh3.googleusercontent.com/rSBzkJ4i-sU4wtznjVhJURcOu0IgaZC0bmSJ-edZO7FaCpuLBpEZYmkWFVmmoduNTEwyrg_e=m22</link>
+<link>https://lh3.googleusercontent.com/rSBzkJ4i-sU4wtznjVhJURcOu0IgaZC0bmSJ-edZO7FaCpuLBpEZYmkWFVmmoduNTEwyrg_e=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/1399series.jpg</thumbnail>
+</item>
+<item>
+<title>Game of Thrones: Temporada 6, Episódio 10</title>
+<link>https://lh3.googleusercontent.com/MM7L-w5QmpAwHxtsyMLMNK6HFQzxIwUOxjdOlaIq0znHLUFW4cg6MYNseFdrYKOzOYljyL--=m22</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/1399series.jpg</thumbnail>
 </item>
