@@ -45,6 +45,6 @@
 </item>
 <item>
 <title>Game of Thrones: Temporada 6, Episódio 10</title>
-<link>https://lh3.googleusercontent.com/MM7L-w5QmpAwHxtsyMLMNK6HFQzxIwUOxjdOlaIq0znHLUFW4cg6MYNseFdrYKOzOYljyL--=m22</link>
+<link>https://lh3.googleusercontent.com/MM7L-w5QmpAwHxtsyMLMNK6HFQzxIwUOxjdOlaIq0znHLUFW4cg6MYNseFdrYKOzOYljyL--=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/1399series.jpg</thumbnail>
 </item>
