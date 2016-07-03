@@ -3,7 +3,7 @@
 <stream>
 
 <item>
-<font color="red"><title>The Originals 3 Temporada</title></font>
+[b][color=#0000FF]The Originals 3 Temporada[/color][/b]
 <link></link>
 <thumbnail>http://demogame.org/content/uploads/sngine_eceefa833b3fd2c787b3705a38fb4746.jpg</thumbnail>
 </item>
