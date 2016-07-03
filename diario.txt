@@ -3,16 +3,29 @@
 <stream>
 
 <item>
-<title>[COLOR lime]****[COLOR cyan] CREATED ON [COLOR yellow]06-22-2016 [COLOR lime]****[/COLOR]</title>
-<link>http://www.youtube.com</link>
+<title></title>
+<link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>7T Dublado em breve!</title>
-<link>http://myonseries.blogspot.com/thevampirediaries</link>
+<title></title>
+<link></link>
 <thumbnail></thumbnail>
 </item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 16 - Days of Future Past</title>
+<link>https://www.blogger.com/video-play.mp4?contentId=d86347ae9919e056</link>
+<thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
+</item>
+
 <item>
 <title>TVD 7x15 I Would for You</title>
 <link>https://www.blogger.com/video-play.mp4?contentId=50059928329b896d</link>
