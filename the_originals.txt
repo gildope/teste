@@ -1,89 +1,9 @@
+<stream>
+
 <item>
 <title>3 Temporada EP1 - For the Next Millennium</title>
-<link></link>
+<link>https://www.blogger.com/video-play.mp4?contentId=55a60da34e584f3e</link>
 <thumbnail>http://www.cinefilmesonline.net/wp-content/uploads/2015/10/S%C3%A9rie-The-Originals-3%C2%AA-Temporada-Dublado-Legendado-em-HD-wall.jpg</thumbnail>
 </item>
 
-<item>
-<title>3 Temporada </title>
-<link></link>
-<thumbnail>http://www.cinefilmesonline.net/wp-content/uploads/2015/10/S%C3%A9rie-The-Originals-3%C2%AA-Temporada-Dublado-Legendado-em-HD-wall.jpg</thumbnail>
-</item>
-
-<item>
-<title>3 Temporada </title>
-<link></link>
-<thumbnail>http://www.cinefilmesonline.net/wp-content/uploads/2015/10/S%C3%A9rie-The-Originals-3%C2%AA-Temporada-Dublado-Legendado-em-HD-wall.jpg</thumbnail>
-</item>
-
-<item>
-<title>3 Temporada </title>
-<link></link>
-<thumbnail>http://www.cinefilmesonline.net/wp-content/uploads/2015/10/S%C3%A9rie-The-Originals-3%C2%AA-Temporada-Dublado-Legendado-em-HD-wall.jpg</thumbnail>
-</item>
-
-<item>
-<title>3 Temporada </title>
-<link></link>
-<thumbnail>http://www.cinefilmesonline.net/wp-content/uploads/2015/10/S%C3%A9rie-The-Originals-3%C2%AA-Temporada-Dublado-Legendado-em-HD-wall.jpg</thumbnail>
-</item>
-
-<item>
-<title>3 Temporada </title>
-<link></link>
-<thumbnail>http://www.cinefilmesonline.net/wp-content/uploads/2015/10/S%C3%A9rie-The-Originals-3%C2%AA-Temporada-Dublado-Legendado-em-HD-wall.jpg</thumbnail>
-</item>
-
-<item>
-<title>3 Temporada </title>
-<link></link>
-<thumbnail>http://www.cinefilmesonline.net/wp-content/uploads/2015/10/S%C3%A9rie-The-Originals-3%C2%AA-Temporada-Dublado-Legendado-em-HD-wall.jpg</thumbnail>
-</item>
-
-<item>
-<title>3 Temporada </title>
-<link></link>
-<thumbnail>http://www.cinefilmesonline.net/wp-content/uploads/2015/10/S%C3%A9rie-The-Originals-3%C2%AA-Temporada-Dublado-Legendado-em-HD-wall.jpg</thumbnail>
-</item>
-
-<item>
-<title>3 Temporada </title>
-<link></link>
-<thumbnail>http://www.cinefilmesonline.net/wp-content/uploads/2015/10/S%C3%A9rie-The-Originals-3%C2%AA-Temporada-Dublado-Legendado-em-HD-wall.jpg</thumbnail>
-</item>
-
-<item>
-<title>3 Temporada </title>
-<link></link>
-<thumbnail>http://www.cinefilmesonline.net/wp-content/uploads/2015/10/S%C3%A9rie-The-Originals-3%C2%AA-Temporada-Dublado-Legendado-em-HD-wall.jpg</thumbnail>
-</item>
-
-<item>
-<title>3 Temporada </title>
-<link></link>
-<thumbnail>http://www.cinefilmesonline.net/wp-content/uploads/2015/10/S%C3%A9rie-The-Originals-3%C2%AA-Temporada-Dublado-Legendado-em-HD-wall.jpg</thumbnail>
-</item>
-
-<item>
-<title>3 Temporada </title>
-<link></link>
-<thumbnail>http://www.cinefilmesonline.net/wp-content/uploads/2015/10/S%C3%A9rie-The-Originals-3%C2%AA-Temporada-Dublado-Legendado-em-HD-wall.jpg</thumbnail>
-</item>
-
-<item>
-<title>3 Temporada </title>
-<link></link>
-<thumbnail>http://www.cinefilmesonline.net/wp-content/uploads/2015/10/S%C3%A9rie-The-Originals-3%C2%AA-Temporada-Dublado-Legendado-em-HD-wall.jpg</thumbnail>
-</item>
-
-<item>
-<title>3 Temporada </title>
-<link></link>
-<thumbnail>http://www.cinefilmesonline.net/wp-content/uploads/2015/10/S%C3%A9rie-The-Originals-3%C2%AA-Temporada-Dublado-Legendado-em-HD-wall.jpg</thumbnail>
-</item>
-
-<item>
-<title>3 Temporada </title>
-<link></link>
-<thumbnail>http://www.cinefilmesonline.net/wp-content/uploads/2015/10/S%C3%A9rie-The-Originals-3%C2%AA-Temporada-Dublado-Legendado-em-HD-wall.jpg</thumbnail>
-</item>
+</stream>
