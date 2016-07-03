@@ -3,21 +3,39 @@
 <stream>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Episódio 22 - Gods & Monsters</title>
+<link>https://www.blogger.com/video-play.mp4?contentId=d87d71b4c5cc51d9</link>
+<thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Episódio 21 - Requiem for a Dream</title>
+<link>https://www.blogger.com/video-play.mp4?contentId=7e4ff7887fd82ed2</link>
+<thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Episódio 20 - Kill ‘Em All</title>
+<link>https://www.blogger.com/video-play.mp4?contentId=103f0b29f17878da</link>
+<thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
+</item>
+
+<item>
+<title>Episódio 19 - Somebody That I Used to Know</title>
+<link>https://www.blogger.com/video-play.mp4?contentId=ce858d2508811be</link>
+<thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
+</item>
+
+<item>
+<title>Episódio 18 - One Way or Another</title>
+<link>https://www.blogger.com/video-play.mp4?contentId=694720559ce1d99d</link>
+<thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
+</item>
+
+<item>
+<title>Episódio 17 - I Went to the Woods</title>
+<link>https://www.blogger.com/video-play.mp4?contentId=af003f242aeedcd0</link>
+<thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
 </item>
 
 <item>
@@ -29,22 +47,22 @@
 <item>
 <title>TVD 7x15 I Would for You</title>
 <link>https://www.blogger.com/video-play.mp4?contentId=50059928329b896d</link>
-<thumbnail></thumbnail>
+<thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
 </item>
 <item>
 <title>TVD 7x14 Moonlight on the Bayou</title>
 <link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/DDUVT07EP14.mp4?ONSeries</link>
-<thumbnail></thumbnail>
+<thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
 </item>
 <item>
 <title>TVD 7x13 This Womanӳ Work</title>
 <link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/DDUVT07EP13.mp4?ONSeries</link>
-<thumbnail></thumbnail>
+<thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
 </item>
 <item>
 <title>TVD 7x12 Postcards from the Edge</title>
 <link>https://www.blogger.com/video-play.mp4?contentId=453f430b935b3b95</link>
-<thumbnail></thumbnail>
+<thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
 </item>
 <item>
 <title>TVD 7x11 Things We Lost in the Fire</title>
