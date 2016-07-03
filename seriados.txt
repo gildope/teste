@@ -17,8 +17,8 @@
 
 <channel>
 <name>DAMIEN</name>
-<thumbnail>https://2.bp.blogspot.com/-VhPEL-MomJQ/Vt4tJn8GCYI/AAAAAAAAJx0/MHB4r-hmP2I/s1600/1.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/damien.txt</external<link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/19033series.jpg</thumbnail>
 </channel>
 
 <channel>
