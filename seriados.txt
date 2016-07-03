@@ -21,7 +21,7 @@
 <channel>
 <name>DAMIEN</name>
 <thumbnail>https://2.bp.blogspot.com/-VhPEL-MomJQ/Vt4tJn8GCYI/AAAAAAAAJx0/MHB4r-hmP2I/s1600/1.jpg</thumbnail>
-<externallink>http://89.46.103.90/bzjhoqkko4qwws4phxltsm634zohqrxlum4zmajnpgufre747v7fcv2loa4q/video.mp4?start=0</externallink>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/damien.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
