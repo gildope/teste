@@ -16,9 +16,9 @@
 </channel>
 
 <channel>
-<name>DAMIEN</name>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/damien.txt</external<link>
+<name>Damien</name>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/19033series.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/damien.txt</externallink>
 </channel>
 
 <channel>
