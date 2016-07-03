@@ -24,7 +24,7 @@
 <channel>
 <name>AMERICAN HORROR STORY</name>
 <thumbnail>http://4.bp.blogspot.com/-rvjmu1WfcRs/VbE2eLSNd1I/AAAAAAAAErs/7Nq38AtzhhI/s1600/1.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/damien.txt</externallink>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/american_horror.txt</externallink>
 </channel>
 
 <channel>
