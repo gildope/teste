@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR yellow][B]TVD 7x22 - Gods & Monsters[/B][/COLOR]</title>
+<title>[B]TVD 7x22 - Gods & Monsters[/B]</title>
 <link>https://www.blogger.com/video-play.mp4?contentId=d87d71b4c5cc51d9</link>
 <thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
 </item>
