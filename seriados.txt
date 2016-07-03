@@ -1,40 +1,753 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
 <stream>
 
 <item>
-<title>Diário de um Vampiro</title>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/b/b3/Sem_t%C3%ADtulo-1_c%C3%B3pia.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/diario.txt</externallink>
+<title>[COLOR lime]****[COLOR cyan] CREATED ON [COLOR yellow]06-22-2016 [COLOR lime]****[/COLOR]</title>
+<link>http://www.youtube.com</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
-<title>Game of Trones</title>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/1399series.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/game.txt</externallink>
+<title>7T Dublado em breve!</title>
+<link>http://myonseries.blogspot.com/thevampirediaries</link>
+<thumbnail></thumbnail>
 </item>
-
 <item>
-<name>DAMIEN</name>
-<thumbnail>https://2.bp.blogspot.com/-VhPEL-MomJQ/Vt4tJn8GCYI/AAAAAAAAJx0/MHB4r-hmP2I/s1600/1.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/damien.txt</external<link>
+<title>TVD 7x15 I Would for You</title>
+<link>https://www.blogger.com/video-play.mp4?contentId=50059928329b896d</link>
+<thumbnail></thumbnail>
 </item>
-
 <item>
-<name>AMERICAN HORROR STORY</name>
-<thumbnail>http://4.bp.blogspot.com/-rvjmu1WfcRs/VbE2eLSNd1I/AAAAAAAAErs/7Nq38AtzhhI/s1600/1.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/damien.txt</externallink>
+<title>TVD 7x14 Moonlight on the Bayou</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/DDUVT07EP14.mp4?ONSeries</link>
+<thumbnail></thumbnail>
 </item>
-
 <item>
-<name>ARROW</name>
-<thumbnail>http://1.bp.blogspot.com/-4zcbvPW1vhE/UHYbJCJsBII/AAAAAAAAEdI/kdCs3fKHq0w/s1600/ok-arrow-season-1.jpg</thumbnail>
-<externallink>https://goo.gl/Mm4hwz</externallink>
+<title>TVD 7x13 This Womanӳ Work</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/DDUVT07EP13.mp4?ONSeries</link>
+<thumbnail></thumbnail>
 </item>
-
 <item>
-<name>BATES MOTEL</name>
-<thumbnail>http://3.bp.blogspot.com/-95Ex5fNTjZY/U1vgfiPOriI/AAAAAAAAACw/xnPTfCjd2J0/s1600/1.jpg</thumbnail>
-<externallink>https://goo.gl/Mm4hwz</externallink>
+<title>TVD 7x12 Postcards from the Edge</title>
+<link>https://www.blogger.com/video-play.mp4?contentId=453f430b935b3b95</link>
+<thumbnail></thumbnail>
 </item>
-
+<item>
+<title>TVD 7x11 Things We Lost in the Fire</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/DDUVT07EP11.mp4?ONSeries</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 7x10 Hell Is Other People</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/DDUVT07EP10.mp4?ONSeries</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 7x09 Cold as Ice</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/DDUVT07EP09.mp4?ONSeries</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 7x08 Hold Me Thrill Me Kiss Me Kill Me</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/DDUVT07EP08.mp4?ONSeries</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 7x07 Mommie Dearest</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/DDUVT07EP07.mp4?ONSeries</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 7x06 Best Served Cold</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/DDUVT07EP06.mp4?ONSeries</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 7x05 Live Through This</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/DDUVT07EP05.mp4?ONSeries</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 7x04 I Carry Your Heart With Me</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/DDUVT07EP04.mp4?ONSeries</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 7x03 Age of Innocence</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/DDUVT07EP03.mp4?ONSeries</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 7x02 Never Let Me Go</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/DDUVT07EP02.mp4?ONSeries</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 7x01 Day One of Twenty-Two Thousand - Give or Take</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT07EP01.mp4?ONSeries</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 6x22 Iӭ Thinking Of You All The While - Season Finale</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT06EP22.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 6x21 I'll Wed You In The Golden Summertime</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT06EP21.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 6x20 I'd Leave My Happy Home For You</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT06EP20.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 6x19 Because</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT06EP19.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 6x18 I Could Never Love Like That</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT06EP18.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 6x17 A Bird in a Gilded Cage</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT06EP17.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 6x16 The Downward Spiral</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT06EP16.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 6x15 Let Her Go</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT06EP15.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 6x14 Stay</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT06EP14.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 6x13 The Day I Tried to Live</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT06EP13.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 6x12 Prayer For the Dying</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT06EP12.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 6x11 Woke Up With a Monster</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT06EP11.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 6x10 Christmas Through Your Eyes</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT06EP10.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 6x09 I Alone</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT06EP09.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 6x08 Fade Into You</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT06EP08.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 6x07 Do You Remember the First Time?</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT06EP07.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 6x06 The More You Ignore Me the Closer I Get</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT06EP06.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 6x05 The World Has Turned and Left Me Here</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT06EP05.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 6x04 Black Hole Sun</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT06EP04.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 6x03 Welcome to Paradise</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT06EP03.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 6x02 Yellow Ledbetter</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT06EP02.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 6x01 IӬl Remember</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT06EP01.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 5x22 Home - Season Finale</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT05EP22.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 5x21 Promised Land</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT05EP21.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 5x20 What Lies Beneath</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT05EP20.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 5x19 Man on Fire</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT05EP19.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 5x18 Resident Evil</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT05EP18.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 5x17 Rescue Me</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT05EP17.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 5x16 While You Were Sleeping</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT05EP16.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 5x15 Gone Girl</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT05EP15.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 5x14 No Exit</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT05EP14.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 5x13 Total Eclipse of the Heart</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT05EP13.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 5x12 The Devil Inside</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT05EP12.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 5x11 500 Years of Solitude</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT05EP11.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 5x10 Fifty Shades of Grayson</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT05EP10.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 5x09 The Cell</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT05EP09.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 5x08 Dead Man on Campus</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT05EP08.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 5x07 Death and the Maiden</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT05EP07.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 5x06 Handle with Care</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/DDUVT05EP06.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 5x05 Monsterӳ Ball</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/DDUVT05EP05.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 5x04 For Whom the Bell Tolls</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/DDUVT05EP04.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 5x03 Original Sin</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/DDUVT05EP03.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 5x02 True Lies</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/DDUVT05EP02.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 5x01 I Know What You Did Last Summer</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/DDUVT05EP01.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 4x23 Graduation - Season Finale</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/DDUVT04EP23.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 4x22 The Walking Dead</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/DDUVT04EP22.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 4x21 Sheӳ Come Undone</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/DDUVT04EP21.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 4x20 The Originals</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/DDUVT04EP20.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 4x19 Pictures Of You</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/DDUVT04EP19.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 4x18 American Gothic</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/DDUVT04EP18.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 4x17 Because the Night</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/DDUVT04EP17.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 4x16 Bring It On</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/DDUVT04EP16.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 4x15 Stand by Me</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/DDUVT04EP15.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 4x14 Down the Rabbit Hole</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/DDUVT04EP14.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 4x13 Into the Wild</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/DDUVT04EP13.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 4x12 A View to a Kill</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/DDUVT04EP12.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 4x11 Catch Me If You Can</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/DDUVT04EP11.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 4x10 After School Special</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/DDUVT04EP10.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 4x09 O Come All Ye Faithful</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/DDUVT04EP09.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 4x08 WeӬl Always Have Bourbon Street</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/DDUVT04EP08.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 4x07 My Brotherӳ Keeper</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/DDUVT04EP07.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 4x06 We All Go a Little Mad Sometimes</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/DDUVT04EP06.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 4x05 The Killer</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/DDUVT04EP05.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 4x04 The Five</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/DDUVT04EP04.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 4x03 The Rager</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/DDUVT04EP03.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 4x02 Memorial</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/DDUVT04EP02.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 4x01 Growing Pains</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/DDUVT04EP01.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 3x22 The Departed - Season Finale</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/DDUVT03EP22.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 3x21 Before Sunset</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/DDUVT03EP21.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 3x20 Do Not Go Gentle</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/DDUVT03EP20.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 3x18 The Murder of One</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/DDUVT03EP18.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 3x17 Break On Through</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/DDUVT03EP17.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 3x16 1912</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/DDUVT03EP16.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 3x15 All My Children</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/DDUVT03EP15.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 3x14 Dangerous Liaisons</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/DDUVT03EP14.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 3x13 Bringing Out The Dead</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/DDUVT03EP13.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 3x12 The Ties That Bind</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/DDUVT03EP12.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 3x11 Our Town</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/DDUVT03EP11.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 3x10 Witch House</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/DDUVT03EP10.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 3x09 Homecoming</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/DDUVT03EP09.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 3x08 Ordinary People</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/DDUVT03EP08.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 3x07 Ghost World</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/DDUVT03EP07.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 3x06 Smell Like Teen Spirit</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/DDUVT03EP06.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 3x05 The Reckoning</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/DDUVT03EP05.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 3x04 Disturbing Behavior</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/DDUVT03EP04.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 3x03 The End of the Affair</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/DDUVT03EP03.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 3x02 The Hybrid</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/DDUVT03EP02.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 3x01 The Birthday</title>
+<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/DDUVT03EP01.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 2x22 As I Lay Dying - Season Finale</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT02EP22.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 2x21 The Sun Also Rises</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT02EP21.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 2x20 The Last Day</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT02EP20.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 2x19 Klaus</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT02EP19.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 2x18 The Last Dance</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT02EP18.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 2x17 Know Thy Enemy</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT02EP17.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 2x16 The House Guest</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT02EP16.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 2x15 The Dinner Party</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT02EP15.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 2x14 Crying Wolf</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT02EP14.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 2x13 Daddy Issues</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT02EP13.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 2x12 The Descent</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT02EP12.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 2x11 By the light of the moon</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT02EP11.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 2x10 The Sacrifice</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT02EP10.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 2x09 Katerina</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT02EP09.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 2x08 Rose</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT02EP08.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 2x07 Death at the Masquerade Ball</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT02EP07.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 2x06 Plan B</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT02EP06.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 2x05 Kill or Be Killed</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT02EP05.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 2x04 Memory Lane</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT02EP04.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 2x03 Bad Moon Rising</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT02EP03.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 2x02 Brave New World</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT02EP02.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 2x01 The Return</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT02EP01.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 1x22 Founder's Day - Season Finale</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT01EP22.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 1x21 Isobel</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT01EP21.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 1x20 Blood Brothers</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT01EP20.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 1x19 Miss Mystic Falls</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT01EP19.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 1x18 Under Control</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT01EP18.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 1x17 Let The Right One In</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT01EP17.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 1x16 There Goes The Neighborhood</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT01EP16.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 1x15 A Few Good Men</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT01EP15.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 1x14 Fool Me Once</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT01EP14.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 1x13 Children of the Damned</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT01EP13.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 1x12 Unpleasantville</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT01EP12.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 1x11 Bloodlines</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT01EP11.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 1x10 The Turning Point</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT01EP10.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 1x09 History Repeating</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT01EP09.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 1x08 162 Candles</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT01EP08.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 1x07 Haunted</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT01EP07.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 1x06 Lost Girls</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT01EP06.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 1x05 You're Undead to Me</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT01EP05.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 1x04 Family Ties</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT01EP04.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 1x03 Friday Night Bites</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT01EP03.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVD 1x02 Night of the Comet</title>
+<link>https://googledrive.com/host/0B4qZzv_MkPwQUGdrek91VVJPWkk/DDUVT01EP02.mp4</link>
+<thumbnail></thumbnail>
+</item>
 
 </stream>
+
+
+
+
+
+
