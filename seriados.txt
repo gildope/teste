@@ -3,11 +3,11 @@
 
 <channels>
 
-<item>
-<title>Diário de um Vampiro</title>
+<channel>
+<name>Diário de um Vampiro</name>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/diario.txt</externallink>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/b/b3/Sem_t%C3%ADtulo-1_c%C3%B3pia.jpg</thumbnail>
-</item>
+</channel>
 
 </channels>
 
