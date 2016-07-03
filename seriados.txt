@@ -9,6 +9,36 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/b/b3/Sem_t%C3%ADtulo-1_c%C3%B3pia.jpg</thumbnail>
 </channel>
 
+<channel>
+<name>Game of Trones</name>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/1399series.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/game.txt</externallink>
+</channel>
+
+<channel>
+<name>DAMIEN</name>
+<thumbnail>https://2.bp.blogspot.com/-VhPEL-MomJQ/Vt4tJn8GCYI/AAAAAAAAJx0/MHB4r-hmP2I/s1600/1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/damien.txt</external<link>
+</channel>
+
+<channel>
+<name>AMERICAN HORROR STORY</name>
+<thumbnail>http://4.bp.blogspot.com/-rvjmu1WfcRs/VbE2eLSNd1I/AAAAAAAAErs/7Nq38AtzhhI/s1600/1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/damien.txt</externallink>
+</channel>
+
+<channel>
+<name>ARROW</name>
+<thumbnail>http://1.bp.blogspot.com/-4zcbvPW1vhE/UHYbJCJsBII/AAAAAAAAEdI/kdCs3fKHq0w/s1600/ok-arrow-season-1.jpg</thumbnail>
+<externallink>https://goo.gl/Mm4hwz</externallink>
+</channel>
+
+<channel>
+<name>BATES MOTEL</name>
+<thumbnail>http://3.bp.blogspot.com/-95Ex5fNTjZY/U1vgfiPOriI/AAAAAAAAACw/xnPTfCjd2J0/s1600/1.jpg</thumbnail>
+<externallink>https://goo.gl/Mm4hwz</externallink>
+</channel>
+
 </channels>
 
 
