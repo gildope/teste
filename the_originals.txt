@@ -1,11 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-
-<stream>
-
 <item>
-[b][color=#0000FF]The Originals 3 Temporada[/color][/b]
-<link></link>
-<thumbnail>http://demogame.org/content/uploads/sngine_eceefa833b3fd2c787b3705a38fb4746.jpg</thumbnail>
+<title>TVD 7x22 - Gods & Monster</title>
+<link>https://www.blogger.com/video-play.mp4?contentId=d87d71b4c5cc51d9</link>
+<thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
 </item>
-
-</stream>
