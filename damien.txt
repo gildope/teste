@@ -1,1 +1,6 @@
-https://www.blogger.com/video-play.mp4?contentId=7455f42e94f6b885
+
+<item>
+<title>DAMIEN: Temporada 1, Episódio 1</title>
+<link>https://www.blogger.com/video-play.mp4?contentId=7455f42e94f6b885</link>
+<thumbnail>https://2.bp.blogspot.com/-VhPEL-MomJQ/Vt4tJn8GCYI/AAAAAAAAJx0/MHB4r-hmP2I/s1600/1.jpg</thumbnail>
+</item>
