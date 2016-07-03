@@ -193,32 +193,32 @@
 </item>
 
 <item>
-<title>TO 1x</title>
-<link></link>
+<title>TO 1x03 - Tangled Up in Blue</title>
+<link>https://www.blogger.com/video-play.mp4?contentId=dcbb360218980c41</link>
 <thumbnail>http://3.bp.blogspot.com/-SHcFQTLEZEQ/UXqp5XqSJmI/AAAAAAAAIb8/mUpzbfUVpM4/s1600/1.jpg</thumbnail>
 </item>
 
 <item>
-<title>TO 1x</title>
-<link></link>
+<title>TO 1x04 - Interview with the Vampire</title>
+<link>https://www.blogger.com/video-play.mp4?contentId=501dfe3446ac4c5c</link>
 <thumbnail>http://3.bp.blogspot.com/-SHcFQTLEZEQ/UXqp5XqSJmI/AAAAAAAAIb8/mUpzbfUVpM4/s1600/1.jpg</thumbnail>
 </item>
 
 <item>
-<title>TO 1x</title>
-<link></link>
+<title>TO 1x05 - Sinners and Saints</title>
+<link>https://www.blogger.com/video-play.mp4?contentId=3789e6f3241c2066</link>
 <thumbnail>http://3.bp.blogspot.com/-SHcFQTLEZEQ/UXqp5XqSJmI/AAAAAAAAIb8/mUpzbfUVpM4/s1600/1.jpg</thumbnail>
 </item>
 
 <item>
-<title>TO 1x</title>
-<link></link>
+<title>TO 1x06 - Fruit of the Poisoned Tree</title>
+<link>https://www.blogger.com/video-play.mp4?contentId=01f5e2ece51d0704</link>
 <thumbnail>http://3.bp.blogspot.com/-SHcFQTLEZEQ/UXqp5XqSJmI/AAAAAAAAIb8/mUpzbfUVpM4/s1600/1.jpg</thumbnail>
 </item>
 
 <item>
-<title>TO 1x</title>
-<link></link>
+<title>TO 1x07 - Bloodletting</title>
+<link>https://www.blogger.com/video-play.mp4?contentId=fa4c0e09856cf68a</link>
 <thumbnail>http://3.bp.blogspot.com/-SHcFQTLEZEQ/UXqp5XqSJmI/AAAAAAAAIb8/mUpzbfUVpM4/s1600/1.jpg</thumbnail>
 </item>
 
