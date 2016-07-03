@@ -3,6 +3,7 @@
 <stream>
 
 <item>
+<title>[b][color=#0000FF]TVD 7x22 - Gods & Monsters[/color][/b]</title>
 <title>TVD 7x22 - Gods & Monsters</title>
 <link>https://www.blogger.com/video-play.mp4?contentId=d87d71b4c5cc51d9</link>
 <thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
