@@ -1,19 +1,19 @@
 <item>
 <title>TVD 7x22 - Gods & Monster</title>
 <link>https://www.blogger.com/video-play.mp4?contentId=d87d71b4c5cc51d9</link>
-<thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
+<thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
 </item>
 
 <item>
 <title>TVD 7x21 - Requiem for a Dream</title>
 <link>https://www.blogger.com/video-play.mp4?contentId=7e4ff7887fd82ed2</link>
-<thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
+<thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
 </item>
 
 <item>
 <title>TVD 7x20 - Kill ‘Em All</title>
 <link>https://www.blogger.com/video-play.mp4?contentId=103f0b29f17878da</link>
-<thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
+<thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
 </item>
 
 <item>
