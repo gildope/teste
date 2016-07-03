@@ -30,7 +30,7 @@
 </item>
 <item>
 <title>TVD 7x12 Postcards from the Edge</title>
-<link>http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/DDUVT07EP12-.mp4</link>
+<link>https://www.blogger.com/video-play.mp4?contentId=453f430b935b3b95</link>
 <thumbnail></thumbnail>
 </item>
 <item>
