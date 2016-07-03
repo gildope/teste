@@ -3,43 +3,43 @@
 <stream>
 
 <item>
-<title>Episódio 22 - Gods & Monsters</title>
+<title>TVD 7x22 - Gods & Monsters</title>
 <link>https://www.blogger.com/video-play.mp4?contentId=d87d71b4c5cc51d9</link>
 <thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
 </item>
 
 <item>
-<title>Episódio 21 - Requiem for a Dream</title>
+<title>TVD 7x21 - Requiem for a Dream</title>
 <link>https://www.blogger.com/video-play.mp4?contentId=7e4ff7887fd82ed2</link>
 <thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
 </item>
 
 <item>
-<title>Episódio 20 - Kill ‘Em All</title>
+<title>TVD 7x20 - Kill ‘Em All</title>
 <link>https://www.blogger.com/video-play.mp4?contentId=103f0b29f17878da</link>
 <thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
 </item>
 
 <item>
-<title>Episódio 19 - Somebody That I Used to Know</title>
+<title>TVD 7x19 - Somebody That I Used to Know</title>
 <link>https://www.blogger.com/video-play.mp4?contentId=ce858d2508811be</link>
 <thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
 </item>
 
 <item>
-<title>Episódio 18 - One Way or Another</title>
+<title>TVD 7x18 - One Way or Another</title>
 <link>https://www.blogger.com/video-play.mp4?contentId=694720559ce1d99d</link>
 <thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
 </item>
 
 <item>
-<title>Episódio 17 - I Went to the Woods</title>
+<title>TVD 7x17 - I Went to the Woods</title>
 <link>https://www.blogger.com/video-play.mp4?contentId=af003f242aeedcd0</link>
 <thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
 </item>
 
 <item>
-<title>Episódio 16 - Days of Future Past</title>
+<title>TVD 7x16 - Days of Future Past</title>
 <link>https://www.blogger.com/video-play.mp4?contentId=d86347ae9919e056</link>
 <thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
 </item>
