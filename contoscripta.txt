@@ -1,1 +1,44 @@
-rrr
+<item>
+<title>Contos da Cripta - 2x08 - Para Chorar Baixinho</title>
+<utube>GtfmOQEsFoE</utube>
+<thumbnail>http://www.filmesantigos.tv/images/filmes/3926.gif</thumbnail>
+</item>
+
+<item>
+<title>Contos da Cripta - 2x11 - Judy, Hoje Você Não Parece a Mesma</title>
+<utube>GV7POsP6B_Y</utube>
+<thumbnail>http://www.filmesantigos.tv/images/filmes/3926.gif</thumbnail>
+</item>
+
+<item>
+<title>Contos da Cripta - 2x09 - O Triângulo Quadrilátero</title>
+<utube>QGxgFumqTM0</utube>
+<thumbnail>http://www.filmesantigos.tv/images/filmes/3926.gif</thumbnail>
+</item>
+
+<item>
+<title>Contos da Cripta - 2x07 - O Sacrifício</title>
+<utube>xRJQNxqtSCc</utube>
+<thumbnail>http://www.filmesantigos.tv/images/filmes/3926.gif</thumbnail>
+</item>
+
+<item>
+<title>Contos da Cripta - 2x10 - O Boneco do Ventríloquo</title>
+<utube>z6Dr6o0UQ7I</utube>
+<thumbnail>http://www.filmesantigos.tv/images/filmes/3926.gif</thumbnail>
+</item>
+
+<item>
+<title>Contos da Cripta - 2x06 - A Coisa da Tumba</title>
+<utube>VIjXQrNnII0</utube>
+<thumbnail>http://www.filmesantigos.tv/images/filmes/3926.gif</thumbnail>
+</item>
+
+<item>
+<title>Contos da Cripta - 2x05 - Três São Demais</title>
+<utube>Dd642_MsTNw</utube>
+<thumbnail>http://www.filmesantigos.tv/images/filmes/3926.gif</thumbnail>
+</item>
+
+
+
