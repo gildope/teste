@@ -19,6 +19,14 @@
 </channel>
 
 <channel>
+<name>Contos da Cripta</name>
+<thumbnail>http://wp.ufpel.edu.br/empauta/files/2016/01/maxresdefault-1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/contoscripta.txt</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
 <name>Drama HD</name>
 <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Drama-icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/dr%20720.txt</externallink>
