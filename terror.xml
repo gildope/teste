@@ -1,10 +1,15 @@
-stream>
+#<stream>
 
-<item>
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+
+<channel>
 <title>O Sono da Morte – HD 720p Legendado</title>
 <link>https://lh3.googleusercontent.com/SWxpFAEWvrOkCV0OZtXbK1M_Dg4Sgf0ZeGAKQtJ80XD33gVj011AhlHqNaXItwxmgUs_pt3y1g=m22</link>
 <thumbnail>http://www.filmesonlinehd1.com/wp-content/uploads/2016/06/o-sono-da-morte-capa-hd-720p-dublado.fw_.png</thumbnail>
-</item>
+</channel>
 
 <item>
 <title>Deadly Intent – Legendado</title>
@@ -436,4 +441,6 @@ stream>
 <link></link>
 <thumbnail></thumbnail>
 </item>
-</stream>
+
+</channels>
+#</stream>
