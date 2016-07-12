@@ -19,9 +19,9 @@
 </channel>
 
 <channel>
-<name>Contos da Cripta</name>
+<name>Lançamentos</name>
 <thumbnail>http://wp.ufpel.edu.br/empauta/files/2016/01/maxresdefault-1.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/contoscripta.txt</externallink>
+<externallink>http://pastebin.com/raw/xqiwf1jE</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
