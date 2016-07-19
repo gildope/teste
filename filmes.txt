@@ -19,9 +19,9 @@
 </channel>
 
 <channel>
-<name>Lançamentos</name>
+<name>Terror Gdrive</name>
 <thumbnail>http://wp.ufpel.edu.br/empauta/files/2016/01/maxresdefault-1.jpg</thumbnail>
-<externallink>http://pastebin.com/raw/xqiwf1jE</externallink>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/filmes.m3u8</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
