@@ -2,3 +2,6 @@
 
 #EXTINF:-1 tvg-logo="https://goo.gl/aC0kx1" group-title="GDRIVE",Creed: Nascido para Lutar
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/18SflCstxS_tqgPOnfCCNvMZfVxWdQGjP3w/edit
+
+#EXTINF:-1 tvg-logo="https://blogdoheu.files.wordpress.com/2008/10/2001maniacs-big.jpg"  group-title="GDRIVE",2001 Maníacos
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4IplnhK94NZNE9Ec3NlNXNLNmM/edit
