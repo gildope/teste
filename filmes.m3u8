@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://server8.redecanais.tv/imgs-videos/Orgulho%20e%20Preconceito%20e%20Zumbis.jpg" group-title="Terror", --------------------------TERROR -------------------------------------------------------------------
 
+#EXTINF:-1 tvg-logo="https://goo.gl/aC0kx1" group-title="GDRIVE",Creed: Nascido para Lutar
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/18SflCstxS_tqgPOnfCCNvMZfVxWdQGjP3w/edit
 
 #EXTINF:0 ,Noite Do Terror 2
 #EXTINF:0 tvg-logo="http://server8.redecanais.tv/imgs-videos/Orgulho%20e%20Preconceito%20e%20Zumbis.jpg" group-title="Terror", Noite Do Terror 2
