@@ -13,7 +13,7 @@
 <channel>
 <name>Comedia</name>
 <thumbnail>http://orig11.deviantart.net/212a/f/2015/109/b/c/comedy_folder_icon_by_mikromike-d8qctc1.png</thumbnail>
-<externallink>http://bit.ly/29RYkl5</externallink>
+<externallink>http://bit.ly/29MeBZ6</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
