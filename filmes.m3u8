@@ -5,3 +5,6 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file
 
 #EXTINF:-1 tvg-logo="https://blogdoheu.files.wordpress.com/2008/10/2001maniacs-big.jpg"  group-title="GDRIVE",A Coisa
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0ByZRoRRS7eR5ZlQ0TnJjSXdtNG8/edit
+
+#EXTINF:-1 tvg-logo="https://blogdoheu.files.wordpress.com/2008/10/2001maniacs-big.jpg"  group-title="GDRIVE",UM LOBISOMEM AMERICANO EM PARIS DUBLADO
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B47SxxBCoNu7MXpkMFJzUlA0SEU/edit
