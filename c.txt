@@ -175,7 +175,7 @@ http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/79.ts
 #EXTINF:0 type="favorites" channelId="1688" , Canal Hollywood
 http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/20.ts
 #EXTINF:0 type="favorites" channelId="1573" , AXN
-http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/39.ts
+http://playmovetv.from-id.com:80/AXN/index.m3u8
 #EXTINF:0 type="favorites" channelId="2246" , AXN HD
 http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/225.ts
 #EXTINF:0 type="favorites" channelId="1574" , AXN White
