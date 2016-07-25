@@ -1,0 +1,664 @@
+PASTEBINnew pastetrends API tools faq 
+search...
+ 
+
+expertinfo
+FREE
+   1   
+My Pastes
+teste3
+5 days ago
+lançamentos
+12 days ago
+home
+40 days ago
+filmes variados
+46 days ago
+FILMES_BASE
+51 days ago
+filmes terror
+51 days ago
+seri
+51 days ago
+diário de um vampiro
+51 days ago
+Public Pastes
+Untitled
+4 sec ago
+aaa
+6 sec ago
+Untitled
+7 sec ago
+Untitled
+7 sec ago
+Untitled
+8 sec ago
+BRM AM 20160725
+11 sec ago
+Untitled
+12 sec ago
+Untitled
+16 sec ago
+
+Pastebin PRO Accounts SUMMER SPECIAL! For a limited time only get 40% discount on a LIFETIME PRO account! Offer Ends Soon!
+SHARE
+TWEET
+
+Canais de TV2
+ LENNONARARUAMA     JUL 22ND, 2016   348   NEVER
+
+rawdownloadcloneembedreportprint text 18.43 KB
+#EXTM3U
+ 
+#EXTINF:-1 , 22/07/2016
+#EXTINF:-1 , **tv aberta***
+ 
+#EXTINF:1 channelId="2467" tvg-logo="http://mto0800.esy.es/imagens/canais/tvcultura.png" group-title="TV Aberta" , bradesco ag:1226 conta :1015345-0 poupança alessandro ramos
+#EXTINF:-1 channelId="2467" tvg-logo="https://2.bp.blogspot.com/-FpYR2GIzY_4/Vx4ywXnNdII/AAAAAAAAHgw/WnTASATUMK47o0BXNlCnf0GibSHdspOgACLcB/s1600/TV%2BCultura.jpg" group-title="TV Aberta" , [COLOR blue][I][B]TV CULTURA[/B][/I][/COLOR]
+http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
+#EXTINF:1 channelId="2467" tvg-logo="http://mto0800.esy.es/imagens/canais/tvcultura.png" group-title="TV Aberta" , faça uma doação  ag:1226 conta :1015345-0 poupança alessandro ramos
+http://s5.procergs.com.br:1935/tve/stve/live.m3u8
+#EXTINF:1 channelId="2571" tvg-logo="http://mto0800.esy.es/imagens/canais/sbt.png" group-title="TV Aberta" , SBT HD
+http://gbbrlive2.sambatech.com.br:80/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/live.m3u8
+#EXTINF:0 channelId="2571" group-title="CANAIS BRASILEIROS" , SBT HD
+http://gbbrlive2.sambatech.com.br/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="2432" , globo sp
+http://playmovetv.from-id.com:80/GloboSP/index.m3u8
+#EXTINF:0 type="favorites" channelId="2432" , globo rbs
+http://5.189.152.217:8000/chile/chile/17.ch
+#EXTINF:0 type="favorites" channelId="2432" , globo
+http://5.189.152.217:8000/chile/chile/18.ch
+#EXTINF:0 type="favorites" channelId="2432" , GLOBO
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/12.ts
+#EXTINF:0 type="favorites" channelId="1653" , GLOBO PREMIUM
+http://ptbrvirtual.no-ip.net:8000/live/iptvwordline@gmail.com/vslQGgoOWA/655.ts
+#EXTINF:0 type="favorites" channelId="1031" , RECORD
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/14.ts
+#EXTINF:0 type="favorites" channelId="1031" , Record
+http://playmovetv.from-id.com:80/Record/index.m3u8
+#EXTINF:0 type="favorites" channelId="1031" , Record
+http://5.189.152.217:8000/chile/chile/16.ch
+#EXTINF:-1 channelId="2435" , rede tv
+http://evp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8
+#EXTINF:0 channelId="2437" group-title="CANAIS BRASILEIROS" , TV GAZETA
+http://streaming50.sitehosting.com.br:1935/alternativa/alternativa/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="2434" , band
+http://playmovetv.from-id.com:80/Band/index.m3u8
+#EXTINF:0 type="favorites" , band
+http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/chunklist.m3u8
+#EXTINF:0 type="favorites" channelId="2561" , Globo News
+http://5.189.152.217:8000/chile/chile/14.ch
+#EXTINF:0 type="favorites" channelId="2573" , Band News
+http://5.189.152.217:8000/chile/chile/3.ch
+#EXTINF:-1 channelId="2456" tvg-logo="http://goo.gl/ODkETM" group-title="NOTICIAS" , Record News
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/live.m3u8
+#EXTINF:0,OFF
+http://playmovetv.from-id.com:80/OFF/index.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rede_record_news.png" group-title="CANAL ABERTO" , TV Guara
+http://v1.fabricahost.com.br/tvguara/tvguara/live.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://i.imgur.com/1IqUfxr.png" group-title="CANAL ABERTO" , Livre TV
+http://172.93.110.130:1935/livretv/livretv/playlist.m3u8
+#EXTINF:-1 channelId="2568" tvg-logo="http://i.imgur.com/3GpAjxO.png" group-title="CANAL ABERTO" , NBR
+http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvnbr/live.m3u8
+#EXTINF:-1 channelId="2479" tvg-logo="http://i.imgur.com/6SJkynf.jpg" group-title="CANAL ABERTO" , TV Jornal Recife
+http://evp.mm.uol.com.br/ne10/_definst_/ne10-tvjornal-recife-video-web.sdp/live.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://i.imgur.com/WWOTXQp.png" group-title="CANAL ABERTO" , TV Maceio
+http://painel.tvdigitalhd.org:1935/tvmaceio/tvmaceio/live.m3u8
+#EXTINF:-1 channelId="2654" tvg-logo="http://i.imgur.com/M1zNBQg.png" group-title="CANAL ABERTO" , Chef TV
+http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/63/Logotipo_da_TV_Di%C3%A1rio.png" group-title="CANAL ABERTO" , TV DIARIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.tvpantanalms.com.br/images/logo_menor.png" group-title="CANAL ABERTO" , TV PANTANAL MS
+http://78.46.36.212:1935/tvpantanalms//tvpantanalms/live.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://pontanegranews.com.br/pics/pontanegranews.png" group-title="CANAL ABERTO" , TV PONTA NEGRA NEWS
+http://184.172.23.109:1935/live/tvmix02/tvmix02/livestream.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://1.bp.blogspot.com/-m2-vZazO-nI/VVXanx3XAdI/AAAAAAAACM8/D4s5yAEX4cM/s1600/tvc.png" group-title="CANAL ABERTO" , TVC MG
+http://flash.asaweb.com.br:1935/8080/8080/live.m3u8
+#EXTINF:0 type="favorites" channelId="2823" , Canal Panda
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/6.ts
+#EXTINF:0 channelId="19" , Disney Channel
+http://31.204.152.6:8081/live/disney/playlist.m3u8
+#EXTINF:-1 channelId="40" group-title="DESENHO" aspect-ratio="16:9" , CARTOON NETWORK
+#EXTSIZE:Medium
+http://31.204.152.6:8081/live/cartoonk/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/28gtU9" group-title="Canais de Variedades" , Gloob
+http://163.172.41.217:8081/loadbalance/37285837558611459761/chunks.m3u8
+#EXTINF:-1 channelId="2575" tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/band_sports.png" group-title="ESPORTES" , BAND SPORTS HD
+http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.m3u8
+#EXTINF:0 channelId="2443" , ESPORTE INTERATIVO
+http://ei.frankfurt.eiplus.com.br:80/live/Evento1.smil/livestream.m3u8
+#EXTINF:1 channelId="2905" tvg-logo="http://mto0800.esy.es/imagens/canais/eimax.png" group-title="Esportes" , EI MAXX - 360p
+http://ei.frankfurt.eiplus.com.br/live/evento3.stream_360p/chunklist.m3u8
+#EXTINF:-1 channelId="2906" aspect-ratio="16:9" , EI Maxx 2
+#EXTSIZE:Medium
+http://ei.frankfurt.eiplus.com.br:80/live/smil:Evento2.smil/livestream.m3u8
+#EXTINF:0 type="favorites" channelId="2540" , ESPN
+http://5.189.152.217:8000/chile/chile/10.ch
+#EXTINF:0 type="favorites" channelId="2540" , ESPN
+http://playmovetv.from-id.com:80/ESPN/index.m3u8
+#EXTINF:0 type="favorites" channelId="2578" , ESPN Brasil
+http://5.189.152.217:8000/chile/chile/9.ch
+#EXTINF:0 type="favorites" channelId="2578" , ESPN Brasil
+http://playmovetv.from-id.com:80/ESPNbr/index.m3u8
+#EXTINF:0 type="favorites" , SPORT TV 1
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/22.ts
+#EXTINF:0 type="favorites" , SPORT TV 2
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/10.ts
+#EXTINF:0 type="favorites" , SPORT TV 3
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/8.ts
+#EXTINF:0 type="favorites" , SPORT TV 4
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/13.ts
+#EXTINF:0 type="favorites" channelId="2595" , Combate
+http://213.163.65.9:8081/live/combatez/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="2595" , combate
+http://playmovetv.from-id.com:80/Combate/index.m3u8
+#EXTINF:0 type="favorites" channelId="2595" , combate.usa
+http://live-1112.la2.edge.filmon.com/live/713.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d36d2510e59bc40755459a4d68473ab6c5f5775d85fdec6b0c13eee847c819ab37e8ec7fbe1a40a974c9ae056341b7eeb713e32e08eafa547d5c34abfc578515028c6a9535723dc59aac2d9e5e1ba7a55856d7f0adac41dd21beb27450ad44d6a889613ebc2ad4df2cfdfb0bf8d9fcc4662c5b7a1c5e9309f0d99d5f296e29251a
+#EXTINF:0 type="favorites" channelId="1329" , Fox Sports 1
+http://playmovetv.from-id.com:80/FoxSports/index.m3u8
+#EXTINF:0 type="favorites" channelId="1328" , Fox Sports
+http://213.163.65.9:8081/live/foxsportk/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="170" , Fox Sports 2
+http://5.189.152.217:8000/chile/chile/11.ch
+#EXTINF:0 type="favorites" channelId="170" , Fox Sports 2
+http://playmovetv.from-id.com:80/FoxSport2/index.m3u8
+#EXTINF:0 type="favorites" channelId="2599" , SporTV
+http://playmovetv.from-id.com:80/SportTV/index.m3u8
+#EXTINF:0 type="favorites" channelId="2600" , SporTV 2
+http://playmovetv.from-id.com:80/SportTV2/index.m3u8
+#EXTINF:0 type="favorites" channelId="2600" , SporTV 2
+http://31.204.152.6:8081/live/sportv2/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="2601" , SporTV 3
+http://playmovetv.from-id.com:80/Sporttv3/index.m3u8
+#EXTINF:0 type="favorites" channelId="2596" , pfc
+http://playmovetv.from-id.com:80/Premiere7/index.m3u8
+#EXTINF:0 type="favorites" channelId="2596" , pfc
+http://5.189.152.217:8000/chile/chile/7.ch
+#EXTINF:0 type="favorites" channelId="2596" , pfc
+http://5.189.152.217:8000/chile/chile/8.ch
+#EXTINF:0 type="favorites" channelId="2596" , pfc
+http://5.189.152.217:8000/chile/chile/13.ch
+#EXTINF:0 type="favorites" channelId="2596" , pfc
+http://playmovetv.from-id.com:80/Premiere5/index.m3u8
+#EXTINF:0 type="favorites" channelId="2596" , pfc
+http://playmovetv.from-id.com:80/Premiereclubes/index.m3u8
+#EXTINF:0 type="favorites" channelId="2596" , pfc 3
+http://playmovetv.from-id.com:80/Premiere3/index.m3u8
+#EXTINF:0 type="favorites" channelId="2596" , pfc 8
+http://playmovetv.from-id.com:80/Premiere8/index.m3u8
+#EXTINF:0 type="favorites" channelId="2596" , pfc 6
+http://playmovetv.from-id.com:80/Premiere6/index.m3u8
+#EXTINF:0 type="favorites" channelId="2596" , pfc
+http://art.nextv.ca:80/nextv/pfci/index.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="ESPORTES", PREMIERE CLUBES 1
+http://art.nextv.ca/nextv/pfci/index.m3u8
+#EXTINF:0 type="favorites" channelId="2596" , pfc
+http://art.nextv.ca/nextv/pfci/index.m3u8
+#EXTINF:0 type="favorites" channelId="2588" , Megapix
+http://31.204.152.6:8081/live/megapix/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="177" , FOX
+http://31.204.152.6:8081/live/fox/playlist.m3u8
+#EXTINF:0 type="favorites" , FOX
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/74.ts
+#EXTINF:0 type="favorites" channelId="208" , Fox HD
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/74.ts
+#EXTINF:0 type="favorites" channelId="178" , Fox Life
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/229.ts
+#EXTINF:0 type="favorites" channelId="1572" , Fox Crime
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/75.ts
+#EXTINF:0 type="favorites" channelId="2007" , Sony Movie Channel
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/25.ts
+#EXTINF:0 type="favorites" channelId="2871" , TVC1
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/54.ts
+#EXTINF:0 type="favorites" channelId="2873" , TVC2
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/55.ts
+#EXTINF:0 type="favorites" channelId="2875" , TVC3
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/56.ts
+#EXTINF:0 type="favorites" channelId="2877" , TVC4
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/57.ts
+#EXTINF:0 type="favorites" channelId="1361" , CINE MUNDO
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/451.ts
+#EXTINF:0 type="favorites" channelId="2422" , TVS
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/58.ts
+#EXTINF:0 type="favorites" channelId="1862" , Fox Movies
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/79.ts
+#EXTINF:0 type="favorites" channelId="1688" , Canal Hollywood
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/20.ts
+#EXTINF:0 type="favorites" channelId="1573" , AXN
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/39.ts
+#EXTINF:0 type="favorites" channelId="2246" , AXN HD
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/225.ts
+#EXTINF:0 type="favorites" channelId="1574" , AXN White
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/44.ts
+#EXTINF:0 type="favorites" channelId="1575" , AXN Black
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/40.ts
+#EXTINF:0 type="favorites" channelId="1573" , AXN
+http://playmovetv.from-id.com:80/AXN/index.m3u8
+#EXTINF:0 type="favorites" channelId="1573" , AXN
+http://5.189.152.217:8000/chile/chile/6.ch
+#EXTINF:0 type="favorites" channelId="187" , Universal Channel
+http://playmovetv.from-id.com:80/Universal/index.m3u8
+#EXTINF:0 type="favorites" channelId="187" , Universal Channel
+http://5.189.152.217:8000/chile/chile/5.ch
+#EXTINF:0 type="favorites" channelId="1052" , TNT
+http://playmovetv.from-id.com:80/TNT/index.m3u8
+#EXTINF:0 type="favorites" channelId="1330" , HBO
+http://playmovetv.from-id.com:80/HBO/index.m3u8
+#EXTINF:0 type="favorites" channelId="935" , HBO 2
+http://playmovetv.from-id.com:80/HBO2/index.m3u8
+#EXTINF:0 type="favorites" channelId="935" , HBO 2
+http://5.189.152.217:8000/chile/chile/2.ch
+#EXTINF:0 type="favorites" channelId="2584" , HBO Family
+http://playmovetv.from-id.com:80/HBOfamily/index.m3u8
+#EXTINF:0 type="favorites" channelId="2583" , HBO Signature
+http://playmovetv.from-id.com:80/HBOsign/index.m3u8
+#EXTINF:0 type="favorites" channelId="2583" , HBO Signature
+http://5.189.152.217:8000/chile/chile/4.ch
+#EXTINF:0 type="favorites" channelId="2585" , HBO Plus
+http://playmovetv.from-id.com:80/HBOPlus/index.m3u8
+#EXTINF:0 type="favorites" channelId="2610" , Telecine Premium
+http://playmovetv.from-id.com:80/TC2/index.m3u8
+#EXTINF:0 type="favorites" channelId="2603" , Telecine Action
+http://playmovetv.from-id.com:80/TC5/index.m3u8
+#EXTINF:0 type="favorites" channelId="2611" , Telecine Touch
+http://playmovetv.from-id.com:80/TC3/index.m3u8
+#EXTINF:0 type="favorites" channelId="2606" , Telecine Fun
+http://playmovetv.from-id.com:80/TC4/index.m3u8
+#EXTINF:0 type="favorites" channelId="2608" , Telecine Pipoca
+http://playmovetv.from-id.com:80/TC6/index.m3u8
+#EXTINF:0 type="favorites" channelId="383" , Space
+http://playmovetv.from-id.com:80/Space/index.m3u8
+#EXTINF:0 type="favorites" channelId="2587" , Max Prime
+http://playmovetv.from-id.com:80/MaxPrime/index.m3u8
+#EXTINF:0 type="favorites" channelId="361" , Max UP
+http://playmovetv.from-id.com:80/MaxUp/index.m3u8
+#EXTINF:0 type="favorites" , max
+http://playmovetv.from-id.com:80/max/index.m3u8
+#EXTINF:0 type="favorites" channelId="2557" , Warner TV
+http://playmovetv.from-id.com:80/Warner/index.m3u8
+#EXTINF:0 type="favorites" channelId="177" , fox
+http://playmovetv.from-id.com:80/FOX/index.m3u8
+#EXTINF:0 type="favorites" channelId="1303" , FX
+http://playmovetv.from-id.com:80/FX/index.m3u8
+#EXTINF:0 type="favorites" channelId="1572" , foxcrime
+http://146.185.16.58:8088/live/foxcrimex/playlist.m3u8?id=84766&wowzasessionid=765529385&pk=b83c84564b78217be8fab6076d0aee3afa397196aba06f2c73b951af7aa90690
+#EXTINF:0 type="favorites" channelId="178" , foxlife
+http://206.190.129.28:8088/stream/foxlifea/playlist.m3u8?id=19709&wowzasessionid=3882748355&pk=b83c84564b78217be8fab6076d0aee3afa397196aba06f2c73b951af7aa90690
+#EXTINF:0 type="favorites" channelId="1573" , axn
+http://173.193.205.94:8088/live/axn1x/playlist.m3u8?id=84753&wowzasessionid=495778629&pk=b83c84564b78217be8fab6076d0aee3afa397196aba06f2c73b951af7aa90690
+#EXTINF:0 type="favorites" channelId="1574" , AXNWhite
+http://46.28.50.116:8088/live/axnwhitex/playlist.m3u8?id=84774&wowzasessionid=3535728847&pk=b83c84564b78217be8fab6076d0aee3afa397196aba06f2c73b951af7aa90690
+#EXTINF:0 type="favorites" channelId="1688" tvg-logo="http://46.28.49.156:8088/live/hollywoodx/playlist.m3u8?id=84769&wowzasessionid=7848229460&pk=b83c84564b78217be8fab6076d0aee3afa397196aba06f2c73b951af7aa90690" ,  Hollywood.pt
+http://46.28.49.156:8088/live/hollywoodx/playlist.m3u8?
+id=84769&wowzasessionid=7848229460&pk=b83c84564b78217be8fab6076d0aee3afa397196aba06f2c73b951af7aa90690
+#EXTINF:0 type="favorites" channelId="1208" , A&E
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/444.ts
+#EXTINF:0 type="favorites" channelId="56" , National Geographic Channel
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/507.ts
+#EXTINF:0 type="favorites" channelId="2869" , Odisseia
+http://46.28.49.156:8088/live/odisseiax/playlist.m3u8?id=84765&wowzasessionid=107473647&pk=b83c84564b78217be8fab6076d0aee3afa397196aba06f2c73b951af7aa90690
+#EXTINF:0 type="favorites" channelId="57" , Discovery
+http://46.28.49.156:8088/live/discoveryx/playlist.m3u8?id=84775&wowzasessionid=434293360&pk=b83c84564b78217be8fab6076d0aee3afa397196aba06f2c73b951af7aa90690
+#EXTINF:0 type="favorites" channelId="2826" , Historia
+http://206.190.129.28:8088/stream/historiab/playlist.m3u8?id=21918&wowzasessionid=495903897&pk=b83c84564b78217be8fab6076d0aee3afa397196aba06f2c73b951af7aa90690
+#EXTINF:0 type="favorites" channelId="58" , Discovery Science
+http://163.172.41.217:8081/loadbalance/130/playlist.m3u8
+#EXTINF:-1 channelId="721" , NASA
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+#EXTINF:0 type="favorites" , MTV
+http://84.43.207.130/mtv/mtv.m3u8
+#EXTINF:-1 group-title="MUSICA" , Vevo 1 SD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
+#EXTINF:-1 group-title="MUSICA" , Vevo 2 SD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
+#EXTINF:-1 group-title="MUSICA" , Vevo 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0 type="stream" , Vevo 1
+#EXTBG: #ab5d4c
+http://www.iptvsaga.com/play/tv3/0004.m3u8
+#EXTINF:0 type="stream" , Vevo 2
+#EXTBG: #4c50ab
+http://www.iptvsaga.com/play/tv3/0005.m3u8
+#EXTINF:0 type="stream" , Vevo 3
+#EXTBG: #aba74c
+http://www.iptvsaga.com/play/tv3/0006.m3u8
+#EXTINF:0 type="stream" , Vevo 5
+#EXTBG: #ab4c52
+http://www.iptvsaga.com/play/tv3/0007.m3u8
+#EXTINF:0 type="stream" , Vevo 6
+#EXTBG: #4cabab
+http://www.iptvsaga.com/play/tv3/0008.m3u8
+#EXTINF:0 type="stream" , Vevo 7
+#EXTBG: rgba(5,239,246,0.93)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:0 type="stream" , Vevo 9
+#EXTBG: rgba(249,231,2,0.93)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:0 type="stream" , VEVO
+#EXTBG: rgba(249,5,27,0.93)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+ 
+ 
+#EXTINF:-1,adulto +18
+ 
+#EXTINF:0 type="favorites" channelId="517" , Playboy TV
+http://playmovetv.from-id.com:80/Playboy/index.m3u8
+#EXTINF:0 type="favorites" channelId="2597" , Sexy Hot
+http://playmovetv.from-id.com:80/Sexyhot/index.m3u8
+#EXTINF:0 type="favorites" , sextreme
+http://playmovetv.from-id.com:80/Sextreme/index.m3u8
+#EXTINF:0 channelId="1222" , Penthouse TV
+http://tabertor.ddns.net:8000/live/ijAZ/ijAZ/511.m3u8?fix
+#EXTINF:0 channelId="684" , RedLight HD
+http://tabertor.ddns.net:8000/live/ijAZ/ijAZ/512.m3u8?fix
+#EXTINF:0 channelId="517" , Playboy TV japao
+http://tabertor.ddns.net:8000/live/ijAZ/ijAZ/514.m3u8?fix
+RAW Paste Data
+
+#EXTM3U
+
+#EXTINF:-1 , 22/07/2016
+#EXTINF:-1 , **tv aberta***
+
+#EXTINF:1 channelId="2467" tvg-logo="http://mto0800.esy.es/imagens/canais/tvcultura.png" group-title="TV Aberta" , bradesco ag:1226 conta :1015345-0 poupança alessandro ramos
+#EXTINF:-1 channelId="2467" tvg-logo="https://2.bp.blogspot.com/-FpYR2GIzY_4/Vx4ywXnNdII/AAAAAAAAHgw/WnTASATUMK47o0BXNlCnf0GibSHdspOgACLcB/s1600/TV%2BCultura.jpg" group-title="TV Aberta" , [COLOR blue][I][B]TV CULTURA[/B][/I][/COLOR]
+http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
+#EXTINF:1 channelId="2467" tvg-logo="http://mto0800.esy.es/imagens/canais/tvcultura.png" group-title="TV Aberta" , faça uma doação  ag:1226 conta :1015345-0 poupança alessandro ramos
+http://s5.procergs.com.br:1935/tve/stve/live.m3u8
+#EXTINF:1 channelId="2571" tvg-logo="http://mto0800.esy.es/imagens/canais/sbt.png" group-title="TV Aberta" , SBT HD
+http://gbbrlive2.sambatech.com.br:80/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/live.m3u8
+#EXTINF:0 channelId="2571" group-title="CANAIS BRASILEIROS" , SBT HD
+http://gbbrlive2.sambatech.com.br/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="2432" , globo sp
+http://playmovetv.from-id.com:80/GloboSP/index.m3u8
+#EXTINF:0 type="favorites" channelId="2432" , globo rbs
+http://5.189.152.217:8000/chile/chile/17.ch
+#EXTINF:0 type="favorites" channelId="2432" , globo
+http://5.189.152.217:8000/chile/chile/18.ch
+#EXTINF:0 type="favorites" channelId="2432" , GLOBO
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/12.ts
+#EXTINF:0 type="favorites" channelId="1653" , GLOBO PREMIUM
+http://ptbrvirtual.no-ip.net:8000/live/iptvwordline@gmail.com/vslQGgoOWA/655.ts
+#EXTINF:0 type="favorites" channelId="1031" , RECORD
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/14.ts
+#EXTINF:0 type="favorites" channelId="1031" , Record
+http://playmovetv.from-id.com:80/Record/index.m3u8
+#EXTINF:0 type="favorites" channelId="1031" , Record
+http://5.189.152.217:8000/chile/chile/16.ch
+#EXTINF:-1 channelId="2435" , rede tv
+http://evp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8
+#EXTINF:0 channelId="2437" group-title="CANAIS BRASILEIROS" , TV GAZETA
+http://streaming50.sitehosting.com.br:1935/alternativa/alternativa/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="2434" , band
+http://playmovetv.from-id.com:80/Band/index.m3u8
+#EXTINF:0 type="favorites" , band
+http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/chunklist.m3u8
+#EXTINF:0 type="favorites" channelId="2561" , Globo News
+http://5.189.152.217:8000/chile/chile/14.ch
+#EXTINF:0 type="favorites" channelId="2573" , Band News
+http://5.189.152.217:8000/chile/chile/3.ch
+#EXTINF:-1 channelId="2456" tvg-logo="http://goo.gl/ODkETM" group-title="NOTICIAS" , Record News
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/live.m3u8
+#EXTINF:0,OFF
+http://playmovetv.from-id.com:80/OFF/index.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rede_record_news.png" group-title="CANAL ABERTO" , TV Guara
+http://v1.fabricahost.com.br/tvguara/tvguara/live.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://i.imgur.com/1IqUfxr.png" group-title="CANAL ABERTO" , Livre TV
+http://172.93.110.130:1935/livretv/livretv/playlist.m3u8
+#EXTINF:-1 channelId="2568" tvg-logo="http://i.imgur.com/3GpAjxO.png" group-title="CANAL ABERTO" , NBR
+http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvnbr/live.m3u8
+#EXTINF:-1 channelId="2479" tvg-logo="http://i.imgur.com/6SJkynf.jpg" group-title="CANAL ABERTO" , TV Jornal Recife
+http://evp.mm.uol.com.br/ne10/_definst_/ne10-tvjornal-recife-video-web.sdp/live.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://i.imgur.com/WWOTXQp.png" group-title="CANAL ABERTO" , TV Maceio
+http://painel.tvdigitalhd.org:1935/tvmaceio/tvmaceio/live.m3u8
+#EXTINF:-1 channelId="2654" tvg-logo="http://i.imgur.com/M1zNBQg.png" group-title="CANAL ABERTO" , Chef TV
+http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/63/Logotipo_da_TV_Di%C3%A1rio.png" group-title="CANAL ABERTO" , TV DIARIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.tvpantanalms.com.br/images/logo_menor.png" group-title="CANAL ABERTO" , TV PANTANAL MS
+http://78.46.36.212:1935/tvpantanalms//tvpantanalms/live.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://pontanegranews.com.br/pics/pontanegranews.png" group-title="CANAL ABERTO" , TV PONTA NEGRA NEWS
+http://184.172.23.109:1935/live/tvmix02/tvmix02/livestream.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://1.bp.blogspot.com/-m2-vZazO-nI/VVXanx3XAdI/AAAAAAAACM8/D4s5yAEX4cM/s1600/tvc.png" group-title="CANAL ABERTO" , TVC MG
+http://flash.asaweb.com.br:1935/8080/8080/live.m3u8
+#EXTINF:0 type="favorites" channelId="2823" , Canal Panda
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/6.ts
+#EXTINF:0 channelId="19" , Disney Channel
+http://31.204.152.6:8081/live/disney/playlist.m3u8
+#EXTINF:-1 channelId="40" group-title="DESENHO" aspect-ratio="16:9" , CARTOON NETWORK
+#EXTSIZE:Medium
+http://31.204.152.6:8081/live/cartoonk/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/28gtU9" group-title="Canais de Variedades" , Gloob
+http://163.172.41.217:8081/loadbalance/37285837558611459761/chunks.m3u8
+#EXTINF:-1 channelId="2575" tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/band_sports.png" group-title="ESPORTES" , BAND SPORTS HD
+http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.m3u8
+#EXTINF:0 channelId="2443" , ESPORTE INTERATIVO
+http://ei.frankfurt.eiplus.com.br:80/live/Evento1.smil/livestream.m3u8
+#EXTINF:1 channelId="2905" tvg-logo="http://mto0800.esy.es/imagens/canais/eimax.png" group-title="Esportes" , EI MAXX - 360p
+http://ei.frankfurt.eiplus.com.br/live/evento3.stream_360p/chunklist.m3u8
+#EXTINF:-1 channelId="2906" aspect-ratio="16:9" , EI Maxx 2
+#EXTSIZE:Medium
+http://ei.frankfurt.eiplus.com.br:80/live/smil:Evento2.smil/livestream.m3u8
+#EXTINF:0 type="favorites" channelId="2540" , ESPN
+http://5.189.152.217:8000/chile/chile/10.ch
+#EXTINF:0 type="favorites" channelId="2540" , ESPN
+http://playmovetv.from-id.com:80/ESPN/index.m3u8
+#EXTINF:0 type="favorites" channelId="2578" , ESPN Brasil
+http://5.189.152.217:8000/chile/chile/9.ch
+#EXTINF:0 type="favorites" channelId="2578" , ESPN Brasil
+http://playmovetv.from-id.com:80/ESPNbr/index.m3u8
+#EXTINF:0 type="favorites" , SPORT TV 1
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/22.ts
+#EXTINF:0 type="favorites" , SPORT TV 2
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/10.ts
+#EXTINF:0 type="favorites" , SPORT TV 3
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/8.ts
+#EXTINF:0 type="favorites" , SPORT TV 4
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/13.ts
+#EXTINF:0 type="favorites" channelId="2595" , Combate
+http://213.163.65.9:8081/live/combatez/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="2595" , combate
+http://playmovetv.from-id.com:80/Combate/index.m3u8
+#EXTINF:0 type="favorites" channelId="2595" , combate.usa
+http://live-1112.la2.edge.filmon.com/live/713.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d36d2510e59bc40755459a4d68473ab6c5f5775d85fdec6b0c13eee847c819ab37e8ec7fbe1a40a974c9ae056341b7eeb713e32e08eafa547d5c34abfc578515028c6a9535723dc59aac2d9e5e1ba7a55856d7f0adac41dd21beb27450ad44d6a889613ebc2ad4df2cfdfb0bf8d9fcc4662c5b7a1c5e9309f0d99d5f296e29251a
+#EXTINF:0 type="favorites" channelId="1329" , Fox Sports 1
+http://playmovetv.from-id.com:80/FoxSports/index.m3u8
+#EXTINF:0 type="favorites" channelId="1328" , Fox Sports
+http://213.163.65.9:8081/live/foxsportk/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="170" , Fox Sports 2
+http://5.189.152.217:8000/chile/chile/11.ch
+#EXTINF:0 type="favorites" channelId="170" , Fox Sports 2
+http://playmovetv.from-id.com:80/FoxSport2/index.m3u8
+#EXTINF:0 type="favorites" channelId="2599" , SporTV
+http://playmovetv.from-id.com:80/SportTV/index.m3u8
+#EXTINF:0 type="favorites" channelId="2600" , SporTV 2
+http://playmovetv.from-id.com:80/SportTV2/index.m3u8
+#EXTINF:0 type="favorites" channelId="2600" , SporTV 2
+http://31.204.152.6:8081/live/sportv2/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="2601" , SporTV 3
+http://playmovetv.from-id.com:80/Sporttv3/index.m3u8
+#EXTINF:0 type="favorites" channelId="2596" , pfc
+http://playmovetv.from-id.com:80/Premiere7/index.m3u8
+#EXTINF:0 type="favorites" channelId="2596" , pfc
+http://5.189.152.217:8000/chile/chile/7.ch
+#EXTINF:0 type="favorites" channelId="2596" , pfc
+http://5.189.152.217:8000/chile/chile/8.ch
+#EXTINF:0 type="favorites" channelId="2596" , pfc
+http://5.189.152.217:8000/chile/chile/13.ch
+#EXTINF:0 type="favorites" channelId="2596" , pfc
+http://playmovetv.from-id.com:80/Premiere5/index.m3u8
+#EXTINF:0 type="favorites" channelId="2596" , pfc
+http://playmovetv.from-id.com:80/Premiereclubes/index.m3u8
+#EXTINF:0 type="favorites" channelId="2596" , pfc 3
+http://playmovetv.from-id.com:80/Premiere3/index.m3u8
+#EXTINF:0 type="favorites" channelId="2596" , pfc 8
+http://playmovetv.from-id.com:80/Premiere8/index.m3u8
+#EXTINF:0 type="favorites" channelId="2596" , pfc 6
+http://playmovetv.from-id.com:80/Premiere6/index.m3u8
+#EXTINF:0 type="favorites" channelId="2596" , pfc
+http://art.nextv.ca:80/nextv/pfci/index.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="ESPORTES", PREMIERE CLUBES 1
+http://art.nextv.ca/nextv/pfci/index.m3u8
+#EXTINF:0 type="favorites" channelId="2596" , pfc
+http://art.nextv.ca/nextv/pfci/index.m3u8
+#EXTINF:0 type="favorites" channelId="2588" , Megapix
+http://31.204.152.6:8081/live/megapix/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="177" , FOX
+http://31.204.152.6:8081/live/fox/playlist.m3u8
+#EXTINF:0 type="favorites" , FOX
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/74.ts
+#EXTINF:0 type="favorites" channelId="208" , Fox HD
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/74.ts
+#EXTINF:0 type="favorites" channelId="178" , Fox Life
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/229.ts
+#EXTINF:0 type="favorites" channelId="1572" , Fox Crime
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/75.ts
+#EXTINF:0 type="favorites" channelId="2007" , Sony Movie Channel
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/25.ts
+#EXTINF:0 type="favorites" channelId="2871" , TVC1
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/54.ts
+#EXTINF:0 type="favorites" channelId="2873" , TVC2
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/55.ts
+#EXTINF:0 type="favorites" channelId="2875" , TVC3
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/56.ts
+#EXTINF:0 type="favorites" channelId="2877" , TVC4
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/57.ts
+#EXTINF:0 type="favorites" channelId="1361" , CINE MUNDO
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/451.ts
+#EXTINF:0 type="favorites" channelId="2422" , TVS
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/58.ts
+#EXTINF:0 type="favorites" channelId="1862" , Fox Movies
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/79.ts
+#EXTINF:0 type="favorites" channelId="1688" , Canal Hollywood
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/20.ts
+#EXTINF:0 type="favorites" channelId="1573" , AXN
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/39.ts
+#EXTINF:0 type="favorites" channelId="2246" , AXN HD
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/225.ts
+#EXTINF:0 type="favorites" channelId="1574" , AXN White
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/44.ts
+#EXTINF:0 type="favorites" channelId="1575" , AXN Black
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/40.ts
+#EXTINF:0 type="favorites" channelId="1573" , AXN
+http://playmovetv.from-id.com:80/AXN/index.m3u8
+#EXTINF:0 type="favorites" channelId="1573" , AXN
+http://5.189.152.217:8000/chile/chile/6.ch
+#EXTINF:0 type="favorites" channelId="187" , Universal Channel
+http://playmovetv.from-id.com:80/Universal/index.m3u8
+#EXTINF:0 type="favorites" channelId="187" , Universal Channel
+http://5.189.152.217:8000/chile/chile/5.ch
+#EXTINF:0 type="favorites" channelId="1052" , TNT
+http://playmovetv.from-id.com:80/TNT/index.m3u8
+#EXTINF:0 type="favorites" channelId="1330" , HBO
+http://playmovetv.from-id.com:80/HBO/index.m3u8
+#EXTINF:0 type="favorites" channelId="935" , HBO 2
+http://playmovetv.from-id.com:80/HBO2/index.m3u8
+#EXTINF:0 type="favorites" channelId="935" , HBO 2
+http://5.189.152.217:8000/chile/chile/2.ch
+#EXTINF:0 type="favorites" channelId="2584" , HBO Family
+http://playmovetv.from-id.com:80/HBOfamily/index.m3u8
+#EXTINF:0 type="favorites" channelId="2583" , HBO Signature
+http://playmovetv.from-id.com:80/HBOsign/index.m3u8
+#EXTINF:0 type="favorites" channelId="2583" , HBO Signature
+http://5.189.152.217:8000/chile/chile/4.ch
+#EXTINF:0 type="favorites" channelId="2585" , HBO Plus
+http://playmovetv.from-id.com:80/HBOPlus/index.m3u8
+#EXTINF:0 type="favorites" channelId="2610" , Telecine Premium
+http://playmovetv.from-id.com:80/TC2/index.m3u8
+#EXTINF:0 type="favorites" channelId="2603" , Telecine Action
+http://playmovetv.from-id.com:80/TC5/index.m3u8
+#EXTINF:0 type="favorites" channelId="2611" , Telecine Touch
+http://playmovetv.from-id.com:80/TC3/index.m3u8
+#EXTINF:0 type="favorites" channelId="2606" , Telecine Fun
+http://playmovetv.from-id.com:80/TC4/index.m3u8
+#EXTINF:0 type="favorites" channelId="2608" , Telecine Pipoca
+http://playmovetv.from-id.com:80/TC6/index.m3u8
+#EXTINF:0 type="favorites" channelId="383" , Space
+http://playmovetv.from-id.com:80/Space/index.m3u8
+#EXTINF:0 type="favorites" channelId="2587" , Max Prime
+http://playmovetv.from-id.com:80/MaxPrime/index.m3u8
+#EXTINF:0 type="favorites" channelId="361" , Max UP
+http://playmovetv.from-id.com:80/MaxUp/index.m3u8
+#EXTINF:0 type="favorites" , max
+http://playmovetv.from-id.com:80/max/index.m3u8
+#EXTINF:0 type="favorites" channelId="2557" , Warner TV
+http://playmovetv.from-id.com:80/Warner/index.m3u8
+#EXTINF:0 type="favorites" channelId="177" , fox
+http://playmovetv.from-id.com:80/FOX/index.m3u8
+#EXTINF:0 type="favorites" channelId="1303" , FX
+http://playmovetv.from-id.com:80/FX/index.m3u8
+#EXTINF:0 type="favorites" channelId="1572" , foxcrime
+http://146.185.16.58:8088/live/foxcrimex/playlist.m3u8?id=84766&wowzasessionid=765529385&pk=b83c84564b78217be8fab6076d0aee3afa397196aba06f2c73b951af7aa90690
+#EXTINF:0 type="favorites" channelId="178" , foxlife
+http://206.190.129.28:8088/stream/foxlifea/playlist.m3u8?id=19709&wowzasessionid=3882748355&pk=b83c84564b78217be8fab6076d0aee3afa397196aba06f2c73b951af7aa90690
+#EXTINF:0 type="favorites" channelId="1573" , axn
+http://173.193.205.94:8088/live/axn1x/playlist.m3u8?id=84753&wowzasessionid=495778629&pk=b83c84564b78217be8fab6076d0aee3afa397196aba06f2c73b951af7aa90690
+#EXTINF:0 type="favorites" channelId="1574" , AXNWhite
+http://46.28.50.116:8088/live/axnwhitex/playlist.m3u8?id=84774&wowzasessionid=3535728847&pk=b83c84564b78217be8fab6076d0aee3afa397196aba06f2c73b951af7aa90690
+#EXTINF:0 type="favorites" channelId="1688" tvg-logo="http://46.28.49.156:8088/live/hollywoodx/playlist.m3u8?id=84769&wowzasessionid=7848229460&pk=b83c84564b78217be8fab6076d0aee3afa397196aba06f2c73b951af7aa90690" ,  Hollywood.pt
+http://46.28.49.156:8088/live/hollywoodx/playlist.m3u8?
+id=84769&wowzasessionid=7848229460&pk=b83c84564b78217be8fab6076d0aee3afa397196aba06f2c73b951af7aa90690
+#EXTINF:0 type="favorites" channelId="1208" , A&E
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/444.ts
+#EXTINF:0 type="favorites" channelId="56" , National Geographic Channel
+http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/507.ts
+#EXTINF:0 type="favorites" channelId="2869" , Odisseia
+http://46.28.49.156:8088/live/odisseiax/playlist.m3u8?id=84765&wowzasessionid=107473647&pk=b83c84564b78217be8fab6076d0aee3afa397196aba06f2c73b951af7aa90690
+#EXTINF:0 type="favorites" channelId="57" , Discovery
+http://46.28.49.156:8088/live/discoveryx/playlist.m3u8?id=84775&wowzasessionid=434293360&pk=b83c84564b78217be8fab6076d0aee3afa397196aba06f2c73b951af7aa90690
+#EXTINF:0 type="favorites" channelId="2826" , Historia
+http://206.190.129.28:8088/stream/historiab/playlist.m3u8?id=21918&wowzasessionid=495903897&pk=b83c84564b78217be8fab6076d0aee3afa397196aba06f2c73b951af7aa90690
+#EXTINF:0 type="favorites" channelId="58" , Discovery Science
+http://163.172.41.217:8081/loadbalance/130/playlist.m3u8
+#EXTINF:-1 channelId="721" , NASA
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+#EXTINF:0 type="favorites" , MTV
+http://84.43.207.130/mtv/mtv.m3u8 
+#EXTINF:-1 group-title="MUSICA" , Vevo 1 SD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
+#EXTINF:-1 group-title="MUSICA" , Vevo 2 SD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
+#EXTINF:-1 group-title="MUSICA" , Vevo 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0 type="stream" , Vevo 1
+#EXTBG: #ab5d4c
+http://www.iptvsaga.com/play/tv3/0004.m3u8
+#EXTINF:0 type="stream" , Vevo 2
+#EXTBG: #4c50ab
+http://www.iptvsaga.com/play/tv3/0005.m3u8
+#EXTINF:0 type="stream" , Vevo 3
+#EXTBG: #aba74c
+http://www.iptvsaga.com/play/tv3/0006.m3u8
+#EXTINF:0 type="stream" , Vevo 5
+#EXTBG: #ab4c52
+http://www.iptvsaga.com/play/tv3/0007.m3u8
+#EXTINF:0 type="stream" , Vevo 6
+#EXTBG: #4cabab
+http://www.iptvsaga.com/play/tv3/0008.m3u8
+#EXTINF:0 type="stream" , Vevo 7
+#EXTBG: rgba(5,239,246,0.93)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:0 type="stream" , Vevo 9
+#EXTBG: rgba(249,231,2,0.93)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:0 type="stream" , VEVO
+#EXTBG: rgba(249,5,27,0.93)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+
+#EXTINF:-1,adulto +18
+
+#EXTINF:0 type="favorites" channelId="517" , Playboy TV 
+http://playmovetv.from-id.com:80/Playboy/index.m3u8
+#EXTINF:0 type="favorites" channelId="2597" , Sexy Hot
+http://playmovetv.from-id.com:80/Sexyhot/index.m3u8
+#EXTINF:0 type="favorites" , sextreme
+http://playmovetv.from-id.com:80/Sextreme/index.m3u8
+#EXTINF:0 channelId="1222" , Penthouse TV
+http://tabertor.ddns.net:8000/live/ijAZ/ijAZ/511.m3u8?fix
+#EXTINF:0 channelId="684" , RedLight HD
+http://tabertor.ddns.net:8000/live/ijAZ/ijAZ/512.m3u8?fix
+#EXTINF:0 channelId="517" , Playboy TV japao
+http://tabertor.ddns.net:8000/live/ijAZ/ijAZ/514.m3u8?fix
+
+                
