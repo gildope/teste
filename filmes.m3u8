@@ -8,3 +8,6 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file
 
 #EXTINF:-1 tvg-logo="https://blogdoheu.files.wordpress.com/2008/10/2001maniacs-big.jpg"  group-title="GDRIVE",UM LOBISOMEM AMERICANO EM PARIS DUBLADO
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B47SxxBCoNu7MXpkMFJzUlA0SEU/edit
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2rQG_ZS0j4I/V5VR3thBPYI/AAAAAAAAGjQ/fJDf_GTXz-AvUMg1QGCaZUl6sNvp6CtsACLcB/s320/ds.jpg"  group-title="GDRIVE",The Invoking 2 - Legendado 2016 - HD
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4UqZ9iW3SrIZnFXc1RjNVZVWUk/edit
