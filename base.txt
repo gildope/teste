@@ -10,3 +10,10 @@
 <thumbnail>https://lh5.googleusercontent.com/--KLTTOSFTMk/UDM-qNRO4BI/AAAAAAAAB7U/h8_KmTfWXeU/s256/filmes2.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/filmes.txt</externallink>
 </item>
+
+<item>
+<title>[COLOR brown] [COLOR darkviolet][I][B]CANAIS[/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/c.txt</externallink>
+</item>
