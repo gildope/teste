@@ -17,7 +17,7 @@ http://playmovetv.from-id.com:80/GloboSP/index.m3u8
 #EXTINF:0 type="favorites" channelId="2432" , globo rbs
 http://5.189.152.217:8000/chile/chile/17.ch
 #EXTINF:0 type="favorites" channelId="2432" , globo
-http://5.189.152.217:8000/chile/chile/18.ch
+http://ovh.from-al.com:80/a01/index.m3u8?token=5975fd4e6658a578fec28df9c8526d68-1469485892-108882-60106-1b43b2ed8b39373de48ab81beef6a7a0
 #EXTINF:0 type="favorites" channelId="2432" , GLOBO
 http://vivo1.ddns.net:9000/live/Pbx1qTISMY/ZrflwtZu9G/12.ts
 #EXTINF:0 type="favorites" channelId="1653" , GLOBO PREMIUM
