@@ -37,7 +37,7 @@ http://playmovetv.from-id.com:80/Band/index.m3u8
 #EXTINF:0 type="favorites" , band
 http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/chunklist.m3u8
 #EXTINF:0 type="favorites" channelId="2561" , Globo News
-http://ale.from-al.com/n251/index.m3u8?token=665538564c2c07e84b99f5cf6d0bb22d-1469652083-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
+http://playmovetv.from-id.com:80/GloboNews/index.m3u8
 #EXTINF:0 type="favorites" channelId="2573" , Band News
 http://5.189.152.217:8000/chile/chile/3.ch
 #EXTINF:-1 channelId="2456" tvg-logo="http://goo.gl/ODkETM" group-title="NOTICIAS" , Record News
