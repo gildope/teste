@@ -1,8 +1,24 @@
 #EXTM3U
 
 #canais abertos
-#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42185_1460045770_small.jpg" group-title="GDRIVE",Creed: Nascido para Lutar
+#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42185_1460045770_small.jpg" group-title="GDRIVE",Globo 
 http://ale.from-al.com/a01/index.m3u8?token=d357e7a9aab4cd8c2c9561b3f2812d7d-1469707255-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
+
+#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42186_1460046211_small.jpg" group-title="GDRIVE",SBT
+http://slrp.sambavideos.sambatech.com/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42187_1460045893_small.jpg" group-title="GDRIVE",REDETV!
+http://ale.from-al.com/a03/index.m3u8?token=8e5b6516703f4d15030d439a2bb1c95e-1469707255-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
+
+#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42188_1460045980_small.jpg" group-title="GDRIVE",BAND
+http://ale.from-al.com/a04/index.m3u8?token=8e5b6516703f4d15030d439a2bb1c95e-1469707255-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
+
+#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42190_1460047021_small.jpg" group-title="GDRIVE",RECORD
+http://ale.from-al.com/a07/index.m3u8?token=c88253d5e327ed301475bb92bad942bb-1469717403-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
+
+#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42203_1460052118_small.jpg" group-title="GDRIVE",TELECINE PREMIUM
+http://ale.from-al.com/f51/index.m3u8?token=539f29cd8e4e4e1b9f47f5409c4c65a8-1469717403-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
+
  
 
                 
