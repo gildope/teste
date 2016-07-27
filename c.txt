@@ -7,15 +7,13 @@ http://ale.from-al.com/a01/index.m3u8?token=d357e7a9aab4cd8c2c9561b3f2812d7d-146
 #EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42186_1460046211_small.jpg" group-title="GDRIVE",SBT
 http://slrp.sambavideos.sambatech.com/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42187_1460045893_small.jpg" group-title="GDRIVE",REDETV!
-http://ale.from-al.com/a03/index.m3u8?token=8e5b6516703f4d15030d439a2bb1c95e-1469707255-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
-
 #EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42188_1460045980_small.jpg" group-title="GDRIVE",BAND
 http://ale.from-al.com/a04/index.m3u8?token=8e5b6516703f4d15030d439a2bb1c95e-1469707255-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
 
 #EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42190_1460047021_small.jpg" group-title="GDRIVE",RECORD
 http://ale.from-al.com/a07/index.m3u8?token=c88253d5e327ed301475bb92bad942bb-1469717403-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
 
+#canais FILMES
 #EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42203_1460052118_small.jpg" group-title="GDRIVE",TELECINE PREMIUM
 http://ale.from-al.com/f51/index.m3u8?token=539f29cd8e4e4e1b9f47f5409c4c65a8-1469717403-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
 
@@ -34,14 +32,37 @@ http://ale.from-al.com/f55/index.m3u8?token=6cf71cc6d4aa52ec9aded6200c4801c8-146
 #EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42205_1462387130_small.jpg" group-title="GDRIVE",TELECINE TOUCH
 http://ale.from-al.com/f56/index.m3u8?token=16eddb091247ce3c977593d001f2bd6f-1469726131-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
 
-#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/12564_1460054668_small.jpg" group-title="GDRIVE",HBO
+#EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2016/06/o-hbo-streaming-facebook.jpg" group-title="GDRIVE",HBO
 http://ale.from-al.com/f57/index.m3u8?token=5ae7a9b1a6d48958b984fb15bd456479-1469743360-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
 
+#canais NOTÍCIAS
 #EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/11215_1459020402_small.jpg" group-title="GDRIVE",GLOBO NEWS
 http://ale.from-al.com/n251/index.m3u8?token=fb75f60f0ffcc5f5997ee3a643aeac3f-1469743361-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
 
 #EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42249_1460472515_small.jpg" group-title="GDRIVE",RECORD NEWS
 http://ale.from-al.com/n252/index.m3u8?token=d212570b3b1f0724976f871247a48d26-1469743361-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
+
+#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42250_1460062407_small.jpg" group-title="GDRIVE",BAND NEWS
+http://ale.from-al.com/n253/index.m3u8?token=b6540d059c1d3cd23d6b700e7d7355be-1469743361-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
+
+#canais VARIEDADES E MÚSICAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/e/e8/20140510191759!Canal_Viva_logo.png" group-title="GDRIVE",VIVA
+http://ale.from-al.com/n253/index.m3u8?token=b6540d059c1d3cd23d6b700e7d7355be-1469743361-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
+
+#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42250_1460062407_small.jpg" group-title="GDRIVE",BAND NEWS
+http://ale.from-al.com/n253/index.m3u8?token=b6540d059c1d3cd23d6b700e7d7355be-1469743361-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
+
+#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42250_1460062407_small.jpg" group-title="GDRIVE",BAND NEWS
+http://ale.from-al.com/n253/index.m3u8?token=b6540d059c1d3cd23d6b700e7d7355be-1469743361-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
+
+#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42250_1460062407_small.jpg" group-title="GDRIVE",BAND NEWS
+http://ale.from-al.com/n253/index.m3u8?token=b6540d059c1d3cd23d6b700e7d7355be-1469743361-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
+
+#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42250_1460062407_small.jpg" group-title="GDRIVE",BAND NEWS
+http://ale.from-al.com/n253/index.m3u8?token=b6540d059c1d3cd23d6b700e7d7355be-1469743361-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
+
+#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42250_1460062407_small.jpg" group-title="GDRIVE",BAND NEWS
+http://ale.from-al.com/n253/index.m3u8?token=b6540d059c1d3cd23d6b700e7d7355be-1469743361-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
 
 #EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42250_1460062407_small.jpg" group-title="GDRIVE",BAND NEWS
 http://ale.from-al.com/n253/index.m3u8?token=b6540d059c1d3cd23d6b700e7d7355be-1469743361-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
