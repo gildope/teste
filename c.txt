@@ -19,6 +19,22 @@ http://ale.from-al.com/a07/index.m3u8?token=c88253d5e327ed301475bb92bad942bb-146
 #EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42203_1460052118_small.jpg" group-title="GDRIVE",TELECINE PREMIUM
 http://ale.from-al.com/f51/index.m3u8?token=539f29cd8e4e4e1b9f47f5409c4c65a8-1469717403-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
 
+#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42204_1462387114_small.jpg" group-title="GDRIVE",TELECINE ACTION
+http://ale.from-al.com/f52/index.m3u8?token=fd5704a06307405c8c218025535107dd-1469726131-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
+
+#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/12560_1462387153_small.jpg" group-title="GDRIVE",TELECINE FUN
+http://ale.from-al.com/f53/index.m3u8?token=5ba8706e44fe9f4255ffc4b2ed234b4b-1469726131-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
+
+#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/12561_1462387169_small.jpg" group-title="GDRIVE",TELECINE PIPOCA
+http://ale.from-al.com/f54/index.m3u8?token=c2788b8b7fb3cd5a4924df9d6ef1968a-1469726131-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
+
+#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/12562_1460053875_small.jpg" group-title="GDRIVE",TELECINE CULT
+http://ale.from-al.com/f55/index.m3u8?token=6cf71cc6d4aa52ec9aded6200c4801c8-1469726131-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
+
+#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42205_1462387130_small.jpg" group-title="GDRIVE",TELECINE TOUCH
+http://ale.from-al.com/f56/index.m3u8?token=16eddb091247ce3c977593d001f2bd6f-1469726131-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
+
+
  
 
                 
