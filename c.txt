@@ -1,4 +1,8 @@
 #EXTM3U
+
+#canais abertos
+#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42185_1460045770_small.jpg" group-title="GDRIVE",Creed: Nascido para Lutar
+http://ale.from-al.com/a01/index.m3u8?token=d357e7a9aab4cd8c2c9561b3f2812d7d-1469707255-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
  
 
                 
