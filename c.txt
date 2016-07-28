@@ -85,5 +85,5 @@ http://ale.from-al.com/n253/index.m3u8?token=b6540d059c1d3cd23d6b700e7d7355be-14
 http://ale.from-al.com/n253/index.m3u8?token=b6540d059c1d3cd23d6b700e7d7355be-1469743361-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
 
 #EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42250_1460062407_small.jpg" group-title="GDRIVE",fox
-http://163.172.39.45/loadbalance/aka1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE2IDEwOjQ2OjQ0IEFNJmhhc2hfdmFsdWU9dzlHUE1acWRSN0ZNalR6NGl4dWgvQT09JnZhbGlkbWludXRlcz0x
+http://163.172.39.45/loadbalance/aka1/playlist.m3u8?IPTVONLINE
 
