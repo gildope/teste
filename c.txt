@@ -14,6 +14,14 @@ http://ale.from-al.com/a04/index.m3u8?token=8e5b6516703f4d15030d439a2bb1c95e-146
 http://ale.from-al.com/a07/index.m3u8?token=c88253d5e327ed301475bb92bad942bb-1469717403-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
 
 #canais FILMES
+
+
+#EXTINF:-1 tvg-logo="https://macmagazine.com.br/wp-content/uploads/2011/01/12-sky_icon.png" group-title="GDRIVE",CINE SKY BR
+rtmp://208.53.164.194/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDE2IDI6MzQ6MTggQU0maGFzaF92YWx1ZT05UlNUckJVQnVWVWFHVEs5MHk1a0NBPT0mdmFsaWRtaW51dGVzPTU=/ playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/filmes.php
+
+#EXTINF:-1 tvg-logo="https://macmagazine.com.br/wp-content/uploads/2011/01/12-sky_icon.png" group-title="GDRIVE",CINE SKY BR 2
+rtmp://208.53.164.194/ctv playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/filmes.html
+
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_GbPe5ZLiC54/TOxCkhenK-I/AAAAAAAAEwY/_Rq4h79sWZE/s1600/Telecine+%25282%2529.png" group-title="GDRIVE",TELECINE PREMIUM
 http://ale.from-al.com/f51/index.m3u8?token=539f29cd8e4e4e1b9f47f5409c4c65a8-1469717403-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
 
