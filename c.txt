@@ -2,7 +2,7 @@
 
 #canais abertos
 #EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42185_1460045770_small.jpg" group-title="GDRIVE",Globo 
-http://31.204.153.115:8081/live/sptvk/playlist.m3u8
+http://163.172.41.217:8081/loadbalance/slv5/playlist.m3u8?IPTVONLINE
 
 #EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42186_1460046211_small.jpg" group-title="GDRIVE",SBT
 http://slrp.sambavideos.sambatech.com/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/chunklist.m3u8
