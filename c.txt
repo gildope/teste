@@ -40,19 +40,19 @@ http://ale.from-al.com/f55/index.m3u8?token=6cf71cc6d4aa52ec9aded6200c4801c8-146
 #EXTINF:-1 tvg-logo="http://clarotvlojaonline.com.br/img/channels/20151112154239-canal-telecine-touch.png" group-title="GDRIVE",TELECINE TOUCH
 http://ale.from-al.com/f56/index.m3u8?token=16eddb091247ce3c977593d001f2bd6f-1469726131-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
 
-#EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2016/06/o-hbo-streaming-facebook.jpg" group-title="GDRIVE",HBO
+#EXTINF:-1 tvg-logo="http://icons.iconseeker.com/png/fullsize/sleek-xp-software/hbo.png" group-title="GDRIVE",HBO
 http://ale.from-al.com/f57/index.m3u8?token=5ae7a9b1a6d48958b984fb15bd456479-1469743360-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
 
-#EXTINF:-1 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-jBRUW5zXnxU/TwHmuLN2MmI/AAAAAAAAA6g/bY4kV5kPtX4/s1600/HBO2_logo.jpg" group-title="GDRIVE",HBO2
+#EXTINF:-1 tvg-logo="http://www.vector-logo.net/logo_preview/eps/h/HBO_2.png" group-title="GDRIVE",HBO2
 http://ale.from-al.com/f57/index.m3u8?token=5ae7a9b1a6d48958b984fb15bd456479-1469743360-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
 
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/maxihbosignature.jpg" group-title="GDRIVE",HBO SIGNATURE
 http://ale.from-al.com/f57/index.m3u8?token=5ae7a9b1a6d48958b984fb15bd456479-1469743360-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
 
-#EXTINF:-1 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-pzLrR5uHmQw/TvtV3yZNJwI/AAAAAAAAAxY/v-ebpnDLIkQ/s1600/family%2Bbr.jpg" group-title="GDRIVE",HBO FAMILY
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RQa2ipx.png" group-title="GDRIVE",HBO FAMILY
 http://ale.from-al.com/f57/index.m3u8?token=5ae7a9b1a6d48958b984fb15bd456479-1469743360-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
 
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/tvcable/images/5/51/HBOPLUS.png/revision/latest?cb=20130717021305&path-prefix=es" group-title="GDRIVE",HBO PLUS
+#EXTINF:-1 tvg-logo="http://www.downloadingzoo.com/wp-content/uploads/2014/10/HBOPLUS.png" group-title="GDRIVE",HBO PLUS
 http://ale.from-al.com/f57/index.m3u8?token=5ae7a9b1a6d48958b984fb15bd456479-1469743360-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
 
 #canais NOTÍCIAS
