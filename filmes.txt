@@ -59,7 +59,7 @@
 </channel>
 
 <channel>
-<name>Filmes do Cracle</name>
+<name>Filmes do Crackle</name>
 <thumbnail>https://pmcdeadline2.files.wordpress.com/2014/09/crackle_logo_2000x1125.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/KramerJohn/SAT_TOTAL/master/crackle.m3u</externallink>
 <fanart></fanart>
