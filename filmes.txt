@@ -59,9 +59,9 @@
 </channel>
 
 <channel>
-<name>Policial</name>
-<thumbnail>http://orig05.deviantart.net/ebc3/f/2013/326/6/0/new_police_story_by_mohammadrza-d6v7qgt.png</thumbnail>
-<externallink>https://goo.gl/10w7aM</externallink>
+<name>Filmes do Cracle</name>
+<thumbnail>https://pmcdeadline2.files.wordpress.com/2014/09/crackle_logo_2000x1125.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/KramerJohn/SAT_TOTAL/master/crackle.m3u</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
