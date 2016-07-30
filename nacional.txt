@@ -1,0 +1,135 @@
+<stream>
+
+<item>
+<title>Somos tão Jovens (2013)</title>
+<link>https://lh3.googleusercontent.com/Br_Kes8ZNNVTOSL1uwmkNDeEnRURFwjRrqCnUxYOLGY=m18</link>
+<thumbnail>http://cinedoanula.com/imdb/posters/191034movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>De Pernas Pro Ar (2010)</title>
+<link>https://lh3.googleusercontent.com/xZy3kTfixiDBhziPKYrzJqdcRFWGsFGYMbGFiDccyM0=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/62156movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>De Pernas Pro Ar 2 (2012)</title>
+<link>https://lh3.googleusercontent.com/x4zd1K3FXtfc_vrEiAnBbW5L4-PI62Nu_a9IK0grncA=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/161908movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Faroeste Caboclo (2013)</title>
+<link>https://lh3.googleusercontent.com/-N7ulcDyOx8jtQlu7tR6C3RlMBztESeuY7YxsVQDXSk=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/195423movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Irmã Dulce (2014)</title>
+<link>https://lh3.googleusercontent.com/zaBOcCTm6o6LupmERFloRr4qFYKayVxiJ_6F3IUUj_o=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/228167movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Loucas pra Casar (2014)</title>
+<link>https://lh3.googleusercontent.com/yZiAZTWcN-VjiIDBRV2Ph-seBXkKasF7PNWTTjcUGWU=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/261461movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Minha Mãe é uma Peça: O Filme (2013)</title>
+<link>https://lh3.googleusercontent.com/YCScyjEzY-CRoV5d1Gt9tMvMfLPo0F7nA5S4gfDk2vU=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/203217movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Meu Passado me Condena (2013)</title>
+<link>https://lh3.googleusercontent.com/P-0UmdfMw8bTW4nZUaD06_H4X9EOQaXvRL1JaPSW_Ag=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/228202movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Meu Passado Me Condena 2 (2015)</title>
+<link>https://lh3.googleusercontent.com/zDkuHGeuugw6F7p4J5UhRCzGvkiHxVENp1Z9CzA2eag=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/d6rItmeKcBgIyGWe0KLPLvsFNSm.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mato sem Cachorro (2013)</title>
+<link>https://lh3.googleusercontent.com/UQrSDI3ZKJK5vtMC5qzxda4bweBLLRvdJ3C30Enkbek=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/224233movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Muita Calma Nessa Hora (2010)</title>
+<link>https://lh3.googleusercontent.com/1FA-F-g0cxtWmYa_g_bUkIeoWUk_oBS72MrkcKC954c=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/56840movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Muita Calma Nessa Hora 2 (2014)</title>
+<link>https://lh3.googleusercontent.com/RDHoLTPJcErOmjyJq51hjWsoDIGax28-GoOc7KES2bI=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/228185movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>O Candidato Honesto (2014)</title>
+<link>https://lh3.googleusercontent.com/DQRQb1VDuuDMvvb2MHmLcKQoACIf-UJHHFiCue1AiFY=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/254439movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>O Tempo e o Vento (2013)</title>
+<link>https://lh3.googleusercontent.com/ffUNfHro7FGkws3f8P5ki0Zil0WebVISPLUaeHb93oU=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/223381movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Os Caras de Pau em O Misterioso Roubo do Anel (2014)</title>
+<link>https://lh3.googleusercontent.com/rugzhThQ0AOlJau8fUSx_TR-pTkRGsqwXA5kgx8SqNE=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/hZhokleT3KQslv11Yl57U2lNJTt.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sorria, Você Está Sendo Filmado (2015)</title>
+<link>https://lh3.googleusercontent.com/aGu--gbNSGRgccFmK1fmnsZBzAuOznoEza4tSQ9Zs_E=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/328263movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Serra Pelada (2013)</title>
+<link>https://lh3.googleusercontent.com/v6YoLhtixt0b1rMDDxHYkZVuCviwDDVOmYN8BchztoM=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/h9nCPnxHWMQYbKBZLHKT5y8Lc7n.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tim Maia (2014)</title>
+<link>https://lh3.googleusercontent.com/uKVIxUQqsQ6nClrun6hUC3M-8Ps9Olhy4jns-jKj6ic=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/286256movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tropa de Elite (2007)</title>
+<link>https://lh3.googleusercontent.com/8gGBazRCZOZ58vqGPAqwzLCDMnqOR3mEWqgJLmLRRnU=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/wyUcKKEX2wwrvlsjUGDHDs91UIL.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tropa de Elite 2 (2010)</title>
+<link>https://lh3.googleusercontent.com/9lsl72RLY-5l6HN3gFZNKHZrFEAeUEyxrG6fX88rqEA=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/jgypIpQ4TU0fjYEnqxmKFp0hUwe.jpg</thumbnail>
+</item>
+
+<item>
+<title>Trash - A Esperança Vem do Lixo (2014)</title>
+<link>https://lh3.googleusercontent.com/0_virj0lmmtiPd9DrWmkOzK16PzR_YBUXjLzkppINYI=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/vndCGGQDIKnz3zKkbcZ3stJsK3p.jpg</thumbnail>
+</item>
+
+<item>
+<title>Superpai (2015)</title>
+<link>https://lh3.googleusercontent.com/ae6Rn4WBw9ulIYOTdIyvwVN7erbRgxfNmTpcFLOxH7A=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/308674movie.jpg</thumbnail>
+</item>
+
+</stream>
