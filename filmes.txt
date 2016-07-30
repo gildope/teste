@@ -83,9 +83,9 @@
 </channel>
 
 <channel>
-<name>Infantil</name>
+<name>Nacional</name>
 <thumbnail>http://icon-icons.com/icons2/515/PNG/256/Animated-Movies_icon-icons.com_51062.png</thumbnail>
-<externallink>https://goo.gl/lhysOv</externallink>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/nacional.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
