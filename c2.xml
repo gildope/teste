@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+
+
+
+<item>
+<title>CINE SKY BR 1</title>
+<link>rtmp://208.53.164.194/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDE2IDI6MzQ6MTggQU0maGFzaF92YWx1ZT05UlNUckJVQnVWVWFHVEs5MHk1a0NBPT0mdmFsaWRtaW51dGVzPTU=/ playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/filmes.php
+</link>
+<thumbnail>https://macmagazine.com.br/wp-content/uploads/2011/01/12-sky_icon.png</thumbnail>
+<fanart>https://macmagazine.com.br/wp-content/uploads/2011/01/12-sky_icon.png</fanart>
+</item>
+
+<item>
+<title>CINE SKY BR 2</title>
+<link>rtmp://208.53.164.194/ctv playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/filmes.html</link>
+<thumbnail>https://macmagazine.com.br/wp-content/uploads/2011/01/12-sky_icon.png</thumbnail>
+<fanart>https://macmagazine.com.br/wp-content/uploads/2011/01/12-sky_icon.png</fanart>
+</item>
+
+<item>
+<title>HBO</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=55&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=2468&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://icons.iconseeker.com/png/fullsize/sleek-xp-software/hbo.png</thumbnail>
+</item>
+
+
+<item>
+<title>HBO</title>
+<link>rtmp://79.124.59.218/liveedge playpath=ch37-1 swfUrl=http://livecast.cc/live/js/jw5/player.swf?IGOR_RANGEL pageUrl=http://livecast.cc/ timeout=15 token=f2384139d80c71e8</link>
+<thumbnail>http://icons.iconseeker.com/png/fullsize/sleek-xp-software/hbo.png</thumbnail>
+<fanart>http://icons.iconseeker.com/png/fullsize/sleek-xp-software/hbo.png</fanart>
+</item>
+
+
+
+<item>
+<title>HBO2</title>
+<link>http://zial.dyndns.tv:8000/live/alex/alex/27.ts</link>
+<thumbnail>http://www.vector-logo.net/logo_preview/eps/h/HBO_2.png</thumbnail>
+<fanart>http://www.vector-logo.net/logo_preview/eps/h/HBO_2.png</fanart>
+</item>
+
+<item>
+<title>HBO Plus - [COLOR red]OFF[/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/HBOPlus/index.m3u8</link>
+<thumbnail>http://www.downloadingzoo.com/wp-content/uploads/2014/10/HBOPLUS.png</thumbnail>
+<fanart>http://www.downloadingzoo.com/wp-content/uploads/2014/10/HBOPLUS.png</fanart>
+</item>
+
+<item>
+<title>HBO Family - [COLOR red]OFF[/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/HBOfamily/index.m3u8</link>
+<thumbnail>http://i.imgur.com/RQa2ipx.png</thumbnail>
+<fanart>http://i.imgur.com/RQa2ipx.png</fanart>
+</item>
+
+<item>
+<title>HBO SIGNATURE</title>
+<link>http://zial.dyndns.tv:8000/alex/alex/28.ch</link>
+<thumbnail>http://1.bp.blogspot.com/-IlD2V8e6NtA/T6m038IomCI/AAAAAAAABKg/2hgYtN-ks4M/s1600/HBO+Signature.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-IlD2V8e6NtA/T6m038IomCI/AAAAAAAABKg/2hgYtN-ks4M/s1600/HBO+Signature.jpg</fanart>
+</item>
+
+<item>
+<title>Universal Channel</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=125&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=2902&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://a248.e.akamai.net/f/248/16140/7d/www1.sky.com.br/akamai/Capacity/Imagem/150x110/Universal_Channel_150x110.png</thumbnail>
+</item>
+
+<item>
+<title>Universal Channel</title>
+<link>http://zial.dyndns.tv:8000/alex/alex/35.ch</link>
+<thumbnail>https://a248.e.akamai.net/f/248/16140/7d/www1.sky.com.br/akamai/Capacity/Imagem/150x110/Universal_Channel_150x110.png</thumbnail>
+<fanart>https://a248.e.akamai.net/f/248/16140/7d/www1.sky.com.br/akamai/Capacity/Imagem/150x110/Universal_Channel_150x110.png</fanart>
+</item>
+
+
+<item>
+<title>Studio Universal - [COLOR red]OFF[/COLOR]</title>
+<link>http://ovh.from-al.com/f77/index.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-GWYPDztrmio/TmcVUzOhRZI/AAAAAAAAMag/8SAtw20RYnc/s1600/Studio+Universal+MultiChoice+DStv.png</thumbnail>
+<fanart>http://4.bp.blogspot.com/-GWYPDztrmio/TmcVUzOhRZI/AAAAAAAAMag/8SAtw20RYnc/s1600/Studio+Universal+MultiChoice+DStv.png</fanart>
+</item>
+
+
+
+<item>
+<title>Fox</title>
+<link>$doregex[m3u8]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://aovivonatv.com/player.php?id=1685&amp;width=640&amp;height=364&amp;jwplayer=flash</page>
+<referer>http://ekostreams.co/ch/fox.php?width=600&amp;height=384</referer>
+</regex><regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/fox.php?width=600&amp;height=384</page>
+<referer> </referer>
+</regex>
+<thumbnail>http://www.birtvizle.com/wp-content/uploads/2015/01/fox-tv-izle.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>FOX CRIME - [COLOR red]OFF[/COLOR]</title>
+<link>http://163.172.41.217:8081/loadbalance/34881977271167698915/chunks.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-b3h1v9Luc7U/UmkJMZt4PBI/AAAAAAAACJU/ZtTx9DbaY3A/s1600/fox-crime-300x161%255B1%255D.png</thumbnail>
+<fanart>http://1.bp.blogspot.com/-b3h1v9Luc7U/UmkJMZt4PBI/AAAAAAAACJU/ZtTx9DbaY3A/s1600/fox-crime-300x161%255B1%255D.png</fanart>
+</item>
+
+<item>
+<title>MEGAPIX</title>
+<link>http://31.204.152.6:8081/live/megapix/playlist.m3u8</link>
+<thumbnail>http://megapix.estaticos.tv.br/img/megapix_og.jpg</thumbnail>
+<fanart>http://megapix.estaticos.tv.br/img/megapix_og.jpg</fanart>
+</item>
+
+<item>
+<title>MAXPRIME - [COLOR red]OFF[/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/MaxPrime/index.m3u8</link>
+<thumbnail>http://www.tvsp2.com.br/img/canais/max-prime.png</thumbnail>
+<fanart>http://www.tvsp2.com.br/img/canais/max-prime.png</fanart>
+</item>
+
+
+<item>
+<title>Telecine Premium</title>
+<link>$doregex[m3u8]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://aovivonatv.com/player.php?id=2625&amp;width=640&amp;height=364&amp;jwplayer=flash</page>
+<referer>http://ekostreams.co/ch/tcpremium.php?width=600&amp;height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/tcpremium.php?width=600&amp;height=384</page>
+<referer></referer>
+</regex>
+<thumbnail>http://minhatv.esy.es/logos/Telecine%20Premium%20.png</thumbnail>
+</item>
+
+
+<item>
+<title>Telecine Pipoca</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=120&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=2899&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://vejonatv.com.br/images/logos-canais/telecinepipocahd.png</thumbnail>
+</item>
+
+<item>
+<title>Telecine Touch</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=122&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=3010&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://files.ticparaensinodeciencias.webnode.com.br/200000071-a6f28a7ed2/TC%20Touch.png</thumbnail>
+</item>
+
+<item>
+<title>Telecine Action</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=117&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=2900&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://files.ticparaensinodeciencias.webnode.com.br/200000067-a58c6a6863/TC%20Action.png</thumbnail>
+</item>
+
+<item>
+<title>Telecine Fun</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=119&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=3011&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://cdn.hagah.com/image/uMdnrH4FH0Vqmlg7dGNmKQ7xfMA=/150x150/top/smart/hagah/5/53/telecine-fun-hd-530b1fcc.jpg</thumbnail>
+</item>
+
+<item>
+<title>Filmes Online</title>
+<link>rtmp://208.53.164.194/ctv playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/filmes.html</link>
+<thumbnail>http://files.comunidades.net/vidaaposamorte/ASSISTIR.png</thumbnail>
+<fanart>http://files.comunidades.net/vidaaposamorte/ASSISTIR.png</fanart>
+</item>
+
+<item>
+<title>PARAMOUNT CHANNEL - [COLOR red]OFF[/COLOR]</title>
+<link>http://ovh.from-al.com/f79/index.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/de/thumb/5/59/Paramount_Channel.svg/2000px-Paramount_Channel.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/de/thumb/5/59/Paramount_Channel.svg/2000px-Paramount_Channel.svg.png</fanart>
+</item>
+
+<item>
+<title>Sony</title>
+<link>rtmp://79.124.59.218/liveedge playpath=ch42-1 swfUrl=http://livecast.cc/live/js/jw5/player.swf?IGOR_RANGEL pageUrl=http://livecast.cc/ timeout=15 token=f2384139d80c71e8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/archive/2/22/20150830213605!Canal_Sony_logo.svg/120px-Canal_Sony_logo.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/archive/2/22/20150830213605!Canal_Sony_logo.svg/120px-Canal_Sony_logo.svg.png</fanart>
+</item>
+
+
+<item>
+<title>E!</title>
+<link>rtmp://79.124.59.218:1935/ovc playpath=canale233 swfUrl=http://mybeststream.xyz/YjFlMTI0MT/jw5/player.swf?IGOR_RANGEL live=1 pageUrl=http://igorlista.blogspot.com.br/ token=67294ee520e7bea6</link>
+<thumbnail>http://www.atelevisao.com/wp-content/uploads/2012/06/E.png</thumbnail>
+<fanart>http://www.atelevisao.com/wp-content/uploads/2012/06/E.png</fanart>
+</item>
+
+<item>
+<title>AXN</title>
+<link>http://zial.dyndns.tv:8000/alex/alex/17.ch</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yusrru1445113463.png</thumbnail>
+<fanart>http://www.thelogodb.com/images/media/logo/yusrru1445113463.png</fanart>
+</item>
+
+<item>
+<title>AXN</title>
+<link>rtmp://$doregex[get-ip]/live playpath=axn1x?id=84753&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axn1x/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/axn1x/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yusrru1445113463.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>AXN WHITE</title>
+<link>http://163.172.41.217:8081/loadbalance/28393396392964511362/chunks.m3u8</link>
+<thumbnail>http://hdkabel.sk/files/channel/logo/119/axn-white.jpg</thumbnail>
+<fanart>http://hdkabel.sk/files/channel/logo/119/axn-white.jpg</fanart>
+</item>
+
+
+<item>
+<title>FOX LIFE</title>
+<link>rtmp://$doregex[get-ip]/stream playpath=foxlifea?id=19709$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/foxlifea/1/650/500</page>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qurqxu1434048222.png</thumbnail>
+</regex>
+</item>
+
+
+<item>
+<title>FX</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=37&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=2905&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-8hG0XpOZkCQ/T2urxmX50-I/AAAAAAAAAC0/QCCyhRvYQOA/s1600/731px-FX-logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>Tnt</title>
+<link>$doregex[m3u8]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://aovivonatv.com/player.php?id=1725&amp;width=640&amp;height=364&amp;jwplayer=flash</page>
+<referer>http://ekostreams.co/ch/tnt.php?width=600&amp;height=384</referer>
+</regex><regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/tnt.php?width=600&amp;height=384</page>
+<referer> </referer>
+</regex>
+<thumbnail>http://www.bottlerocketstudios.com/wp-content/uploads/2011/09/TNTAppIcon.png</thumbnail>
+</item>
+
+
+<item>
+<title>Space</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=100&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=2901&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://static.omelete.uol.com.br/media/extras/conteudos/Canal-Space.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>Warner</title>
+<link>rtmp://79.124.59.218/liveedge playpath=ch41-1 swfUrl=http://livecast.cc/live/js/jw5/player.swf?IGOR_RANGEL pageUrl=http://livecast.cc/ timeout=15 token=f2384139d80c71e8</link>
+<thumbnail>http://imagens.us/marcas/warner-bros/warner-bros%20(1).png</thumbnail>
+<fanart>http://imagens.us/marcas/warner-bros/warner-bros%20(1).png</fanart>
+</item>
+
+<item>
+<title>Warner</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=130&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=2161&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://imagens.us/marcas/warner-bros/warner-bros%20(1).png</thumbnail>
+</item>
+
+<item>
+<title>Tbs</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=107&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=64&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xwqwpw1434505980.png/medium</thumbnail>
+</item>
+
+<item>
+<title>Max Up - [COLOR red]OFF[/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/MaxUp/index.m3u8</link>
+<thumbnail>http://www.tvmagazine.com.br/imagens/icones/600/maxup.png</thumbnail>
+<fanart>http://www.tvmagazine.com.br/imagens/icones/600/maxup.png</fanart>
+</item>
+
+<item>
+<title>A&E - [COLOR red]OFF[/COLOR]</title>
+<link>http://ovh.from-al.com/v106/index.m3u8</link>
+<thumbnail>http://static1.squarespace.com/static/5501d910e4b0fda45132ee17/5512de56e4b093e37aab420b/551b01eae4b0f74d74c22c94/1427833323352/a-and-e-logo.jpg</thumbnail>
+<fanart>http://static1.squarespace.com/static/5501d910e4b0fda45132ee17/5512de56e4b093e37aab420b/551b01eae4b0f74d74c22c94/1427833323352/a-and-e-logo.jpg</fanart>
+</item>
+
+
+<item>
+<title>Canal Hollywood - [COLOR red]OFF[/COLOR]</title>
+<link>http://163.172.41.217:8081/loadbalance/64792748588955428741/chunks.m3u8</link>
+<thumbnail>http://tecavicas.es/wp-content/uploads/2013/03/252733_10150276146069953_636747289_a.jpg</thumbnail>
+<fanart>http://tecavicas.es/wp-content/uploads/2013/03/252733_10150276146069953_636747289_a.jpg</fanart>
+</item>
+
+<item>
+<title>Odisseia - [COLOR red]OFF[/COLOR]</title>
+<link>http://163.172.41.217:8081/loadbalance/91611597355249623734/chunks.m3u8</link>
+<thumbnail>http://i0.wp.com/www.novidadestv.com/wp-content/uploads/2014/04/odisseia_logo_2014_destak_300x216.png</thumbnail>
+<fanart>http://i0.wp.com/www.novidadestv.com/wp-content/uploads/2014/04/odisseia_logo_2014_destak_300x216.png</fanart>
+</item>
+
+<item>
+<title>Cinemax - [COLOR red]OFF[/COLOR]</title>
+<link>http://ovh.from-al.com/f76/index.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-eVH6Rpv13bo/VB2y7qtQOpI/AAAAAAAAP_g/R3CHurcA9Os/s1600/cinemax.png</thumbnail>
+<fanart>http://1.bp.blogspot.com/-eVH6Rpv13bo/VB2y7qtQOpI/AAAAAAAAP_g/R3CHurcA9Os/s1600/cinemax.png</fanart>
+</item>
+
+<item>
+<title>TLC - [COLOR red]OFF[/COLOR]</title>
+<link>http://163.172.41.217:8081/loadbalance/74467548338119297125/playlist.m3u8</link>
+<thumbnail>http://www.collegehunkshaulingjunk.com/user_files/images/Partners%20and%20Certifications/Tlc-logo.png</thumbnail>
+<fanart>http://www.collegehunkshaulingjunk.com/user_files/images/Partners%20and%20Certifications/Tlc-logo.png</fanart>
+</item>
