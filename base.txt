@@ -17,3 +17,11 @@
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/c.txt</externallink>
 </item>
+
+<item>
+<title>[COLOR brown] [COLOR darkviolet][I][B]CANAIS 2[/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/c2.xml</externallink>
+</item>
+
