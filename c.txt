@@ -2,7 +2,7 @@
 
 #canais abertos
 
-#EXTINF:-1 tvg-id="Globo SP.igor" tvg-logo="Globo-HD.png" tvg-logo="http://goo.gl/qx5sL9" group-title="TV Aberta",Globo 
+#EXTINF:-1 tvg-id="Globo SP.igor" tvg-logo="Globo-HD.png" tvg-logo="http://goo.gl/qx5sL9" group-title="TV Aberta",GLOBO 
 http://5.189.152.217:8000/medina/medina/18.ch
 
 #EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42186_1460046211_small.jpg" group-title="GDRIVE",SBT
