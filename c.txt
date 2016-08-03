@@ -1,17 +1,27 @@
 #EXTM3U
 
 #canais abertos
-#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42185_1460045770_small.jpg" group-title="GDRIVE",Globo 
-http://ale.from-al.com/a01/index.m3u8?token=80efeafa050333ba29e39abf0d4affbc-1470072283-109080-60106-305c3d89b23af1011a3bc1f3809fa79e
+
+#EXTINF:-1 tvg-id="Globo SP.igor" tvg-logo="Globo-HD.png" tvg-logo="http://goo.gl/qx5sL9" group-title="TV Aberta",Globo 
+http://5.189.152.217:8000/medina/medina/18.ch
 
 #EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42186_1460046211_small.jpg" group-title="GDRIVE",SBT
 http://slrp.sambavideos.sambatech.com/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42188_1460045980_small.jpg" group-title="GDRIVE",BAND
-http://playmovetv.from-id.com:80/Band/index.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/wa6adj.jpg",REDE TV
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42190_1460047021_small.jpg" group-title="GDRIVE",RECORD
-http://ale.from-al.com/a07/index.m3u8?token=c88253d5e327ed301475bb92bad942bb-1469717403-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/17zeoh.jpg",REDE RECORD
+http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish7/kLive/smil:0_dm4rwkh4_all.smil/32/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/r2026t.jpg",TV Cultura
+http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/r2026t.jpg",TV JORNAL Recife
+http://evp.mm.uol.com.br/ne10/_definst_/ne10-tvjornal-recife-video-web.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/r2026t.jpg",REDE VIDA
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
 
 #canais FILMES
 
