@@ -21,7 +21,9 @@ http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
 http://evp.mm.uol.com.br/ne10/_definst_/ne10-tvjornal-recife-video-web.sdp/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://img2.ne10.uol.com.br/tvjornal/img/logo-tv-jornal.png",TV JORNAL Caruaru
-rtmp://evp.mm.uol.com.br/ne10/_definst_/ ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+rtmp://evp.mm.uol.com.br/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://oi65.tinypic.com/r2026t.jpg",REDE VIDA
 http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
