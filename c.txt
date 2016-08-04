@@ -44,10 +44,11 @@ http://ale.from-al.com/f51/index.m3u8?token=f202fa0ba133848b2063b08635590c9c-147
 http://ale.from-al.com/f52/index.m3u8?token=1e45ffe58463dfd5309b6ce720d889d4-1470072283-109080-60106-305c3d89b23af1011a3bc1f3809fa79e
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d4/TC_FUN.jpg/revision/latest?cb=20131115104539" group-title="GDRIVE",TELECINE FUN
-http://ale.from-al.com/f53/index.m3u8?token=f213d0aa002fdb4531b91d69f221fbcb-1470072283-109080-60106-305c3d89b23af1011a3bc1f3809fa79e
+http://163.172.41.33/loadbalance/novos_119/chunks.m3u8?nimblesessionid=1968530&wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTYgMTI6NDg6MjQgQU0maGFzaF92YWx1ZT04djlUa1dvclNDc2Y4MjVrWGdGT1p3PT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="GDRIVE",TELECINE PIPOCA
-http://ale.from-al.com/f54/index.m3u8?token=3259ca762fa842f85c1a6f6d8745d9d1-1470072283-109080-60106-305c3d89b23af1011a3bc1f3809fa79e
+http://163.172.39.45/loadbalance/pipoca/chunks.m3u8?nimblesessionid=2605514&wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTYgMTI6NTE6MjMgQU0maGFzaF92YWx1ZT1UOG5YK2kwSDJocnZtR25mcngwNUxRPT0mdmFsaWRtaW51dGVzPTE=
+
 
 #EXTINF:-1 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-IXN_BQ6TYUA/UHZHgtLVQ9I/AAAAAAAAF78/RyMeiKUZTvA/s1600/Telecine%2Bcult%2Bhd%2Bna%2Bclaro.jpg" group-title="GDRIVE",TELECINE CULT
 http://ale.from-al.com/f55/index.m3u8?token=6cf71cc6d4aa52ec9aded6200c4801c8-1469726131-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
