@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://goo.gl/aC0kx1" group-title="GDRIVE",Uma Noite de Crime 3
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1QfyRKF5oreL0rPzeaKK7rCFwDn-iMSc4jg/edit
+
 #EXTINF:-1 tvg-logo="https://goo.gl/aC0kx1" group-title="GDRIVE",Em nome da Lei
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B5889epTvHADQTdpREFQcEp0Nms/edit
 
