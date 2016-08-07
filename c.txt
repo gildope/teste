@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-id="Globo SP.igor" tvg-logo="Globo-HD.png" tvg-logo="http://goo.gl/qx5sL9" group-title="TV Aberta",GLOBO 
 http://5.189.152.217:8000/medina/medina/18.ch
 
+#EXTINF:-1 tvg-logo=”http://puu.sh/o8Yo3/7def47c6f4.png” group-title=”Brasil”, Globo Brasil
+http://live.tvplayerlatino.com/lista_remota/src3/globr.m3u8
+
 #EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42186_1460046211_small.jpg" group-title="GDRIVE",SBT
 http://slrp.sambavideos.sambatech.com/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/chunklist.m3u8
 
