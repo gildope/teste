@@ -23,83 +23,15 @@ http://evp.mm.uol.com.br/ne10/_definst_/ne10-tvjornal-recife-video-web.sdp/live.
 #EXTINF:-1 tvg-logo="http://img2.ne10.uol.com.br/tvjornal/img/logo-tv-jornal.png",TV JORNAL Caruaru
 http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sql/372952/vevo-squarelogo-1400167910751.png" group-title="MUSICA", Vevo
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sql/372952/vevo-squarelogo-1400167910751.png" group-title="MUSICA", Vevo 1 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sql/372952/vevo-squarelogo-1400167910751.png" group-title="MUSICA", Vevo 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/r2026t.jpg",REDE VIDA
-http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
 
-#canais FILMES
-
-
-#EXTINF:-1 tvg-logo="https://macmagazine.com.br/wp-content/uploads/2011/01/12-sky_icon.png" group-title="GDRIVE",CINE SKY BR
-rtmp://208.53.164.194/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDE2IDI6MzQ6MTggQU0maGFzaF92YWx1ZT05UlNUckJVQnVWVWFHVEs5MHk1a0NBPT0mdmFsaWRtaW51dGVzPTU=/ playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/filmes.php
-
-#EXTINF:-1 tvg-logo="https://macmagazine.com.br/wp-content/uploads/2011/01/12-sky_icon.png" group-title="GDRIVE",CINE SKY BR 2
-rtmp://208.53.164.194/ctv playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/filmes.html
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_GbPe5ZLiC54/TOxCkhenK-I/AAAAAAAAEwY/_Rq4h79sWZE/s1600/Telecine+%25282%2529.png" group-title="GDRIVE",TELECINE PREMIUM
-http://ale.from-al.com/f51/index.m3u8?token=f202fa0ba133848b2063b08635590c9c-1470072283-109080-60106-305c3d89b23af1011a3bc1f3809fa79e
-
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="GDRIVE",TELECINE ACTION
-http://ale.from-al.com/f52/index.m3u8?token=1e45ffe58463dfd5309b6ce720d889d4-1470072283-109080-60106-305c3d89b23af1011a3bc1f3809fa79e
-
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d4/TC_FUN.jpg/revision/latest?cb=20131115104539" group-title="GDRIVE",TELECINE FUN
-http://163.172.41.33/loadbalance/novos_119/chunks.m3u8?nimblesessionid=1968530&wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTYgMTI6NDg6MjQgQU0maGFzaF92YWx1ZT04djlUa1dvclNDc2Y4MjVrWGdGT1p3PT0mdmFsaWRtaW51dGVzPTE=
-
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="GDRIVE",TELECINE PIPOCA
-http://163.172.39.45/loadbalance/pipoca/chunks.m3u8?nimblesessionid=2605514&wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTYgMTI6NTE6MjMgQU0maGFzaF92YWx1ZT1UOG5YK2kwSDJocnZtR25mcngwNUxRPT0mdmFsaWRtaW51dGVzPTE=
-
-
-#EXTINF:-1 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-IXN_BQ6TYUA/UHZHgtLVQ9I/AAAAAAAAF78/RyMeiKUZTvA/s1600/Telecine%2Bcult%2Bhd%2Bna%2Bclaro.jpg" group-title="GDRIVE",TELECINE CULT
-http://ale.from-al.com/f55/index.m3u8?token=6cf71cc6d4aa52ec9aded6200c4801c8-1469726131-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
-
-#EXTINF:-1 tvg-logo="http://clarotvlojaonline.com.br/img/channels/20151112154239-canal-telecine-touch.png" group-title="GDRIVE",TELECINE TOUCH
-http://ale.from-al.com/f56/index.m3u8?token=16eddb091247ce3c977593d001f2bd6f-1469726131-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
-
-#EXTINF:-1 tvg-logo="http://icons.iconseeker.com/png/fullsize/sleek-xp-software/hbo.png" group-title="GDRIVE",HBO
-http://31.204.128.112:8081/live/hbo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.vector-logo.net/logo_preview/eps/h/HBO_2.png" group-title="GDRIVE",HBO2
-http://ale.from-al.com/f57/index.m3u8?token=5ae7a9b1a6d48958b984fb15bd456479-1469743360-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
-
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/maxihbosignature.jpg" group-title="GDRIVE",HBO SIGNATURE
-http://ale.from-al.com/f57/index.m3u8?token=5ae7a9b1a6d48958b984fb15bd456479-1469743360-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RQa2ipx.png" group-title="GDRIVE",HBO FAMILY
-http://ale.from-al.com/f57/index.m3u8?token=5ae7a9b1a6d48958b984fb15bd456479-1469743360-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
-
-#EXTINF:-1 tvg-logo="http://www.downloadingzoo.com/wp-content/uploads/2014/10/HBOPLUS.png" group-title="GDRIVE",HBO PLUS
-http://ale.from-al.com/f57/index.m3u8?token=5ae7a9b1a6d48958b984fb15bd456479-1469743360-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
-
-#canais NOTÍCIAS
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-CEwR2YxCKp8/V2c0JpHI6rI/AAAAAAAAtRE/99DbM3dODfUonB7uLhkq2IEUj5vpAFI0gCLcB/s1600/Globonews.png" group-title="GDRIVE",GLOBO NEWS
-http://ale.from-al.com/n251/index.m3u8?token=fb75f60f0ffcc5f5997ee3a643aeac3f-1469743361-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
-
-#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42249_1460472515_small.jpg" group-title="GDRIVE",RECORD NEWS
-http://ale.from-al.com/n252/index.m3u8?token=d212570b3b1f0724976f871247a48d26-1469743361-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/2000px-BandNews_TV_logo_2010.svg.png" group-title="GDRIVE",BAND NEWS
-http://ale.from-al.com/n253/index.m3u8?token=b6540d059c1d3cd23d6b700e7d7355be-1469743361-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
-
-#canais VARIEDADES E MÚSICAS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/e/e8/20140510191759!Canal_Viva_logo.png" group-title="GDRIVE",VIVA
-http://ale.from-al.com/n253/index.m3u8?token=b6540d059c1d3cd23d6b700e7d7355be-1469743361-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
-
-#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42250_1460062407_small.jpg" group-title="GDRIVE",BAND NEWS
-http://ale.from-al.com/n253/index.m3u8?token=b6540d059c1d3cd23d6b700e7d7355be-1469743361-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
-
-#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42250_1460062407_small.jpg" group-title="GDRIVE",BAND NEWS
-http://ale.from-al.com/n253/index.m3u8?token=b6540d059c1d3cd23d6b700e7d7355be-1469743361-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
-
-#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42250_1460062407_small.jpg" group-title="GDRIVE",BAND NEWS
-http://ale.from-al.com/n253/index.m3u8?token=b6540d059c1d3cd23d6b700e7d7355be-1469743361-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
-
-#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42250_1460062407_small.jpg" group-title="GDRIVE",BAND NEWS
-http://ale.from-al.com/n253/index.m3u8?token=b6540d059c1d3cd23d6b700e7d7355be-1469743361-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
-
-#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42250_1460062407_small.jpg" group-title="GDRIVE",BAND NEWS
-http://ale.from-al.com/n253/index.m3u8?token=b6540d059c1d3cd23d6b700e7d7355be-1469743361-109080-60106-8d2410cd2966ecdc6951390ae156ac7c
-
-#EXTINF:-1 tvg-logo="http://cliente.playmove.tv/images/channels/42250_1460062407_small.jpg" group-title="GDRIVE",fox
-http://163.172.39.45/loadbalance/aka1/playlist.m3u8?IPTVONLINE
 
