@@ -32,6 +32,14 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://media.glassdoor.com/sql/372952/vevo-squarelogo-1400167910751.png" group-title="MUSICA", Vevo 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sql/372952/vevo-squarelogo-1400167910751.png" group-title="MUSICA",VH1 SHUFFLE
+http://212.80.63.190:4022/udp/238.1.16.11:1234
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sql/372952/vevo-squarelogo-1400167910751.png" group-title="MUSICA", MTV Hits 
+http://212.80.63.190:4022/udp/238.1.16.12:1234 
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sql/372952/vevo-squarelogo-1400167910751.png" group-title="MUSICA",MTV Dance 
+http://212.80.63.190:4022/udp/238.1.16.13:1234 
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sql/372952/vevo-squarelogo-1400167910751.png" group-title="MUSICA",MTV Rocks 
+http://212.80.63.190:4022/udp/238.1.16.14:1234 evolution iptv rocks channels
 
 
 
