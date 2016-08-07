@@ -44,5 +44,8 @@ http://212.80.63.190:4022/udp/238.1.16.13:1234
 #EXTINF:-1 tvg-logo="https://media.glassdoor.com/sql/372952/vevo-squarelogo-1400167910751.png" group-title="MUSICA",MTV Rocks 
 http://212.80.63.190:4022/udp/238.1.16.14:1234 evolution iptv rocks channels
 
-
+#EXTINF:-1,Virgin TV
+rtmp://fms.105.net:1935/live/virgin2
+#EXTINF:-1,W9
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
 
