@@ -1,7 +1,8 @@
 #EXTM3U
 
+http://jwpltx.com/v1/jwplayer6/ping.gif?h=193185101&tv=2.4.0&n=7669461303506149&aid=ElXTLjAeEeKgYSIACp8kUw&e=s&i=1&ifd=1&pv=7.1.4&m=1&d=0&vl=90&t=&pl=877&ph=0&vs=4&ed=0&wd=1201&ps=3&fed=&mk=mp4&plc=1&l=4&vd=5314&q=32&ff=5339&cct=0&tt=0&drm=0&hls=&pp=html5&pr=0&sdk=0&mt=0&pli=cg5vcopek3bd&emi=zr3jtjhsj4xi&vi=0&ap=72%2C49&mu=https%3A%2F%2Fc3cda80fc275053fe8d63b489151a01c6b483ce7.googledrive.com%2Fhost%2F1hNnVX_vc6Ku5Y1lP-A9Bvsw7W3mIBVTQIA&eb=-1&id=&pu=http%3A%2F%2Fwww.filmesonlinex.net%2Fa-escuridao%2F&pt=Assistir%20A%20Escurid%C3%A3o%20Online%20Legendado%20HD%201080p%20(2016)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/wqqS6Be8WhUL7NPjbH0h9v7wido.jpg" group-title="GDRIVE",Uma Noite de Crime 3
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1hNnVX_vc6Ku5Y1lP-A9Bvsw7W3mIBVTQIA/edit
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/ElXTLjAeEeKgYSIACp8kUw/edit
 
 #EXTINF:-1 tvg-logo="https://goo.gl/aC0kx1" group-title="GDRIVE",Em nome da Lei
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B5889epTvHADQTdpREFQcEp0Nms/edit
