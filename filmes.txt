@@ -92,8 +92,8 @@
 
 <channel>
 <name>Gospel</name>
-<thumbnail>http://icons.iconarchive.com/icons/limav/music-folder/512/Gospel-1-icon.png</thumbnail>
-<externallink>https://goo.gl/ueWk5s</externallink>
+<thumbnail>http://www.filmesgospel.com/images/conteudo/peq/236.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/gospel.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
