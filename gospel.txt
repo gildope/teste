@@ -23,9 +23,9 @@
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>A fé que nos une</title>
+<utube>H3eAt_ieS68</utube>
+<thumbnail>http://www.filmesgospel.com/images/conteudo/peq/250.jpg</thumbnail>
 </item>
 
 <item>
