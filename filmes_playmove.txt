@@ -1,7 +1,7 @@
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>A 5ª Onda</title>
+<link>http://138.201.33.133/ficcao/A.5.Onda.novo.mp4</link>
+<thumbnail>http://cliente.playmove.tv/images/posters/501991_7a3c10da0e905f0d1316ee3687a62353_20160525133418_big.jpg</thumbnail>
 </item>
 
 <item>
