@@ -99,9 +99,9 @@
 </channel>
 
 <channel>
-<name>Torrent Filmes</name>
+<name>Lançamentos</name>
 <thumbnail>https://raw.githubusercontent.com/gildope/teste/master/EtwDPBN.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/torrentfilmes.txt</externallink>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/lan%C3%A7a.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
