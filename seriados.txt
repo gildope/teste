@@ -28,9 +28,9 @@
 </link>
 
 <channel>
-<name>ARROW</name>
-<thumbnail>http://1.bp.blogspot.com/-4zcbvPW1vhE/UHYbJCJsBII/AAAAAAAAEdI/kdCs3fKHq0w/s1600/ok-arrow-season-1.jpg</thumbnail>
-<externallink>https://goo.gl/Mm4hwz</externallink>
+<name>MAIS SERIADOS</name>
+<thumbnail>http://mundomasculino.com.br/wp-content/uploads/2016/02/seriados-netflix.jpg</thumbnail>
+<externallink>http://bit.ly/SeriesSD</externallink>
 </channel>
 
 <channel>
