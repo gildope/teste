@@ -15,7 +15,7 @@
 <title>[COLOR brown] [COLOR darkviolet][I][B]CANAIS[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/c.txt</externallink>
+<externallink>http://cliente.playmove.tv/m3u?user=expertinfo&password=2a7f6a2b5107dc1e4def47214cf567d5&server=direct&type=.m3u&compatible=standard</externallink>
 </item>
 
 <item>
