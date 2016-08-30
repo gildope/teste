@@ -2,12 +2,18 @@
 
 #EXTINF:-1,1 - Teste 1 http://ale.from-al.com:8080/globo1/index.m3u8 
 #EXTINF:-1,2 - Teste 2 https://mia.from-al.com:8000/Record/index.m3u8 
-#EXTINF:-1,3 - Globo http://ale.from-al.com:8080/a01/mono.m3u8?token=5dfc722f3814f197110e8b16467af5d0-1472603051-109080-60106- 
-#EXTINF:-1,4 - SBT http://slrp.sambavideos.sambatech.com/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/chunklist.m3u8
-#EXTINF:-1,5 - Redetv http://ale.from-al.com:80/a03/index.m3u8?token=791185174b6b2810f100203979861884-1472603051-109080-60106- 
-#EXTINF:-1,6 - Band http://ale.from-al.com:80/a04/index.m3u8?token=a5b5b5fb79401a81382ea3cab15c36ad-1472603051-109080-60106- 
-#EXTINF:-1,7 - Record http://ale.from-al.com:80/a07/index.m3u8?token=9283e6bc8626e8309ed3ecd17c7b6d0c-1472603051-109080-60106- 
-#EXTINF:-1,8 - NBR http://ebcremuxlive-live.hls.adaptive.level3.net:80/hls-live/ebcremuxlive-ebctvnbr/_definst_/live/stream1.m3u8
+#EXTINF:-1,3 - Globo 
+http://ale.from-al.com:8080/a01/mono.m3u8?token=5dfc722f3814f197110e8b16467af5d0-1472603051-109080-60106- 
+#EXTINF:-1,4 - SBT 
+http://slrp.sambavideos.sambatech.com/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/chunklist.m3u8
+#EXTINF:-1,5 - Redetv 
+http://ale.from-al.com:80/a03/index.m3u8?token=791185174b6b2810f100203979861884-1472603051-109080-60106- 
+#EXTINF:-1,6 - Band 
+http://ale.from-al.com:80/a04/index.m3u8?token=a5b5b5fb79401a81382ea3cab15c36ad-1472603051-109080-60106- 
+#EXTINF:-1,7 - Record 
+http://ale.from-al.com:80/a07/index.m3u8?token=9283e6bc8626e8309ed3ecd17c7b6d0c-1472603051-109080-60106- 
+#EXTINF:-1,8 - NBR 
+http://ebcremuxlive-live.hls.adaptive.level3.net:80/hls-live/ebcremuxlive-ebctvnbr/_definst_/live/stream1.m3u8
 #EXTINF:-1,9 - TV Brasil http://ebcremuxlive-live.hls.adaptive.level3.net:80/manifests/ebcremuxlive-ebctvbrasil/live.m3u8 
 #EXTINF:-1,10 - TV Cultura http://ale.from-al.com:80/a12/index.m3u8?token=e414a37eb2da414bbde11388819b907b-1472603051-109080-60106-
 #EXTINF:-1,11 - Futura http://ale.from-al.com:80/a13/index.m3u8?token=a2b115104bc609e28d0513a999d7fed1-1472603051-109080-60106-
