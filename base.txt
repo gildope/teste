@@ -12,7 +12,7 @@
 </item>
 
 <item>
-<title>[COLOR blue] [COLOR blue][I][B]FILMES 2[/I][/B][/COLOR]</title>
+<title>[COLOR yellow] [COLOR yellow][I][B]FILMES 2[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://lh5.googleusercontent.com/--KLTTOSFTMk/UDM-qNRO4BI/AAAAAAAAB7U/h8_KmTfWXeU/s256/filmes2.png</thumbnail>
 <externallink>https://cld.pt/dl/download/18e963fa-f90d-4cf5-8943-3b60ad67390d/filmes.txt</externallink>
