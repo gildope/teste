@@ -1,4 +1,52 @@
 <item>
+<title>Angry Birds: O Filme (2016)</title>
+<link>https://lh3.googleusercontent.com/HBvqvV6KtzAdR57bmYN597lVvZoBfLXFhpB5O02RtfhjNIl_K4_lKsV-H5bQh41rrODUlJH3vw=m22</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/153518movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>O Maior Amor do Mundo - Mother's Day (2016)</title>
+<link>https://lh3.googleusercontent.com/y2zrzGpD_KOgY4LNeWlSwa7XR7yHZlZ80zzQKmXFRFhaTu60ZJCIHIuoadYFpsaZAl16TiGSvg=m22</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/353069movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Palmeiras na Neve - Palmeras en la nieve (2015)</title>
+<link>https://lh3.googleusercontent.com/bartXlCt3p5SaMRIWRs6g_vx1xJPkoc96rS6mTmVO-ezTXm_cd-IqKPTt_ey0mSJmjnmgFFOE5B0Gw=m22</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/274109movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>A Garota do Livro - The Girl in the Book (2015)</title>
+<link>https://lh3.googleusercontent.com/Z75jE3M31ogwKu1CCq3X0sjPaM9Q3zhteZAtt4-ntfoE2cqyEvLEJFsKgiZabyaPKejpJ5PmTQsogA=m22</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/339145movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>A Vingança Está na Moda - The Dressmaker (2015)</title>
+<link>https://lh3.googleusercontent.com/-tdy4E5RuodAQ1ndJ_qXvwND60N7nOgykp3-uYoPyrKVxecCGAXYit6qZYT5G6cSIHdrJ0mZrIegVQ=m22</link>
+<thumbnail>http://cinedoanula.com/imdb/posters/298382movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>O Caçador e a Rainha do Gelo - The Huntsman: Winter's War (2016)</title>
+<link>https://lh3.googleusercontent.com/HBA3rPR_aCM9OfQwZ_L_QMvyOsDCpAQ35FAWe0BB1Ze17R5YL2aCisAWrP98MW-KWM9wk0vFP_0=m22</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/290595movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Batman vs Superman: A Origem da Justiça - Dawn of Justice (2016)</title>
+<link>https://lh3.googleusercontent.com/utSjdQDBTKRRlJDGZj4sGfiB7WkPymL-_lvVJB6hvmtJ9jpZoay3_z19bWQ-jysyCWrk487UKg=m22</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/209112movie.jpg</thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>Como Eu Era Antes de Você - Me Before You (2016)</title>
 <link>https://lh3.googleusercontent.com/6Jr4AxQuZ_J5LTYV03syPmFhmOumyvEt3gzNd-xYDWJEnEiTKk0g9y2W6f4A8E3ycEgplJPGgqnsXw=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/296096movie.jpg</thumbnail>
@@ -166,20 +214,4 @@
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
 
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
