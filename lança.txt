@@ -29,12 +29,6 @@
 </item>
 
 <item>
-<title>O Caçador e a Rainha do Gelo - The Huntsman: Winter's War (2016)</title>
-<link>https://lh3.googleusercontent.com/HBA3rPR_aCM9OfQwZ_L_QMvyOsDCpAQ35FAWe0BB1Ze17R5YL2aCisAWrP98MW-KWM9wk0vFP_0=m22</link>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/290595movie.jpg</thumbnail>
-</item>
-
-<item>
 <title>Batman vs Superman: A Origem da Justiça - Dawn of Justice (2016)</title>
 <link>https://lh3.googleusercontent.com/utSjdQDBTKRRlJDGZj4sGfiB7WkPymL-_lvVJB6hvmtJ9jpZoay3_z19bWQ-jysyCWrk487UKg=m22</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/209112movie.jpg</thumbnail>
