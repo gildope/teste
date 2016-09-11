@@ -100,7 +100,7 @@
 
 <channel>
 <name>Lançamentos</name>
-<thumbnail>https://raw.githubusercontent.com/gildope/teste/master/EtwDPBN.png</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/CUdDDt0Vayk/hqdefault.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/lan%C3%A7a.txt</externallink>
 <fanart></fanart>
 <info></info>
