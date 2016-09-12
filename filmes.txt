@@ -5,7 +5,7 @@
 <channel>
 <name>Ação</name>
 <thumbnail>http://icon-icons.com/icons2/515/PNG/256/Action-Movies_icon-icons.com_51064.png</thumbnail>
-<externallink>https://goo.gl/DBi3Nx</externallink>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/acao.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
