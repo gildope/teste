@@ -2,7 +2,9 @@
 
 
 #EXTINF:-1 tvg-logo="http://www.filmesgospel.com/images/conteudo/peq/36.jpg" group-title="GDRIVE",O Poder da Graça
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4anj1h24qGOYkFMVFl5UUZqQmM/edit
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/IgpwcjAyLnJpbzAxKg03Mi4xNC4yMTguMTAw/edit
+
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/aC0kx1" group-title="GDRIVE",Em nome da Lei
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B5889epTvHADQTdpREFQcEp0Nms/edit
