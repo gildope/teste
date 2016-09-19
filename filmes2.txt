@@ -23,6 +23,66 @@
 </item>
 
 <item>
+<title>A COLINA ESCARLATE</title>
+<link>http://138.201.33.133/terror/A.Colina.Escarlate.2016.720.DUAL.mp4</link>
+<thumbnail>http://cliente.playmove.tv/images/posters/454649_208f4ef83455cf11dadcf6b693585947_20160404180043_big.jpg</thumbnail>
+</item>
+
+<item>
+<title>A BRUXA DE BLAIR</title>
+<link>http://138.201.33.133/terror/A.Bruxa.de.Blair.mp4</link>
+<thumbnail>http://cliente.playmove.tv/images/posters/544161_4b2b6bd91812baafbc693a885c391ef7_20160722150930_big.jpg</thumbnail>
+</item>
+
+<item>
+<title>ALVIN E OS ESQUILOS NA ESTRADA</title>
+<link>http://138.201.33.133/infantil/Alvin.e.os.Esquilos.Na.Estrada.mp4</link>
+<thumbnail>http://cliente.playmove.tv/images/posters/460179_85dada9109856cfd3dcd092a8605b8ae_20160426131647_big.jpg</thumbnail>
+</item>
+
+<item>
+<title>AMERICAN ULTRA ARMADOS E ALUCINADOS</title>
+<link>http://138.201.33.133/acao/American.Ultra.Armados.e.Alucinados.2016.720.DUAL.mp4</link>
+<thumbnail>http://cliente.playmove.tv/images/posters/454640_2cc8acbd8469bd0a0dd1ffabea0b593c_20160404170355_big.jpg</thumbnail>
+</item>
+
+<item>
+<title>BATMAN VS SUPERMAN - A ORIGEM DA JUSTIÇA</title>
+<link>http://138.201.33.133/acao/Batman.vs.Superman.A.Origem.da.Justica.mp4</link>
+<thumbnail>http://cliente.playmove.tv/images/posters/544777_bdd269c5af564850c797ec9e70fb730c_20160820195149_big.jpg</thumbnail>
+</item>
+
+<item>
+<title>A GRANDE APOSTA</title>
+<link>http://138.201.33.133/drama/A.Grande.Aposta.mp4</link>
+<thumbnail>http://cliente.playmove.tv/images/posters/501994_90b08c11b7c2676f5f84533de48c3009_20160525135819_big.jpg</thumbnail>
+</item>
+
+<item>
+<title>A TRAVESSIA</title>
+<link>http://138.201.33.133/drama/A.travessia.mp4</link>
+<thumbnail>http://cliente.playmove.tv/images/posters/480254_1902ed8d2e225457950f1f40a17ca626_20160506131721_big.jpg</thumbnail>
+</item>
+
+<item>
+<title>ALIANÇA DO CRIME</title>
+<link>http://138.201.33.133/acao/Alianca.do.Crime.2016.720.DUAL.mp4</link>
+<thumbnail>http://cliente.playmove.tv/images/posters/454641_ff9a205325462801632c5e104f7be908_20160404171924_big.jpg</thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title></title>
 <link></link>
 <thumbnail></thumbnail>
@@ -33,38 +93,6 @@
 <link>http://138.201.33.133/ficcao/A.5.Onda.novo.mp4</link>
 <thumbnail>http://cliente.playmove.tv/images/posters/501991_7a3c10da0e905f0d1316ee3687a62353_20160525133418_big.jpg</thumbnail>
 </item>
-
-A GRANDE APOSTA
-http://cliente.playmove.tv/images/posters/501994_90b08c11b7c2676f5f84533de48c3009_20160525135819_big.jpg
-http://138.201.33.133/drama/A.Grande.Aposta.mp4
-
-A TRAVESSIA
-http://cliente.playmove.tv/images/posters/480254_1902ed8d2e225457950f1f40a17ca626_20160506131721_big.jpg
-http://138.201.33.133/drama/A.travessia.mp4
-
-ALIANÇA DO CRIME
-http://cliente.playmove.tv/images/posters/454641_ff9a205325462801632c5e104f7be908_20160404171924_big.jpg
-http://138.201.33.133/acao/Alianca.do.Crime.2016.720.DUAL.mp4
-
-ALVIN E OS ESQUILOS NA ESTRADA
-http://cliente.playmove.tv/images/posters/460179_85dada9109856cfd3dcd092a8605b8ae_20160426131647_big.jpg
-http://138.201.33.133/infantil/Alvin.e.os.Esquilos.Na.Estrada.mp4
-
-AMERICAN ULTRA ARMADOS E ALUCINADOS
-http://cliente.playmove.tv/images/posters/454640_2cc8acbd8469bd0a0dd1ffabea0b593c_20160404170355_big.jpg
-http://138.201.33.133/acao/American.Ultra.Armados.e.Alucinados.2016.720.DUAL.mp4
-
-BATMAN VS SUPERMAN - A ORIGEM DA JUSTIÇA
-http://cliente.playmove.tv/images/posters/544777_bdd269c5af564850c797ec9e70fb730c_20160820195149_big.jpg
-http://138.201.33.133/acao/Batman.vs.Superman.A.Origem.da.Justica.mp4
-
-A BRUXA DE BLAIR
-http://cliente.playmove.tv/images/posters/544161_4b2b6bd91812baafbc693a885c391ef7_20160722150930_big.jpg
-http://138.201.33.133/terror/A.Bruxa.de.Blair.mp4
-
-A COLINA ESCARLATE
-http://cliente.playmove.tv/images/posters/454649_208f4ef83455cf11dadcf6b693585947_20160404180043_big.jpg
-http://138.201.33.133/terror/A.Colina.Escarlate.2016.720.DUAL.mp4
 
 <item>
 <title>AMIZADE DESFEITA</title>
