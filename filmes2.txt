@@ -1,209 +1,108 @@
-#EXTM3U
-#EXTINF:-1,MOGLI: O MENINO LOBO [DUB]
-http://storage-rc.edgedns.us/RedeCanais/RCFServer3/ondemand/MGLOMENLB.mp4
-#EXTINF:-1,MENTE CRIMONOSA [DUB]
-http://storage-rc.edgedns.us/RedeCanais/RCFServer3/ondemand/MENTCRMINSA.mp4
-#EXTINF:-1,HARDCORE: MISSÃO EXTREMA [DUB]
-http://storage-rc.edgedns.us/RedeCanais/RCFServer3/ondemand/HARDCRMSEXTRM.mp4
-#EXTINF:-1,FRANKENSTEIN [DUB]
-http://storage-rc.edgedns.us/RedeCanais/RCFServer3/ondemand/FRNKSTEN.mp4
-#EXTINF:-1,ELE NUNCA MORRE [DUB]
-http://storage-rc.edgedns.us/RedeCanais/RCFServer3/ondemand/ELENCMRR.mp4
-#EXTINF:-1,DEUS NÃO ESTÁ MORTO [DUB]
-http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/DSNESTMRT.mp4
-#EXTINF:-1,DEUS NÃO ESTÁ MORTO 2 [DUB]
-http://storage-rc.edgedns.us/RedeCanais/RCFServer3/ondemand/DSNESTMRT2.mp4
-#EXTINF:-1,CAPITÃO AMÉRICA: GUERRA CIVIL [LEG]
-http://storage-rc.edgedns.us/RedeCanais/RCFServer3/ondemand/CAPTAMRC3LEG.mp4
-#EXTINF:-1,A SÉRIE DIVERGENTE: CONVERGENTE [DUB]
-http://storage-rc.edgedns.us/RedeCanais/RCFServer3/ondemand/ASREDVRGNTCNVGNT.mp4
-#EXTINF:-1,À PROCURA DA LIBERDADE [DUB]
-http://storage-rc.edgedns.us/RedeCanais/RCFServer3/ondemand/APRCURDLBRD.mp4
-#EXTINF:-1,TRIPLE 9 [DUB]
-http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/TRPL9.mp4
-#EXTINF:-1,DIABLO [DUB]
-http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/DIABLODUB.mp4
-#EXTINF:-1,LOVE LIVE! SCHOOL IDOL PROJECT MOVIE [LEG]
-http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/LOVLVTSCHLIDLMV.mp4
-#EXTINF:-1,ATÉ QUE A SORTE NOS SEPARE 3 [DUB]
-http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ATQASRTNSPR3.mp4
-#EXTINF:-1,HOTEL TRANSILVÂNIA 2 [DUB]
-http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/HOTLTRNSVLNA2.mp4
-#EXTINF:-1,THE RIDICULOUS 6 [DUB]
-http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/THRDCULOS6.mp4
-#EXTINF:-1,SOUTH PARK: MAIOR, MELHOR E SEM CORTES [DUB]
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/STHPRKFILME01.mp4
-#EXTINF:-1,OS SIMPSONS: O FILME [DUB]
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/OSMPSFILME.mp4
-#EXTINF:-1,BOB ESPONJA: UM HERÓI FORA D'ÁGUA [DUB]
-http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/BOBESPJUHRFRDGUA.mp4
-#EXTINF:-1,TED 2 [DUB]
-http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/TED2.mp4
-#EXTINF:-1,O ENCONTRO [DUB]
-http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OENCTRO.mp4
-#EXTINF:-1,A VIATURA [DUB]
-http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/AVIATURA.mp4
-#EXTINF:-1,UM SENHOR ESTAGIÁRIO [DUB]
-http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/UMSNHRESTGIARIO.mp4
-#EXTINF:-1,OS 33 [DUB]
-http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OS33.mp4
-#EXTINF:-1,ANGRY BIRDS - O FILME [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ANGRYBRDSFLM.mp4
-#EXTINF:-1,ANGRY BIRDS - O FILME [LEG]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ANGRYBRDSFLMLEG.mp4
-#EXTINF:-1,WARCRAFT: O PRIMEIRO ENCONTRO DE DOIS MUNDOS [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/WARCFT.mp4
-#EXTINF:-1,DEUSES DO EGITO [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/DEUSDEGTO.mp4
-#EXTINF:-1,DOCE VINGANÇA 3: A VINGANÇA É MINHA [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/DCVNGCA3.mp4
-#EXTINF:-1,A SÉRIE DIVERGENTE: CONVERGENTE [LEG]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ASREDVRGNTCNVGNTLEG.mp4
-#EXTINF:-1,ALICE ATRAVÉS DO ESPELHO [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ALCATRVSDESLHO.mp4
-#EXTINF:-1,VOLTANDO DO INFERNO [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/VLTNDINF.mp4
-#EXTINF:-1,VINGADORES: ERA DE ULTRON [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/VNGDRSEDURON.mp4
-#EXTINF:-1,HOMEM-FORMIGA [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/HMNFRMG.mp4
-#EXTINF:-1,MINIONS [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/MINIONS.mp4
-#EXTINF:-1,VELOZES & FURIOSOS 7 [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/VLZEFROSOS07.mp4
-#EXTINF:-1,PIXELS - O FILME [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/PIXRLS.mp4
-#EXTINF:-1,DIVERTIDA MENTE [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/DVRTDMNT.mp4
-#EXTINF:-1,CINQUENTA TONS DE CINZA [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/CNQNTNSDCNZ.mp4
-#EXTINF:-1,O ÚLTIMO CAÇADOR DE BRUXAS [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OULTMCADRDBRXDUB.mp4
-#EXTINF:-1,ALVIN E OS ESQUILOS: NA ESTRADA [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULSNESTRD.mp4
-#EXTINF:-1,TOMORROWLAND: UM LUGAR ONDE NADA É IMPOSSÍVEL [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/TOMROWLND.mp4
-#EXTINF:-1,BRAVETOWN [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/BRVTWN.mp4
-#EXTINF:-1,THE WALKING DECEASED [LEG]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/TWLKDCSD.mp4
-#EXTINF:-1,SUBMERGED [LEG]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/SBMRGDLEG.mp4
-#EXTINF:-1,MACBETH: AMBICAO & GUERRA [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/MCBETHABCOEGURR.mp4
-#EXTINF:-1,LORDS OF LONDON [LEG]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/LDSODLNDLEG.mp4
-#EXTINF:-1,JOGOS VORAZES: A ESPERANÇA - O FINAL [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/JGSVRZSAESPRPT2.mp4
-#EXTINF:-1,HANGMAN [LEG]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/HGMNLEG.mp4
-#EXTINF:-1,COMO SOBREVIVER A UM ATAQUE ZUMBI [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/CMSBRVVERAUATQZMB.mp4
-#EXTINF:-1,QUARTETO FANTÁSTICO [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/QRTFNTSC2015.mp4
-#EXTINF:-1,KUNG FU PANDA 3 [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPND3.mp4
-#EXTINF:-1,ZOOTOPIA: ESSA CIDADE É O BICHO [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ZOTPIA.mp4
-#EXTINF:-1,VAI QUE DÁ CERTO 2 [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/VQDRCRT2.mp4
-#EXTINF:-1,SPOTILIGHT: SEGREDOS REVELADOS [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/SPTGHTSCRDSRVLDS.mp4
-#EXTINF:-1,O TIGRE E O DRAGÃO: A ESPADA DO DESTINO [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OTRIGEDRG.mp4
-#EXTINF:-1,O GRANDE MESTRE 3 [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OGRNDMSTR3.mp4
-#EXTINF:-1,LIGA DA JUSTIÇA VS. JOVENS TITÃS [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/LIGDJSTVSTNTITNSUEA.mp4
-#EXTINF:-1,IRMÃS [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/IRMAS.mp4
-#EXTINF:-1,A RESSURREICAO DO ANTICRISTO [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ARSRCAODANTCRST.mp4
-#EXTINF:-1,X-MEN: APOCALIPSE [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/XMENAPCLPSE.mp4
-#EXTINF:-1,OS DEZ MANDAMENTOS: O FILME [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OSDZMANDMTS.mp4
-#EXTINF:-1,MUMIA: A RESSURREICAO [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/MUMARSRCAO.mp4
-#EXTINF:-1,LEGO DC COMICS SUPER HERÓIS: LIGA DA JUSTIÇA - COMBATE CÓSMICO [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/LEGLGDJSTCCMBTCSMCO.mp4
-#EXTINF:-1,CINQUENTA TONS DE PRETO [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/CQNTATNSDPRT.mp4
-#EXTINF:-1,CAPITÃO AMÉRICA: GUERRA CIVIL [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/CAPTAMRC3.mp4
-#EXTINF:-1,BATMAN VS SUPERMAN: A ORIGEM DA JUSTIÇA [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/BTMNVSPRMNAODJ.mp4
-#EXTINF:-1,DEADPOOL [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/DEADPOL.mp4
-#EXTINF:-1,STEVE JOBS [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/STVJBS.mp4
-#EXTINF:-1,REBELIÃO [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/RBLOA.mp4
-#EXTINF:-1,PERSEGUINDO ABBOTT [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/PRSGUNDABOT.mp4
-#EXTINF:-1,O REGRESSO [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ORGRSODUB.mp4
-#EXTINF:-1,ORGULHO E PRECONCEITO E ZUMBIS [LEG]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ORGLHEPRCTZMBLEG.mp4
-#EXTINF:-1,OPERACAO RESGATE [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRCORSGT.mp4
-#EXTINF:-1,O GRANDE MESTRE 3 [LEG]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OGRNDMSTR3LEG.mp4
-#EXTINF:-1,GET A JOB [LEG]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/GETJBLEG.mp4
-#EXTINF:-1,ENSINA-ME O AMOR [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ESNMOAMR.mp4
-#EXTINF:-1,A SEITA [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ASITA.mp4
-#EXTINF:-1,CASAMENTO DE VERDADE [LEG]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/JNYWDNGLEG.mp4
-#EXTINF:-1,JEM E AS HOLOGRAMAS [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/JMEASHLFRMS.mp4
-#EXTINF:-1,GRACE DE MÔNACO [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/GRCDMNC.mp4
-#EXTINF:-1,CAROL [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/CRL.mp4
-#EXTINF:-1,CANIBAIS [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/CANBS.mp4
-#EXTINF:-1,CACADORES DE EMOCAO: ALÉM DO LIMITE [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/CACDRSDEMCOSALMDLMT.mp4
-#EXTINF:-1,KUNG FU PANDA: SEGREDOS DO PERGAMINHO [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPNDSGRDDPRGMH.mp4
-#EXTINF:-1,AMOR POR ACIDENTE [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/AMRPRACDNT.mp4
-#EXTINF:-1,A ERA DO GELO: A GRANDE CAÇADA AOS OVOS DE PÁSCOA [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/AERDGLAGRNDCAOVS.mp4
-#EXTINF:-1,SNOOPY E CHARLIE BROWN: PEANUTS - O FILME [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/SNPYECRLIBRPANRSOFLM.mp4
-#EXTINF:-1,PERSEGUICAO [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/PRSGCAO.mp4
-#EXTINF:-1,TERMINUS [LEG]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/TRIMNUSLEG.mp4
-#EXTINF:-1,WOODLAWN: TALENTO E FÉ [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/TLNTEFWODLWN.mp4
-#EXTINF:-1,THE BEACH BOYS: UMA HISTÓRIA DE SUCESSO [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/THBCHBYSUHDS.mp4
-#EXTINF:-1,REGRESSO DO MAL [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/RGRSDMAL.mp4
-#EXTINF:-1,HOMEM IRRACIONAL [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OHOMNIRCIONL.mp4
-#EXTINF:-1,LEGO FRIEND: GIRLZ 4 LIFE [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/LEGOFRNDS.mp4
-#EXTINF:-1,JOGO DE ASSASSINOS [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/JGSDASINS.mp4
-#EXTINF:-1,APRENDENDO COM A VOVÓ [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/APRNDOCMAVO.mp4
-#EXTINF:-1,BATMAN: SANGUE RUIM [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/BTMNSNGRUIM.mp4
-#EXTINF:-1,A HERDEIRA [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/AHRDIRA.mp4
-#EXTINF:-1,90 MINUTOS NO PARAÍSO [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/90MINPRSO.mp4
-#EXTINF:-1,OS CONDENADOS 2 [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OSCNDNS2.mp4
-#EXTINF:-1,O BOM DINOSSAURO [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OBOMDINO.mp4
-#EXTINF:-1,ESPECIALISTA EM CRISE [DUB]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ESPCLSEMCRS.mp4
-#EXTINF:-1,PRESSÁGIOS DE UM CRIME [LEG]
-http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/PRSGDUCRM.mp4
+<item>
+<title>A 5ª ONDA</title>
+<link>http://138.201.33.133/ficcao/A.5.Onda.novo.mp4</link>
+<thumbnail>http://cliente.playmove.tv/images/posters/501991_7a3c10da0e905f0d1316ee3687a62353_20160525133418_big.jpg</thumbnail>
+</item>
+
+A GRANDE APOSTA
+http://cliente.playmove.tv/images/posters/501994_90b08c11b7c2676f5f84533de48c3009_20160525135819_big.jpg
+http://138.201.33.133/drama/A.Grande.Aposta.mp4
+
+A TRAVESSIA
+http://cliente.playmove.tv/images/posters/480254_1902ed8d2e225457950f1f40a17ca626_20160506131721_big.jpg
+http://138.201.33.133/drama/A.travessia.mp4
+
+ALIANÇA DO CRIME
+http://cliente.playmove.tv/images/posters/454641_ff9a205325462801632c5e104f7be908_20160404171924_big.jpg
+http://138.201.33.133/acao/Alianca.do.Crime.2016.720.DUAL.mp4
+
+ALVIN E OS ESQUILOS NA ESTRADA
+http://cliente.playmove.tv/images/posters/460179_85dada9109856cfd3dcd092a8605b8ae_20160426131647_big.jpg
+http://138.201.33.133/infantil/Alvin.e.os.Esquilos.Na.Estrada.mp4
+
+AMERICAN ULTRA ARMADOS E ALUCINADOS
+http://cliente.playmove.tv/images/posters/454640_2cc8acbd8469bd0a0dd1ffabea0b593c_20160404170355_big.jpg
+http://138.201.33.133/acao/American.Ultra.Armados.e.Alucinados.2016.720.DUAL.mp4
+
+BATMAN VS SUPERMAN - A ORIGEM DA JUSTIÇA
+http://cliente.playmove.tv/images/posters/544777_bdd269c5af564850c797ec9e70fb730c_20160820195149_big.jpg
+http://138.201.33.133/acao/Batman.vs.Superman.A.Origem.da.Justica.mp4
+
+A BRUXA DE BLAIR
+http://cliente.playmove.tv/images/posters/544161_4b2b6bd91812baafbc693a885c391ef7_20160722150930_big.jpg
+http://138.201.33.133/terror/A.Bruxa.de.Blair.mp4
+
+A COLINA ESCARLATE
+http://cliente.playmove.tv/images/posters/454649_208f4ef83455cf11dadcf6b693585947_20160404180043_big.jpg
+http://138.201.33.133/terror/A.Colina.Escarlate.2016.720.DUAL.mp4
+
+<item>
+<title>AMIZADE DESFEITA</title>
+<link>http://138.201.33.133/drama/Unfriended.mp4</link>
+<thumbnail>http://cliente.playmove.tv/images/posters/459871_1f666ec9fac62407bee9caa97efa655b_20160414192532_big.jpg</thumbnail>
+</item>
+
+<item>
+<title>A VISITA</title>
+<link>http://138.201.33.133/terror/A.Visita.2016.720.DUAL.mp4</link>
+<thumbnail>http://cliente.playmove.tv/images/posters/454642_04e5f9e9fef82037a73cca3f8fe6dd28_20160404172303_big.jpg</thumbnail>
+</item>
+
+A POSSESSÃO DO MAL
+http://cliente.playmove.tv/images/posters/544164_3d41fc9d4eea27baa4e09607a64c6ed6_20160718150018_big.jpg
+http://138.201.33.133/terror/A.Possessao.do.Mal.mp4
+
+
+<item>
+<title>A ENTIDADE 2</title>
+<link>http://138.201.33.133/terror/A.Entidade.2.2016.720.DUAL.mp4</link>
+<thumbnail>http://cliente.playmove.tv/images/posters/454648_e69d5effd20d0d5beda72c0ab19424c3_20160404175714_big.jpg</thumbnail>
+</item>
+
+<item>
+<title>A MULHER DE PRETO 2</title>
+<link>http://138.201.33.133/terror/A.Mulher.de.Preto.2.Dublado.mp4</link>
+<thumbnail>http://cliente.playmove.tv/images/posters/454644_6e8de04cd5d8372013ebe7335bd42f6e_20160404174357_big.jpg</thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>A BRUXA</title>
+<link>http://138.201.33.133/terror/A.Bruxa.mp4</link>
+<thumbnail>http://cliente.playmove.tv/images/posters/544160_7749a975552693be0c7019de972a3dba_20160718144653_big.jpg</thumbnail>
+</item>
+
+<item>
+<title>A BEIRA MAR</title>
+<link>http://138.201.33.133/romance/A.Beira.Mar.mp4</link>
+<thumbnail>http://cliente.playmove.tv/images/posters/544159_4e92041c4154d439a8d88d71d305aa1f_20160718144007_big.jpg</thumbnail>
+</item>
