@@ -1,4 +1,185 @@
 <item>
+<title>X-Men: Apocalypse (2016)</title>
+<link>https://lh3.googleusercontent.com/nuXIovCX2AeKOkDDPl4KzBwW7O7zZ-Xq_COLoPJO39jYmOFpPHxX6buG8pp4aP5jRdylzqNFob03FQ=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/246655movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Capitão América: Guerra Civil - Captain America: Civil War (2016)</title>
+<link>https://lh3.googleusercontent.com/Mzs1GRO2ZP8L1aini7bSab-QnqZ727FH-b92ayDGUPCej-XPA0T8OFFAiLQMWJRiYHmB4YIGyQPlRg=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/271110movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tartarugas Ninja Heróis Mutantes: O Romper das Sombras</title>
+<link>https://lh3.googleusercontent.com/O1wCN9ECfRY9oBMuHd15a_bt-Q8yM1uKjNkyXpudVlL09a02CIM-rJoPSxruf33kuAYg-Qr1FdehOQ=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/308531movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>O Alvo 2 - Hard Target 2 (2016)</title>
+<link>https://lh3.googleusercontent.com/y7R73XpTRbCvRu8vPjexg2a-qOWjzuh8ts2GaFpJe80-wAelf1yX2x-L26HYtSV64jl-SrUsK-B-DA=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/402331movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Invocação do Mal 2- Conjuring 2 (2016)</title>
+<link>https://lh3.googleusercontent.com/HSG58QBQQkM7Sby6mVaIAijQqi2HsSPTkmgJ8HkC0yGYBXYNdggyfAGBQDOiGcMSIlJTtXBAWvm4rA=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/259693movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Vizinhos 2 - Neighbors 2 (2016)</title>
+<link>https://lh3.googleusercontent.com/3rXNZKJY8geFjskJ2NwckDU5tbucREsqfHNqyv1zLgBQznMDzqCWTcKhl0VWa3u-XBCFB2ZTTloWDQ=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/325133movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mogli: O Livro da Selva - The Jungle Book (2016)</title>
+<link>https://lh3.googleusercontent.com/pIQEVX-2wUMWTEJf3Lx2AeO3xNt6_L00__cERIjdqnD2CLLcsTyJhIA6MciPfX_uOqqUAreynMttbg=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/278927movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>O Caçador e a Rainha do Gelo - The Huntsman: Winter's War (2016)</title>
+<link>https://lh3.googleusercontent.com/xiQkIR5C_lOm0X4Bn3QKCSimQZniF-WSbKYqUiqdlqUuoTZ2h6C09izwlUpcGBBAbkc8e8jCGA=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/290595movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Missão Extrema - Hardcore Henry (2016)</title>
+<link>https://lh3.googleusercontent.com/vBLWPevaGnmdap7GZ6Z6QZuMQQhqodXvtMqA_Oco4XSi1759miyfRU8G42L9X0fVc3KzXbgvsQ=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/325348movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mente Criminosa - Criminal (2016)</title>
+<link>https://lh3.googleusercontent.com/RBoqkX5DzvfMREXUj7ua2RLnRKhkgffnhA0gEM3hTtOm71FYiGddm3H24TnouqpE0MEAjlaaJA=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/302156movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Keanu (2016)</title>
+<link>https://lh3.googleusercontent.com/s5GRO9OR7girKq9LtxEp44SohEpzTonDXKl9KNPVWPwbhtVg_mqW5oe-ysim6JzwsHf4MYO99g=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/342521movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Batman: A Piada Mortal - The Killing Joke (2016)</title>
+<link>https://lh3.googleusercontent.com/JQ8mwqyrY0sYuPS5Lkk4oeHGESQ8zfwFRtrS5YvYJQHPTj1i0gQPxYQYhNXauhMou1S2B3JsBA=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/382322movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mais Forte Que Bombas - Louder than Bombs (2015)</title>
+<link>https://lh3.googleusercontent.com/6BzKhEHUis_7Xofz4zeQzgFfk4ddcn_cCo7h7H1wsX08RgVDOr-FOsOyqsoxYShypGxr_aDRwQ=m18</link>
+<thumbnail>http://cinedoanula.com/imdb/posters/157827movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Pais e Filhas - Fathers and Daughters (2015)</title>
+<link>https://lh3.googleusercontent.com/isAjOdD7vTgYwwN9Pb3g-lknH8Z3t7x3LxQMkVPI1pe8WjFbOcpB5EeAo2pwaVk_dYUIr8UwVg=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/2anN8jwX602UYmnU46V2WhXRdJX.jpg</thumbnail>
+</item>
+
+<item>
+<title>Forsaken - O Retorno de John Henry (2015)</title>
+<link>https://lh3.googleusercontent.com/NgdLDZEQn8QebIJl25kPoO_8g3F4ZCREPgax8vYx17Qf6ZIO2_eSYoW4cT6MaVbFYhoGmTfYeQ=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/354110movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>O Jovem Messias - The Young Messiah (2016)</title>
+<link>https://lh3.googleusercontent.com/tUKKWrpbESVdov4Xftn1ymH6TVLjv7EqxH5gXWVGwWzqH4r7HOLFcMCf6AIt3PFaJ7tNBBARpQ=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/318850movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Baahubali: O Início - The Beginning (2015)</title>
+<link>https://lh3.googleusercontent.com/nA5zKNEQAMEguRN9RcPcA8Vkf6Q52yKJ-h5md0iuzoHtX2NKiSXF_tCm1A-HKbOWfEwiTE2YPw=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/256040movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>O Convite - The Invitation (2015)</title>
+<link>https://lh3.googleusercontent.com/Ig53p8L8j2VhiW7eTnnZZAWDEZbxwj3lSX9HIVb5mKJ8q5t76feE_x3KGxyl9osxxWz75mqx4A=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/306947movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Em Busca da Justiça - Jane Got a Gun (2015)</title>
+<link>https://lh3.googleusercontent.com/QbJ0tRrc0WeG5AJE27hxbKp0eD-qRhF4Jy2QS8sAqh2YvybkrWHFDzvK9MGNHi3TTVxVrB84ww=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/174751movie.jpg</thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
 <title>Assalto ao Poder - Marauders (2016)</title>
 <link>https://lh3.googleusercontent.com/71c_mtBqwvEDqgMxnWLq9I5uXfB2hXJFwHAe_xl6rVhYQLD9k0vsss1cvCGKDWuMC_0OdJmVCst9Jg=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/359412movie.jpg</thumbnail>
@@ -68,24 +249,6 @@
 <title>ALIANÇA DO CRIME</title>
 <link>http://138.201.33.133/acao/Alianca.do.Crime.2016.720.DUAL.mp4</link>
 <thumbnail>http://cliente.playmove.tv/images/posters/454641_ff9a205325462801632c5e104f7be908_20160404171924_big.jpg</thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
 </item>
 
 <item>
