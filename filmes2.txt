@@ -1,4 +1,124 @@
 <item>
+<title>Capitão América 2: O Soldado Invernal - Captain America: The Winter Soldier (2014)</title>
+<link>https://lh3.googleusercontent.com/aFxgl9FsKke2PdyCqUIyH1ay6c_bOqOI3N7W7nJLABM=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/6XrOOX2x4TaXxi1DbNz7DyhM11d.jpg</thumbnail>
+</item>
+
+<item>
+<title>Hércules - Hercules (2014)</title>
+<link>https://lh3.googleusercontent.com/FqkuXL44FqlYAK5YJyi4NfhVAHFE8jkdW4nTtt8Ubgo=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/184315movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Caçada Mortal (2014)</title>
+<link>https://lh3.googleusercontent.com/wGnpqFtjYM_YsSfY9KJAI8pTYK0FJeRzR1fzfSdXJpU=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/169917movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>O Espetacular Homem-Aranha 2: A Ameaça de Electro (2014)</title>
+<link>https://lh3.googleusercontent.com/qyZj8ibpoQUnVGfn6QghIQow43inhjE3V-rHtxIRUhA=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/6a96OGthCFu3smdGShkgl7Laxvm.jpg</thumbnail>
+</item>
+
+<item>
+<title>Vingadores: Era de Ultron - Avengers: Age of Ultron (2015)</title>
+<link>https://lh3.googleusercontent.com/jMyG6_KO-nB6bih0LEkYqftlHNXGSH5-W-rBT-le9kQ=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/kldrjhg2NhywlAGsck2mRTKiVyb.jpg</thumbnail>
+</item>
+
+<item>
+<title>Jurassic World - O Mundo dos Dinossauros (2015)</title>
+<link>https://lh3.googleusercontent.com/-gM-2T-MxnoFzPVgwH2kFdWvOTniuY0Dn5XC0sTJdIcSoPRq2m_6fo_dMmc_isW4BGPwl-e9FA=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/tt0369610.jpg</thumbnail>
+</item>
+
+<item>
+<title>Jogo Duro - Carta Selvagem - Wild Card (2015)</title>
+<link>https://lh3.googleusercontent.com/oJDfwbZD1VB4eujfJz2HpEdN3WkDIzaFUOy7H4Wp1VQ=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/265208movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Noite Sem Fim - Run All Night (2015)</title>
+<link>https://lh3.googleusercontent.com/9srOPKZA5oI2-kRwmXyX8lpbM6UhtmrYe4M2w6kSiA0=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/oRQgG6uK9W5aAdGO1dbGLcjSVRS.jpg</thumbnail>
+</item>
+
+<item>
+<title>O Franco-Atirador - The Gunman (2015)</title>
+<link>https://lh3.googleusercontent.com/bieSdkuPRy6IAPj0bxZbrv6ozH3LpVfodif-kN7lgGw=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/266396movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Parker (2013)</title>
+<link>https://lh3.googleusercontent.com/VQiQ6eYh5RagMEH1u8ebQYtS3BI-tN7L3qnw-8LlIeA=m18</link>
+<thumbnail>http://cinedoanula.com/imdb/posters/119283movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>3 Dias para Matar - 3 Days to Kill (2014)</title>
+<link>https://lh3.googleusercontent.com/X5IUGjTsyEXVw7SaFak30EmxhSggv_yaYI1WoIp-nPs=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/192102movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Confronto Final - A Good Man (2014)</title>
+<link>https://lh3.googleusercontent.com/n31iZJUIXrKrANNy-Cey4dxwOMFi7P6rgOXc8UkMODU=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/286668movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sem Escalas - Non-Stop (2014)</title>
+<link>https://lh3.googleusercontent.com/tZ2XJe1p4e90mnhnTVcZiN8sD_FtcEOP9C4GHs39Qk8=m18</link>
+<thumbnail>http://cinedoanula.com/imdb/posters/225574movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sangue Jovem - Son of a Gun (2014)</title>
+<link>https://lh3.googleusercontent.com/qGXJfmINIX7kbYUEdjKOmxeV8Ddmwc-aOi5tP0N5ZNY=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/294652movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Nocaute (2015)</title>
+<link>https://lh3.googleusercontent.com/B2Y00Dv6wNf5UxDp8czSlJTsTosditK1ZbyAnm8suj4=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/nBKfLWnkKB1wa0tmGDInHGRjz51.jpg</thumbnail>
+</item>
+
+<item>
+<title>Osso Duro - Pound of Flesh (2015)</title>
+<link>https://lh3.googleusercontent.com/SX3zYp203sw0N9MMIAMcEEU0svKjjlVUpyw-UT6qflQ=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/326284movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Hitman: Agente 47 - Hitman: Agent 47 (2015)</title>
+<link>https://lh3.googleusercontent.com/kikwMJ-ePt5jNpKxF9pxH49bLkHFeRnbAI_kI7Xr_Ew=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/249070movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Quarteto Fantástico - Fantastic Four (2015)</title>
+<link>https://lh3.googleusercontent.com/Nqv7JHjoPgN_mESyZSHJKYoYfG3TS7CzYLbe3q51ZqA=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/166424movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>O Agente da UNCLE - The Man From U.N.C.L.E. (2015)</title>
+<link>https://lh3.googleusercontent.com/_vFhKtyHZXiwrBF8pJsrFdvhBVuWPD__PE9-NLJ3sfo=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/203801movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Homem-Formiga - Ant-Man (2015)</title>
+<link>https://lh3.googleusercontent.com/XcFF_GDJJHyxPG2vH6CQ9JLZmG-s3C9ijeMtH_UZqRs=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/tR3CZJltJR1hxDhN6N791vBZS3q.jpg</thumbnail>
+</item>
+
+<item>
 <title>X-Men: Apocalypse (2016)</title>
 <link>https://lh3.googleusercontent.com/nuXIovCX2AeKOkDDPl4KzBwW7O7zZ-Xq_COLoPJO39jYmOFpPHxX6buG8pp4aP5jRdylzqNFob03FQ=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/246655movie.jpg</thumbnail>
@@ -113,71 +233,10 @@
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>De Volta ao Jogo - John Wick (2014)</title>
+<link>https://lh3.googleusercontent.com/kNETFyFjli3b93Re-jfp_Kp2sz39iOV2kWo-7A7qy-M=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/245891movie.jpg</thumbnail>
 </item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
 
 <item>
 <title>Assalto ao Poder - Marauders (2016)</title>
