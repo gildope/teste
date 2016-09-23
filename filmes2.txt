@@ -1,24 +1,24 @@
 <item>
 <title>Warcraft - O Primeiro Encontro de Dois Mundos (2016)</title>
-<link>https://lh3.googleusercontent.com/wDTPanLPpCWJl8sGYrHgk96sGxJ11OBOX55bv2JGtv-TS7iDM4rcBcMEWVP-KYngo7D6H9l0u67eYA=m22</link>
+<link>https://lh3.googleusercontent.com/wDTPanLPpCWJl8sGYrHgk96sGxJ11OBOX55bv2JGtv-TS7iDM4rcBcMEWVP-KYngo7D6H9l0u67eYA=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/68735movie.jpg</thumbnail>
 </item>
 
 <item>
 <title>Alice Através do Espelho - Alice Through the Looking Glass (2016)</title>
-<link>https://lh3.googleusercontent.com/V7QRjPwZNlSkkZSKeDrVdqzuXbth0zsUnoI0Uy2i1c7ALFRvrlQRSiq2yPRXXfnN7D2N9-Z_9BK2oXk=m22</link>
+<link>https://lh3.googleusercontent.com/V7QRjPwZNlSkkZSKeDrVdqzuXbth0zsUnoI0Uy2i1c7ALFRvrlQRSiq2yPRXXfnN7D2N9-Z_9BK2oXk=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/241259movie.jpg</thumbnail>
 </item>
 
 <item>
 <title>Parceiros de Jogos - Mississippi Grind (2015)</title>
-<link>https://lh3.googleusercontent.com/Oj7-AiDUJuNxXKH81_fsmRyySG-5Px_qCCM3pvJGjouAnWD907kEs0nKe-dN6CdjnzfZHnc8u9angA=m22</link>
+<link>https://lh3.googleusercontent.com/Oj7-AiDUJuNxXKH81_fsmRyySG-5Px_qCCM3pvJGjouAnWD907kEs0nKe-dN6CdjnzfZHnc8u9angA=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/309242movie.jpg</thumbnail>
 </item>
 
 <item>
 <title>ARQ (2016)</title>
-<link>https://lh3.googleusercontent.com/alQn_PBSb-YcHP04r4Ex4PYJ0zlX5cdUGQFYVlEvVfXYPuCfPXOxYnnGYista36x_BK-vipZLqdC4g=m22</link>
+<link>https://lh3.googleusercontent.com/alQn_PBSb-YcHP04r4Ex4PYJ0zlX5cdUGQFYVlEvVfXYPuCfPXOxYnnGYista36x_BK-vipZLqdC4g=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/410199movie.jpg</thumbnail>
 </item>
 
