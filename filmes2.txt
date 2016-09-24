@@ -1,4 +1,89 @@
 <item>
+<title>Corrente do Mal - It Follows (2014)</title>
+<link>https://lh3.googleusercontent.com/epbkLrwu7clvq-yPPQf_FPaccLWKLF0Z5dMkAcWGY7s=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/270303movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Aliens, O Resgate (1986)</title>
+<link>https://lh3.googleusercontent.com/Xi1hLAU9iHgmr4XBexER4c3vAUwVLqg2YpgUyTYD-Yg=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/679movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Pânico 4 - Scream 4 (2011)</title>
+<link>https://lh3.googleusercontent.com/eHH_nrYLsmyfzNMUyw9BB5DlEq9gAXkDPEOslIvjet4=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/41446movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Carrie, A Estranha (2013)</title>
+<link>https://lh3.googleusercontent.com/r2sE9_Q0LK60ipMW6jeKIfuzlWXYMjf94fbWtij3PPg=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/133805movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Pânico 2 - Scream 2 (1997)</title>
+<link>https://lh3.googleusercontent.com/-yF6iWVcNbZcMpvqDKQXsHbz04mWy3yqI1FsJLw02fY=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/4233movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ouija - O jogo dos Espíritos (2014)</title>
+<link>https://lh3.googleusercontent.com/QzYKLObT94yZCfzHwdqA16-KelVVkeyPvk0BMK37xfA=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/242512movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Frankenstein: Entre Anjos e Demônios - I, Frankenstein (2014)</title>
+<link>https://lh3.googleusercontent.com/RDWLLVO_CNJYC_A_3pVEvACHJTq1GnICVU5kIJ9YMBM=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/100241movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>[REC] (2007)</title>
+<link>https://lh3.googleusercontent.com/qkRSzbEVUP_UThEgVeTmkj0_AE-LBAgAwJZITl2XhDQ=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/lLSXs26iZe0aIzYrobr3FruUG36.jpg</thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
 <title>Warcraft - O Primeiro Encontro de Dois Mundos (2016)</title>
 <link>https://lh3.googleusercontent.com/wDTPanLPpCWJl8sGYrHgk96sGxJ11OBOX55bv2JGtv-TS7iDM4rcBcMEWVP-KYngo7D6H9l0u67eYA=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/68735movie.jpg</thumbnail>
