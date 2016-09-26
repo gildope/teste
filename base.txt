@@ -12,17 +12,24 @@
 </item>
 
 <item>
-<title>[COLOR yellow] [COLOR yellow][I][B]LISTA DE SERIADOS JORGE DEJORGE[/I][/B][/COLOR]</title>
+<title>[COLOR yellow] [COLOR yellow][I][B]LISTA DE FILMES 1[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://lh5.googleusercontent.com/--KLTTOSFTMk/UDM-qNRO4BI/AAAAAAAAB7U/h8_KmTfWXeU/s256/filmes2.png</thumbnail>
-<externallink>http://bit.ly/jorgedejorge_onseries</externallink>
+<externallink>http://pastebin.com/raw/DJVg8ZwV</externallink>
 </item>
 
 <item>
-<title>[COLOR yellow] [COLOR yellow][I][B]Lista de Filmes Jorge Dejorge[/I][/B][/COLOR]</title>
+<title>[COLOR Red] [COLOR Red][I][B]LISTA DE FILMES 2[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://lh5.googleusercontent.com/--KLTTOSFTMk/UDM-qNRO4BI/AAAAAAAAB7U/h8_KmTfWXeU/s256/filmes2.png</thumbnail>
-<externallink>http://bit.ly/jorgedejorge_filmes</externallink>
+<externallink>http://pastebin.com/raw/TUF7XKMc</externallink>
+</item>
+
+<item>
+<title>[COLOR yellow] [COLOR yellow][I][B]Lista de Filmes Recentes[/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://lh5.googleusercontent.com/--KLTTOSFTMk/UDM-qNRO4BI/AAAAAAAAB7U/h8_KmTfWXeU/s256/filmes2.png</thumbnail>
+<externallink>http://pastebin.com/raw/MB1aKAnu</externallink>
 </item>
 
 <item>
@@ -33,16 +40,11 @@
 </item>
 
 <item>
-<title>[COLOR blue] [COLOR blue][I][B]CANAIS[/I][/B][/COLOR]</title>
+<title>[COLOR Brown] [COLOR Brown][I][B]CANAIS[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/c.txt</externallink>
+<externallink>http://bit.ly/lista-milton </externallink>
 </item>
 
-<item>
-<title>[COLOR brown] [COLOR darkviolet][I][B]CANAIS 2[/I][/B][/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail></thumbnail>
-<externallink>http://j.mp/IsaoIPTV</externallink>
-</item>
+
 
