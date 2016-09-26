@@ -12,34 +12,6 @@
 </item>
 
 <item>
-<title>[COLOR yellow] [COLOR yellow][I][B]LISTA DE FILMES Filmes HD[/I][/B][/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>https://lh5.googleusercontent.com/--KLTTOSFTMk/UDM-qNRO4BI/AAAAAAAAB7U/h8_KmTfWXeU/s256/filmes2.png</thumbnail>
-<externallink>http://bit.ly/cinefilmeshd</externallink>
-</item>
-
-<item>
-<title>[COLOR red] [COLOR red][I][B]LISTA DE FILMES JyK[/I][/B][/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>https://lh5.googleusercontent.com/--KLTTOSFTMk/UDM-qNRO4BI/AAAAAAAAB7U/h8_KmTfWXeU/s256/filmes2.png</thumbnail>
-<externallink>http://bit.ly/294hJyK</externallink>
-</item>
-
-<item>
-<title>[COLOR Dark Brown] [COLOR Dark Brown][I][B]LISTA DE FILMES WN Filmes[/I][/B][/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>https://lh5.googleusercontent.com/--KLTTOSFTMk/UDM-qNRO4BI/AAAAAAAAB7U/h8_KmTfWXeU/s256/filmes2.png</thumbnail>
-<externallink>http://bit.ly/WNFilmes</externallink>
-</item>
-
-<item>
-<title>[COLOR Dark Brown] [COLOR Dark Brown][I][B]Lista de Filmes Cine Filmes [/I][/B][/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>https://lh5.googleusercontent.com/--KLTTOSFTMk/UDM-qNRO4BI/AAAAAAAAB7U/h8_KmTfWXeU/s256/filmes2.png</thumbnail>
-<externallink>http://cinemalivre.ucoz.net/CineFilmes.m3u</externallink>
-</item>
-
-<item>
 <title>[COLOR yellow] [COLOR yellow][I][B]LISTA GILDO[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://lh5.googleusercontent.com/--KLTTOSFTMk/UDM-qNRO4BI/AAAAAAAAB7U/h8_KmTfWXeU/s256/filmes2.png</thumbnail>
