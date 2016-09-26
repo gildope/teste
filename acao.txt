@@ -1,3 +1,129 @@
+<item>
+<title>A Lenda de Tarzan - The Legend of Tarzan (2016)</title>
+<link>https://lh3.googleusercontent.com/a1N-IUBKprxOh8nzm-Vk2rig52aLQOL60i2Lt5TY6ZR90Kw-g4s9XZBGxk1ngzB_CsrV2uSwWYRB7g=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/258489movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Batman: O Cavaleiro das Trevas - The Dark Knight (2008)</title>
+<link>https://lh3.googleusercontent.com/wn4og8bN8b7GXmk3eMn9fIJ59yeaI8RZXXeQXWSeujU=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/hH9Nfd3PdV0RhXrlELMzxgBsuzC.jpg</thumbnail>
+</item>
+
+<item>
+<title>Avatar (2009)</title>
+<link>https://lh3.googleusercontent.com/pEhLUM8Cld6-9ax8PkmjI903bGweUSHQ1jGNymfx-5Y=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/19995movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>O Hobbit: Uma Jornada Inesperada - The Hobbit: An Unexpected Journey (2012)</title>
+<link>https://lh3.googleusercontent.com/davTYg9qqauqPtU2-dYtOPRtZ5Ri9uIPVaU9krYeOLA=m18</link>
+<thumbnail>http://cinedoanula.com/imdb/posters/49051movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mad Max: Estrada da Fúria - Fury Road (2015)</title>
+<link>https://lh3.googleusercontent.com/RJH5gjZpozCglpx63ZbJ6ChkSFphkLiEpoHB5pzEnwg=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/76341movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>X-Men: Dias de um Futuro Esquecido – Days of Future Past (2014)</title>
+<link>https://lh3.googleusercontent.com/KZnxqfqCSaSDxcphgzgkpzmKps4NrHBW7q85pZc0Zdw=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/4c1izbHKLLbYiDdrjiB2vfTnReC.jpg</thumbnail>
+</item>
+
+<item>
+<title>Círculo de Fogo - Pacific Rim (2013)</title>
+<link>https://lh3.googleusercontent.com/ft21JE-WmYpXi1D_Te7GUGM2T5bDeKBA6qPMlSSfZ6I=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/68726movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Guerra nas Estrelas: Episódio III - A Vingança dos Sith - Star Wars: Episode III - Revenge of the Sith (2005)</title>
+<link>https://lh3.googleusercontent.com/Ca5sbTSB_PT_lQlPmq-_4iLyFzTLu3K2pRBhg1eSoDo=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/1895movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Vingadores: Era de Ultron - Avengers: Age of Ultron (2015)</title>
+<link>https://lh3.googleusercontent.com/jMyG6_KO-nB6bih0LEkYqftlHNXGSH5-W-rBT-le9kQ=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/kldrjhg2NhywlAGsck2mRTKiVyb.jpg</thumbnail>
+</item>
+
+<item>
+<title>Homem de Ferro (2008)</title>
+<link>https://lh3.googleusercontent.com/pKuRS8vCuR2_oJsHcKxgf8WRv8jQ9sk7nTwLLw2LRXw=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/hNP0T0m0euJSndrmh30bCbm064p.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bastardos Inglórios - Inglourious Basterds (2009)</title>
+<link>https://lh3.googleusercontent.com/UccUFmnuhbVTYNAYb-wFNoPWuljavy5fWqOms_KJGpU=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/16869movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Indiana Jones e o Reino da Caveira de Cristal - and the Kingdom of the Crystal Skull (2008)</title>
+<link>https://lh3.googleusercontent.com/gg6ixruQk9PU7QNPHAmEgx8sMIopGX0WQzeD9orfBbM=m18</link>
+<thumbnail>http://cinedoanula.com/imdb/posters/217movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Planeta dos Macacos: O Confronto - Dawn of the Planet of the Apes (2014)</title>
+<link>https://lh3.googleusercontent.com/bxiuzJKb6P7QWLJb8lD6gROuQINRvQLELsjsSEeNJh4=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/119450movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Oblivion (2013)</title>
+<link>https://lh3.googleusercontent.com/WzbFEagzPfuMuTEyMMbvjKTuSKm1p9VcfghLrVE2ZRk=m18</link>
+<thumbnail>http://cinedoanula.com/imdb/posters/75612movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Capitão América: O Primeiro Vingador (2013)</title>
+<link>https://lh3.googleusercontent.com/h3wOnWU6vQVkCqtSK8tPPUSCyxD0SEigymAkcUi_NnQ=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/oorR1C0Js1X2IjTulNzeubEV7QE.jpg</thumbnail>
+</item>
+
+<item>
+<title>Transformers: Era da Extinção (2014)</title>
+<link>https://lh3.googleusercontent.com/qyVb_y4czsDLWV0kHFLHVWumtQfSEZc48Xm3MlS8bqs=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/qPrE4voXz5OugKTh1D0aucssJOL.jpg</thumbnail>
+</item>
+
+<item>
+<title>V de Vingança - V for Vendetta (2006)</title>
+<link>https://lh3.googleusercontent.com/XcWyWdNO_-Lc-ro6IxiaUzCxqiShZ4PBIez7rnr21N8=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/752movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Anjos da Lei - 21 Jump Street (2012)</title>
+<link>https://lh3.googleusercontent.com/X8cf14bn62afHF7-OSdE6Zh8gvCeGfREcSG8tOfHSS4=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/dNHPgRd8hQt3o9zJjmiFGMWh5YU.jpg</thumbnail>
+</item>
+
+<item>
+<title>Oblivion (2013)</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Oblivion (2013)</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Oblivion (2013)</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
 
 <item>
 <title>De Volta ao Jogo - John Wick (2014)</title>
@@ -12,15 +138,9 @@
 </item>
 
 <item>
-<title>O Protetor</title>
-<link>https://video.googleusercontent.com/AJ-bkMXC9R0nsbyqxaX3aB_-dj_IgecjIXvK5YKUBJda_8mnb_jh6Tqpa9sI2VEDFqJJDOl5EJDZ0qb_vaDmhSUW1RW8tAuvSfAWdL4ST8XJ8WGoZVNf8Yc1pWqtqXnnQN7sl6nginT7dcRMdcw8ZufASTu03Yn-nkUbo9ypmO50PmiA-ebpM26m-aInbVBHdaXRwV-ArRoM</link>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/156022movie.jpg</thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>A Lenda de Tarzan - The Legend of Tarzan (2016)</title>
+<link>https://lh3.googleusercontent.com/a1N-IUBKprxOh8nzm-Vk2rig52aLQOL60i2Lt5TY6ZR90Kw-g4s9XZBGxk1ngzB_CsrV2uSwWYRB7g=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/258489movie.jpg</thumbnail>
 </item>
 
 <item>
