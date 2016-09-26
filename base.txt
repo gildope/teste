@@ -43,7 +43,7 @@
 <title>[COLOR Brown] [COLOR Brown][I][B]CANAIS[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
-<externallink>http://bit.ly/lista-milton </externallink>
+<externallink>http://bit.ly/lista-milton</externallink>
 </item>
 
 
