@@ -4,5 +4,11 @@
 <thumbnail>http://www.cinedoanula.com/imdb/posters/62286series.jpg</thumbnail>
 </item>
 
+<item>
+<title>fear 2-13 LEGENDADO</title>
+<link>https://lh3.googleusercontent.com/xp52zRHCAhpQxhhF_3xXgEunt6Lz_MrpN7YMft5yRU_02sFlqt3IKIR0w3F3GWiRR8nD-pjNQNmO=m22</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/62286series.jpg</thumbnail>
+</item>
+
 
 
