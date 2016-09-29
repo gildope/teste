@@ -39,6 +39,12 @@
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/the_originals.txt</externallink>
 </channel>
 
+<channel>
+<name>The Exorcist</name>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/67135series.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/the_originals.txt</externallink>
+</channel>
+
 </channels>
 
 
