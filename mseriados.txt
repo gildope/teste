@@ -10,5 +10,11 @@
 <thumbnail>http://www.cinedoanula.com/imdb/posters/62286series.jpg</thumbnail>
 </item>
 
+<item>
+<title>fear 2-14 LEGENDADO</title>
+<link>http://rc.lella.la/vd/dd/RC/RCServer11/ondemand/FRTWDT02EP14.mp4</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/62286series.jpg</thumbnail>
+</item>
+
 
 
