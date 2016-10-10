@@ -16,5 +16,10 @@
 <thumbnail>http://www.cinedoanula.com/imdb/posters/62286series.jpg</thumbnail>
 </item>
 
+<item>
+<title>fear 2-15 Dublado</title>
+<link>https://lh3.googleusercontent.com/Iiv5SKANzcsQzZ-Lio1TodwcTc0CU62t9Vo0k-WegtQMFOT9kgyemk52VeExcho6reay6QmWmSzo=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/62286series.jpg</thumbnail>
+</item>
 
 
