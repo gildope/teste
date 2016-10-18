@@ -1,4 +1,10 @@
 <item>
+<title>Uma Noite de Crime: Eleição - The Purge: Election Year (2016)</title>
+<link>https://lh3.googleusercontent.com/BoYmps9fg6Zk-ycOzPWNk_US_TI50cai8lrW2twZtn8LQNkra7FI-Kh8DmeYZ1bb9ZLuOe6GTkL4mg=m22</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/316727movie.jpg</thumbnail>
+</item>
+
+<item>
 <title>A Lenda de Tarzan - The Legend of Tarzan (2016)</title>
 <link>https://lh3.googleusercontent.com/a1N-IUBKprxOh8nzm-Vk2rig52aLQOL60i2Lt5TY6ZR90Kw-g4s9XZBGxk1ngzB_CsrV2uSwWYRB7g=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/258489movie.jpg</thumbnail>
@@ -104,12 +110,6 @@
 <title>Anjos da Lei - 21 Jump Street (2012)</title>
 <link>https://lh3.googleusercontent.com/X8cf14bn62afHF7-OSdE6Zh8gvCeGfREcSG8tOfHSS4=m18</link>
 <thumbnail>http://image.tmdb.org/t/p/w342/dNHPgRd8hQt3o9zJjmiFGMWh5YU.jpg</thumbnail>
-</item>
-
-<item>
-<title>Oblivion (2013)</title>
-<link></link>
-<thumbnail></thumbnail>
 </item>
 
 <item>
