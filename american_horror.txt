@@ -1,5 +1,35 @@
 <item>
-<title>AMH 3x01 - Bitchcraft</title>
-<link>https://lh3.googleusercontent.com/A0Y0qE5vXGjnRVE6P8FhpCC_W9BGCyUQ4-t4gRHXV2772fwLaY48AtUi3RQBNQOQ291mtiztJg=m18</link>
-<thumbnail>http://cinedoanula.com/imdb/posters/1413series.jpg</thumbnail>
+<title>American Horror Story TEMPORADA 6 EP 01</title>
+<link>https://lh3.googleusercontent.com/Lym3qLQ6MsezEX9yULM1P3z3A_Oq18qkTDPPHg-T3TQUBZmPT4aA-DwcPpuyUn3pCZXKpx6ltzqDEA=m22</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/1413series.jpg</thumbnail>
 </item>
+
+<item>
+<title>American Horror Story TEMPORADA 6 EP 02</title>
+<link>https://lh3.googleusercontent.com/Pjlz9kzUrtq5l7Qkl-hz8IKZbcxwhPxPb5Vy0VxT_CzmnRRINHpTKsnYNJOqvmgNjVO3M28BoaJA8Q=m22</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/1413series.jpg</thumbnail>
+</item>
+
+<item>
+<title>American Horror Story TEMPORADA 6 EP 03</title>
+<link>https://lh3.googleusercontent.com/bbo-TIrbgdQsuekpy8qT6ntj3PhOayGFYxj6antj2vEEmiw93JMAZYT9HI7MAmg4TE_fSnWXIMKbSQ=m22</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/1413series.jpg</thumbnail>
+</item>
+
+<item>
+<title>American Horror Story TEMPORADA 6 EP 04</title>
+<link>https://lh3.googleusercontent.com/yju6fziVzxy_drN7LJbpbCVijCmyCgguFHQXBJO1WpxPAq8CIBgF0pY2xVfFRAMkZtaXCuOTfDjNrQ=m22</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/1413series.jpg</thumbnail>
+</item>
+
+#<item>
+#<title>American Horror Story TEMPORADA 6 EP 05</title>
+#<link>https://lh3.googleusercontent.com/Lym3qLQ6MsezEX9yULM1P3z3A_Oq18qkTDPPHg-T3TQUBZmPT4aA-DwcPpuyUn3pCZXKpx6ltzqDEA=m22</link>
+#<thumbnail>http://www.cinedoanula.com/imdb/posters/1413series.jpg</thumbnail>
+#</item>
+
+#<item>
+#<title>American Horror Story TEMPORADA 6 EP 06</title>
+#<link>https://lh3.googleusercontent.com/Lym3qLQ6MsezEX9yULM1P3z3A_Oq18qkTDPPHg-T3TQUBZmPT4aA-DwcPpuyUn3pCZXKpx6ltzqDEA=m22</link>
+#<thumbnail>http://www.cinedoanula.com/imdb/posters/1413series.jpg</thumbnail>
+#</item>
