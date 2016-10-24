@@ -1,25 +1,9 @@
 <item>
-<title>fear 2-12</title>
-<link>https://lh3.googleusercontent.com/I4jsVp7TehVjiZb3uWelzlpVfc9223-2JvAPTc1J84PMxwlzkuX7KmARac7uuBTJwk9AhIUI8cy8=m22</link>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/62286series.jpg</thumbnail>
+<title>The Walking Dead: Temporada 7, Episódio 1</title>
+<link>https://lh3.googleusercontent.com/7JYdzIu_r0-dHFi9k52WDaEGIM7TyL1zP4yvKRQXT9i2TsKzBKrmMx2fdbiKnkPUpaIZb9qdNRsd=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/1402series.jpg</thumbnail>
 </item>
 
-<item>
-<title>fear 2-13 LEGENDADO</title>
-<link>https://lh3.googleusercontent.com/xp52zRHCAhpQxhhF_3xXgEunt6Lz_MrpN7YMft5yRU_02sFlqt3IKIR0w3F3GWiRR8nD-pjNQNmO=m22</link>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/62286series.jpg</thumbnail>
-</item>
 
-<item>
-<title>fear 2-14 LEGENDADO</title>
-<link>http://rc.lella.la/vd/dd/RC/RCServer11/ondemand/FRTWDT02EP14.mp4</link>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/62286series.jpg</thumbnail>
-</item>
-
-<item>
-<title>fear 2-15 Dublado</title>
-<link>https://lh3.googleusercontent.com/Iiv5SKANzcsQzZ-Lio1TodwcTc0CU62t9Vo0k-WegtQMFOT9kgyemk52VeExcho6reay6QmWmSzo=m18</link>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/62286series.jpg</thumbnail>
-</item>
 
 
