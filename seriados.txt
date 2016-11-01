@@ -18,7 +18,7 @@
 <link>
 <name>Penny Dreadful</name>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/54671series.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/penny.txt</externallink>
 </link>
 
 <channel>
