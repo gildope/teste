@@ -6,36 +6,6 @@ http://evp.mm.uol.com.br/ne10/_definst_/ne10-tvjornal-recife-video-web.sdp/live.
 #EXTINF:-1 tvg-logo="http://img2.ne10.uol.com.br/tvjornal/img/logo-tv-jornal.png",TV JORNAL Caruaru
 http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
 
-#EXTINF:-1BIG BANG  HD, http://logos.iptvglobal.com.br/bigbanghd.jpg,rtmp://208.53.180.178/ctv playpath=big swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/bigbang.html
-#EXTINF:-1Breaking Bad, http://logos.iptvglobal.com.br/Breaking%20Bad.jpg, rtmp://208.53.180.130/ctv playpath=breaking swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/breaking.html
-#EXTINF:-1Castelo Rá Tim Bum, http://logos.iptvglobal.com.br/Castelo%20Ra%20Tim%20Bum.jpg, http://62.210.88.208:8081/chapolin/chapolin/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMTUgMzoxODoyMiBQTSZoYXNoX3ZhbHVlPXgyQUljOXMxRVZvd05zTXMwQU1YQ3c9PSZ2YWxpZG1pbnV0ZXM9MzA=
-#EXTINF:-1Chapolin, http://logos.iptvglobal.com.br/Chapolin.jpg, http://62.210.82.241:8081/chapolin.m3u8
-Chaves, http://logos.iptvglobal.com.br/Chaves.jpg, rtmp://208.53.180.218/ctv playpath=chaves swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/chaves.html
-Chuck, http://logos.iptvglobal.com.br/Chuck.jpg, rtmp://208.53.180.218/ctv playpath=chuck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/chuck.html
-Chuck, http://logos.iptvglobal.com.br/Chuck.jpg, rtmp://208.53.180.178/ctv playpath=chuck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/chuck.html
-CSI, http://logos.iptvglobal.com.br/CSI.jpg, rtmp://208.53.180.130/ctv playpath=csi swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/csi.html
-Dois homens e meio, http://logos.iptvglobal.com.br/Dois%20Homens%20e%20Meio.jpg, rtmp://208.53.180.130/ctv playpath=two swfUrl=http://www.canaistv.net/swf/player.swf?IPTVGLOBAL pageUrl=http://www.canaistv.net/tvamigos/two.html
-Dois homens e meio, http://logos.iptvglobal.com.br/Dois%20Homens%20e%20Meio.jpg, rtmp://208.53.180.178/ctv playpath=two swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/two.html
-Ducktales, http://logos.iptvglobal.com.br/ducktales.png, rtmp://208.53.164.194/ctv playpath=duck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL live=1 pageUrl=http://aovivobrasil.com/tvamigos/ducktales.html
-Dr. House, http://logos.iptvglobal.com.br/Dr%20House.jpg, 
-Drake e Josh, http://logos.iptvglobal.com.br/Drake%20e%20Josh.jpg, rtmp://208.53.180.242/ctv playpath=drake swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/drakejosh.html
-Eu A patroa e as crianças, http://logos.iptvglobal.com.br/EPatroaCrians.jpg, rtmp://208.53.164.194/ctv playpath=patroa swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/patroa.html
-Glee, http://logos.iptvglobal.com.br/Glee.jpg, rtmp://208.53.180.242/ctv playpath=glee swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/glee.html
-Gossip Girl, http://logos.iptvglobal.com.br/Gossip%20Girl.jpg, rtmp://208.53.164.194/ctv playpath=gossip swfUrl=http://www.canaistv.net/swf/player.swf?IPTVGLOBAL pageUrl=http://www.canaistv.net/tvamigos/gossip.html
-Heroes, http://logos.iptvglobal.com.br/Heroes.jpg, rtmp://208.53.180.130/ctv playpath=heroes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/heroes.html
-Icarly, http://logos.iptvglobal.com.br/Icarly.jpg, rtmp://208.53.180.130/ctv playpath=icarly swfUrl=http://www.canaistv.net/swf/player.swf?IPTVGLOBAL pageUrl=http://www.canaistv.net/tvamigos/icarly.html
-Jaspion, http://logos.iptvglobal.com.br/jaspion.jpg, rtmp://208.53.164.194/ctv playpath=jaspion swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL live=1 pageUrl=http://aovivobrasil.com/tvamigos/jaspion.html
-Kenan e kel, http://logos.iptvglobal.com.br/KenaneKell.jpg, rtmp://208.53.164.194/ctv playpath=kenan swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/kenanekel.html
-Lost, http://logos.iptvglobal.com.br/lost.jpg, rtmp://208.53.180.242/ctv playpath=lost swfUrl=http://www.canaistv.net/swf/player.swf?IPTVGLOBAL pageUrl=http://www.canaistv.net/tvamigos/lost.html
-MR BEAN, http://logos.iptvglobal.com.br/MrBean.jpg, #rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv01/mogulus-user-files/chmrbean/2008/07/13/0656019f-e01e-465d-84bb-9b2373e4987b swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=false pageUrl=http://www.tvonlinegratis.tv/canais/mr-bean.php
-Prison Break, http://logos.iptvglobal.com.br/PrisonBreak.jpg, rtmp://208.53.180.242/ctv playpath=prison swfUrl=http://www.canaistv.net/swf/player.swf?IPTVGLOBAL pageUrl=http://www.canaistv.net/tvamigos/prisonbreak.html
-SmallVille, http://logos.iptvglobal.com.br/SmallVille.jpg, rtmp://208.53.164.194/ctv playpath=small swfUrl=http://www.canaistv.net/swf/player.swf?IPTVGLOBAL pageUrl=http://www.canaistv.net/tvamigos/small.html
-Sobrenatural, http://logos.iptvglobal.com.br/Supernatural.jpg, rtmp://208.53.180.130/ctv playpath=supernatural swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/supernatural.html
-Sobrenatural, http://logos.iptvglobal.com.br/Supernatural.jpg, rtmp://208.53.180.218/ctv playpath=supernatural swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/supernatural.html
-The Big Bang Theory, http://logos.iptvglobal.com.br/TheBigBangTheory.jpg, rtmp://208.53.180.130/ctv playpath=big swfUrl=http://www.canaistv.net/swf/player.swf?IPTVGLOBAL pageUrl=http://www.canaistv.net/tvamigos/bigbang.html
-The Flash, http://logos.iptvglobal.com.br/, rtmp://85.12.5.8/aovivo/ playpath=theflash swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf?iptvglobal live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/theflash.php
-The Vampire Diaries, http://logos.iptvglobal.com.br/The%20Vampire%20Diaries.jpg, 
-The Walking Dead, http://logos.iptvglobal.com.br/the-walking-dead.jpg, rtmp://212.129.30.215/twd/twd playpath=twd swfUrl=http://www.tvonlinegratis.tv/player.swf?IPTVGLOBAL pageUrl=http://www.tvonlinegratis.tv/parcerias/twd.php
-Todo Munda odeia o Chris, http://logos.iptvglobal.com.br/todo%20mundo%20odeia%20o%20cris.jpg, rtmp://208.53.164.194/ctv playpath=cris swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/cris.html
-Um maluco no pedaço, http://logos.iptvglobal.com.br/Ummaluconopeda.jpg, rtmp://208.53.164.194/ctv playpath=maluconopedaco swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/maluconopedaco.html
+#EXTINF:-1 tvg-logo="http://img2.ne10.uol.com.br/tvjornal/img/logo-tv-jornal.png",TV Teste
+rtmp://208.53.164.194/live?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDE2IDg6MzI6NTMgUE0maGFzaF92YWx1ZT1nWDFVNksvOXM4d1Z4QXBvOHRIZVpBPT0mdmFsaWRtaW51dGVzPTU=//thunder
 
