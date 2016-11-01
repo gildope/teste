@@ -15,6 +15,12 @@
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/game.txt</externallink>
 </channel>
 
+<link>
+<name>Penny Dreadful</name>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/54671series.jpg</thumbnail>
+<externallink></externallink>
+</link>
+
 <channel>
 <name>Damien</name>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/19033series.jpg</thumbnail>
