@@ -1,6 +1,6 @@
 <item>
-<title>The Walking Dead: Temporada 7, Episódio 1</title>
-<link>https://lh3.googleusercontent.com/7JYdzIu_r0-dHFi9k52WDaEGIM7TyL1zP4yvKRQXT9i2TsKzBKrmMx2fdbiKnkPUpaIZb9qdNRsd=m18</link>
+<title>The Walking Dead: Temporada 7, Episódio 3</title>
+<link>https://lh3.googleusercontent.com/Mgf8e0EO27OMdwAAw-o6cb-CO38n1S-6mZ61XQA6m_TohuYI4Bm02ervXloLQzqJQ7piPkomyEf8=m22</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/1402series.jpg</thumbnail>
 </item>
 
