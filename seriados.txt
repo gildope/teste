@@ -51,6 +51,12 @@
 <externallink>http://pastebin.com/raw/CTxLqQXP</externallink>
 </channel>
 
+<channel>
+<name>Westworld</name>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/63247series.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/Westworld</externallink>
+</channel>
+
 </channels>
 
 
