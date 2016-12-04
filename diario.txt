@@ -1,4 +1,22 @@
 <item>
+<title>TVD 8x01 - episode 01</title>
+<link>https://lh3.googleusercontent.com/1eSLhIlzsEMh6Qsh0qicnOQTqgJxoOT39VnWYCmV06OBtFUxBi8JmyYW-WE_aJT7NwB126l3zinsZQ=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
+</item>
+
+<item>
+<title>TVD 8x02 -episode 02</title>
+<link>https://lh3.googleusercontent.com/g1tnJ6sVyM_WGo0P8WItCBl_82C9E9bUPB2Ue5mTEuYZWq2x1ZEtcKIbIQaCTrmnBKLtvw1o3-qLng=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
+</item>
+
+<item>
+<title>TVD 8x03 - episode 03</title>
+<link>https://lh3.googleusercontent.com/BWwCqJ4Lc7Paqirlvfm261sZTT3904t7hIYpiAOvqfj8EwTpaQq46zlnwaopag-wpF8RCzFUZlFvpA=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
+</item>
+
+<item>
 <title>TVD 7x22 - Gods & Monster</title>
 <link>https://www.blogger.com/video-play.mp4?contentId=d87d71b4c5cc51d9</link>
 <thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
