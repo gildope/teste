@@ -1,4 +1,9 @@
 <item>
+<title>Invasão Zumbi (2016) </title>
+<link>magnet:?xt=urn:btih:BF700651162D6076BFDA0DB3ED157F0DEE4ADCA6&dn=Train%20to%20Busan%20%282016%29%20720p%20BluRay%20H264%20AAC&tr=http%3a%2f%2fsecure.pow7.com%2fannounce&tr=http%3a%2f%2ft1.pow7.com%3a80%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=http%3a%2f%2ftracker.bittorrent.am%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2790%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=http%3a%2f%2fbigfoot1942.sektori.org%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2790%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce</link>
+<thumbnail>http://www.torrentdosfilmes.com/wp-content/uploads/2016/12/invasao-zumbi-2016-bluray-720p-e-1080p-dublado-download-torrent.png</thumbnail>
+</item>
+<item>
 <title>Steve Jobs 2016 720p</title>
 <link>magnet:?xt=urn:btih:5282b398b0541c147fc28f460ce7e311a37bfbae&dn=Steve+Jobs+2016+720p+BluRay+DUAL+%5BDublado%5D+LAPUMiA&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjE0NTA2MTEwOV5BMl5BanBnXkFtZTgwNzg4NzU2NjE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
@@ -63,11 +68,7 @@
 <link>magnet:?xt=urn:btih:4462bf46dd3e66daf6d01d1962c8c28fe5edc504&dn=Divertida+Mente+2015+720p+BluRay+DUAL+%5BDublado%5D+LAPUMiA&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 </item>
-<item>
-<title>Invasão Zumbi (2016) </title>
-<link>magnet:?xt=urn:btih:81b3baafa6c66d5575941fd4b0dfd543c4162886&dn=Train.to.Busan.2016.KOREAN.720p.BluRay.H264.AAC-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710</link>
-<thumbnail>http://www.torrentdosfilmes.com/wp-content/uploads/2016/12/invasao-zumbi-2016-bluray-720p-e-1080p-dublado-download-torrent.png</thumbnail>
-</item>
+
 
 
 
