@@ -5,9 +5,9 @@
 </item>]
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Into the Badlands ep5</title>
+<link>https://lh3.googleusercontent.com/1nAgUchIBO3W12m7uTMO_cEceicAA-OFPql4-mhrBHKNvxPz6a5px2wi-rqtVQlef2xZDd6gfA=m22</link>
+<thumbnail>http://www.cinedoanula.com/imdb/stills/47450series3.thumb.jpg</thumbnail>
 </item>]
 
 <item>
