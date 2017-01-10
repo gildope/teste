@@ -11,9 +11,9 @@
 </item>]
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Into the Badlands ep6</title>
+<link>https://lh3.googleusercontent.com/_EKrGSflpWlnezzzMlNwENGh_Y9FkNOqpHi_WZhiSBAsZaywAKDjBGd4AuZlCb14iHfrc1CVuw=m22</link>
+<thumbnail>http://www.cinedoanula.com/imdb/stills/47450series3.thumb.jpg</thumbnail>
 </item>]
 
 <item>
