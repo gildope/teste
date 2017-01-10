@@ -34,9 +34,9 @@
 </link>
 
 <channel>
-<name>MAIS SERIADOS</name>
-<thumbnail>http://mundomasculino.com.br/wp-content/uploads/2016/02/seriados-netflix.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/mseriados.txt</externallink>
+<name>Into the Badlands</name>
+<thumbnail>http://www.cinedoanula.com/imdb/stills/47450series3.thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/Into%20the%20Badlands.txt</externallink>
 </channel>
 
 <channel>
