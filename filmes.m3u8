@@ -5,7 +5,7 @@
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/IgpwcjAyLnJpbzAxKg03Mi4xNC4yMTguMTAw/edit
 
 #EXTINF:-1 tvg-logo="http://celflix.net/wp-content/uploads/2017/02/5nMnyzVU4EsRlfQQSaUzmsHSvtQ-185x278.jpg" group-title="GDRIVE",teste
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0BxcVeLHZieRCcDhEcTlFcmdHXzg/edit
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0BxcVeLHZieRCcDhEcTlFcmdHXzg/view
 
 #EXTINF:-1 tvg-logo="https://goo.gl/aC0kx1" group-title="GDRIVE",Em nome da Lei
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B5889epTvHADQTdpREFQcEp0Nms/edit
