@@ -1,17 +1,59 @@
 <item>
-<title>TVD 8x01 - episode 01</title>
+<title>TVD 8 - episode 01</title>
 <link>https://lh3.googleusercontent.com/1eSLhIlzsEMh6Qsh0qicnOQTqgJxoOT39VnWYCmV06OBtFUxBi8JmyYW-WE_aJT7NwB126l3zinsZQ=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
 </item>
 
 <item>
-<title>TVD 8x02 -episode 02</title>
+<title>TVD 8 -episode 02</title>
 <link>https://lh3.googleusercontent.com/g1tnJ6sVyM_WGo0P8WItCBl_82C9E9bUPB2Ue5mTEuYZWq2x1ZEtcKIbIQaCTrmnBKLtvw1o3-qLng=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
 </item>
 
 <item>
-<title>TVD 8x03 - episode 03</title>
+<title>TVD 8 - episode 03</title>
+<link>https://lh3.googleusercontent.com/BWwCqJ4Lc7Paqirlvfm261sZTT3904t7hIYpiAOvqfj8EwTpaQq46zlnwaopag-wpF8RCzFUZlFvpA=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
+</item>
+
+<item>
+<title>TVD 8 - episode 04</title>
+<link>https://lh3.googleusercontent.com/kEwuDSf9q_OJyMeba-KmPfgJtUuq5Xvv1YwqQbgdSYsWC8bQ15wVINjfNHZVWQf8IN3j0QQ7x_uC8g=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
+</item>
+
+<item>
+<title>TVD 8 - episode 05</title>
+<link>https://lh3.googleusercontent.com/mUI1BLorgn8SM17GP9HLpjRICcQ2Em6NCK6v2fkHysA9W8ncCkvR06OkLtV7-7ZriwRshmpJnNk_5Q=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
+</item>
+
+<item>
+<title>TVD 8 - episode 06</title>
+<link>https://lh3.googleusercontent.com/1fqTBKcJXTySFk8CqJ3PQCXAESfyzAyGLpmnqClOeeK1Z0xZeQXW6w_dqr9atR8UDoAjwFyzFDV4QQ=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
+</item>
+
+<item>
+<title>TVD 8 - episode 07</title>
+<link>https://lh3.googleusercontent.com/BWwCqJ4Lc7Paqirlvfm261sZTT3904t7hIYpiAOvqfj8EwTpaQq46zlnwaopag-wpF8RCzFUZlFvpA=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
+</item>
+
+<item>
+<title>TVD 8 - episode 08</title>
+<link>https://lh3.googleusercontent.com/BWwCqJ4Lc7Paqirlvfm261sZTT3904t7hIYpiAOvqfj8EwTpaQq46zlnwaopag-wpF8RCzFUZlFvpA=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
+</item>
+
+<item>
+<title>TVD 8 - episode 09</title>
+<link>https://lh3.googleusercontent.com/BWwCqJ4Lc7Paqirlvfm261sZTT3904t7hIYpiAOvqfj8EwTpaQq46zlnwaopag-wpF8RCzFUZlFvpA=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
+</item>
+
+<item>
+<title>TVD 8 - episode 10</title>
 <link>https://lh3.googleusercontent.com/BWwCqJ4Lc7Paqirlvfm261sZTT3904t7hIYpiAOvqfj8EwTpaQq46zlnwaopag-wpF8RCzFUZlFvpA=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
 </item>
