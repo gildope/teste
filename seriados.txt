@@ -22,9 +22,9 @@
 </link>
 
 <channel>
-<name>Damien</name>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/19033series.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/damien.txt</externallink>
+<name>The Walking Dead</name>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/1402series.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/dead.txt</externallink>
 </channel>
 
 <link>
