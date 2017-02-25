@@ -36,25 +36,37 @@
 
 <item>
 <title>TVD 8 - episode 07</title>
-<link>https://lh3.googleusercontent.com/BWwCqJ4Lc7Paqirlvfm261sZTT3904t7hIYpiAOvqfj8EwTpaQq46zlnwaopag-wpF8RCzFUZlFvpA=m18</link>
+<link>https://lh3.googleusercontent.com/oEOmHamRiwnvQEGY7x9Pl1xBA0pszICDBzIF5GBaAD_eVnyIGY4buij0IyXFfzx4SpInpaQQqyDv7w=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
 </item>
 
 <item>
 <title>TVD 8 - episode 08</title>
-<link>https://lh3.googleusercontent.com/BWwCqJ4Lc7Paqirlvfm261sZTT3904t7hIYpiAOvqfj8EwTpaQq46zlnwaopag-wpF8RCzFUZlFvpA=m18</link>
+<link>https://lh3.googleusercontent.com/sPV_V5WhBlzKFMeNLPup832pzQohTzwVtrDrV7Me0X510zf_4axfnHetTnDSvocHBGfap-Ks4Mu2dA=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
 </item>
 
 <item>
 <title>TVD 8 - episode 09</title>
-<link>https://lh3.googleusercontent.com/BWwCqJ4Lc7Paqirlvfm261sZTT3904t7hIYpiAOvqfj8EwTpaQq46zlnwaopag-wpF8RCzFUZlFvpA=m18</link>
+<link>https://lh3.googleusercontent.com/IlKe79qEuUa8J3uc6Mbk0MNJDnVBUahmXKRqToPgiIu_8-zkOhZaefYEn52mqqqWeEWn6HpQ-zI5nQ=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
 </item>
 
 <item>
 <title>TVD 8 - episode 10</title>
-<link>https://lh3.googleusercontent.com/BWwCqJ4Lc7Paqirlvfm261sZTT3904t7hIYpiAOvqfj8EwTpaQq46zlnwaopag-wpF8RCzFUZlFvpA=m18</link>
+<link>https://lh3.googleusercontent.com/bz_tk2AhFLZq-9bQryNAwia79GT6ks6duOsJ5mdp9eqC049IzNBKFTcpKcWI48zjGDgjyV1iGJyixQ=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
+</item>
+
+<item>
+<title>TVD 8 - episode 11</title>
+<link>https://lh3.googleusercontent.com/Wohbjmwt3WrrKzQpSLepKnnvdMehrbDz6iCKIdcMhWvGSW6XpgG6rZpcl5UjIY5ey5C_oxd6opq9Aw=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
+</item>
+
+<item>
+<title>TVD 8 - episode 12</title>
+<link>https://lh3.googleusercontent.com/Q2Fb7BhLvzazSCK-kfaUKRidE0zMKYXFWDmuAkwD85aU6m2OX0E1yqZQcHrbLc57fkvSwKE7g89xNw=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
 </item>
 
