@@ -57,6 +57,12 @@
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/Westworld</externallink>
 </channel>
 
+<channel>
+<name>Salem</name>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/60905series.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/salem.txt</externallink>
+</channel>
+
 </channels>
 
 
