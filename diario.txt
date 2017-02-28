@@ -71,6 +71,18 @@
 </item>
 
 <item>
+<title>TVD 8 - episode 13</title>
+<link>https://lh3.googleusercontent.com/N20HB2VkdJtADTeoFW6scah_aCQCMDpUrPz5GHqI1hC78kXP7tTkoVmPxpOEN9--gP5D5SDyXkvpOw=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
+</item>
+
+<item>
+<title>TVD 8 - episode 14</title>
+<link>https://lh3.googleusercontent.com/gid35dFuTJo4xcJb7goO_uUsbvCvj1l56iM_ySFiVHvQglh7AlrAYVHqZWKhwrQox4Aa2LICNR3m7A=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
+</item>
+
+<item>
 <title>TVD 7x22 - Gods & Monster</title>
 <link>https://www.blogger.com/video-play.mp4?contentId=d87d71b4c5cc51d9</link>
 <thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
