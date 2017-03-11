@@ -15,11 +15,11 @@
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/game.txt</externallink>
 </channel>
 
-<link>
+<channel>
 <name>Penny Dreadful</name>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/54671series.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/penny.txt</externallink>
-</link>
+</channel>
 
 <channel>
 <name>The Walking Dead</name>
@@ -27,17 +27,17 @@
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/dead.txt</externallink>
 </channel>
 
-<link>
+<channel>
 <name>AMERICAN HORROR STORY 6 TEMPORADA</name>
 <thumbnail>http://4.bp.blogspot.com/-rvjmu1WfcRs/VbE2eLSNd1I/AAAAAAAAErs/7Nq38AtzhhI/s1600/1.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/american_horror.txt</externallink>
-</link>
+</channel>
 
-<link>
+<channel>
 <name>AMERICAN HORROR STORY 2 TEMPORADA</name>
 <thumbnail>http://www.geekcouple.com.br/wp-content/uploads/2013/11/american-horror-story-asylum.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/american_horror2.txt</externallink>
-</link>
+</channel>
 
 <channel>
 <name>Into the Badlands</name>
