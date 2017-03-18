@@ -83,6 +83,12 @@
 </item>
 
 <item>
+<title>TVD 8 - episode 16</title>
+<link>https://lh3.googleusercontent.com/9Q57QLAruoWUy0W7xv65ZwE-jYDQjdSiMSwvs-wr0mbwFFhuOr0DWaBBO-BNi2i1yA2aQ196gR-6dQ=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/stills/18165series1.thumb.jpg</thumbnail>
+</item>
+
+<item>
 <title>TVD 7x22 - Gods & Monster</title>
 <link>https://www.blogger.com/video-play.mp4?contentId=d87d71b4c5cc51d9</link>
 <thumbnail>http://demogame.org/content/uploads/sngine_a5749a121240fa5986cec1a76f144c45.jpg</thumbnail>
