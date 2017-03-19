@@ -1,4 +1,10 @@
 <item>
+
+<title>Resident Evil: Capítulo Final</title>
+<link>https://lh3.googleusercontent.com/XhsP2Aa1M8HPgL2MZK6PRM6B6cRrqNXnV-96yDTxU--MlZ30fJBHvEQ3jurv9I9dMc4jNWZo_R_LcQ=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/173897movie.jpg</thumbnail>
+</item>
+
 <title>O Dia da Independência: Nova Ameaça - Independence Day: Resurgence (2016)</title>
 <link>https://lh3.googleusercontent.com/31VJrTBFjT0qzpgDFnCtHlpzsCO5gfUE8DvZw_pGBeWJH1wDH-OkZUH_p-uRbm6Z__xkF9xe6-EkXA=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/47933movie.jpg</thumbnail>
