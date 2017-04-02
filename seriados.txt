@@ -69,6 +69,12 @@
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/salem.txt</externallink>
 </channel>
 
+<channel>
+<name>Once Upon a Time</name>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/39272series.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/Once.txt</externallink>
+</channel>
+
 </channels>
 
 
