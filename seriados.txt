@@ -54,7 +54,7 @@
 <channel>
 <name>The Exorcist</name>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/67135series.jpg</thumbnail>
-<externallink>http://pastebin.com/raw/CTxLqQXP</externallink>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/exorcista.txt</externallink>
 </channel>
 
 <channel>
