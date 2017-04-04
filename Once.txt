@@ -24,37 +24,37 @@
 
 <item>
 <title>PRIMEIRA TEMPORADA EP 05</title>
-<link></link>
+<link>https://lh3.googleusercontent.com/ZoveHmZC16jmmL214dfITM-JuO2JpFvX8ITdZI-jpE8=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/39272series.jpg</thumbnail>
 </item>]
 
 <item>
 <title>PRIMEIRA TEMPORADA EP 06</title>
-<link></link>
+<link>https://lh3.googleusercontent.com/2g9KPy5u9J1fk6Z8ferB8wqFgVGKLCMOlMu_wEnXGRI=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/39272series.jpg</thumbnail>
 </item>]
 
 <item>
-<title></title>
-<link></link>
+<title>PRIMEIRA TEMPORADA EP 07</title>
+<link>https://lh3.googleusercontent.com/UiYlw6DJWjweHlj2Q0Ye_3SrZliERTVDJpJu0tpxxZo=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/39272series.jpg</thumbnail>
 </item>]
 
 <item>
-<title></title>
-<link></link>
+<title>PRIMEIRA TEMPORADA EP 08</title>
+<link>https://lh3.googleusercontent.com/nZONPEc2NT43TZA76wnz1E84XdxjJNWQS-eqho8nsqE=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/39272series.jpg</thumbnail>
 </item>]
 
 <item>
-<title></title>
-<link></link>
+<title>PRIMEIRA TEMPORADA EP 09</title>
+<link>https://lh3.googleusercontent.com/lx332Qj_fTj7_Qzkk_eyaqBWpx5Rnh6X1VakCd2QB4I=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/39272series.jpg</thumbnail>
 </item>]
 
 <item>
-<title></title>
-<link></link>
+<title>PRIMEIRA TEMPORADA EP 10</title>
+<link>https://lh3.googleusercontent.com/eZPGay95vd0sCgtR8OMDw1JnbZOA9VXQ4YoVVutiotg=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/39272series.jpg</thumbnail>
 </item>]
 
