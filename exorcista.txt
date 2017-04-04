@@ -35,20 +35,20 @@
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>Temporada 1, Episódio 7 & 8 (legendado)</title>
+<link>magnet:?xt=urn:btih:666E8CEB48DA09F4861417F8F4FA0A6836AEDA90&dn=The%20Exorcist%202016%201%C2%AA%20Temporada%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bLEGENDADO%5d%20WWW.BLUDV.COM%20%5bEp%2007%20e%2008%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>Temporada 1, Episódio 9</title>
+<link>magnet:?xt=urn:btih:0AF230A00D4FB7DA9597FBEA8CC15EBD8614AB1D&dn=The%20Exorcist%202016%201%C2%AA%20Temporada%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bLEGENDADO%5d%20WWW.BLUDV.COM%20%5bEp%2009%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>Temporada 1, Episódio 10</title>
+<link>magnet:?xt=urn:btih:83184651D172169658BABF52E0068A773AD00C2A&dn=The%20Exorcist%202016%201%C2%AA%20Temporada%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bLEGENDADO%5d%20WWW.BLUDV.COM%20%5bEp%2010%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
 <thumbnail></thumbnail>
 </item>
 
