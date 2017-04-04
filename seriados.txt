@@ -75,6 +75,12 @@
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/Once.txt</externallink>
 </channel>
 
+<channel>
+<name>Humans</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3NjE2OTY4NF5BMl5BanBnXkFtZTgwMTE0NDc0ODE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/humans.txt</externallink>
+</channel>
+
 </channels>
 
 
