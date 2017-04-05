@@ -81,6 +81,13 @@
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/humans.txt</externallink>
 </channel>
 
+<channel>
+<name>Van Helsing</name>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/65820series.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/helsing.txt</externallink>
+</channel>
+
+
 </channels>
 
 
