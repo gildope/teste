@@ -87,6 +87,31 @@
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/helsing.txt</externallink>
 </channel>
 
+<channel>
+<name>Sobrenatural</name>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/1622series.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/helsing.txt</externallink>
+</channel>
+
+<channel>
+<name>Van Helsing</name>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/65820series.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/sobrenatural.txt</externallink>
+</channel>
+
+<channel>
+<name>Outcast</name>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/64394series.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/outcast.txt</externallink>
+</channel>
+
+<channel>
+<name>Scream</name>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/62823series.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/scream.txt</externallink>
+</channel>
+
+
 
 </channels>
 
