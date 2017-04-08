@@ -88,12 +88,43 @@
 </item>]
 <item>
 <title>PRIMEIRA TEMPORADA EP 16</title>
-<link>https://lh3.googleusercontent.com/eZPGay95vd0sCgtR8OMDw1JnbZOA9VXQ4YoVVutiotg=m18</link>
+<link>https://lh3.googleusercontent.com/M6sbJLgmL8qVQMG4IUTC_h5LkWhLNcsXrw8q5gyH5Yo=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/39272series.jpg</thumbnail>
 </item>]
 <item>
 <title>PRIMEIRA TEMPORADA EP 17</title>
-<link>https://lh3.googleusercontent.com/eZPGay95vd0sCgtR8OMDw1JnbZOA9VXQ4YoVVutiotg=m18</link>
+<link>https://lh3.googleusercontent.com/7i1uYRWTMKWCgT8vJpywKS3bJPg4t54txDVMXLb94dU=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/39272series.jpg</thumbnail>
 </item>]
+
+<item>
+<title>PRIMEIRA TEMPORADA EP 18</title>
+<link>https://lh3.googleusercontent.com/VePZpbWtBz-jjN87CwqgyqmGcYxKBMdoXoarAQoCSi8=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/39272series.jpg</thumbnail>
+</item>]
+
+<item>
+<title>PRIMEIRA TEMPORADA EP 19</title>
+<link>https://lh3.googleusercontent.com/Cp4YAMME7NqfXadNtB_l_MEcctKUPVAjSd4xyQ-ze7g=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/39272series.jpg</thumbnail>
+</item>]
+
+<item>
+<title>PRIMEIRA TEMPORADA EP 20</title>
+<link>https://lh3.googleusercontent.com/UmDHHioKb8cVp6ag4Gm7bjkZpYKEuSejAqFw3wQG_2s=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/39272series.jpg</thumbnail>
+</item>]
+
+<item>
+<title>PRIMEIRA TEMPORADA EP 21</title>
+<link>https://lh3.googleusercontent.com/pZqZBgNqLYnRIR5pSE-gBfqVl6rpJtLmfito9T0Ad70=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/39272series.jpg</thumbnail>
+</item>]
+
+<item>
+<title>PRIMEIRA TEMPORADA EP 22</title>
+<link>https://lh3.googleusercontent.com/oqRsGAqis7o5QpOEkDV5oGe9s1Mn6fs0-1OuWuOZElw=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/39272series.jpg</thumbnail>
+</item>]
+
 
