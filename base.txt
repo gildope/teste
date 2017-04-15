@@ -19,10 +19,10 @@
 </item>
 
 <item>
-<title>[COLOR brown] [COLOR brown][I][B]CANAIS[/I][/B][/COLOR]</title>
+ <title>[COLOR red] [COLOR red][I][B]FILMES 3[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/c.txt</externallink>
+<thumbnail>http://www.cinedoanula.com/assets/uploads/images/w9BRGsvgWN.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/filmes2.txt</externallink>
 </item>
 
 
