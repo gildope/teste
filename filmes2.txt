@@ -107,183 +107,183 @@
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>A Luz entre Oceanos</title>
+<link>https://lh3.googleusercontent.com/jMgWLHLAsXHuqJ1UoGqFpzRieIHw_4RKNqdgFYF8o6b5F9w1MzM__tl4PCYpusnhMGwtVmpPndrRtg=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/283552movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Assassino a Preço Fixo 2</title>
+<link>https://lh3.googleusercontent.com/kVEFeC4NBdymkA_7PFL9eT7pgroUi9rHS3wIipqzyPIpW3UwVO2aD1Rd5jec3jda9lJ9eDPfUrEyzg=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/278924movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>A Chegada</title>
+<link>https://lh3.googleusercontent.com/fOUOUiodGbXQnMPdPlAN3FSN0-tQR9Bwmzb9OCC3svwr2-27Wz6tAeXKA9xV6NUsGmLf2fUf1vSBf9E=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/329865movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Ouija: Origem do Mal</title>
+<link>https://lh3.googleusercontent.com/gzoePdIjxu-tsy20AFE32PYYzwiFkgVEPZuH4XRaa39F6Gsmnn5NvFO7uFBDai0zErPXDj1nQJqB4g=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/335796movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>A Bruxa de Blair - Blair Witch (2016)</title>
+<link>https://lh3.googleusercontent.com/9xnX_vkesU_ZxHR1F5owuEfUsHkqw8d0ak87LL_nB74NmsYvExqhhKRryyiSIkw9-6Ckbf8bQbNa04k=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/351211movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Anjos da Noite: Guerras de Sangue</title>
+<link>https://lh3.googleusercontent.com/1SOVA17WfgTX2r0E_fkNc-rHnX8w0_TWt_Pk1rJHzJq8MoLx1d7RlG1-f4jP-Ja8FQ8rnVIN1_GGcw=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/346672movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Trolls (2016)</title>
+<link>https://lh3.googleusercontent.com/D7YVkLODL6a1-WvGdWCfUrsHhtzHWseOo2v9gNpOTN8zQmgJfXeD72Ac8Rf8PTLSSTBQn80tFZVv97w=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/136799movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Amor e Amizade</title>
+<link>https://lh3.googleusercontent.com/87h-ewcgC1orhI5dR5fY1-oXMchRMyLhFlk4vMUWdpUTa6Tvvz4Jx4CwZ3RPb5i0Du_brtaht4IU9lU=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/296360movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>As Aventuras de Robinson Crusoe</title>
+<link>https://lh3.googleusercontent.com/gY_n8FKkzo9MjwpHK203Ig-qFxWhECtG1IWJQmT_loyv69u1fCEhkIMJkFJRXfRKK1r4Rflud9k1NP4=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/368940movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Invasão de Privacidade</title>
+<link>https://lh3.googleusercontent.com/NJM3-W7bExCOWSXx29fXVPNIgKVAgDY53ndx_w46j3c3_z-VL43iIGa-QpXsapW_HxYVVhDnJZS6AYg=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/340677movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>A Garota no Trem</title>
+<link>https://lh3.googleusercontent.com/rO4DYGxshoa9wf45j8wkjuSRAO9L6BO4Nrf__BXoi2x2sZ8QrORChmshoMlGwmGLcsO0i49LUJy47J0=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/346685movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Jack Reacher: Nunca Volte Atrás</title>
+<link>https://lh3.googleusercontent.com/bGeCBINmBduUnCzeD9TehOv42X7-S2VJwdaEIze0eRSpdFCrUGntZBWk7EvxzgAngh8-i3WxSga1_A=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/343611movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Um Estado de Liberdade</title>
+<link>https://lh3.googleusercontent.com/6HdFKh0VfSjag9PXZMBYbcG4N1fvDOJ1_pYQpblG8rX1nIbXV4pKG7LMFcmGTaShjks9IjtSJfUJ8as=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/316152movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Mamãe - Ma ma (2015)</title>
+<link>https://lh3.googleusercontent.com/6h9WvamdwGRUGCNUbnecwStURLKcEYgKHo_BLjavMdEaP5P23Mh2rAsY__a0QqNrsvg10fjsa-tOKTI=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/280840movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>No Topo do Mundo</title>
+<link>https://lh3.googleusercontent.com/b6IQjeaqIYXIeG56cZL8cdLSkuLfUxsVnft_Zxsr-leBYz4AUid2V-OmEn6obA8X3dSqHMi_OuxXVCw=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/254302movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>O Contador</title>
+<link>https://lh3.googleusercontent.com/2dtm801JecYNG0PYcivljMfEZ8ffLF05mEaLLPm6FJLaQx_3LpLeJGeLB8jUTefkNraJuI_b7iTFDMA=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/302946movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Um Cadáver Para Sobreviver</title>
+<link>https://lh3.googleusercontent.com/2nCj2n5Pk_pAYQVBc450IpLIeD53d-rh1ekomSMQ3y73pw1e8AFACE7wDZjL4GIXtvWE_CqAxMA5fQ=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/347031movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Aquarius (2016)</title>
+<link>https://lh3.googleusercontent.com/daBGeqzd1rXeUvwa4ucH-vuV0H3Utstd4iJONeBv8_5xtssoFhWibuPbNCDMuztkyzAxveeX-Vqoxw=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/377273movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Sete Homens e Um Destino - The Magnificent Seven (2016)</title>
+<link>https://lh3.googleusercontent.com/y54CI0Y9w5yC-zh1oHjlZnqFET0sFgsl276m_XTRsyaGmGSvUwLVtvFS4g0g1JS7usRepG8_mpZGrw=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/333484movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Eu Não Sou um Serial Killer</title>
+<link>https://lh3.googleusercontent.com/KbTNKMOWGdMrHlCX0LsZxZs47eZQTrtdPBKuNmc8PZ-hj92KinKbyTD5SuEMIcxNltNU2PN3hl9BfQ=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/381034movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Garota Exemplar</title>
+<link>https://lh3.googleusercontent.com/ozZzqGVSRa3S8a3Nd5IV463SCYvO4mK_kqUgk42Ac4g=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/9PN2F4xcy3qAPx1DSbEw6wjJPWg.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>A Culpa é das Estrelas</title>
+<link>https://lh3.googleusercontent.com/uKpXSiBbIuRBus_r-zl1chWt193CAKT5aTaRro2_5w8=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/222935movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>A Teoria de Tudo</title>
+<link>https://lh3.googleusercontent.com/B_rPR_X_R6n1VV6mSi83nD7j0DnrDI2sKtOLSIh6aKk=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/dZViduL1YzigFxMtlc8RPCNiG14.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>O Grande Hotel Budapeste</title>
+<link>https://lh3.googleusercontent.com/8OOurd4vSTd0YTeJPkp7SOBH6KZV_w16MUn6voCfJlM=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/120467movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>A Menina que Roubava Livros</title>
+<link>https://lh3.googleusercontent.com/TqR3YHAQfTyrnYqaxL94vIZpQh2zErZFmWRnx1RIuwc=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/203833movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>O Melhor de Mim</title>
+<link>https://lh3.googleusercontent.com/MQBT4lVG_qkolqYwQnL5oqy-ylUZgm4qCB_-aSFxBUE=m18</link>
+<thumbnail>http://image.tmdb.org/t/p/w342/zAmdKUXAOW0D1PxJah7tFh0W9DD.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Evereste</title>
+<link>https://lh3.googleusercontent.com/YMusbkXDdXMeisrZDfVn0OvHPEzbu0lAMu4ihcQobZs=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/253412movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>A Travessia</title>
+<link>https://lh3.googleusercontent.com/U3giR47AJexWGbbj6b4nvC69N2tx09oDnYmj7Ft0-R0=m18</link>
+<thumbnail>http://cinedoanula.com/imdb/posters/285783movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>O Regresso</title>
+<link>https://lh3.googleusercontent.com/lafJS8t2Un_zuR71ipVcdh4uvpe34BiFxCMNsHwcxEKORMaJe6ZIESHp6qoDKf_l_GUAKA=m18</link>
+<thumbnail>http://cinedoanula.com/imdb/posters/281957movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Joy: O Nome do Sucesso</title>
+<link>https://lh3.googleusercontent.com/YB2RXT2pqqgTnbmLcWcs5D_ypx0ROjd4qYyPjzzX0MLwg7VaXEUCSjK6TLdTY1f1jxKVCQ=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/274479movie.jpg</thumbnail>
 </item>
 
 <item>
