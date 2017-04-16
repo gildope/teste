@@ -25,5 +25,11 @@
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/filmes2.txt</externallink>
 </item>
 
+<item>
+ <title>[COLOR red] [COLOR red][I][B]Teste 3[/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.cinedoanula.com/assets/uploads/images/w9BRGsvgWN.png</thumbnail>
+<externallink>https://pastebin.com/raw/UEwDupmq</externallink>
+</item>
 
 
