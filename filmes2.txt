@@ -1,3 +1,40 @@
+
+<item>
+<title>Chamados - Rings (2017)</title>
+<link>https://lh3.googleusercontent.com/2JMPu3l3xwxzxPlXmUdmjcYIelFlmJWGwU3FPmseYU5-kyaouZXJoZwg_vQY1DMGCsO1C6EbqzSVHeg=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/14564movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Armas na Mesa - Miss Sloane (2016)</title>
+<link>https://lh3.googleusercontent.com/lnIB1X4Gx-DNeE0FCwFbybgDmk1FH7MP3NhtDkmzqXS99vGaI66-Vq9-iiO1i4fG3JojSeiTNPxZCQ=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/376290movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sete Minutos Depois da Meia-Noite - A Monster Calls (2016)</title>
+<link>https://lh3.googleusercontent.com/67sOHkO-Rns0cMWDTMr7uS21fciC0MePpvzdTHFe9yWIKpgfJMXRtmGOdmApufp6DH0LuzDeyYv8bQ=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/258230movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Os Cinquenta Tons Mais Escuros - Fifty Shades Darker (2017)</title>
+<link>https://lh3.googleusercontent.com/Ug32IlRNBXDaMRlSxIANJurdGaugZalvuGCGE-7bmDKdgCQHZvZlZsfhY3OJeufqIdil3OOKlZ0IOw=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/341174movie.jpg</thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
 <item>
 <title>Estrelas Além do Tempo</title>
 <link>https://lh3.googleusercontent.com/QfdNXxVjVmph4KnX-Aq44NDc49wNr0Ubw5lsKWXzibTQ6b-i1tsdO-dFocVcnS7r58fDIAuDHWXyQ30=m18</link>
