@@ -47,5 +47,5 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d//0B_JatFT_TpCKalZielcxbnRoVVE/edit
 
 #EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2014/02/thumbs/o-jardim-dos-esquecidos_t92190_jpg_210x312_crop_upscale_q90.jpg"  group-title="GDRIVE",O Jardim dos Esquecidos 2014 - Dublado
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8wxMEegfZmmNTcxYmdUX0h5OUk/view
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8wxMEegfZmmNTcxYmdUX0h5OUk/preview
 #https://docs.google.com/file/d/0B8wxMEegfZmmNTcxYmdUX0h5OUk/view
