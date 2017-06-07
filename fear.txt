@@ -1,13 +1,13 @@
 <item>
-<title>A 5ª Onda</title>
-<link>http://138.201.33.133/ficcao/A.5.Onda.novo.mp4</link>
-<thumbnail>http://cliente.playmove.tv/images/posters/501991_7a3c10da0e905f0d1316ee3687a62353_20160525133418_big.jpg</thumbnail>
+<title>Fear the Walking Dead: Temporada 3, Episódio 1</title>
+<link>https://lh3.googleusercontent.com/w3avqNUlsC8PRuJQia8KrOmoM7zqRdAtmXBOADTowzEFUWMPPIqUYLYM8ErD6IjlSWLBOKXCFdaEYvxQzzN4FJtL2YuL8vDtYGI=m18</link>
+<thumbnail>http://cinedoanula.com/imdb/posters/62286series.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Fear the Walking Dead: Temporada 3, Episódio 2</title>
+<link>https://lh3.googleusercontent.com/0sFkmHO9Ij2RNOpl1YRySGTaVjKAmEYrVflv3Scn4v9KsBOcKCBPrVGiUpbMLbn0RjR6-3atOu2jjKOxry__1n-tdw1BgZ6tbyI=m18</link>
+<thumbnail>http://cinedoanula.com/imdb/posters/62286series.jpg</thumbnail>
 </item>
 
 <item>
