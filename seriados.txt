@@ -106,7 +106,7 @@
 </channel>
 
 <channel>
-<name>Scream</name>
+<name>Fear the Walking Dead: Temporada 3</name>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/62823series.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/scream.txt</externallink>
 </channel>
