@@ -1,3 +1,20 @@
+<item>
+<title>A Bela e a Fera</title>
+<link>https://lh3.googleusercontent.com/O8w4DBd78RhQR3GcfLMnGkCZCR4feCDlGj1eAgoV9tvASy6266mS16EiDKiKpj1OE6U-gNdJEF6aeg=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/321612movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Personal Shopper</title>
+<link>https://lh3.googleusercontent.com/VWnzEyb0xf7Eeup9mKW_3wUFPtpQBo2tIpHEIRErInJewrlxnjnm7EpKl03AgfzhEbwFwkHl_bO0Xlc=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/340676movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>A Cura</title>
+<link>https://lh3.googleusercontent.com/CISQXIKeJD8omtw74Y1PauJ5dF0B3jyVorhzWrrLB1DXn9DOX1IfP1FjTaWn8ao79kwUDpIPHKRzUxQ=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/340837movie.jpg</thumbnail>
+</item>
 
 <item>
 <title>Chamados - Rings (2017)</title>
