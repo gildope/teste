@@ -1,4 +1,10 @@
 <item>
+<title>Mama</title>
+<link>https://lh3.googleusercontent.com/Qxj_8v1vK7FXnmcJt6J_dFihaj1FXyLKTw7hHMsX09sx1IhN5uuzcntn11QDNsMai7NFKm9b24blMBBOwn5wYUa3bJr5mkYmBhe5kWPzSOwkjoMN-FbD4Y_k-DuvK9cxrf2t-od5xQ=m18</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5MjIwNDAwMl5BMl5BanBnXkFtZTcwNzQyOTY0OA@@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>Antologia do Medo 1</title>
 <link>https://lh3.googleusercontent.com/eHz6WZNuJLDRmBrGo7oyBCCO1JN8OZxyPl8sVKdTxWY4Nb8z4RSQVzCCmtkiYys3saf0HNoWTlKISzztPzkYVxDFKm5dN4BQVBJ1atex06gLH39WOk2dljsTvlMZR2ZcQ3X4_jnTjg=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/321612movie.jpg</thumbnail>
