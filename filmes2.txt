@@ -1,4 +1,10 @@
 <item>
+<title>Antologia do Medo 1</title>
+<link>https://lh3.googleusercontent.com/eHz6WZNuJLDRmBrGo7oyBCCO1JN8OZxyPl8sVKdTxWY4Nb8z4RSQVzCCmtkiYys3saf0HNoWTlKISzztPzkYVxDFKm5dN4BQVBJ1atex06gLH39WOk2dljsTvlMZR2ZcQ3X4_jnTjg=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/321612movie.jpg</thumbnail>
+</item>
+
+<item>
 <title>A Bela e a Fera</title>
 <link>https://lh3.googleusercontent.com/O8w4DBd78RhQR3GcfLMnGkCZCR4feCDlGj1eAgoV9tvASy6266mS16EiDKiKpj1OE6U-gNdJEF6aeg=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/321612movie.jpg</thumbnail>
