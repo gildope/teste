@@ -1,36 +1,36 @@
 <item>
-<title>The Mist: Temporada 1, Episódio 1</title>
+<title>The Mist: Temporada 1, Episódio 01</title>
 <link>https://lh3.googleusercontent.com/h3Jah3UDE_bf77wndBKhdRF16JBKaqXy7bCd_iEswydjLXuMJwlVuXhEpZy-igdbTEzBTnHROkk9NwUtUQ=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/68315series.jpg</thumbnail>
 </item>
 
 <item>
-<title>The Mist: Temporada 1, Episódio 1</title>
-<link></link>
+<title>The Mist: Temporada 1, Episódio 02</title>
+<link>https://lh3.googleusercontent.com/V-n63gBLrl9sRb9meOH9ZVCsnkurfTWH8xT6h0kak830QabPcCnTiAnX12XUsLwY7S3uts4u2Yfdkx55vQ=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/68315series.jpg</thumbnail>
 </item>
 
 <item>
-<title>The Mist: Temporada 1, Episódio 1</title>
-<link></link>
+<title>The Mist: Temporada 1, Episódio 03</title>
+<link>https://lh3.googleusercontent.com/b2JDTGszlvoJ1amGtWzOdl6Mx8dpHwtJmY6C0iP1Cs2fEyvNZ9XZxPk7xizHFhHegg5z6LfMPb1eEp0wNQ=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/68315series.jpg</thumbnail>
 </item>
 
 <item>
-<title>The Mist: Temporada 1, Episódio 1</title>
-<link></link>
+<title>The Mist: Temporada 1, Episódio 04</title>
+<link>https://lh3.googleusercontent.com/zCTDsK2_pgCOaojCcMo1Q45SumlRKuPyADJmOEz0kuxYFhWU8YSuQxRMqE7268z-AaeaYTKzPt2WNwZF1Q=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/68315series.jpg</thumbnail>
 </item>
 
 <item>
-<title>The Mist: Temporada 1, Episódio 1</title>
-<link></link>
+<title>The Mist: Temporada 1, Episódio 05</title>
+<link>https://lh3.googleusercontent.com/a_NWJuls0wcDrM4DqaZ5ZyAAeYXWBTb0X8RGdE4AociJyjgqVfoRkopwtsKezBbJuwwvXZ3wu_3550a-YQ=m22</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/68315series.jpg</thumbnail>
 </item>
 
 <item>
-<title>The Mist: Temporada 1, Episódio 1</title>
-<link></link>
+<title>The Mist: Temporada 1, Episódio 06</title>
+<link>https://lh3.googleusercontent.com/lwhJNgOTZ0XSHyDkN5CY09babkU4E1plSUvJsLZuIsV5IZ6tuwM-j42XbCBwwjfmX9bhD6oV2KgHlJs1jw=m22</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/68315series.jpg</thumbnail>
 </item>
 
