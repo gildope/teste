@@ -24,19 +24,19 @@
 
 <item>
 <title>The Mist: Temporada 1, Episódio 05</title>
-<link>https://lh3.googleusercontent.com/a_NWJuls0wcDrM4DqaZ5ZyAAeYXWBTb0X8RGdE4AociJyjgqVfoRkopwtsKezBbJuwwvXZ3wu_3550a-YQ=m22</link>
+<link>https://lh3.googleusercontent.com/a_NWJuls0wcDrM4DqaZ5ZyAAeYXWBTb0X8RGdE4AociJyjgqVfoRkopwtsKezBbJuwwvXZ3wu_3550a-YQ=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/68315series.jpg</thumbnail>
 </item>
 
 <item>
 <title>The Mist: Temporada 1, Episódio 06</title>
-<link>https://lh3.googleusercontent.com/lwhJNgOTZ0XSHyDkN5CY09babkU4E1plSUvJsLZuIsV5IZ6tuwM-j42XbCBwwjfmX9bhD6oV2KgHlJs1jw=m22</link>
+<link>https://lh3.googleusercontent.com/lwhJNgOTZ0XSHyDkN5CY09babkU4E1plSUvJsLZuIsV5IZ6tuwM-j42XbCBwwjfmX9bhD6oV2KgHlJs1jw=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/68315series.jpg</thumbnail>
 </item>
 
 <item>
-<title>The Mist: Temporada 1, Episódio 1</title>
-<link></link>
+<title>The Mist: Temporada 1, Episódio 07</title>
+<link>https://lh3.googleusercontent.com/ID6x38a-sKKBWMRMMAmG33DKvL876wXh5MuvS15Hpo83H1EoUZIjinkmlEknXivEA89ZcctIbnqUykYHfw=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/68315series.jpg</thumbnail>
 </item>
 
