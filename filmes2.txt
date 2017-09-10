@@ -29,33 +29,33 @@
 </item>
 
 <item>
-<title>Um Homem de Família - A Family Man (2017)/title>
+<title>Um Homem de Família - A Family Man (2017)</title>
 <link>https://lh3.googleusercontent.com/P2kmyGN14sWPnGv_norrUuy86y60Xf_MM954lAuc-6qO03Af1YbuctR_vovK-fyY7AYG2tvYZAyltE2B5Q=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/375183movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Rei Artur: A Lenda da Espada - King Arthur: Legend of the Sword (2017)</title>
+<link>https://lh3.googleusercontent.com/fYW9pZb7C82LCfvOMB0CJv1zn2XVZZD7OL1UDdq4iVM8hhB2zhOsOS1NLlIZa5EoCkuHF-uHjiz9Lwp67Q=m18</link>
+<thumbnail>http://cinedoanula.com/imdb/posters/274857movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Paixão Obesessiva - Unforgettable (2017)</title>
+<linkhttps://lh3.googleusercontent.com/I7nqXwl-EanfJK32AIRH4ztqQKRv9qjQo6MrpM7pNhV6JgnIAwNW_Acz4WY3Tm_m1sp8z487xxKwrsC7PQ=m18></link>
+<thumbnail>http://cinedoanula.com/imdb/posters/418437movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Borboleta Negra - Black Butterfly (2017)</title>
+<link>https://lh3.googleusercontent.com/DHOtLzqWgEc_5v5TLFPmFEym5PNCdgj5F49duoQYuDHVsani7G-LKL1J3xkNrKkpZmLOMWVPaNN-5xdIYQ=m18</link>
+<thumbnail>http://cinedoanula.com/imdb/posters/76812movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>O Poderoso Chefinho - The Boss Baby (2017)</title>
+<link>https://lh3.googleusercontent.com/M08amejKaasSNyyh-dK-Obl9aaqCcM-MVnDndjuZl4b2DTmgTFpJjNcErQcYTnYvEPGvoIjJ1leTnyyolA=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/295693movie.jpg</thumbnail>
 </item>
 
 <item>
