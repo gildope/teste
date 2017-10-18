@@ -1,29 +1,29 @@
 <item>
 <title>Episódio 1 - Help Me</title>
-<link>https://lh3.googleusercontent.com/is4RaaIIWzkh81JcNfZb5DasOIv6T1eLbind6pERV0HjntbCXySH6I9Mj_H4J_6kuSdq4hOLpvZDGA=m22</link>
+<link>https://lh3.googleusercontent.com/is4RaaIIWzkh81JcNfZb5DasOIv6T1eLbind6pERV0HjntbCXySH6I9Mj_H4J_6kuSdq4hOLpvZDGA=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/65820series.jpg</thumbnail>
 </item>]
 
 <item>
-<title></title>
+<title>Episódio 2</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>]
 
 <item>
-<title></title>
+<title>Episódio 3</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>]
 
 <item>
-<title></title>
+<title>Episódio 4</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>]
 
 <item>
-<title></title>
+<title>Episódio 5</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>]
