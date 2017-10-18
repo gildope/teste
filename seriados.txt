@@ -94,9 +94,9 @@
 </channel>
 
 <channel>
-<name>Van Helsing</name>
+<name>Hannibal</name>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/65820series.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/sobrenatural.txt</externallink>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/hannibal.txt</externallink>
 </channel>
 
 <channel>
