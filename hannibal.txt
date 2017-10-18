@@ -1,34 +1,34 @@
 <item>
-<title>Ep01</title>
+<title>Episódio 1 - Aperitivo</title>
 <link>https://lh3.googleusercontent.com/Dp-_wHr75XDYTZJY6kOR5RfVhlLC-Wp8dOvh6Gy6Uhqsgp7Suw5_vXk8-58eh73024fvRipNe7SsDM07PO5q0GgfSSn5JSt1ktvm8UPkTfk2rd2PChLjKn7xu3utxKbOcOOzuGzdNA=m22</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/40008series.jpg</thumbnail>
 </item>
 
 <item>
-<title>Ep02</title>
+<title>Episódio 2 - Aperitivo</title>
 <link>https://lh3.googleusercontent.com/Mm5LFVm6AsLpycUa_5FAyXPWi2P1E0oxIDAClwVuViDgsLUu0OSoRv3sjY_HSP3g1kzrUXrcae3A-jVLqxIXuIvt5vLg3amd2xyMYIR_jiBhPna-LXiwD6Wn15Ks4kNEYAO5fg0CNw=m22</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/40008series.jpg</thumbnail>
 </item>
 
-<title></title>
+<title>Episódio 3 - sopa</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/40008series.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
+<title>Episódio 4 - ovo</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/40008series.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
+<title>Episódio 5 - shells</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/40008series.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
+<title>Episódio 6 - entrada</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/40008series.jpg</thumbnail>
 </item>
