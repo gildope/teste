@@ -11,7 +11,7 @@
 </item>
 
 <title>Episódio 3 - sopa</title>
-<link></link>
+<link>https://lh3.googleusercontent.com/Vh4Eewkp8swAn_XszxMG93LG3dvyXSYjZwrajvqYDEZw-cLVOHu6xCQWQqHBHJyWg4uKY97VEv2-CWMtZfrTg579-awU-cnKo9hCnnlhHvnMUZk6_Z9hsZX0hp89JrRyCvq-i34mzQ=m22</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/40008series.jpg</thumbnail>
 </item>
 
