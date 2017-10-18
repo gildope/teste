@@ -10,6 +10,7 @@
 <thumbnail>http://www.cinedoanula.com/imdb/posters/40008series.jpg</thumbnail>
 </item>
 
+<item>
 <title>Episódio 3 - sopa</title>
 <link>https://lh3.googleusercontent.com/cc_Mo1UdZYtx3Kc88TMkr5Emy5GRbdcU2tcLKZDMjKz-_P4_jlJuG8J6nNyUyjfsr9ky_lw5wFPQ91RHWV5IsYw_gc1uqa6kDewEb_tjDyvedTMWKGIoPkv-TgXpryfMGZDezkXRow=m22</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/40008series.jpg</thumbnail>
