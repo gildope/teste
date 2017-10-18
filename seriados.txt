@@ -95,7 +95,7 @@
 
 <channel>
 <name>Hannibal</name>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/65820series.jpg</thumbnail>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/40008series.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/hannibal.txt</externallink>
 </channel>
 
