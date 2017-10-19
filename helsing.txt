@@ -6,42 +6,42 @@
 
 <item>
 <title>Episódio 2</title>
-<link></link>
-<thumbnail></thumbnail>
+<link>https://lh3.googleusercontent.com/N-22MjaPw8RT8B3vXstlpVuI1YEeOz-Ql4D9vxieR6YpmqKQ_FtYNXglgYwEJMBQSpBcv_y97skKhw=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/65820series.jpg</thumbnail>
 </item>]
 
 <item>
 <title>Episódio 3</title>
-<link></link>
-<thumbnail></thumbnail>
+<link>https://lh3.googleusercontent.com/ixTbYCKLXq-mmp_PILc2jYTskDdin8nHqyjaCPWegnBR8aYWuQpT_Zwm6MtbWSYuhNEeXx6_zdjvXQ=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/65820series.jpg</thumbnail>
 </item>]
 
 <item>
 <title>Episódio 4</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/65820series.jpg</thumbnail>
 </item>]
 
 <item>
 <title>Episódio 5</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/65820series.jpg</thumbnail>
 </item>]
 
 <item>
-<title></title>
+<title>Episódio 6</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/65820series.jpg</thumbnail>
 </item>]
 
 <item>
-<title></title>
+<title>Episódio 7</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/65820series.jpg</thumbnail>
 </item>]
 
 <item>
-<title></title>
+<title>Episódio 8</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/65820series.jpg</thumbnail>
 </item>]
