@@ -11,15 +11,15 @@
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Fear the Walking Dead: Temporada 3, Episódio 15</title>
+<link>https://lh3.googleusercontent.com/7HVu1XCg86sMFqcZYfpHeSArIhaZP1w090HQ18afEOOZicaxPCPJOjLV-M6NFEIrkxcDSD_LqQluquMSB99IUhgLcT8gVoy8WAzoNns7hhdYoAzuuTUolDhvq3bljMOz1uCjmaaCZA=m22</link>
+<thumbnail>http://cinedoanula.com/imdb/posters/62286series.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Fear the Walking Dead: Temporada 3, Episódio 16</title>
+<link>https://lh3.googleusercontent.com/qwztVqrfE3wsCC2q0xjui52Ec1RoriLgIgASUy_EUPRaIr-_XAhVjiwetHO_RfW0dt54kTAXNHBYow7nexiHnkddkessc5dClsfDbCn4yFxaHzT6FQQ9GDXIwTsGru_aTjYyP2Tksw=m22</link>
+<thumbnail>http://cinedoanula.com/imdb/posters/62286series.jpg</thumbnail>
 </item>
 
 <item>
