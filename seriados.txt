@@ -107,7 +107,7 @@
 
 <channel>
 <name>Fear the Walking Dead: Temporada 3</name>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/62823series.jpg</thumbnail>
+<thumbnail>http://cinedoanula.com/imdb/posters/62286series.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/fear.txt</externallink>
 </channel>
 
