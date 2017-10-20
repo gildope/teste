@@ -19,14 +19,6 @@
 </channel>
 
 <channel>
-<name>Terror Gdrive</name>
-<thumbnail>http://wp.ufpel.edu.br/empauta/files/2016/01/maxresdefault-1.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/filmes.m3u8</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
-
-<channel>
 <name>Drama HD</name>
 <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Drama-icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/dr%20720.txt</externallink>
@@ -54,14 +46,6 @@
 <name>Ficção</name>
 <thumbnail>http://icons.iconarchive.com/icons/lajonard/movie-folder/256/Science-Fiction-icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/Fic%C3%A7%C3%A3o.txt</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>Filmes do Crackle</name>
-<thumbnail>https://pmcdeadline2.files.wordpress.com/2014/09/crackle_logo_2000x1125.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/KramerJohn/SAT_TOTAL/master/crackle.m3u</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
