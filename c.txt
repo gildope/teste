@@ -7,5 +7,4 @@ http://34.228.18.226:8081/live_ipbtv/ipbtv1/live.m3u8
 http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://img2.ne10.uol.com.br/tvjornal/img/logo-tv-jornal.png",TV Teste
-rtmp://208.53.164.194/live?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDE2IDg6MzI6NTMgUE0maGFzaF92YWx1ZT1nWDFVNksvOXM4d1Z4QXBvOHRIZVpBPT0mdmFsaWRtaW51dGVzPTU=//thunder
-
+http://34.228.18.226:8081/live_ipbtv/ipbtv1/chunks.m3u8
