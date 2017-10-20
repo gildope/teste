@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo="http://img2.ne10.uol.com.br/tvjornal/img/logo-tv-jornal.png",TV JORNAL Recife
-http://evp.mm.uol.com.br/ne10/_definst_/ne10-tvjornal-recife-video-web.sdp/live.m3u8
+http://34.228.18.226:8081/live_ipbtv/ipbtv1/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://img2.ne10.uol.com.br/tvjornal/img/logo-tv-jornal.png",TV JORNAL Caruaru
 http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
