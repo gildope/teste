@@ -28,15 +28,9 @@
 </channel>
 
 <channel>
-<name>AMERICAN HORROR STORY 6 TEMPORADA</name>
+<name>AMERICAN HORROR STORY</name>
 <thumbnail>http://4.bp.blogspot.com/-rvjmu1WfcRs/VbE2eLSNd1I/AAAAAAAAErs/7Nq38AtzhhI/s1600/1.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/american_horror.txt</externallink>
-</channel>
-
-<channel>
-<name>AMERICAN HORROR STORY 2 TEMPORADA</name>
-<thumbnail>http://www.geekcouple.com.br/wp-content/uploads/2013/11/american-horror-story-asylum.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/american_horror2.txt</externallink>
 </channel>
 
 <channel>
