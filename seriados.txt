@@ -46,9 +46,9 @@
 </channel>
 
 <channel>
-<name>The Originals</name>
-<thumbnail>http://demogame.org/content/uploads/sngine_eceefa833b3fd2c787b3705a38fb4746.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/the_originals.txt</externallink>
+<name>The Enfield Haunting</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BM2FhOTNiMDktMjJiZi00M2UyLTkyNzMtZTdlMDhjZGEwNmM3XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/The%20Enfield%20Haunting.txt</externallink>
 </channel>
 
 <channel>
