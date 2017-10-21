@@ -6,12 +6,6 @@
 </item>
 
 <item>
-<title>Mistério da Rua 7</title>
-<link>https://lh3.googleusercontent.com/kHNT-jZw7PHIUZxJ1g8ufs-jP7NtV6ze3TzHEL2ZYzPBU-3IqSz3FYImjXxafkbY96dXb9XRXjYHT0hEm6nwP0aUylfV3I5XvvWvJo6BRCSMI81GuUXHqjtemfd7WI-PGt6BIimBEA=m18</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQxMTU4NDg5OF5BMl5BanBnXkFtZTcwMzU5OTcxNA@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-</item>
-
-<item>
 <title>À Beira da Loucura</title>
 <link>https://lh3.googleusercontent.com/VLMnHuuUVJxF7KRZ-gRZ7N7fFv6iSdDm49DJZlAq938PBUeOQ_0r3pzfausiCDE0EBcfomO7ymua6_i5LKecEvK9YIMY2PMGRhxgLk2ljStDwwdCUSI0N_EIgAMDWahLCnFBGo_j0A=m22</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYjNkMWVkYTUtYzUwZi00ZWI1LTg3MzktZjVkNDQxZjFhOTY1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
