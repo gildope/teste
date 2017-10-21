@@ -1,3 +1,28 @@
+
+<item>
+<title>O Peregrino</title>
+<link>https://lh3.googleusercontent.com/aU5GKATFnfjSWJr1wTFYhSeVACUtkGUBd27WoL4qIiYKUtG-jeMA77PGngRvfBntJQKc7_89ObvjHVb0s6-gp8_6Kg3EwsPTsPgfNTot7MnQbf3WzMP1CB22Neao49ic0F2L2aJKJA=m18</link>
+<thumbnail>https://images-shoptime.b2w.io/produtos/01/00/item/7373/9/7373979SZ.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mistério da Rua 7</title>
+<link>https://lh3.googleusercontent.com/kHNT-jZw7PHIUZxJ1g8ufs-jP7NtV6ze3TzHEL2ZYzPBU-3IqSz3FYImjXxafkbY96dXb9XRXjYHT0hEm6nwP0aUylfV3I5XvvWvJo6BRCSMI81GuUXHqjtemfd7WI-PGt6BIimBEA=m18</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQxMTU4NDg5OF5BMl5BanBnXkFtZTcwMzU5OTcxNA@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
 <item>
 <title>A Autópsia</title>
 <link>https://lh3.googleusercontent.com/qAvGNfr-gHJwKPkyG2C98VZz5O2OsUK2tNxKA46tXW4j-B6GFQYeuJwENJL3nSFGKUX4egvSSsomzciAzA=m18</link>
