@@ -4,6 +4,12 @@
 <channels>
 
 <channel>
+<name>Orange Is the New Black</name>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/1424series.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/orange.txt</externallink>
+</channel>
+
+<channel>
 <name>O NEVOEIRO</name>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/68315series.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/nevoeiro.txt</externallink>
