@@ -42,9 +42,9 @@
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>A.Hora do Lobisomen (Bala de Prata)</title>
+<link>https://lh3.googleusercontent.com/UJ4Ruf10Z-KD-Zgw4cOX10rFlemghDeV4ByXO2kFZOMgQXcKr8-XcVLmrXtFZoyS_-3uuTBsFVdeocbUsnfXGwkCPmVmkz7Ir0mRFnkyp16IrM1dP4LzrvPgt-WQQ_LEv86STsCUcw=m18</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYjYyZTM5MjEtNzhhYS00MTZlLTk5NzYtMTk4OTJhY2EzN2VkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 </item>
 
 <item>
