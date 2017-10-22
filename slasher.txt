@@ -1,1 +1,6 @@
-https://lh3.googleusercontent.com/yM8Umo0TY-TdN0XARv56Q3VWb49hDNB-tezSwk094pe5vp1F-y9JJSEK9Zj0ir0_oGBjDgFJni7hZM5-cFOMR7YqIjzV_8iO_HhPVx7b7gA0I1Xot4XdVLWtKBlDA1x_kmymSDtdJQ=m18
+
+<item>
+<title>Slasher Episódio 1</title>
+<link>https://lh3.googleusercontent.com/yM8Umo0TY-TdN0XARv56Q3VWb49hDNB-tezSwk094pe5vp1F-y9JJSEK9Zj0ir0_oGBjDgFJni7hZM5-cFOMR7YqIjzV_8iO_HhPVx7b7gA0I1Xot4XdVLWtKBlDA1x_kmymSDtdJQ=m18</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmI0OTZjM2MtMTUyNC00MzhjLWIzMTEtZTlmZmM3NzM4MDg1XkEyXkFqcGdeQXVyMzUxMzEwODA@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
+</item>
