@@ -1,6 +1,6 @@
 <item>
 <title>TWD 8 Episódio 1</title>
-<link>https://lh3.googleusercontent.com/r4t0oJL-yUh8jpnUB8PRZTSzvJiIQgnOBti-Gu_DtON7gmuKPIhIUTnCJA73JonY_TabRf59eQn688cWs-O6wE-R8qS9u0y4kHTZQtYiuolb489vzCyyeafmefFdQlhLN1jOJQ317Q=m37</link>
+<link>https://lh3.googleusercontent.com/r4t0oJL-yUh8jpnUB8PRZTSzvJiIQgnOBti-Gu_DtON7gmuKPIhIUTnCJA73JonY_TabRf59eQn688cWs-O6wE-R8qS9u0y4kHTZQtYiuolb489vzCyyeafmefFdQlhLN1jOJQ317Q=m22</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/1402series.jpg</thumbnail>
 </item>
 
