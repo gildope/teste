@@ -18,18 +18,62 @@
 
 <item>
 <title>Episódio 4 - ovo</title>
-<link></link>
+<link>https://lh3.googleusercontent.com/tjgANXqYztEEZNAbEGJPo3iP7bkGvuPX3UrtDB5UWAs5WKTSB4E_oDjxqv2caL8UjXGAg9hYxgmyxeUeSScX-qorrfA9NFGontup2Aa3QIf_PYTWP1DvR02X8Ppc0YH8YnCTdvw4FQ=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/40008series.jpg</thumbnail>
 </item>
 
 <item>
 <title>Episódio 5 - shells</title>
-<link></link>
+<link>https://lh3.googleusercontent.com/rq370mSNeXtwIWZrfVNg76XcKtaZEGwPLmV8-706-DPb56iuDo-1K_lfySzh6EAHKQZB_zBwlwI_2U4zxT2sD8p5d19l_vE6RFfXpjGD7tkgHgkzD06d7hsop-Qd8StZUD8hlhCLow=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/40008series.jpg</thumbnail>
 </item>
 
 <item>
 <title>Episódio 6 - entrada</title>
-<link></link>
+<link>https://lh3.googleusercontent.com/BJN15-0465VDRzcWTWv1lgES0i1x0uCntIoWH8SVSrFRRQ2EpfARu67HFofjDSN3wItN9AnLwqt8wU-m3a02e-AtV-gvNSCDJjSAKOa6GSYpTnSLD0SguHN0tWVC5qAx-DUwp1BlpA=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/40008series.jpg</thumbnail>
 </item>
+
+<item>
+<title>Episódio 7</title>
+<link>https://lh3.googleusercontent.com/p6WX1ZCAnmxRrBNfaYPqPJixImM2AbFq7f5XPYJDXAa5PNdBI6bKqbaTYqK0mozoORBLN-2CX1f4pp2-V5VsNF2GkgZ4g2bdHVK_kZM8RNAtxbmYJafMFOgerR4bBFuA48xATgcOfg=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/40008series.jpg</thumbnail>
+</item>
+
+<item>
+<title>Episódio 8 </title>
+<link>https://lh3.googleusercontent.com/6iVMMOq1H06p1ep14V4f7beAg3_BATzlHnayC9uWty6_t6IcILe0tcqHWl5vBnU4qY_9FDQBnV2G-XmKINN4SE435H_3zx4Iqu6cOUT1VeEeQThrCBVOnto4I86PoaA9KzAPxakZsw=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/40008series.jpg</thumbnail>
+</item>
+
+<item>
+<title>Episódio 9</title>
+<link>https://lh3.googleusercontent.com/HcndXgwu-PD5_Fem3nuhMXIdn9E4yIi5bk_GnsrHBDKhqC19N7e2sA9oJeDgbJoZKvxnoaL9hn9giu-5G10piUPE9iTSrjYiWy-bILFpByz2ZQt5Yy2T4v1ULOH1WpTr6G3tL3eNnA=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/40008series.jpg</thumbnail>
+</item>
+
+<item>
+<title>Episódio 10</title>
+<link>https://lh3.googleusercontent.com/JlJ6NdEE1nKHb2dXs0WZw5E6R3v9QmFDyeeQW1h9t-KHE6UfDzApcXkpo-lX5EPV9a46_Yko8WBBIyWeJ9FXftRzGDwiFuVVKqw75d9UHi9CQ7iToy_B1r4zkzu-7S1VyYmJ2_0BKA=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/40008series.jpg</thumbnail>
+</item>
+
+<item>
+<title>Episódio 11</title>
+<link>https://lh3.googleusercontent.com/nQuTkaJ6e7t8MVFy3IDZ12UJT2jhisGjeBRjsCt0KWr1sIqWZw6dDSCn6NmvG1thEXNbkaGVGj6AfoEd4GuJmCGGPvpdeTx4zSTQNIk4yWlvOKZ7UcMeXlfqdt9j9PVEPPY5ZwtArQ=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/40008series.jpg</thumbnail>
+</item>
+
+<item>
+<title>Episódio 12</title>
+<link>https://lh3.googleusercontent.com/nk4De-fn0faPXB3S6Z5PZMRMBguf4J7RQNB9p5fWWESHRAUySd9qoEAjJG315b_33rtav4x4bilhO8n0tBlwMzLwNjHSPEItMeWVYIQwSIsEkhYArF01pugfw4mGTjIRluQxXJJfUg=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/40008series.jpg</thumbnail>
+</item>
+
+<item>
+<title>Episódio 13 </title>
+<link>https://lh3.googleusercontent.com/LCzEJJJgUewMAEdi3AJhCFSpDYM0OvHF0MUhWRANGWeOc0iAsjgql3SbEllmsrEPTp1IDBLkBbKbOZxp43lP04q-AXyLFF_V8SiWIB4CohqgUNFoYQGH5XjZwPaXIgpn6DSS6jdibQ=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/40008series.jpg</thumbnail>
+</item>
+
+
