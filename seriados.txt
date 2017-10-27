@@ -94,9 +94,9 @@
 </channel>
 
 <channel>
-<name>Sobrenatural</name>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/1622series.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/helsing.txt</externallink>
+<name>PLANETA TERRA II</name>
+<thumbnail>https://www.brasilturbo.com/tdQvm5Mi.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/terra2.txt</externallink>
 </channel>
 
 <channel>
