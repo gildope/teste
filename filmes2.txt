@@ -1,4 +1,9 @@
 
+<title>the ridi</title>
+<link>https://lh3.googleusercontent.com/0L8nOusf3WvPOOORvVKSgwjuxdFzLirT-EwPNd8MQZsGOkKK_9hA8gvTGoxFaUGXPesrr4ta_qqMnnNZMLA7jAsdKP893tpbAvDWX1G8pV52rN7FUm802j6Q-uhgUxz35440W2OJEQ=m18</link>
+<thumbnail>https://images-shoptime.b2w.io/produtos/01/00/item/7373/9/7373979SZ.jpg</thumbnail>
+</item>
+
 <item>
 <title>O Peregrino</title>
 <link>https://lh3.googleusercontent.com/aU5GKATFnfjSWJr1wTFYhSeVACUtkGUBd27WoL4qIiYKUtG-jeMA77PGngRvfBntJQKc7_89ObvjHVb0s6-gp8_6Kg3EwsPTsPgfNTot7MnQbf3WzMP1CB22Neao49ic0F2L2aJKJA=m18</link>
