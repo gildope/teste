@@ -11,8 +11,8 @@
 </item>
 
 <item>
-<title>TWD 7 Episódio 1</title>
-<link></link>
+<title>TWD 8 Episódio 3</title>
+<link>https://lh3.googleusercontent.com/OEBIpQJa45H2k1eltOwPbEuADdkBtdtM3D0ZkStG_GAECflci5klyp9G90f87dvmZsvRrTCQpD8CBgjFIGFkAa6q6nL6qNSngre1KBhvnmNtMdBS6xeVIaU1qq5IP1c1OfRmBcPDHQ=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/1402series.jpg</thumbnail>
 </item>
 
