@@ -1,3 +1,32 @@
+<item>
+<title>Planeta dos Macacos: A Guerra</title>
+<link>https://lh3.googleusercontent.com/DHbO3mLQqTTXxy73MLD46oEJ3GANdbNOGE_zA_4Bu-PpmjtuvQPJGr_LafQvxssbrvsyE9FQBNTrmfFaWA=m22</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/281338movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>A Torre Negra</title>
+<link>https://lh3.googleusercontent.com/MRDXNugqWKDpzrMpATDBL7jc6hER3RTGLLpe_cylxixYcsIF3yLwFpZkFoeg4Y4pU8rOEq57pA-espFnA8I=m22</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/353491movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Annabelle 2: A Criação do Mal</title>
+<link>https://lh3.googleusercontent.com/C8E44jfnsQRjs28YEGSAcpbGRgwMelXEokiq5N8Pu5gGwyj5kt8pKsm11Tyt7ufTRaRKqs8KGorRqzLWUw=m22</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/396422movie.jpg</thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>...E o Vento Levou </title>
