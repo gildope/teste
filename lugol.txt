@@ -1,1 +1,5 @@
-ttt
+<item>
+<title>Lugol Recomendações Iniciais</title>
+<link>https://lh3.googleusercontent.com/iyALxnHLvFKbLiWgt-1Cq04-ahJD9BrNxNmK0D8MbR_b8i0Ylwp5XFUEXOqgo26xdbw2XK5XnkTfUin06xKqvJGMfTnv1JpkQUmKtcP13wgJq-JXgRVokj0InWIycvCkDYydyxQr4w=m18</link>
+<thumbnail></thumbnail>
+</item>
