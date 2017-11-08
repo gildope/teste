@@ -1,5 +1,5 @@
 <item>
-<title>humans</title>
-<link>magnet:?xt=urn:btih:6E68A623B4E48B1D47843D87EFA2A1A2DC2B9862&dn=H.01.Temporada.Mp4.TORRENTDOSFILMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<title>HUMANS 1 TEMPORADA EP:01</title>
+<link>https://lh3.googleusercontent.com/FAaFWlR4mG1rRJoEXngD49vAwxiXzO8LMKra_DdZj0VmdgHEzt_Kfx0Q6CPlqgXXfzlFQTrZlPDtr7pSHErqFK-KSAfum9rWs0_3qNVthI1-a0zeIwyz6532Aq1E8VGtnFEwVjMnjQ=m22</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3NjE2OTY4NF5BMl5BanBnXkFtZTgwMTE0NDc0ODE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 </item>
