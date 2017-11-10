@@ -17,8 +17,8 @@
 </item>]
 
 <item>
-<title></title>
-<link></link>
+<title>18. A Caça</title>
+<link>https://lh3.googleusercontent.com/Lw3jgEwbjLzefDzt6adzR8YMim9ZefxPJB04AVRtvzs3cIswRl6bndq-hBGIsN2oi5za9a6gvtKEzQQnS_OxhXtN1Gtl-e4uW9RPIrMB_EOhu7KtcwBuisXP0m5lxt0DW7ySFxmqrA=m18</link>
 <thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
 </item>]
 
@@ -47,33 +47,33 @@
 </item>]
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>07. Lapso de Tempo</title>
+<link>https://lh3.googleusercontent.com/gbtn3NHT0VmE6Ye0kPcEOvvVT6PV8Ba44q5XGC9E5LaeVgm2v-WrHHfiMBgWynDHEqSGps9g9omoj3qo0U81dVgtVuiWVqC-VN8dxOFEJeAs_rpnaKlIiMabfb0E45YMDojQEZW66g=m18</link>
+<thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
+</item>]
+
+<item>
+<title>20. Santuário</title>
+<link>https://lh3.googleusercontent.com/hyY1Xa9RPdTcCV8QSa4EWET8_sNOW2nxULqnr9z1I1ejDP7BwJZIF4tpKlB0RLlQQwoa-564pDuBKG3YcRiNr5rFN4AgkmfEis9oYtlHTkQoAI_AO53TklFaGriBj8a09zD3CntRzQ=m18</link>
+<thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
+</item>]
+
+<item>
+<title>26. Quem Avisa Amigo É</title>
+<link>https://lh3.googleusercontent.com/RMfaPGAKaVgCDXf3cgvzR_ekkALNfRoJvTypwHUKGC6MzVUj3Jp2Q3cfEb2NyXeWhkCAyl7Ka6ImbJ2KyobK3lE9tszE5VSXQmlbQZ6uh83DmZpfdMDnDgkpBroE2WKoTlZldjwDKw=m18</link>
+<thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
+</item>]
+
+<item>
+<title>27. Outra Vida</title>
+<link>https://lh3.googleusercontent.com/kxbmmpOZT48VepqNMZo-dIAp-1DNWbDoX-eXu22tyj1oo-fBEdoTYxJL0wh2EpK4t8UN0m8zkgypz2FiTN-Dftx_h9ABIoq8GcumXqb7u6-188wBblFFvxvcSQ7co5qh73YNNSS_9w=m18</link>
+<thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
 </item>]
 
 <item>
 <title></title>
 <link></link>
-<thumbnail></thumbnail>
-</item>]
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>]
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>]
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
 </item>]
 
 <item>
