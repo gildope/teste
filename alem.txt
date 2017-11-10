@@ -1,6 +1,6 @@
 <item>
-<title></title>
-<link></link>
+<title>01. O Paraíso Verde</title>
+<link>https://lh3.googleusercontent.com/YVd5-DQfH2EUV_fLr-v8xibP4IHT4LfYRx2hZUZr6PKC8bB0Sec8qre3vpaz-6xxtV5OawvsUuEzPMFE7r4rBtZpmNPkpbXI5J1nxgG3-5gEGUFQLqkySe7GoO4TIpThnZPpvoCtfA=m18</link>
 <thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
 </item>]
 
@@ -17,8 +17,8 @@
 </item>]
 
 <item>
-<title>18. A Caça</title>
-<link>https://lh3.googleusercontent.com/Lw3jgEwbjLzefDzt6adzR8YMim9ZefxPJB04AVRtvzs3cIswRl6bndq-hBGIsN2oi5za9a6gvtKEzQQnS_OxhXtN1Gtl-e4uW9RPIrMB_EOhu7KtcwBuisXP0m5lxt0DW7ySFxmqrA=m18</link>
+<title>04. O Homem dos seus Sonhos </title>
+<link>https://lh3.googleusercontent.com/dKfICrBJDhQpe2EretE1c-_3a8n6gJEK2LkKzc8H8QxeUcipcRA5NGQiKXIZRtk5lqu89IO1LczSYzGSkyoSNx6WspMO_x_nYYfwt8LCUu-a_uuosvnjnaDf4J4_RFCwQhAuHCJ4JA=m18</link>
 <thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
 </item>]
 
@@ -35,26 +35,68 @@
 </item>]
 
 <item>
-<title>34. O Quanto Você Ama seu Filho </title>
-<link>https://lh3.googleusercontent.com/pPk_-EICbKyqrXRBUz8TIT9IXAj7vLdM9qK_sipxKUQ9jEJDPL51yO4XCrPtybCtvqvr-aeT8xkkfmbYD7T8WU-h-6hLOoXBo5cDVGeeeR__SNjLEQs-HjQEbIO3Me5L9WIzXxLPCA=m18</link>
-<thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
-</item>]
-
-<item>
-<title>41. As Execuções de Grady Finch </title>
-<link>https://lh3.googleusercontent.com/FoGvtIGraq3FgZmZPPko4dlvBruunB-LCaNPKNNTWPmwcV7fFLYgko1cdSFYCCOtvQkUIYO9M342bCrjLvSigDcrZAtczCHdubQlo75eNiURyYKvpFRy5tcXMXNWW3JMISI-5yYuHA=m18</link>
-<thumbnail></thumbnail>
-</item>]
-
-<item>
 <title>07. Lapso de Tempo</title>
 <link>https://lh3.googleusercontent.com/gbtn3NHT0VmE6Ye0kPcEOvvVT6PV8Ba44q5XGC9E5LaeVgm2v-WrHHfiMBgWynDHEqSGps9g9omoj3qo0U81dVgtVuiWVqC-VN8dxOFEJeAs_rpnaKlIiMabfb0E45YMDojQEZW66g=m18</link>
 <thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
 </item>]
 
 <item>
+<title>08. Os Olhos do Morto</title>
+<link>https://lh3.googleusercontent.com/AWKcqhJU0nTmiiNAGRcK5gcz7bQrVn-eLq9EoXLwJsCBxp9tlmXDxCial6-eXfu8hRNL45cXnrm8sq_JnrhqAoUE43YYCn7ywlx1LLGmviX4QA7WzkD_AEbEfM0r0R1_9MWFwO494w=m18</link>
+<thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
+</item>]
+
+<item>
+<title>09. Piscineiro</title>
+<link>https://lh3.googleusercontent.com/68n3THM8W9aiOPsiIFgvSmwWWs2XCBziDMRJBVaiGyv1C3BwAJaqycrsWPwUMae9S_VP77nDd6e8VTrRvjB5xIaqQXiOSHD8QdrPtLyZn62d5JTsP_gh4zs9i9-JCUVDsSCgDr_IAA=m18</link>
+<thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
+</item>]
+
+<item>
+<title>10. O Vingador é meu Amigo </title>
+<link>https://lh3.googleusercontent.com/XkF5q25NRTpiGyDrp9Mx4V9qRoC9BP-oE6LyXInL_Dg60Lg2oT_ERBWUGDbsyIsEdhqT3QaImDOmEr9DWjOyD26rOI81g7QIq3Y5C5S-rLbHLdSn0hc9ALvGkBo-s8fDwrZUYWyQ9g=m18</link>
+<thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
+</item>]
+
+<item>
+<title>11 e 12. O Reparador de Linhas Telefônicas Parte 1-2</title>
+<link>https://lh3.googleusercontent.com/q1q5tq8j6n40imQ-icsgM4nlG36QNMsutivnlKvKTBMB_2zFsPDGoO00ZRJL5ZlBoSMjG7YfAwOKipH5dcbgCfX6lRScsOi9KfO_kJyFqgFhVO__MjwuzK2_PyifUTf8PI5esQE1Ng=m18</link>
+<thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
+</item>]
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
+</item>]
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
+</item>]
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
+</item>]
+
+<item>
+<title>18. A Caça</title>
+<link>https://lh3.googleusercontent.com/Lw3jgEwbjLzefDzt6adzR8YMim9ZefxPJB04AVRtvzs3cIswRl6bndq-hBGIsN2oi5za9a6gvtKEzQQnS_OxhXtN1Gtl-e4uW9RPIrMB_EOhu7KtcwBuisXP0m5lxt0DW7ySFxmqrA=m18</link>
+<thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
+</item>]
+
+<item>
+<title>19. Sr. Motivação</title>
+<link>https://lh3.googleusercontent.com/HAVVwj6p7V2TplfXt-NbhLWsreC5C3bTEuMzSdZ2OvNsR3-0UJPL0HEx2DJQdM2QdN3nQ1ANKynTlRQxy7JsaUQvp1r5fdpHFbH45zua_Aqt9M-RsPS043XEcg7Fq8pmv-g5Tz4H5w=m18</link>
+<thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
+</item>]
+
+<item>
 <title>20. Santuário</title>
-<link>https://lh3.googleusercontent.com/hyY1Xa9RPdTcCV8QSa4EWET8_sNOW2nxULqnr9z1I1ejDP7BwJZIF4tpKlB0RLlQQwoa-564pDuBKG3YcRiNr5rFN4AgkmfEis9oYtlHTkQoAI_AO53TklFaGriBj8a09zD3CntRzQ=m18</link>
+<link>https://lh3.googleusercontent.com/JWDZapeVFb9Z--YyhMkTXL_kYETAv3lt81dUnDyHKt2xlwbXTerLsJd2H4SI47_kmF1mFb_iLQk4hpSsilnqRl4ZxCliodZ4UFQwX3219R5QG5JeR9HmS220cCs0rzxSxyf3CiO6qg=m18</link>
 <thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
 </item>]
 
@@ -71,6 +113,20 @@
 </item>]
 
 <item>
+<title>34. O Quanto Você Ama seu Filho </title>
+<link>https://lh3.googleusercontent.com/pPk_-EICbKyqrXRBUz8TIT9IXAj7vLdM9qK_sipxKUQ9jEJDPL51yO4XCrPtybCtvqvr-aeT8xkkfmbYD7T8WU-h-6hLOoXBo5cDVGeeeR__SNjLEQs-HjQEbIO3Me5L9WIzXxLPCA=m18</link>
+<thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
+</item>]
+
+<item>
+<title>41. As Execuções de Grady Finch </title>
+<link>https://lh3.googleusercontent.com/FoGvtIGraq3FgZmZPPko4dlvBruunB-LCaNPKNNTWPmwcV7fFLYgko1cdSFYCCOtvQkUIYO9M342bCrjLvSigDcrZAtczCHdubQlo75eNiURyYKvpFRy5tcXMXNWW3JMISI-5yYuHA=m18</link>
+<thumbnail></thumbnail>
+</item>]
+
+
+
+<item>
 <title></title>
 <link></link>
 <thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
@@ -79,61 +135,31 @@
 <item>
 <title></title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
 </item>]
 
 <item>
 <title></title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
 </item>]
 
 <item>
 <title></title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
 </item>]
 
 <item>
 <title></title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
 </item>]
 
 <item>
 <title></title>
 <link></link>
-<thumbnail></thumbnail>
-</item>]
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>]
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>]
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>]
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>]
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
 </item>]
 
 <item>
