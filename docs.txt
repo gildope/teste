@@ -1,4 +1,10 @@
 <item>
+<title>Comunismo - História De Uma Ilusão Parte 1</title>
+<link>https://lh3.googleusercontent.com/WcJdnF9DpAjftPKJS_Swk4pi4qkPoH4QctzOolSLit6chbwDRbtl4EoE3MZkDIuop0eurNsUANYySn9yTUSE8YoywjEDb2eSFKwfYugw629oeucCD6oB71_lyZvBKFKNi26mw5YRwQ=m18</link>
+<thumbnail>https://i.ytimg.com/vi/TEtTNS4Sm4U/hqdefault.jpgg</thumbnail>
+</item>
+
+<item>
 <title>Guia Politicamente Incorreto EP01</title>
 <link>https://lh3.googleusercontent.com/sQ61k-btdPJXBKoeUAt0Iyu4YnLFJzX61gOeyejmR0h_me1qeWwAnN886Ae1ObNyztQ2hSHjibtVD6oZVL6zOWwZWuPxIZj8mLhM13PnXcvSyGdafyDwBb5l5sPRITopgigjJ4YTxg=m22</link>
 <thumbnail>http://s2.glbimg.com/VL4yyYTZorAeALbI7bI_nTHZxyM=/645x388/i.glbimg.com/og/ig/infoglobo1/f/original/2015/11/30/guia-111.jpg</thumbnail>
