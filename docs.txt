@@ -1,7 +1,7 @@
 <item>
 <title>Comunismo - História De Uma Ilusão Parte 1</title>
 <link>https://lh3.googleusercontent.com/WcJdnF9DpAjftPKJS_Swk4pi4qkPoH4QctzOolSLit6chbwDRbtl4EoE3MZkDIuop0eurNsUANYySn9yTUSE8YoywjEDb2eSFKwfYugw629oeucCD6oB71_lyZvBKFKNi26mw5YRwQ=m18</link>
-<thumbnail>https://i.ytimg.com/vi/TEtTNS4Sm4U/hqdefault.jpgg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/TEtTNS4Sm4U/hqdefault.jpg</thumbnail>
 </item>
 
 <item>
