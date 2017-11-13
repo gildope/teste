@@ -45,3 +45,10 @@
 <link>https://lh3.googleusercontent.com/wee-U-FYBRcxsqR68_x72YPQx-jOEbq42Sl-yX8nYiWRyBkR5WzBZ0CSm1S7Pq9nV5SXqzECZpzLnxasgSrMvzC7G5QdzoA5RI1tfj19fPWncEtG6ZNvWQgWEgi_zgVqQ45vqZb5Ew=m22</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3NjE2OTY4NF5BMl5BanBnXkFtZTgwMTE0NDc0ODE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 </item>
+
+<item>
+<title>HUMANS 2 TEMPORADA EP:01</title>
+<link>https://lh3.googleusercontent.com/T8LR50xNdO2NM_FRLsnTGn7JwSJJcmd6PxB-lgKvuxio0JdMTjwgwdd78_RQZQ9kW2qV55Wbs_7DF9Kx1U2iPhipmVSGDIgs8PqglnASF3p_vmNV_6um7ycnOVjfVAxhYtmFbMAK-g=m22</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3NjE2OTY4NF5BMl5BanBnXkFtZTgwMTE0NDc0ODE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>
+
