@@ -52,3 +52,45 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3NjE2OTY4NF5BMl5BanBnXkFtZTgwMTE0NDc0ODE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 </item>
 
+<item>
+<title>HUMANS 2 TEMPORADA EP:02</title>
+<link>https://lh3.googleusercontent.com/0yYUH2KDy0REJAwCGs4KvDa4Tx5UXr532woRWryIFeIPprY1FOildbaMlb6omJBvsBQs4Tj8029IQoCFByGg0M2VdjMJAlCTGEX4-KsGZQWoPoFHRHiI88rfq6kgPUYhrwGuE3wv3g=m22</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3NjE2OTY4NF5BMl5BanBnXkFtZTgwMTE0NDc0ODE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>HUMANS 2 TEMPORADA EP:03</title>
+<link>https://lh3.googleusercontent.com/lTEnAl0ltUTP3eVrWiQM8fUYfMELV7UtBmPPte_x7fH2pqnVGgTcfk-tibFspjhRcLI50NZ3Hlpk4gc5lh_wtCpTU0ghkrWpVfUL64L0EBNKkrAGmfr1yvscwCOK1n4cHwNhAD2u-w=m22</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3NjE2OTY4NF5BMl5BanBnXkFtZTgwMTE0NDc0ODE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>HUMANS 2 TEMPORADA EP:04</title>
+<link>https://lh3.googleusercontent.com/wUoekWpxsLOC4ruAQiQx-uIV7s67-_yridEMDIsfqaLtwvFEuI5FWxR1V9f5oy6cXUOPUWAbUNUfDJDnNP0Lsvrk-HMXgUWT6a4I9NzStHPX9enaqIzbcFkrlSW0B5nCZhy3vUVMpw=m22</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3NjE2OTY4NF5BMl5BanBnXkFtZTgwMTE0NDc0ODE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>HUMANS 2 TEMPORADA EP:05</title>
+<link>https://lh3.googleusercontent.com/iGofjIGwR6iLr0XvHoaweljXaRjJ7TQuzJ47ioyo61mTdQUGQj_I3hSdETGJ6w7KgNiCb6rOVXdgOwHFo2FI_EpmKMzMFgcmQ1XbC9Tgbj6VtBWDFxm6ERamLR32enyK9zPpu80iEg=m22</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3NjE2OTY4NF5BMl5BanBnXkFtZTgwMTE0NDc0ODE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>HUMANS 2 TEMPORADA EP:06</title>
+<link>https://lh3.googleusercontent.com/Mx8wliAYdD665CY6xmvzB8BedR0Md4LVDH50-E8KzqE5N1vRLg0nQ_MK9vRhRawabVvGXnBF7ZD_pYjvh6nkkH8lC3TIpQjyjLOPVV20g3GIwJOONu1fjBci9u54o4XV3WK-NIQO-A=m22</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3NjE2OTY4NF5BMl5BanBnXkFtZTgwMTE0NDc0ODE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>HUMANS 2 TEMPORADA EP:07</title>
+<link>https://lh3.googleusercontent.com/xdf-eS0-5NDiyitEWJvyUeG1Fo9KxfXmZhEelYBBko-AANBC-aIWBksVfjCG63vED3GFtyI1vVYdNDSLCXU2gLtgZZRkvVmOwU0un4tJCTpKJ_ZQKa3e4VjMz8ePEHsRJRKSK2WPrg=m22</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3NjE2OTY4NF5BMl5BanBnXkFtZTgwMTE0NDc0ODE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>HUMANS 2 TEMPORADA EP:08</title>
+<link>https://lh3.googleusercontent.com/GVUIyvt8yspCRgZ14-Rh8uwogK8B9zS4p23yjlySJSjXxEV09wE18PhCBxZxLiDqpdi8rNNm5noczpXE1E46BpxFdKXReffN7psDfRLC9t6-xe0SH14Tkrq0NxLVOejrFrP6TQbM9w=m22</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3NjE2OTY4NF5BMl5BanBnXkFtZTgwMTE0NDc0ODE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>
+
