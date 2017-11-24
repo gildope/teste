@@ -21,3 +21,9 @@
 <link>https://lh3.googleusercontent.com/zioOaNB232OpUryniHNUEDuwxGcNi6ufOScLLTW7PQQGI8oygyczYJsFEJLrkgPyLOszykzeEbjYNjSWThRPQRumqmOEUi284lrnBkolgBPqnf_USEWP0nVYr91HWSS4cj7fxSzocg=m37</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/1402series.jpg</thumbnail>
 </item>
+
+<item>
+<title>TWD 8 Episódio 5</title>
+<link>https://lh3.googleusercontent.com/FKHYxcSDXloXghLXqMJqbWNhDEMwOvh9tjc7Bw7hIVAU5UgJA2Vt8OWFF3rBMJTbpawBt29KCp2z7iF8=m22</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/1402series.jpg</thumbnail>
+</item>
