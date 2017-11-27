@@ -1,4 +1,16 @@
 <item>
+<title>A Liga Extraordinária</title>
+<link>https://lh3.googleusercontent.com/aZt4wKelXKrHVoAOUHJUGIcwYhCJ9cPJFfjFohPmiBq4yIOK2nIf9pUz2f0f9Qv-hBlztOGYywFKgU7AYp2vvvs0M40NMUSvYUltJJmuvt7qFHuN7kph0RhnAYZjLmzLkD-U1oKreQ=m18</link>
+<thumbnail>http://telecine.img.estaticos.tv.br/cache/cartazes/liga-extraordinaria_cartaz_220x283.jpg</thumbnail>
+</item>
+
+<item>
+<title>KILL BILL VOL2</title>
+<link>https://lh3.googleusercontent.com/hUr-aiZcButopmEzTl_HXHH0EzkaWe8QWVJI1dKsY4I4Ebg1l7hUDsSoHFAWynHNMcIuN18Rz8WHCPj6Wl02opSYT-RSaaxUSs1o7-sRZtEeHJAO4-4dWv88gYzneVFPAf3M0cs5jw=m18</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNmFiYmJmN2QtNWQwMi00MzliLThiOWMtZjQxNGRhZTQ1MjgyXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>Planeta dos Macacos: A Guerra</title>
 <link>https://lh3.googleusercontent.com/DHbO3mLQqTTXxy73MLD46oEJ3GANdbNOGE_zA_4Bu-PpmjtuvQPJGr_LafQvxssbrvsyE9FQBNTrmfFaWA=m22</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/281338movie.jpg</thumbnail>
