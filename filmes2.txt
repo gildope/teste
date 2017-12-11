@@ -1,4 +1,10 @@
 <item>
+<title>Mistério da Rua 7</title>
+<link>https://lh3.googleusercontent.com/dI8qsppdY9YSx0F_IU7mmDKe9jjzxsQuieNKtOr7IsybGqEK_NrqEXRGWwrIdBGVv2gLLQkwhRTdQTyPXtbc6M76nANGXheYwAyFALi0YaGI_Ke7O7NIRShbm7xlGM2VG_C5LH8dag=m37</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQxMTU4NDg5OF5BMl5BanBnXkFtZTcwMzU5OTcxNA@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>A Liga Extraordinária</title>
 <link>https://lh3.googleusercontent.com/aZt4wKelXKrHVoAOUHJUGIcwYhCJ9cPJFfjFohPmiBq4yIOK2nIf9pUz2f0f9Qv-hBlztOGYywFKgU7AYp2vvvs0M40NMUSvYUltJJmuvt7qFHuN7kph0RhnAYZjLmzLkD-U1oKreQ=m18</link>
 <thumbnail>http://telecine.img.estaticos.tv.br/cache/cartazes/liga-extraordinaria_cartaz_220x283.jpg</thumbnail>
