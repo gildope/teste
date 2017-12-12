@@ -30,6 +30,6 @@
 
 <item>
 <title>TWD 8 Episódio 8</title>
-<link>https://lh3.googleusercontent.com/4DE9x2qhpRmZq1d8Rkp7mT0lDX59xrGsOtILNMK5FHl4IkN3-uebvOoYqMep4q_DtN4Zh5Tr5E-HK8Sd74qle2mKr3DZQdwnG4Z6foLUAQZX-aEylbHEiq6qNzj0zlNO1shra4YaTA=m37</link>
+<link>https://lh3.googleusercontent.com/4DE9x2qhpRmZq1d8Rkp7mT0lDX59xrGsOtILNMK5FHl4IkN3-uebvOoYqMep4q_DtN4Zh5Tr5E-HK8Sd74qle2mKr3DZQdwnG4Z6foLUAQZX-aEylbHEiq6qNzj0zlNO1shra4YaTA=m22</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/1402series.jpg</thumbnail>
 </item>
