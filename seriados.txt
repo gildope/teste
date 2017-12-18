@@ -4,15 +4,15 @@
 <channels>
 
 <channel>
-<name>Slasher/<name>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/slasher.txt</externallink>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmI0OTZjM2MtMTUyNC00MzhjLWIzMTEtZTlmZmM3NzM4MDg1XkEyXkFqcGdeQXVyMzUxMzEwODA@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
+<name>Antologia do Medo</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4NzE5NjU1OF5BMl5BanBnXkFtZTcwMzU5MDEwNQ@@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/Antologia%20do%20Medo.txt</externallink>
 </channel>
 
 <channel>
-<name>Orange Is the New Black</name>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/1424series.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/orange.txt</externallink>
+<name>Slasher/<name>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/slasher.txt</externallink>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmI0OTZjM2MtMTUyNC00MzhjLWIzMTEtZTlmZmM3NzM4MDg1XkEyXkFqcGdeQXVyMzUxMzEwODA@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
 </channel>
 
 <channel>
