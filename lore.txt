@@ -1,1 +1,37 @@
-tttt
+
+<item>
+<title>Lore EP 01</title>
+<link>https://lh3.googleusercontent.com/p1jj1wmG36qC0iHk0pShPCD_00M0SIEVIWvusfI5zZWbikJMA3K0Rwm-rA2dObTAQbtM86Kbun2xhOqFu1NzUY7G5nG9TjurRWxWvsAJtw1Tq7PkT_I8D8MuY9hHi9oqZDkKg47zVw=m22</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3ODQwNzM0OF5BMl5BanBnXkFtZTgwMjY5MTczMzI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>]
+
+<item>
+<title>Lore EP 02</title>
+<link>https://lh3.googleusercontent.com/SQiYSuy-RB5IfnU6wMcN2b9wjuFlbspSWE6ClvzAWjG-7zP78AZxUnLPpKSMZsVb6C21CvX-GVCQy5mPoNRTvQjW7YEfciSFNU7IvVzxxfLaARPQdK3ZpNKyrgR1w8L8abCR0HegZA=m22</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3ODQwNzM0OF5BMl5BanBnXkFtZTgwMjY5MTczMzI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>]
+
+<item>
+<title>Lore EP 03</title>
+<link>https://lh3.googleusercontent.com/zDqURafsoIFzFR5k9wfsjDJAu0OPNY-_e4BJEo4EqLV8o0ZqRVwWPu1d9UPtWUfLbGVxitfDvCPc2D6TDdruEX-kUZznmYOip0K64oj8ap9UfXrkwWxScsHgNj7hXkY_VCCCAdWYag=m22</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3ODQwNzM0OF5BMl5BanBnXkFtZTgwMjY5MTczMzI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>]
+
+<item>
+<title>Lore EP 04</title>
+<link></link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3ODQwNzM0OF5BMl5BanBnXkFtZTgwMjY5MTczMzI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>]
+
+<item>
+<title>Lore EP 05</title>
+<link></link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3ODQwNzM0OF5BMl5BanBnXkFtZTgwMjY5MTczMzI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>]
+
+<item>
+<title>Lore EP 06</title>
+<link></link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3ODQwNzM0OF5BMl5BanBnXkFtZTgwMjY5MTczMzI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>]
+
