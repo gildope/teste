@@ -4,6 +4,12 @@
 <channels>
 
 <channel>
+<name>Lore</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3ODQwNzM0OF5BMl5BanBnXkFtZTgwMjY5MTczMzI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/lore.txt</externallink>
+</channel>
+
+<channel>
 <name>Antologia do Medo</name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4NzE5NjU1OF5BMl5BanBnXkFtZTcwMzU5MDEwNQ@@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/Antologia%20do%20Medo.txt</externallink>
