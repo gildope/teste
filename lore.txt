@@ -19,19 +19,19 @@
 
 <item>
 <title>Lore EP 04</title>
-<link></link>
+<link>https://lh3.googleusercontent.com/KmnwF7LYml-So67bR8f3iTnvQW5MEeivemszCYKtRiZXOFLUcWxekC2AlZgpGhUhEXiVlmLN02B2StFrneFZTSnKsfb4OYBvjkQORmWcu-RJIDhtOku65VcRer6wXetVXyuBPL5Upw=m22</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3ODQwNzM0OF5BMl5BanBnXkFtZTgwMjY5MTczMzI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 </item>]
 
 <item>
 <title>Lore EP 05</title>
-<link></link>
+<link>https://lh3.googleusercontent.com/gMTdkiJEtvK3ZAWVu-AtRmkkVoE-e0Z4hQyiJe7E9pZc_qq4DR5dkmDcEqB_9CYvssviZBPvyPCMt3iLDscK23UG-uCFoQraNtyiqSKALNZLUIpNixoHytRjE0qnxORDNuYuuwyreQ=m22</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3ODQwNzM0OF5BMl5BanBnXkFtZTgwMjY5MTczMzI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 </item>]
 
 <item>
 <title>Lore EP 06</title>
-<link></link>
+<link>https://lh3.googleusercontent.com/XPhUvctv74IJ1Jg9EtkfV3oXV6-X7Bvb2og7s-MAMEcg2VkyqLQjwOfJwd5b_9w9sS7e1AqcIQYXSd3tSEL-a-1b14RYUY4nPdrRbvG3h9MH4UF9c78WNna03mGAZ-NuluTUfmrCSg=m22</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3ODQwNzM0OF5BMl5BanBnXkFtZTgwMjY5MTczMzI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 </item>]
 
