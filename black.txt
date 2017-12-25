@@ -68,7 +68,7 @@ ________________________________________________________________________________
 <item>
 
 <item>
-<title>Episódio 6 - Ódio nacional</title>
+<title>Temporada 3, Episódio 6 - Ódio nacional</title>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/42009series.jpg</thumbnail>
 <link>https://lh3.googleusercontent.com/NniD3qLEqBoxo6NI2uiss6Yj0BD3qJLf2p1mn1v1nGr4ArIrQ2jViap15bNB1T-XfI5wjetfAB6sNA=m22</link>
 <item>
