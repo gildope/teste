@@ -1,0 +1,75 @@
+<item>
+<title>Temporada 1, Episódio 1 O hino nacional</title>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/42009series.jpg</thumbnail>
+<link>https://lh3.googleusercontent.com/3TGiRaGUED-qJawZURJHOgpagn2__Tmr2IMhm640NuWZ6KpIGuDQcc_TNZiPYLyTNBmN-XdyuHUncQ=m22</link>
+</item>
+
+<item>
+<title>Temporada 1, Episódio 2 Quinze milhões de méritos</title>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/42009series.jpg</thumbnail>
+<link>https://lh3.googleusercontent.com/_jZW5wDFLuABhFKvNpe1lBWGi_Tom3-_Gcmf6brQ5PQ8xMXBUGE6l3STr_kDNB2FQyHG2FpdL-H_pw=m22</link>
+<item>
+
+<item>
+<title>Temporada 1, Episódio 3 Toda a tua história</title>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/42009series.jpg</thumbnail>
+<link>https://lh3.googleusercontent.com/fPmy8y9xhR3bPhlqcWIKT7vDAYo6bB5_CPk-C_BE7n_lf9Ijo9e7M4eCV5Sn6PLHOsNvkMuu2_DJpQ=m22</link>
+<item>
+___________________________________________________________________________________________________________________________
+
+<item>
+<title>Temporada 2, Episódio 1 - Volto já</title>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/42009series.jpg</thumbnail>
+<link>https://lh3.googleusercontent.com/zgEAKwl2gTUX60ojTOf9S_MxcRqU4LMrbqNA7n_-5mIyV5q_zUG6IVqbypvMG0CUhgFk7T2A8Z4Ntg=m22</link>
+<item>
+
+<item>
+<title>Temporada 2, Episódio 2 - O urso branco</title>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/42009series.jpg</thumbnail>
+<link>https://lh3.googleusercontent.com/N_xEVvUKPLJ4--tVQiFnj8GvpdUHP9rCIjHSGPf_E_DxmXDbpDK7fTvmDxR06IiCUQkPocoMwenP-Q=m22</link>
+<item>
+
+<item>
+<title>Temporada 2, Episódio 3 - A hora do Waldo</title>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/42009series.jpg</thumbnail>
+<link>https://lh3.googleusercontent.com/go-hodb54Mo9FaRNNzMGpcEVZNroyn9CwzO7AQeR3lsTIehEzYTqXi92r0n32GV71pGiT2zukipNGw=m22</link>
+<item>
+
+____________________________________________________________________________________________________________________________
+
+<item>
+<title>Temporada 3, Episódio 1 - Em queda livre</title>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/42009series.jpg</thumbnail>
+<link>https://lh3.googleusercontent.com/iU0iQS7O-XWz2seEHg22QeAlpAGR4M-m-FH7LWLYW7--GLtZZPqswbWv8GAfNb-tkcefmzMzwOojfg=m22</link>
+<item>
+
+<item>
+<title>Temporada 3, Episódio 2 - Teste</title>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/42009series.jpg</thumbnail>
+<link>https://lh3.googleusercontent.com/6NeYJ1NJDfz6c8Q-KTcZ36gI093ZwV-2s5BFBZjnFzMbAqtntahQfFZYssentND2tga4-9qEQCOPXQ=m22</link>
+<item>
+
+<item>
+<title>Temporada 3, Episódio 3 - Cala-te e dança</title>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/42009series.jpg</thumbnail>
+<link>https://lh3.googleusercontent.com/oAJS9IHbCIbtSQ2ciWCgGReCAGm70meOYHdd9WCxPkZyIxL3Takqgcl8ajZDQ-qCjdoTcoJM7eXPzA=m22</link>
+<item>
+
+<item>
+<title>Temporada 3, Episódio 4 - San Junipero</title>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/42009series.jpg</thumbnail>
+<link>https://lh3.googleusercontent.com/Vjv1xOuOhA_LqpxepmKFqxTdl3baSJrRHIQcU9AGeRdpoSc9KtDXjx4coHi7o-h1DuvSa8BreWeV-Q=m22</link>
+<item>
+
+<item>
+<title>Temporada 3, Episódio 5 - A ciência de matar</title>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/42009series.jpg</thumbnail>
+<link>https://lh3.googleusercontent.com/CvD28B53-Ka_qm4eqiUQdx95iJbo_zfN-fy-PKNMVIm3AOWCLt-MgFCWKayPVXhPv_T3vybtHN0-3g=m22</link>
+<item>
+
+<item>
+<title>Episódio 6 - Ódio nacional</title>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/42009series.jpg</thumbnail>
+<link>https://lh3.googleusercontent.com/NniD3qLEqBoxo6NI2uiss6Yj0BD3qJLf2p1mn1v1nGr4ArIrQ2jViap15bNB1T-XfI5wjetfAB6sNA=m22</link>
+<item>
+
