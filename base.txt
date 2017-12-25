@@ -33,9 +33,3 @@
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/alem.txt</externallink>
 </item>
 
-<item>
- <title>[COLOR red] [COLOR yellow][I][B]Lugol[/I][/B][/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/lugol.txt</externallink>
-</item>
