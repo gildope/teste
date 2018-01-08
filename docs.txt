@@ -1,3 +1,10 @@
+
+<item>
+<title>Os Animais Também são Seres Humanos 1974</title>
+<link>https://lh3.googleusercontent.com/NOmQUAbjntzo7VFbdlDp66aLaFPH2LTKrqppQe6bPs9tDtWtxJGXqyBmteQbxGiIMo06_eFobbRoH-dqBs1LZKpsCszuB1OoYQbtuLNMXvvJMIAhv4wMfUf6CmiZ1zv98SahOTryIw=m18</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwMzgzMjc5NV5BMl5BanBnXkFtZTcwOTYyNTAzMQ@@._V1_UY98_CR0,0,67,98_AL_.jpg</thumbnail>
+</item>
+
 <item>
 <title>Comunismo - História De Uma Ilusão Parte 1</title>
 <link>https://lh3.googleusercontent.com/WcJdnF9DpAjftPKJS_Swk4pi4qkPoH4QctzOolSLit6chbwDRbtl4EoE3MZkDIuop0eurNsUANYySn9yTUSE8YoywjEDb2eSFKwfYugw629oeucCD6oB71_lyZvBKFKNi26mw5YRwQ=m18</link>
