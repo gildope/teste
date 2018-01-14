@@ -65,20 +65,32 @@
 </item>]
 
 <item>
-<title></title>
-<link></link>
+<title>13. A Maldição da Guitarra </title>
+<link>https://lh3.googleusercontent.com/E1l_hGpd0ARYk6rFKELELpR2RwfrarJgKfjW9A2H7GfztmSPtFM-K4R5JwzbksujA2p1Aq_6QWD2ePiK7AFEJUDk3P2mY361tZd4eX_tgmQ8nNWvgTvyp2tN3Iz9NfYv8MheRO7E2g=m18</link>
 <thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
 </item>]
 
 <item>
-<title></title>
-<link></link>
+<title>14. Upgrade</title>
+<link>https://lh3.googleusercontent.com/sBdjDbZuh2JKvpYeGP8AFk9qadCcTUs4ru9ZoN4OyOW5uwI5Y-e7vE9qjRGHEcjnRDLUSBuWfPwvfRsmHBjdg_xwzrJGhc_CKBMY54K0NoGkacEwTwsY6OLI9T_JVgeSAvOQvuV6sA=m18</link>
 <thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
 </item>]
 
 <item>
-<title></title>
-<link></link>
+<title>15. Proteger e Servir</title>
+<link>https://lh3.googleusercontent.com/kbT-64A04SH_4iog7sqoXMhWJt0gtCx6Fo5bvJlmN9jy7H4RtCdbFsF82kIXy40ZFYT2HxcpTZYlsbe6ZXh4YwANb_d2JJnFuwxlPiPG0p9ufQtDj2C-2aD0LXlOMPDZGYWwD1-BDQ=m18</link>
+<thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
+</item>]
+
+<item>
+<title>16. Escolhido</title>
+<link>https://lh3.googleusercontent.com/ZZMEixS1yqEVpFe0kRpLmjiClZEnlPH0QfBa77j0myZfu5Dgi8YB59mXWrdpQjE_eleZ2-AVHzzJjrHIY3nh4h1eVJ7RG5w5-_FEK2KhNLkaHVAL3By43hymTrWYLeaxG2pRHWEDUg=m18</link>
+<thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
+</item>]
+
+<item>
+<title>17. Sexy Cindy</title>
+<link>https://lh3.googleusercontent.com/fBWqXqJ3vKzTGSvEEs_LehqQWUPZNfcUY0X6xPLlIjx5o4r9jpPqncSz0mgzu-ifGTRA5l_q0KribqQEg7yukUvfdUiH7aSmS4fpZWeRCLPjZkRNDEw53jrTA-erMpPZiEliuLsHnQ=m18</link>
 <thumbnail>http://3.bp.blogspot.com/-xpSRAX2Nd-A/VfEJReUrJJI/AAAAAAAADBc/bU3LBwjHi1A/s1600/Al%25C3%25A9m%2Bda%2BImagina%25C3%25A7%25C3%25A3o%2B-%2BThe%2BTwilight%2BZone%2B%2528TV%2BSeries%2B2002%25E2%2580%25932003%2529.jpg</thumbnail>
 </item>]
 
