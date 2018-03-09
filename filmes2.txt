@@ -1,4 +1,9 @@
 
+<item>
+<title>Liga da Justiça</title>
+<link>https://lh3.googleusercontent.com/PLXx7SbVNezYgRlU37wI3z1C-iaZ2gSEByFgbsFLW_m_tK_8deQdRuQdeh6JCJqEk1cIJqFEJfBMSka7v3QSSDtuNQMkxcDoDbJgj8CH54bIk2-pkbbA8-uIxKArgwXZzgK3xgA44Q=m37</link>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcSnWfYuufDytMaUASrMhUzwrTd17ehbjrr3pPY2Favd0A5drC6u</thumbnail>
+</item>
 
 <item>
 <title>A Mansão Marsten (1979)</title>
