@@ -26,6 +26,12 @@
 <externallink>https://pastebin.com/raw/qhttxYrx</externallink>
 </item>
 
+<item>
+ <title>[COLOR red] [COLOR red][I][B]SERIADOS 2(LISTA GERAL)[/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.cinedoanula.com/assets/uploads/images/w9BRGsvgWN.png</thumbnail>
+<externallink>https://gitlab.com/Slimshadycold/series/raw/master/series.m3u8</externallink>
+</item>
 
 <item>
  <title>[COLOR red] [COLOR orange][I][B]Documentários[/I][/B][/COLOR]</title>
