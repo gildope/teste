@@ -11,6 +11,13 @@
 </item>
 
 <item>
+<title>Globo SP</title>
+<utube>jL6IYGKogMA</utube>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2012/09/thumbs/329ba63046ce1659cd73b52fd99396d1_2_jpg_290x478_upscale_q90.jpg</thumbnail>
+</item>
+
+
+<item>
 <title>A história de Vernon Johns</title>
 <utube>avNvBPrOh2Q</utube>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2012/09/thumbs/329ba63046ce1659cd73b52fd99396d1_2_jpg_290x478_upscale_q90.jpg</thumbnail>
