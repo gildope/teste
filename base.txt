@@ -22,7 +22,7 @@
 <item>
  <title>[COLOR red] [COLOR red][I][B]FILMES 2(LISTA GERAL)[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://www.cinedoanula.com/assets/uploads/images/w9BRGsvgWN.png</thumbnail>
+<thumbnail>https://vignette.wikia.nocookie.net/ben10midia/images/0/04/Filmes.png/revision/latest?cb=20130512001056&path-prefix=pt-br</thumbnail>
 <externallink>https://pastebin.com/raw/iSfckqGY</externallink>
 </item>
 
