@@ -90,12 +90,5 @@
 <info></info>
 </channel>
 
-<channel>
-<name>Filmes Variados</name>
-<thumbnail>https://http2.mlstatic.com/filmes-ultimos-lancamentos-legendados-e-dublados-D_NQ_NP_816155-MLB25808765052_072017-F.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/iSfckqGY</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
 
 </channels>
