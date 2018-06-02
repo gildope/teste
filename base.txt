@@ -22,7 +22,7 @@
 <item>
  <title>[COLOR red] [COLOR red][I][B]FILMES 2(LISTA GERAL)[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>https://4.bp.blogspot.com/-RyY3C8DIK7U/WGEfqHckEZI/AAAAAAAAJ2g/pE_CvguYUqQRZvIwXynorsQF9zbk-GTMwCEw/s640/filmes.png</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-6377k0lmUEI/UOV0ATleukI/AAAAAAAAGVU/vqedzbjT4GI/s1600/LogoEuropaFilmes2.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/iSfckqGY</externallink>
 </item>
 
