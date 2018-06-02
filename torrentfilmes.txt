@@ -5,8 +5,8 @@
 
 
 <item>
-<title>Feral 2018</title>
-<link>magnet:?xt=urn:btih:8e9f1a71d14afe8465d071d5ba572aac4bfa9a9e&dn=Feral.2017.720p.AMZN.WEBRip.DDP5.1.x264-NTG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710</link>
+<title>Pantera Negra</title>
+<link>magnet:?xt=urn:btih:9101880558927856c51504031a93a8445c9a60b0&dn=Pantera+Negra+%282018%29+5.1+Dublado+BluRay+1080p&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
 <thumbnail>https://1.bp.blogspot.com/-pp2Rs534UnE/WxFZHLEK3gI/AAAAAAAAII8/OvqYYTBus2wYE020AiGJkyji-ygdtpmZgCLcBGAs/s1600/Feral.jpg</thumbnail>
 </item>
 <item>
