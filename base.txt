@@ -15,7 +15,7 @@
 <item>
  <title>[COLOR red] [COLOR red][I][B]FILMES (LISTA GERAL)[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://www.cinedoanula.com/assets/uploads/images/w9BRGsvgWN.png</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/oWlOMTNsfOY/maxresdefault.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/filmes2.txt</externallink>
 </item>
 
