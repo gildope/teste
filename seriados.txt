@@ -131,7 +131,7 @@
 
 <channel>
 <name>Dawson's Creek</name>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/boxart_images/9e4fbe34-f2c5-4225-ba91-c6513dbb795c-20cb3ce5-2a6c-40e1-a16a-a09e1de5c961_RGB_SD._RI_Vc0QEgRGA0i1Wj05EN5cMD6o4i1GA7g_TTW_SX380_.jpg</thumbnail>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjhjNzBiNGMtZGI0ZC00NjEyLTgxM2EtYzU3OWYwOTdhOTE3XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/Dawson's%20Creek</externallink>
 </channel>
 
