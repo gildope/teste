@@ -1,0 +1,1883 @@
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="https://i.imgur.com/acp0LUc.png" pltv-name="GOLDTV IPTV ONLINE" pltv-description="Canais Filmes e Series" pltv-cover="https://i.imgur.com/6TYSN5d.png" pltv-author="GOLDTV" pltv-email="Se não for no box TopSuperListas@e.falso"
+###########################################################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/acp0LUc.png" group-title="INFORMAÇÃO",[B][COLOR gold]GOLDTV A MELHOR[/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hqlVG33mNg0&t
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/K3wVtD09lso/hqdefault.jpg" group-title="INFORMAÇÃO",LISTA IPTV GOLDTV HD PREMIUM
+https://www.youtube.com/watch?v=hqlVG33mNg0&t=19s
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/02/06/21/51/whatsapp-1183721_960_720.png" group-title="INFORMAÇÃO",(11)97183-4793[/COLOR][/B]
+http://0.0.0
+
+
+
+
+################## FILMES LANÇAMENTOS ########################
+
+
+
+                                    FILMES 2018
+		
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/nR6LhLKk5BsholuIHIAGemMKPKy.jpg" , JURASSIC WORLD: REINO AMEAÇADO
+http://cdn-srv1.unitplay.net/stream/ts/351286-untitled-jurassic-world-sequel.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/mymTjvZeg9hkSSofg78nH0GOtLS.jpg" , OITO MULHERES E UM SEGREDO
+http://cdn-srv1.unitplay.net/stream/ts/402900-ocean-s-eight.mp4
+
+#EXTINF:-1 tvg-logo="" , 
+					
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/riy4yl3VwyTjAJkA6qmxjPptsuV.jpg" , OS FAROFEIROS
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OSFAROFEIROS.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg" , HAN SOLO: UMA HISTÓRIA STAR WARS
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/HANSOLOUMAHISTORIADESWHDCAMDUB.mp4
+					
+#EXTINF:-1 tvg-logo="http://g1filmesonline.info/wp-content/uploads/2018/05/es15DC7iwrxvHBgkgH2d5cBk02J-min.jpg" , DEADPOOL 2
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DEADPOOL2DUBTS.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KzhBBJP2ZR1GV4H3EV8MFNPmCv.jpg" , DEADPOOL 2 LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DEADPOOL2HDCAMLEGG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvYjhsbxOBwpm8xLE5BhdA3a8CZ.jpg" , VINGADORES: GUERRA INFINITA
+http://cdn-srv1.unitplay.net/stream/ts/299536-avengers-infinity-war.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvYjhsbxOBwpm8xLE5BhdA3a8CZ.jpg" , VINGADORES: GUERRA INFINITA
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/VINGADORESGUERRAINFINITATSV2DUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dx5mHbs77nEl1kuhEyvEjT1wtFl.jpg" , PANTERA NEGRA
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PANTERANEGRAHDDDUB2.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ4MjIxOTYyNF5BMl5BanBnXkFtZTgwMTc3MDg0NTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" , ALEX STRANGELOVE
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ALEXSTRANGELOVEDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5z7L6rDFOPaEVjujZetXw01vHAS.jpg" , NO OLHO DO FURACÃO
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/NOOLHODOFURACAODUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dOQ1jKzkJZnUKmzE27CvDe07Sc.jpg" , ACRIMÔNIA 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ACRIMONIADUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKHJTsrfxJtfFNPQJn2hDNEMtFf.jpg" , MARY SHELLEY LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/MARYSHELLEYLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQfvac0Pc8fEe9beS65ewiWMuM.jpg" , WHAT WE STARTED LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/WHATWESTARTEDLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78aGSMuS3BXJqd3t7rc4CkoHxyD.jpg" , EU SÓ POSSO IMAGINAR LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/EUSOPOSSOIMAGINARLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqKw2974z3NNKHlBOrgQCMg5usT.jpg" , DIRT LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DIRTLEG.mp4
+ 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIxZzTfITqBpZxbIGsV01DcoHsT.jpg" , THOROUGHBREDS LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/THOROUGHBREDSLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWETGfd6FEHGecnKE6JuWeXy90c.jpg" , THE ESCAPE 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/THEESCAPELEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8mGEiiEmR7yyoDqk9iSAeokYVZ.jpg" , DE FORA PARA DENTRO
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DEFORAPARADENTRODUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YFCAAZUUpj66gLAMqRhwpY1U34.jpg" , QUERIDO DITADOR
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/QUERIDODITADORDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIcZAB5AmRN8fIDXfDZ2aUok9qa.jpg" , BLACK WATER LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/BLACKWATERLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aguq47xq3qhN807rSyz4lJyhAkX.jpg" , THE TALE LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/THETALELEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCLqWiJxp2rq2wuvuv8N2KvaNhB.jpg" , GONJIAM: ASILO ASSOMBRADO LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/GONJIAMASILOASSOMBRADOLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5w3fkua6BYjDzs0bbOXYbWCrlF.jpg" , IN DARKNESS LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/INDARKNESSLEG.mp4
+
+#EXTINF:-1 tvg-logo="http://cdn.megafilmeshd50.top/wp-content/uploads/2018/04/dGu94DrNI4oxgch3GFAmKdteFj2-185x278.jpg" , RAMPAGE – DESTRUIÇÃO TOTAL
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/RAMPAGETSDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCA7wnKifwHdZ4pAObXe9rIEFX2.jpg" , DESEJO DE MATAR
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DESEJODEMATARTSDUB.mp4
+
+#EXTINF:-1 tvg-logo="http://cdn.megafilmeshd50.top/wp-content/uploads/2018/05/ePg9fb68VZFar7wconWaFLcc7Y4-185x278.jpg" , VERDADE OU DESAFIO
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/VDDOUDESAFIODUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJk1CbHeaUSytQHZsmY8zePCj52.jpg" , CÍRCULO DE FOGO: A REVOLTA
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/CIRCULODEFOGOAREVOLTADUB2.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//ePyN2nX9t8SOl70eRW47Q29zUFO.jpg" , TOMB RAIDER: A ORIGEM
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/TOMBRAIDERNHDTCDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//iEmk7hwwILngzefCPXbnf0Z8xKE.jpg" , THOR 3: RAGNAROK 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/6DCF889DAB8CF6C37AE5/473381B8CFAD53931474.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MW56TDpVEv4Zi8VyclL35VxhTM.jpg" , LÁ VÊM OS PAIS
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/LAVEMOSPAISDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://ia.media-imdb.com/images/M/MV5BMTczMTA5ODMxOV5BMl5BanBnXkFtZTgwNTgwNDkzNTM@._V1_SY1000_CR0,0,675,1000_AL_.jpg" ,IBIZA – TUDO PELO DJ 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/IBIZATUDOPELODJDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbevoY1JitEd1EmSAaZOsozCUND.jpg" , UMA DOBRA NO TEMPO
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/UMADOBRANOTEMPODUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHk7FnyXC8QMve6CazR2RFI79BX.jpg" , A LISTA DE HONRA LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ALISTADEHONRALEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u56EI8gpAvvm4NE5dqdBeP7cD6d.jpg" , THE CURED
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OSCURADOSDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u56EI8gpAvvm4NE5dqdBeP7cD6d.jpg" , THE CURED LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/THECUREDLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVJDYyFdr5nxvErxX2OBxHwVgQI.jpg" , OS ESTRANHOS 2 – CAÇADA NOTURNA LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OSESTRANHOS2CNLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hguApoyWzRseJbe1DeqYZjEIF1t.jpg" , GRINGO – VIVO OU MORTO LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/GRINGOVIVOOUMORTOLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YTFjZ6kovfzk6NGSYJgvgwfNG2.jpg" , LUNA EM BUSCA DA VERDADE
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/LUNAEMBUSCADAVERDADEHDTVDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://ia.media-imdb.com/images/M/MV5BYTdkOTQ4ZWQtNWVkYy00MjA4LWJkMzgtOWVlMGUzM2U1NWU4XkEyXkFqcGdeQXVyNDcyMjQ4MzU@._V1_SY1000_CR0,0,698,1000_AL_.jpg" , PEQUENA FLORESTA LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PEQUENAFLORESTALEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urH9H50gKbUK8U6qTVd89SLQPjx.jpg" , FAHRENHEIT 451
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/FAHRENHEIT451DUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urH9H50gKbUK8U6qTVd89SLQPjx.jpg" , FAHRENHEIT 451 LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/FAHRENHEIT451LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/togwv0TGqXkIA2YuYIY9VDLEkdF.jpg" , PARI LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PARILEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xi7pA3lL6Wb78p6Y6PgWoHDMjrM.jpg" , TERMINAL LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/TERMINALLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://ia.media-imdb.com/images/M/MV5BMjQwOTU0NTY0MV5BMl5BanBnXkFtZTgwMjQ4Njk2NDM@._V1_SY1000_CR0,0,675,1000_AL_.jpg" , A CASA DOS 200 DEMÔNIOS LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ACASADOS200DEMONIOSLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DofqoUOpSRxXE8aWkevEQ6X6y7.jpg" , DIAS DE CHUVA E TEMPESTADE LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DIASDECHUVAETEMPESTADELEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q85QmUW1O4rGWNo3ObCGhrJ2b4R.jpg" , CARGO
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/CARGODUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q85QmUW1O4rGWNo3ObCGhrJ2b4R.jpg" , CARGO LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/CARGOLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQkNvLOudRFzpmLfDY8q2fcSOtE.jpg" , DUCK BUTTER LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DUCKBETTERLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVxbWZuUOopIqN9ObJqPNL9k703.jpg" , ELLA E JOHN LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ELLAEJOHNLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8CXTLmIwWmmkvIvbhslfBQ7zNiZ.jpg" , VAMPIRE CLAY LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/VAMPIRECLAYLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cngzHQUI0awWycL0XkYhCMEUPS9.jpg" , SPIVAK LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/SPIVAKLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://ia.media-imdb.com/images/M/MV5BMTNjMGMxN2QtZTFkNC00MDhjLWI0ZDQtM2I5YzMxZmQxOGFiXkEyXkFqcGdeQXVyMzE2ODIxNA@@._V1_.jpg" , CÍRCULO DE MONSTROS 2 LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/CIRCULODEMONSTROS2LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://ia.media-imdb.com/images/M/MV5BZDFjMDkyMjktMWFjMS00ZTg4LWFlMmMtNjQ2OTM1MzVlMjRjXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_.jpg" , DAPHNE & VELMA
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DAPHNEEVELMADUB.mp4
+
+#EXTINF:-1 tvg-logo="https://ia.media-imdb.com/images/M/MV5BZDFjMDkyMjktMWFjMS00ZTg4LWFlMmMtNjQ2OTM1MzVlMjRjXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_.jpg" , DAPHNE & VELMA LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DAPHNEEVELMALEG.mp4
+
+#EXTINF:-1 tvg-logo="https://ia.media-imdb.com/images/M/MV5BMTY0NjUzNjYwOV5BMl5BanBnXkFtZTgwMzY1MDM0NDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" , 15H17: TREM PARA PARIS
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/TREMPARAPARISDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://ia.media-imdb.com/images/M/MV5BMTY0NjUzNjYwOV5BMl5BanBnXkFtZTgwMzY1MDM0NDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" , 15H17: TREM PARA PARIS LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/TREMPARAPARISLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMv5ILxjzA9S930eLImSjfecETH.jpg" , VINGANÇA LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/VINGANCALEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6J8IDXJlURmOwX3KnfYitSr7QbR.jpg" , PAULO APÓSTOLO DE CRISTO
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PAULOAPOSTOLODECRISTOHDTSDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wnL6AKbqWMxWHcBQUfj3JhQ6WH.jpg" , NÃO SOU CULPADA 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/NAOSOUCULPADADUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67loVKGh0DrW5HLwv9ZZ0VTytNA.jpg" , A BARRACA DO BEIJO
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ABARRACADOBEIJODUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SlQPLBhaB7EF3FlEgcjtMIZ7WK.jpg" , TEM ALIENÍGENAS NO MEU QUARTO
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/TEMALIENIGENANOMEUQUARTODUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfAcu74DRQXeM9XqFcE5MrSRzYP.jpg" , AVENGERS GRIMM: TIME WARS LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/AVENGERSGRIMMHDLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTP2tQwE2sdY1Cr0rX3LAV1XMR7.jpg" , A NOITE DO JOGO
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ANOITEDOJOGODUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7Zaj1IEzMMB7KzfglpxdXWB66u.jpg" , SANSÃO LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/SANSAOLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFOdiHaRjeTmHG67e5B7md2Q1cq.jpg" , O ATAQUE DOS VERMES MALDITOS 6 LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OATAQUEDOSVERMESMALDITOS6LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFCpoLkCunKHlIhgIl1tyK3Qgay.jpg" , O ÚLTIMO SUSPIRO LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OULTIMOSUSPIROTSLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4A7Bw6EZi1Bxc8Y61GX3bEpsXmN.jpg" , PERDOAI AS NOSSAS DÍVIDAS LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PERDOAIASNOSSASDIVIDASLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32dblJNuJn72w89h9YtM9TcPz0M.jpg" , PRIMAL RAGE LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PRIMALRAGELEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZDP4v6VymLIiOU9AoBkMLCt9bd.jpg" , ASYLUM OF FEAR LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ASYLUMOFFEARLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://ia.media-imdb.com/images/M/MV5BZTczNGE3NTctMWIwMy00NjgxLTk3NmItYWQ1Yzg0YjVlMTViXkEyXkFqcGdeQXVyNDgyMjg4Ng@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" , GENESIS LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/GENESISLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQ8SC6wCARc0pOTrHMCr8cFoHms.jpg" , FAMILY BLOOD
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/FAMILYBLOODDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2QbinwZSQcxOi1qMiHuq8N9ATO.jpg" , ANON
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ANONDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3v4J05QKJa2S62YL6zFgHpl9px.jpg" , MEU ROMANCE PERFEITO
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/MEUROMANCEPERFEITODUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fENFZBJvk7kjrVd5TpmL540gUt.jpg" , DARC
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DARCDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEvcqABQjOAviFC6EAFqRA76fbD.jpg" , 10×10 LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/10X10LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2B5LnI7tytfKk7SnHCyFTVkBFWy.jpg" , CORBIN NASH LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/CORBINNASHLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://ia.media-imdb.com/images/M/MV5BY2U0Njc1Y2QtYWU0Ni00Nzc0LTk2NTctNGNmMWQzOGUyZWZlXkEyXkFqcGdeQXVyMzQ2NDE1OTk@._V1_.jpg" , PRONTO FALEI! 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PRONTOFALEIDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orhFAKqhUwvFFhQ4kkyov9YHEdb.jpg" , DOCE ARGUMENTO
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DOCEARGUMENTODUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxKe6ipWT4Ib0icn0IoS4X1gnr4.jpg" , CINQUENTA TONS DE LIBERDADE
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/CTDLSEMCENSURADUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5V7IRzkhJUsIpTr2aYSUy9h9DrU.jpg" , PROUD MARY
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PROUDMARYLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LRL9cvVQl0Mne8CZslb5VNwY6v.jpg" , PSYCHOKINESIS
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PSYCHOKINESISDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5z7L6rDFOPaEVjujZetXw01vHAS.jpg" , NO OLHO DO FURACÃO LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/NOOLHODOFURACAOLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8mGEiiEmR7yyoDqk9iSAeokYVZ.jpg" , OUTSIDE IN LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OUTSIDEINLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prWtFGiH9zq2p22zJYKyhXIXpQs.jpg" , PASS OVER LEG. 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PASSOVERLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9n5YfK9oy9ymSWNLqSFBExkm6P.jpg" , DUDE A VIDA E ASSIM
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DUDEAVIDAEASSIMDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iFAX5VfLe22bhU4GsJSNiHhhoF.jpg" , FORAM OS DIAS LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/FORAMOSDIASLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqjAHXMJLORx9vVsCTJ6ZPJcr3D.jpg" , DO FUNDO DO MAR 2 LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DOFUNDODOMAR2LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6C0etzPvnTRH2FnvG8iEPQwzu31.jpg" , PERSEGUIÇÃO CRIMINOSA
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PERSEGUICAOCRIMINOSAHDRIPDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5g8KDPGMr2zjyLKZEgKan9ZmcJO.jpg" , HOSTILES LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/HOSTILESLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qj5x0XloOVCiTQOtlTu4kbZb2O.jpg" , OPERAÇÃO RED SPARROW
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OPERACAOREDSPARROWHDDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZQR6hKRUBqHRL4lfECFES68zGF.jpg" , WILDLING LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/WILDLINGHDLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRnBpFJJNIqDhK1czi0R72izAbw.jpg" , IMPERMANENCE LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/IMPERMANENCELEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upi5N9zMG9kR9gsrolWeYDm2YN5.jpg" , SUBMERSÃO LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/SUBMERSAOLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lk3npUUYxLJCyaSSQHqGlH64Qxk.jpg" , A RAINHA DA COCAINA
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ARAINHADACOCAINADUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxNhSzLfWXmInaidgSp57ww5WoG.jpg" , A CAMINHO DA FÉ
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ACAMINHODAFEDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjIw3IeG523bguaWHBzZmMvsmxV.jpg" , THE ASHRAM LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/THEASHRAMLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM9o2SrQWH7AvfkShJv3nZtOfVV.jpg" , CORRENDO ATRÁS DE UM PAI 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/CORRENDOATRASDEUMPAIDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/usMlKPDLWtYowT6xt9sAgXzWY8O.jpg" , CARTERISTAS
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/CARTERISTASDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOFLUPWCWfdsyLEiCX2TYW4Wo44.jpg" , EU NAO SOU UM HOMEM FACIL
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/EUNAOSOUHOMEMFACILDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4CAQiTq3y0gLadRiYv38pJqjZq.jpg" , COVIL DE LADRÕES 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/COVILDELADROESHDDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvIIUOoY2PQRQ6syWchzkfNaXT1.jpg" , SPINNING MAN LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/SPINNINGMANLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ad4y2Cc2FcY1wOk3DH7HVWlrgEM.jpg" , PATERNO
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PATERNODUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3mfUM33iSCme1iLWc2eRMqOyFy.jpg" , PROJETO EDEN VOL. 1
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PROJETOEDENDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktPbjD6nYg5NxmeTt72Iqaw5GD0.jpg" , VOCÊ NUNCA ESTEVE AQUI LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/VOCENUNCAESTEVEAQUILEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHxmTTFMuuPIwwj39C4Zkk9IL4m.jpg" , A ESCOLHA PERFEITA 3
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/AESCOLHAPERFEITA3DUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsm2gxPoZDzG3ocTArrK8ak7go4.jpg" , ESPECTADOR PROFISSIONAL
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/THECLAPPERDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKWTj2RSTjktbHPh2GyjWo2iMdP.jpg" , AMADOR
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/AMADORDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvit6HDbXHE6W5kGPd47jd0wthQ.jpg" , EU MATO GIGANTES LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/EUMATOGIGANTESLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j15dMVioCx4QArhchBRtldHJIBw.jpg" , 6 BALÕES 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/6BAL0ESDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5MCmMQg1V9CXVlIiUggC5MtcNk.jpg" , ALLURE LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ALLURELEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//oRViK3sYMiW3JuowTVS3SwNP9uY.jpg" , 12 HERÓIS
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/12HEROISTSDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnQbbFIt6ZDtiTS88v9mXLYwMK6.jpg" , DIA DOS MORTOS
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DIADOSMORTOSDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0i4JKc6pscQO1F6ub0MRQ76WhI.jpg" , CURSE OF THE WITCHS DOLL LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/CURSEOFTHEWITCHSLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rywjzbQbUgnv1izhWJYyZIm4M6m.jpg" , THE TITAN 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/THETITANDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHEdKM8JiQGAz5XpTneEwFuqQnr.jpg" , FELIZ ANIVERSÁRIO DE CASAMENTO
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/FELIZANIVERSARIODECASAMENTODUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwmtK6A7jwriIY0gh0HUgvI1ETA.jpg" , MINHA PRIMEIRA LUTA
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/MINHAPRIMEIRALUTADUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mK5HFGGjFwNzp15r2xbCzpuYGKU.jpg" , MARIA MADALENA
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/MARIAMADALENAHDTSDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16iFT1MLae2zoDTRTeOqx0w5OUv.jpg" , O PASSAGEIRO
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OPASSAGEIROHDDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEvWTCEZUIqSJ12n4mOVAxid0x3.jpg" , PARADOX LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PARADOXLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYbShpy94q0kbr2wqlZ0KmpcQy7.jpg" , PESADELOS MORTAIS 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PESADELOSMORTAIS.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkKrVImMmlIYwDKxZxqPQlFtgf8.jpg" , THE FORGIVEN LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/THEFORGIVENLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/XOLPTXme5Y4ves4JSA7Tq7QF9V.jpg" , BEAST OF BURDEN LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/BEASTOFBURDENLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRGF1jWdCGlS8KWNxwckHKHuFKs.jpg" , SMALL TOWN CRIME LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/SMALLTOWNCRIMELEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sasH9EeTPBsJ9xW5PIG7i9Jy3Ou.jpg" , BAD APPLES LEG. 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/BADAPPLES2018LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZch4FhfexA18gUUQjHXKnLmkjh.jpg" , WELCOME THE STRANGER LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/WELCOMETHESTRANGERLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//uf4e4p3JxHKNH9P92zNRW7zpZeR.jpg" , TAKE YOUR PILLS
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/TAKEYOURPILLSDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//i6I2NCUJOrrlrtB4NuCsfFMOdZF.jpg" , FAR CRY 5: DENTRO DOS PORTÕES DO ÉDEN LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/FARCRY5DPE.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//3lUGaNhv1NDqCFhB4e2mnohPA3s.jpg" , LOBISOMENS DO TERCEIRO REICH 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/LOBISOMENSDOTERCEIROREICH.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//3EqgAHkESHZLK4MUHgK9s9882S2.jpg" , SCORCHED EARTH LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/SCORCHEDEARTHLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//z8OKWw6DAZAOyz8F421euawr3Hs.jpg" , HONRA AO MÉRITO 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/HONRAAOMERITODUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//1oGrSyAdjQalDjiIEHWFHAn02I5.jpg" , TANGO ONE
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/TANGOONE.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//t3M7PW2skoitpWVu7i4GiepGkK1.jpg" , PASSADO ROUBADO
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PASSADOROUBADO.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//qoqFM6t9wlBITWKRogJUompoClh.jpg" , THE LODGERS LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/THELODGERS.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHDtskokZeO9B3JBdR1dSH0uqad.jpg" , A MALDIÇÃO DA CASA WINCHESTER
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/AMALDICAODACASAWHINCHESTERHDDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zSzaUmoUCwII2pGTqX1jaX8F0p.jpg" , LOOKING GLASS LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/LOOKINGGLASS.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCO0jDm1zcUZRMLwB6ZPSk5pj60.jpg" , BEM-VINDO À MEIA-IDADE LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/BVMEIAIDADEE.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDFVANRnIcBNvokOMZlfhCFjWl.jpg" , HEADGAME LEG. 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/HEADGAME.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQPanQM7Cn5agduiQWiIJK32Dvn.jpg" , HELLRAISER: JUDGMENT LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/HELLRAISER.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ca799tQJwj4lkkQpBdXohlvEtuQ.jpg" , 7 GUARDIANS OF THE TOMB LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/7GUARDIANSOFTHE.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkflwtWCJffdDSwg63fdDFbwOvS.jpg" , PERFEITA PRA VOCÊ
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PERFEITAPARAVOCE.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BYTc5ZDMzMTktZTIzZS00NWVkLWI2ODEtZTYyOGIxZjA1OGYyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" , RASTROS DE UM SEQUESTRO
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/RASTROSDEUMSEQUES.mp4
+
+#EXTINF:-1 tvg-logo="https://ia.media-imdb.com/images/M/MV5BZDc4Mzg2OWMtZDRiNi00YTAzLWIwMTMtMmEzYzFiNGYzNjg4XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SY1000_CR0,0,665,1000_AL_.jpg" , AOS TEUS OLHOS
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/AOSTEUSOLHOSNAC.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWxHT7QldoWuGBLjOalnTHySvqB.jpg" , THE HOLLOW CHILD LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/THEHOLLOWCHILDLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMA0IalnEEa0PaHRUzzjpTu5xXQ.jpg" , FUTURE WORLD LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/FUTUREWORLDLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cplMeBlGdkpDzypHRKZ64BrpLoL.jpg" , HIGHER POWER LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/HIGHERPOWERLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95UVybnGqxedNU3foGtCkfbIAGI.jpg" , FERAL LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/FERALLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcushpAgo51nTpBAuTygLxiJ80h.jpg" , PARA SEMPRE MINHA GAROTA LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PARASEMPREMINHAGAROTALEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjqQVAlrX9SlJv4AVZ6jbOlZGMA.jpg" , O CADERNO DE SARA
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OCADERNODESARADUB.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkQsRZiuVKPvXpmvQ8srChJu0pQ.jpg" , BONECO DE NEVE
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/BONECODENEVE.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//1SsrqmxRiO8cJCJ7POAjI69OsQJ.jpg", PERFEITA É A MÃE 2 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PERFEITAEAMAE2.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwGowTpFQTgCcByfoP2xzXVReGl.jpg" , COM AMOR SIMON
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/COMAMORSIMONTSDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ox3vbFLpGuh5xbKLrtXeYsqnjgH.jpg" , UM LUGAR SILENCIOSO
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/UMLUGARSILENCIOSADUB.mp4
+		
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6onjO5ZRRYBBZKLSCismOSQONk.jpg" , JOGADOR Nº 1
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/JOGADORN1DUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpVQUSpPjMtl5IVDWHkPCatjdzL.jpg" , MAZE RUNNER 3: A CURA MORTAL LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/MAZERUNNERHDRIPDUBB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lBeQXTfqAbNhn576ceZ0yq2aHB.jpg" , FALA SÉRIO MÃE!
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/FALASERIOMAE.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBDLdEraxCBKGmOPb6pJPYiDQh1.jpg" , CONSPIRAÇÃO TERRORISTA 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/CONSPIRACAOTERRORISTADUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdokJoHaX0DnoX58b7Wn52sYJSo.jpg" , PERDA TOTAL 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PERDATOTALDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wLnkdSEA2g6552QrjfdAB2eVC7.jpg" , BENJI 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/BENJIDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsO2XzROSI9WT21DjItGZN0NI0X.jpg" , SOBRENATURAL 4: A ÚLTIMA CHAVE LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/SOBRENATURALUCDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4CrVSJO8G2xRFgkxjPX8LCLzCk.jpg" , CORRIDA MORTAL 4 ALÉM DA ANARQUIA LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/CORRIDAMORTAL4LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnXaUxdKD2t1B74cutWA5rjBLgD.jpg" , PADDINGTON 2 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ASAVENTURASDEPDUBHD.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//peKFgffHTs6gzDgAWOjIfxziLbQ.jpg" , LEGO DC COMICS SUPER HEROES: THE FLASH
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/LEGODCSCFLASHDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//k8WDuOqBHPRtXw75ZYQyCat4jXb.jpg" , ANIQUILAÇÃO
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ANIQUILACAODUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//253Bw5I3Zj3e2thCThjO7byEUCL.jpg" , BRAVEN 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/BRAVENDUBHD.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2iGN0aKHJYD0xQydlfuCUAcgNbO.jpg" , STAR WARS 8: OS ÚLTIMOS JEDI 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/STARWARSUJWEBDLDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//m2riQcEzjVrkP8wKHDXwC5EQpHQ.jpg" , DÍVIDA PERIGOSA LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DIVIDAPERIGOSA.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg" , JUMANJI: BEM-VINDO A SELVA 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/JUMANJIHDDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//dfTgzA8GNRlsmyOORb6gypn0zlm.jpg" , EU TONYA 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/EUTONYADUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//1tsYrsceGVgC1I1AiNLDRrQytR.jpg" , ME CHAME PELO SEU NOME 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/MECHAMEPELOSEUNOMEDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jq3jNViaelHUQKDKWUq3ieCjdJD.jpg" , O REI DO SHOW 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OREIDOSHOWHDDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlrhwUDe7YOZujAYanK6ij2vbY5.jpg" , COM AMOR - VAN GOGH 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/COMAMORVANGOGHDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koFWKftn4MQMuWySBkLfRQzxxrB.jpg" , VERÔNICA 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/VERONICA.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTaaLwdCWHJQGGhGAiFcGYTuk1y.jpg" , GIGANTE LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/GIGANTE.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbvHTI7vfPKsONw75g9lio38SpN.jpg" , LADY BIRD: A HORA DE VOAR LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/LADYBIRD.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyYF5UtV7XYoxjfotvaCXvGp6Zz.jpg" , OS PARÇAS 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OSPARCASHD.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg" , A FORMA DA ÁGUA
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/AFORMADAGUADUBHD.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//dnXqUTvBfqt5CDcyjJ6ziQBp1q4.jpg" , JOGOS MORTAIS 8: JIGSAW 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/JIGSAWDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihGg1xndLl3MW34Km332pNkyLH7.jpg" , MUDO 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/MUTE.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOVn6qVVAwInMatvATXLv0U5BIh.jpg" , DOENTES DE AMOR 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DOENTESDEAMORDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//sUDg8k9T677DEGNDpsyANZTYAji.jpg" , PEQUENA GRANDE VIDA 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PEQUENAGRANDEVIDA.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//5uH8tJKNiKT2ibaVzUPvwSn8eZn.jpg" , EXTRAORDINÁRIO 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/EXTRAORDINARIODUB.mp4
+ 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6xTMvGWWEReIs8B3BrVF8KYz4c.jpg" , TRÊS ANÚNCIOS PARA UM CRIME
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/TRESANUNCIOSPARAUMCRIME.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//nmvCmIrpdw8qmRs1KDY8VjY7HpA.jpg" , FULLMETAL ALCHEMIST 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/455845EE68D19BAA83BB/A351D67996893219249A.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//c7NEj5uPMd9r6cS5uAcKxd48Dhf.jpg" , GOSTO SE DISCUTE 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/37D1F82ECB1DD78A54BB/F64929C85A226C91F866.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//GqCyTtgZcAUdSY76qRvSVdbi1j.jpg" , LOUCURAS EM FAMÍLIA
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/971C44839A41EFE5B97C/D57FE27555D7A25FB869.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//mvB7rx0RwwRWweO05CbDU5T5c5a.jpg" , O DESTINO DE UMA NAÇÃO LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/A15A21BBB4DA72ABD675/866BA3CC7AAAB6D51BBC.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//4WW6sV8oWdn1f6KCayfx3whqN5b.jpg" , PAI EM DOSE DUPLA 2 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/47781EECF22AFC1BE28C/8EA9AA97E44C42C231D9.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//hM9dOYWPh5pcQ3ruFXDayXsqgHw.jpg" , AMERICAN SATAN LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/C3FA6CBDD3CB4A5FBEBE/29CF847357DAC1C3435C.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//yAgwvRFnwQSWklayt1vMBLoCna7.jpg" , ASSASSINATO NO EXPRESSO DO ORIENTE LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/5552663118CF5FF9F78A/6C2DF13398C4677BE63C.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNfNxH4fsc9cGtS39RLOzEvJoXV.jpg" , THE POST: A GUERRA SECRETA
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/THEPOSTAGUERRASECRETADUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//fnLYDFrOu7WLfEtovAMDdp9Ejqk.jpg" , O PARADOXO CLOVERFIELD 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/645C356A3AC153878A44/38BE7B8FDF277F74ABC2.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//hb1dzrqAw8K98jdaLqYUYZsizfH.jpg" , PICA-PAU: O FILME 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/67E14EC34239DCBEEEDA/4DC1ED8249C52A9BEBB6.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//o8hE0wbJKL0ise4NuX3g5vZHznv.jpg" , VOLDEMORT: A ORIGEM DO HERDEIRO LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/111C7B76F91D3ABD43EF/B86CC2CF18BDB5BFA5C9.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//n5Zd5QIrAWOEYW7V7Tm7MiMC2aE.jpg" , A MORTE TE DA PARABÉNS
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/961ABACD74E4E956AA4B/313D7CE69FC67FBAADF4.mp4
+										 											  				
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdnIZ2gzSUDuBQ8Fu7vrMmCiDU9.jpg" , MÃE E PAI
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/MAEEPAIDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//mIu3lfpxwt5YprslsSjnU0nZj8y.jpg" , ARTISTA DO DESASTRE
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ARTISTADODESASTREDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//zppVzoeQvds6FPTzcMww6chPIks.jpg" , BLADE RUNNER 2049 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/B4C73EF8643ED9311C57/A2B494DD46A3D17574CD.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//gUuKBgxGZZwxvKUyFrHJgc8SoOA.jpg" , LIGA DA JUSTIÇA
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/3B247E7D344C658C2B4A/34478144EFC88FBD59F3.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//whkT53Sv2vKAUiknQ13pqcWaPXB.jpg" , BRIGHT 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/73DC292DECDB6AD1B66F/BC67A66DAFE6BFC34DD8.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qL3MVLUepm3cD5h81u3T7NYCdRp.jpg" , MÃE 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/MAEDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//M4TgsXH2OyLhprGFko5FGs1Va2.jpg" , COMO SE TORNAR O PIOR ALUNO DA ESCOLA 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/FBA27CA958353C4D5EDE/EE774DFF485E641777B8.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//3ldmcbmoQ6A9dUwphrwWxXIYQZM.jpg" , DUNKIRK 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/675BA95F5DB22CD59C88/98449722E1AAE7E96761.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DRFozlq1IMD7aMLzdRzWEEH6SH.jpg" , ATÔMICA LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ATOMICA.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//lYOBHagDwOv66TUzRy265qSWwTP.jpg" , POLÍCIA FEDERAL: A LEI É PARA TODOS 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/9756D6E5E39D95B297B6/B943E1CDCD7D5EE67291.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//mMCsn4a8wEHw2eco4pulugd7N6i.jpg" , KINGSMAN 2: O CÍRCULO DOURADO 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/6E692814D8FAEF318C83/2AA1465417EA2CF25C53.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//8xova028IF34Ryv89iLA6qZKxIa.jpg" , FEITO NA AMÉRICA 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/63AD89A18C56E465276C/7A38B7E9AFB2E8A13D8D.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//9X8CZx9OfNroXVerYiHIAlIUomj.jpg" , O ASSASSINO: O PRIMEIRO ALVO LEG. 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/5DC571ED349E8A2D785F/AE33C3D8AF3233545C7B.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//gRbvXParI3ZdEtsFxlGOQNaQBUQ.jpg" , NA MIRA DO ATIRADOR
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/NAMIRADOATIRADORDUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//x69DC2NnchOhNykhbkjgpuqC2SD.jpg" , VALERIAN E A CIDADE DOS MIL PLANETAS 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/ADBE56BBA61BFACF987B/ACC1EA56325829E95B8B.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//uYxz0lIiNgErrPhQbSjUdwYxtFc.jpg" , IT: A COISA 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/4C5B27DA6F44747A28A5/132C6E1DF8491289ABD4.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//aJ71RfhwvnvmXPWJRJDLbtaJwBH.jpg" , A TORRE NEGRA 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/28A8BAAB14B6594644BD/26A662CB82D99FBA7C8D.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//kG4ZxEBVw4eS23QSXG0PaUaDoEx.jpg" , PLANETA DOS MACACOS 3: A GUERRA 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/PLANETADOSMACACOSAGUERRADUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//cxmuO9N3kO4TjE4C6BMUBKom6jh.jpg" , O CULTO DE CHUCKY 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/16D85268E826D76128C6/8FC2454BDDBB864BDB29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//iLhIoKnj7G9I5NyknnS2YAxMizS.jpg" , HOMEM-ARANHA: DE VOLTA AO LAR 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/DBE6B95E23CFB9156D25/AD8CDE28C922C62DE9A8.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//1rYTtQ14rPB3KOgk5TjkUqiQFch.jpg" , EM RITMO DE FUGA 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/B3C71928DDB2CFF75553/A252E12F277416BE1946.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n866Qf15ZEiTvGFjN1Q3bJO7NbV.jpg" , DUPLA EXPLOSIVA 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DUPLAEXPLOSIVA.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//7FhfQhH1Qppc9Xlyiglj75QQSKx.jpg" , TRANSFORMERS 5: O ÚLTIMO CAVALEIRO 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/1E5E266AFF8AEDC7A845/75C5D188A5CCE71E144A.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//q8zYVAvuPI3ImOkC1EsjDs7ilTk.jpg" , PIRATAS DO CARIBE 5: A VINGANÇA DE SALAZAR 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/5C7B11D8DD5BD3C1FE92/DFB3611C41157CAE1BEF.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//TIww0w0uos85Op8eFP5qLlxhXL.jpg" , DEATH NOTE 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/72E1927B271CCFDA7511/CA863AC859895C4D119B.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//nnBbMYXYXs814ZGoIBSoKctwh85.jpg" , BAYWATCH - S.O.S MALIBU 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/979F271B87B6439BA7BE/D27F855965842A96E9FF.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//jGtBLu0JAKf5JxhWgmF68HROzCA.jpg" , GUARDIÕES DA GALÁXIA VOL.2 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/85D334C1E5A83DE81FE3/E4ACF8B5CB57EB5F9982.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//hCWCtn9WNXAzVSHRNjB1vkdiqwv.jpg" , Z - A CIDADE PERDIDA 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/CF56ED3D63CE1CCFAE9B/3BB369E1B4627844B8CC.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//gdqrwuMR03g7URU6H0KUwnGi32K.jpg" , O CÍRCULO 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/6652FF4AF8AA75F39B72/D3C5217867F123164BA8.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//hV6l4wOhPDbEflqM1A2047D4F0E.jpg" , O VENDEDOR DE SONHOS 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/85FDA786CF7D1DFF52CD/438B8B8A5EEA178B5F5F.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//1YpHj6aV1yKWP20hKj1KUiLaIbi.jpg" , FOME DE PODER
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/AADCF3B8EF4C1339C541/F9ECA6422F626D88E1BF.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//inx2lpitq7r5jeYv3j3K2UcKCj9.jpg" , NINGUÉM ENTRA - NINGUÉM SAI 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/29B338ADB39A8659F45E/52E1F556341B8E7BB85B.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//mKXIEpd4NbAr4v0IR9C87cXd0sY.jpg" , EU FICO LOKO 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/3B4DD22BD985239A61D4/E3461993C27516D9AD49.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//dGsaMBjfz8L6mAWUY1l9burcthY.jpg" , A MÚMIA 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/D34BFFB2ADF7E4EE8E8F/342F2DE67FDAC3816392.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//zS5Fij7qKCU0EhUh1BjenkeitXI.jpg" , REI ARTHUR: A LENDA DA ESPADA 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/885F928651281C575832/651D8D27E3E157582285.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//sRITPlHYjHiOLQXr0sFxVz5TPmj.jpg" , ALIEN: COVENANT 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/DE7BFD43A6BE6D939C2E/FB9F793931ACC32D4424.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//ujQthWB6c0ojlARk28NSTmqidbF.jpg" , MULHER-MARAVILHA 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/18D6E11BB996ECC574EA/DBB45493A5A6EBB787BF.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg" , OKJA 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/ACFC79C721717988DDAF/65ACF9277DA35F71295D.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//ks84JvfZhjZZkmd7uVTYHUi81ge.jpg" , O ESPAÇO ENTRE NÓS
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/2F2C225C7525777A61E9/526BA22D336F9FE15D2A.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//69Eheo6f01q9T5Af1498oIRPcEC.jpg" , POWER RANGERS 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/F96B25C65E2936363183/B985E11788D55C98E311.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0tWliGd1vBySNJqv5mGtIhJRgt.jpg" , VIDA 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/A7354D5534BE7BE21E81/8FB725B5D227DF5F1795.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//fbHXfr2N4pI2j7i9RLYiddjotBl.jpg" , T2 - TRAINSPOTTING 2: SEM LIMITES 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/47B15698D48CC788D1E5/77677A5AB9C8D2C2CD8B.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//3G6PUtqIKPKyZXXWB8jgZZJF1C8.jpg" , VELOZES E FURIOSOS 8 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/EC38C3E9839CDB6A1728/B3E2ED57441724DE49FF.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//9V4wl4rnUcLfGuTe4J5NjOFbDil.jpg" , A BELA E A FERA 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/79C1DE45F4D463CE8437/1216EAE5A2F7F59956D6.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//k36UzsRQaY6E055cdYPdYbyREer.jpg" , JOHN WICK 2: UM NOVO DIA PARA MATAR 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/A6A29F4D66FF64AF78EF/39BB48E4C3DDC69711B3.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//rGNdIxfE55gxqrz2UOfBXi0t4JR.jpg" , A CABANA 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/348E9C95A2D4AB3F51B9/1E4D8E6367A55C465B7F.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//f0CtZbae9cXj8bkWdCHzUHx5lsR.jpg" , LOGAN 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/C3214ADAE7FFD517496A/753A5CEA58731FBB9DEC.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//y7ZdnfEA8AEyCFdojYBxeevtZtc.jpg" , KONG - A ILHA DA CAVEIRA 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/539D2E7C7227E866B844/CEB88228DA2BDA12E778.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//ztYvYWpSpFtzM2w5MwsmNzzQbJg.jpg" , FRAGMENTADO 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/15987A8278A5731ADD23/E4353C3296C76187C547.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//3xQYGts4fVYDGGNw0u5DuVIwNfA.jpg" , A VIGILANTE DO AMANHÃ: GHOST IN THE SHELL
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/5622B97EFE5EFD82D7E4/444AED639196EC49C485.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//2NG1sSzoy6bUs1b4LdC23fywHpE.jpg" , OS GUARDIÕES 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/676A766E3C4EC3A8973C/44AA65F8C9E937D3B2BF.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0RoSZh8PEYJgDMgM2EV7Ycz3dR.jpg" , CORRA!
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/FEA2373EA33A698AC7FA/BF4DF2712DBBCF27B26E.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//7wJzRaVxwVrUlnGJZ4gBZYHu1Hn.jpg" , CINQUENTA TONS MAIS ESCUROS 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/7B35145D38DE4825F9E7/B5ACB3BDE2673CCEC521.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//rt9jgqgH6EpJKDJwPOsK3AXsuUB.jpg" , LA LA LAND - CANTANDO ESTAÇÕES LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/5CC97CDC9E5E4339ADD4/54F2C55B3D7F9A619CF6.mp4
+
+#EXTINF:-1 tvg-logo="http://g1filmesonline.info/wp-content/uploads/2017/11/mwhTwLhMh90hMeIEMoUWMvjDHCH-min.jpg" , ALÉM DA MORTE 
+http://chronos.feralhosting.com/locaweb123/2017/filmes/2017/4L3MD4M0RT3.mp4
+
+#EXTINF:-1 tvg-logo="https://www.xilften.net/wp-content/uploads/2017/12/o9yyogXcUZG3NaBgXvwJMcEQ4b7-185x278.jpg" , OS MENINOS QUE ENGANAVAM NAZISTAS 
+http://cdn-srv1.unitplay.net/stream/720/398924-un-sac-de-billes.mp4
+
+#EXTINF:-1 tvg-logo="http://g1filmesonline.info/wp-content/uploads/2017/11/vNwbTiSMs40xVP3HGOBYR23PFHJ-min.jpg" , ANNABELLE 2: A CRIAÇÃO DO MAL 
+http://chronos.feralhosting.com/locaweb123/2017/filmes/2017/annabelle2.mp4
+
+#EXTINF:-1 tvg-logo="http://g1filmesonline.info/wp-content/uploads/2017/11/8igLhABEv5J4PK415JOMlMa0vpv-min.jpg" , 1922 
+http://chronos.feralhosting.com/locaweb123/2017/filmes/2017/1922.mp4
+
+#EXTINF:-1 tvg-logo="" , ESTA É A SUA MORTE: O SHOW 
+http://chronos.feralhosting.com/locaweb123/2017/filmes/2017/355435u4m0rt3.mp4
+
+#EXTINF:-1 tvg-logo="http://g1filmesonline.info/wp-content/uploads/2017/11/fqIF4ERm1tmBRHZQs32DdIAM9OS-min.jpg" , BINGO: O REI DAS MANHÃS
+http://chronos.feralhosting.com/locaweb123/2017/filmes/2017/gorena.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRVSIGlBmcSUNTjg6wZgnVlTO0b.jpg" , THE MAGIC PILL LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/THEMAGICPILLLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bmSNWKWi0oRRxOpMLDW9v40aJF.jpg" , MUDANÇA NO JOGO
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/MUDANCANOJOGODUB.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMqbcI0SSyjodE13cz72d4mD1dv.jpg" , NÁPOLES VELADA LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/NAPOLESVELADALEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Z5hfRmasEUeypPczBjW92GzMgb.jpg" , DAPHNE LEG. 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/DAPHNELEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEJsuFtYkXWVEa0Nvf90VjAZNOI.jpg" , NOITE SILENCIOSA LEG. 
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/NOITESILENCIOSALEG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XfrtyZzLkXDC4AkEdCl0DkwnfJ.jpg" , ARÁBIA
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/ARABIANAC.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dj1zIDKCnA8Os3fsfvYSIf86xCW.jpg" , NÃO DEVORE MEU CORAÇÃO
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/NAODEVOREMEUCORACAONAC.mp4
+
+#EXTINF:-1 tvg-logo="https://ia.media-imdb.com/images/M/MV5BZGM5YzIxZWMtNzcwZC00YmU4LWE1M2UtZmZhYWZhNWEwODE5XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SY1000_CR0,0,736,1000_AL_.jpg" , BASEADO EM FATOS REAIS LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/BASEADOEMFATOSREAISLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ3Y2YwNDEtOGZiMy00ZjQ1LThhYmUtOGZhZTYzOTNiZjZhXkEyXkFqcGdeQXVyMzU5NzU5OQ@@._V1_SY1000_CR0,0,716,1000_AL_.jpg" , O MESTRE DOS BONECOS LEG.
+http://cdn96.micetop.us/httpdelivery/sex/antigos/nc/L/OMESTREDOSBONECOSLEG.mp4
+
+#EXTINF:-1 tvg-logo="http://g1filmesonline.info/wp-content/uploads/2017/11/qzUiQMvbFLBgcatfMJkoPLqA8y3-min.jpg" , 7 DESEJOS
+http://chronos.feralhosting.com/locaweb123/2017/filmes/2017/setedesejos.mp4
+
+##############################################################Filmes####################################################################
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PDl9t1p.jpg" group-title="LanÃ§amentos 2018" pltv-subgroup="LanÃ§amentos 2018",Tomb Raider A Origem DUB (2018)
+https://dropapk.com/vidembed-ku6uoqm62n4f.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/9ofKOaT.jpg" group-title="Diversos" pltv-subgroup="Diversos",Independence Day O Ressurgimento DUB 2016
+https://onedrive.live.com/download?resid=0315A3D9D03957B2!108&authkey=!AOQE-fA-aROsLgk
+
+#EXTINF:-1 tvg-logo="https://imgur.com/SU8Z6tR.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Recovery Seguidores Macabros DUB 2017
+https://dropapk.com/vidembed-3piou31b2wr2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sgWmoIl.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Sequestro na Ilha DUB 2017
+https://dropapk.com/vidembed-chqjzbs70dfz.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/6MZDtdI.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Quem Ã© o Pai DUB 2017
+https://dropapk.com/vidembed-gfswzpr42ygx.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bwBWGLb.jpg" group-title="Diversos" pltv-subgroup="Diversos",Resgate em Alta Velocidade DUB 2014
+https://dropapk.com/vidembed-m78879ajo9xc.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/etCiWkj.jpg" group-title="Diversos" pltv-subgroup="Diversos",Robosapien O Meu Melhor Amigo DUB 2013
+https://dropapk.com/vidembed-glbqkcuka7xc.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ceqY8Wj.jpg" group-title="Diversos" pltv-subgroup="Diversos",Hospede Do Medo DUB 2015
+https://dropapk.com/vidembed-8llpq50iendo.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/CejeGDE.jpg" group-title="LanÃ§amentos 2018" pltv-subgroup="LanÃ§amentos 2018",Pantera Negra DUB (2018)
+https://dropapk.com/vidembed-uo45i7sh992l.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/WyfSOc4.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",Pedro Coelho DUB (2018)
+https://dropapk.com/vidembed-ohatg90lgbvi.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Q35nakV.jpg" group-title="LanÃ§amentos 2018" pltv-subgroup="LanÃ§amentos 2018",The Titan DUB (2018)
+https://dropapk.com/vidembed-oae6ecgbvuom.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Qf8G08c.jpg" group-title="LanÃ§amentos 2018" pltv-subgroup="LanÃ§amentos 2018",Medo Profundo DUB (2018)
+https://dropapk.com/vidembed-glinuy8uk8kb.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/nlqPkx9.jpg" group-title="LanÃ§amentos 2018" pltv-subgroup="LanÃ§amentos 2018",Todo o Dinheiro do Mundo DUB (2018)
+https://dropapk.com/vidembed-iwk5fk50gq9f.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zbWU2c3.jpg" group-title="LanÃ§amentos 2018" pltv-subgroup="LanÃ§amentos 2018",CaÃ§adores De Homens DUB (2018)
+https://dropapk.com/vidembed-r1jd65btigvl.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1D7RIsj.jpg" group-title="LanÃ§amentos 2018" pltv-subgroup="LanÃ§amentos 2018",Tem AlienÃ­genas no Meu Quarto DUB (2018)
+https://dropapk.com/vidembed-5vajo5rtazqx.,p4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/dTFAQDo.jpg" group-title="Diversos" pltv-subgroup="Diversos",Plano B DUB 2015
+https://dropapk.com/vidembed-0v5pxpq66o3w.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/XaYsGam.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Terra de Minas DUB 2017
+https://dropapk.com/vidembed-60kbgsnstzvc.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/oajn9Ol.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Na Selva DUB 2017
+https://dropapk.com/vidembed-9cpwugisp13l.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ejPffiG.jpg" group-title="LanÃ§amentos 2018" pltv-subgroup="LanÃ§amentos 2018",Perigo na Montanha DUB (2018)
+https://dropapk.com/vidembed-u85zdkspzx9h.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/24ClwSf.jpg" group-title="1999 para TrÃ¡s" pltv-subgroup="1999 para TrÃ¡s",O MÃ¡gico de OZ DUB (1939)
+https://dropapk.com/vidembed-nqkjjltbu93r.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/WvTHRsJ.jpg" group-title="Diversos" pltv-subgroup="Diversos",Marley e Eu DUB (2008)
+https://dropapk.com/vidembed-5yxiz9kv3h2t.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/XhUgy95.jpg" group-title="LanÃ§amentos 2018" pltv-subgroup="LanÃ§amentos 2018",TrÃªs AnÃºncios Para um Crime DUB 2018
+https://dropapk.com/vidembed-14b3n64o6i71.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OAjkxjZ.jpg" group-title="Diversos" pltv-subgroup="Diversos",Amizade Desfeita DUB 2015
+https://dropapk.com/vidembed-h9xy3mls77o6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qOqTuwd.jpg" group-title="Diversos" pltv-subgroup="Diversos",InvasÃ£o do Mundo - Batalha de Los Angeles DUB 2011
+https://dropapk.com/vidembed-mqlpnnbxglft.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/w4Yv9bq.jpg" group-title="Diversos" pltv-subgroup="Diversos",Ligeiramente GrÃ¡vidos DUB 2007
+https://dropapk.com/vidembed-ldfazo0kkapz.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/cD2ju64.jpg" group-title="Diversos" pltv-subgroup="Diversos",LiÃ§Ãµes em FamÃ­lia DUB 2015
+https://dropapk.com/vidembed-mudl6tdpfla8.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/WI6yBFu.jpg" group-title="Diversos" pltv-subgroup="Diversos",A Menina do ChalÃ© DUB 2016
+https://dropapk.com/vidembed-rxryudw4otn1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/CnDc6uM.jpg" group-title="1999 para TrÃ¡s" pltv-subgroup="1999 para TrÃ¡s",Independence Day DUB 1996
+https://dropapk.com/vidembed-akk3261pn7bs.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/R8hDZ0C.jpg" group-title="Diversos" pltv-subgroup="Diversos",Interestelar DUB 2014
+https://dropapk.com/vidembed-9l7u09zfpchd.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JvvVObS.jpg" group-title="Diversos" pltv-subgroup="Diversos",Morrendo e Aprendendo DUB 2015
+https://dropapk.com/vidembed-746w3y2d5ghn.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/YlSXtc8.jpg" group-title="Diversos" pltv-subgroup="Diversos",O Final da TurnÃª DUB 2016
+https://dropapk.com/vidembed-2ax7u1k8wby5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/roFcsJp.jpg" group-title="Diversos" pltv-subgroup="Diversos",O Homem Que Mudou o Jogo DUB 2012
+https://dropapk.com/vidembed-vmc3remhq6ye.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/WflorjC.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",O Pequeno PrÃ­ncipe DUB 2015
+https://dropapk.com/vidembed-kmufx9207tik.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/DD7SCqt.jpg" group-title="Diversos" pltv-subgroup="Diversos",Os 33 DUB 2015
+https://dropapk.com/vidembed-34tf8v4qc5a7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/DGw3NdA.jpg" group-title="Diversos" pltv-subgroup="Diversos",Os Descartados DUB 2015
+https://dropapk.com/vidembed-14a0772eceya.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hmyq7Dh.jpg" group-title="Diversos" pltv-subgroup="Diversos",O Vizinho DUB 2008
+https://dropapk.com/vidembed-6vqpvwnxo6l7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ThYjEl1.jpg" group-title="Diversos" pltv-subgroup="Diversos",Primavera DUB 2014
+https://dropapk.com/vidembed-7qlt7kf0nlyg.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/rLCJxqX.jpg" group-title="Diversos" pltv-subgroup="Diversos",A Entidade DUB 2012
+https://dropapk.com/vidembed-yl82dwpvate4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/aHmcXOq.jpg" group-title="Diversos" pltv-subgroup="Diversos",A Entidade 2 DUB 2015
+https://dropapk.com/vidembed-qxc0oloo163m.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KysV0kO.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",Akira DUB 1988
+https://dropapk.com/vidembed-hsnxkxjadmli.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/DvaRxPe.jpg" group-title="1999 para TrÃ¡s" pltv-subgroup="1999 para TrÃ¡s",Cidade dos Anjos DUB 1998
+https://dropapk.com/vidembed-308kzcwwi20r.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1cIP1pE.jpg" group-title="Diversos" pltv-subgroup="Diversos",ExtermÃ­nio DUB 2003
+https://dropapk.com/vidembed-ky70pn251qce.mp4
+		
+#EXTINF:-1 tvg-logo="https://imgur.com/5ITIA4e.jpg" group-title="Diversos" pltv-subgroup="Diversos",ExtermÃ­nio 2 DUB 2007		
+https://dropapk.com/vidembed-yeuwadfng16u.mp4		
+
+#EXTINF:-1 tvg-logo="https://imgur.com/X2SGjYI.jpg" group-title="Diversos" pltv-subgroup="Diversos",O Jardim dos Esquecidos DUB 2014
+https://dropapk.com/vidembed-r8xoclp9noko.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4C7JjfG.jpg" group-title="Diversos" pltv-subgroup="Diversos",O Ãšltimo CaÃ§ador de Bruxas DUB 2015
+https://dropapk.com/vidembed-84pzwuir6rax.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/dTMxcH6.jpg" group-title="Diversos" pltv-subgroup="Diversos",Ritmo de Um Sonho DUB 2005
+https://dropapk.com/vidembed-6xk6dq6t0co8.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/uWm2Z5E.jpg" group-title="Diversos" pltv-subgroup="Diversos",Sem Atividade Paranormal DUB 2012
+https://dropapk.com/vidembed-zgxbikzize8r.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/su9JwOo.jpg" group-title="Diversos" pltv-subgroup="Diversos",Sem Retorno DUB 2015		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/SEMRTRNO.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/4Bunm4P.jpg" group-title="Diversos" pltv-subgroup="Diversos",O Retrato de Dorian Gray DUB 2009
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/ORTRDORNGRY.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/A5AK7HN.jpg" group-title="Diversos" pltv-subgroup="Diversos",Shaolin DUB 2011
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/SHAOLIN.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/3uBNbH0.jpg" group-title="Diversos" pltv-subgroup="Diversos",Sentimentos Que Curam DUB 2015		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/SNTMTSQCRM.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/I2lrog7.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",Street Fighter II: O Filme DUB 1994		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/STRTFGTRIIOFLIME.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/uUYQXCb.jpg" group-title="Diversos" pltv-subgroup="Diversos",Um Caso de Amor DUB 2015		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/UMCSDAMR.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/hNUK9aN.jpg" group-title="Diversos" pltv-subgroup="Diversos",VerÃ£o Em Staten Island DUB 2015		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/VERAEMSTISLND.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/JuYxRvI.jpg" group-title="Diversos" pltv-subgroup="Diversos",Vizinhos Imediatos de 3Âº Grau DUB 2012		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/VIZNHIMDATS.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/rshpAI5.jpg" group-title="Diversos" pltv-subgroup="Diversos",VocÃª Acredita? DUB 2015		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/VCACRDT.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/zKdKWxM.jpg" group-title="Diversos" pltv-subgroup="Diversos",O Presente DUB 2016		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRSENT.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/LDhm35X.jpg" group-title="Diversos" pltv-subgroup="Diversos",Ponte dos EspiÃµes DUB 2015		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/PNTDESPIOS.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/tZztkm8.jpg" group-title="1999 para TrÃ¡s" pltv-subgroup="1999 para TrÃ¡s",Stallone Cobra DUB 1986		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/STLNECBR.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/urFNhgK.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",A Noiva-CadÃ¡ver DUB 2005		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/ANOIVCDVER.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/1vEFfRB.jpg" group-title="Diversos" pltv-subgroup="Diversos",Especialista em Crise DUB 2016		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/ESPCLSEMCRS.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/5dsnlFo.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",O Bom Dinossauro DUB 2016		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/OBOMDINO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/lI7sb51.jpg" group-title="Diversos" pltv-subgroup="Diversos",Os Condenados DUB 2007		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/OSCNDNS1.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/mzsDwMU.jpg" group-title="Diversos" pltv-subgroup="Diversos",Os Condenados 2 DUB 2016		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/OSCNDNS2.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/Z8xnloF.jpg" group-title="Diversos" pltv-subgroup="Diversos",Sicario: Terra de NinguÃ©m DUB 2015		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/SCROTRDNGM.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/A9F43Jx.jpg" group-title="Diversos" pltv-subgroup="Diversos",90 Minutos no ParaÃ­so DUB 2016		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/90MINPRSO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/N3ESXTF.jpg" group-title="Diversos" pltv-subgroup="Diversos",A Herdeira DUB 2016		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/AHRDIRA.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/WXvaFmL.jpg" group-title="Diversos" pltv-subgroup="Diversos",Samba DUB 2015		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/SAMBA.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/4Ttt0dH.jpg" group-title="Diversos" pltv-subgroup="Diversos",The Beach Boys: Uma HistÃ³ria de Sucesso DUB 2016		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/THBCHBYSUHDS.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/FNgWbYh.jpg" group-title="Diversos" pltv-subgroup="Diversos",Woodlawn: Talento e FÃ© DUB 2016		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/TLNTEFWODLWN.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/QcyGAxU.jpg" group-title="Diversos" pltv-subgroup="Diversos",Um Romance Na Alta Moda DUB 2015		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/UMROMNCNALTMD.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/cRyfjHe.jpg" group-title="Diversos" pltv-subgroup="Diversos",O Natal dos Padrinhos MÃ¡gicos DUB 2013		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/ONTLDPDRNHSMGCS.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/zUCSsiE.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",Os Smurfs DUB 2011		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/OSMURFS1.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/WkcfD4S.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",Os Smurfs 2 DUB 2013		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/OSMURFS2.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/StMCSYh.jpg" group-title="Diversos" pltv-subgroup="Diversos",A Rede Social DUB 2010		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/ARDSCIL.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/zFJIZaD.jpg" group-title="1999 para TrÃ¡s" pltv-subgroup="1999 para TrÃ¡s",AtÃ© o Limite da Honra DUB 1997		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/ATOLMTDHNRA.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/UtFYUVZ.jpg" group-title="Diversos" pltv-subgroup="Diversos",Gritos Mortais DUB 2007		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/GRTSMORTS.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/31Kipeo.jpg" group-title="Diversos" pltv-subgroup="Diversos",HÃ©rcules DUB 2014		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/HERCLS.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/x1KfohX.jpg" group-title="Diversos" pltv-subgroup="Diversos",JÃ¡ Estou Com Saudades DUB 2015		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/JAESTCMSDS.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/sdkVMb2.jpg" group-title="1999 para TrÃ¡s" pltv-subgroup="1999 para TrÃ¡s",Os CaÃ§a-Fantasmas DUB 1984		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//OSCAFNTSMA.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/B7sIj2W.jpg" group-title="1999 para TrÃ¡s" pltv-subgroup="1999 para TrÃ¡s",Os CaÃ§a-Fantasmas 2 DUB 1989		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//CACFNTSM2.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/m4eI23H.jpg" group-title="Diversos" pltv-subgroup="Diversos",A Fera DUB 2011		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand/AFERA.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/Z3d10Nx.jpg" group-title="Diversos" pltv-subgroup="Diversos",Como Eu Era Antes de VocÃª DUB 2016		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//CMEUERANTSDVC.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/QKnIdIF.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",A Era do Gelo DUB 2002		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/AERDGL1.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/xVYQ6Pe.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",A Era do Gelo 2 DUB 2006		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/AERDGL2.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/plYTShB.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",A Era do Gelo 3 DUB 2009		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/AERDGL3.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/xgQRNM1.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",A Era do Gelo 4 DUB 2012		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/AERDGL4.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/hIUCbLU.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",A Era Do Gelo - A Grande CaÃ§ada Aos Ovos De PÃ¡scoa DUB 2016		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/AERDGLAGRNDCAOVS.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/k9X4yEP.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",A Era do Gelo - O Big Bang DUB 2016		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//AERDGLOBB.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/ztqcGO8.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Te Pego na SaÃ­da DUB 2017		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/TPGNSDA.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/pBOZSXQ.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Tempo Contado DUB 2017		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/TMPCNTDO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/FB0TfUZ.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Slam DUB 2017		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/SLM.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/MWseOM8.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Terra Selvagem DUB 2017		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/TRASLVG.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/1XMbBDD.jpg" group-title="Diversos" pltv-subgroup="Diversos",Turbo Kid DUB 2015		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/TRBKID.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/VUASz0T.jpg" group-title="Legendados" pltv-subgroup="Legendados",TrÃªs AnÃºncios Para um Crime LEG 2018		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/TRSANCSPRUMCRMLEG.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/LA2xCJS.jpg" group-title="LanÃ§amentos 2018" pltv-subgroup="LanÃ§amentos 2018",Os Esquecidos DUB 2018		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/OSEQCDS.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/rOYaYjo.jpg" group-title="LanÃ§amentos 2018" pltv-subgroup="LanÃ§amentos 2018",Projeto Ã‰den DUB 2018		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/PRJCTEDN.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/AvLLKSu.jpg" group-title="Legendados" pltv-subgroup="Legendados",Cinquenta Tons de Liberdade LEG 2018		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/CQNTTNSDLRBDSLEG.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/xQvsJzl.jpg" group-title="Diversos" pltv-subgroup="Diversos",A Culpa Ã© das Estrelas DUB 2014		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/ACLPEDSESTRLS.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/gMPgegH.jpg" group-title="Diversos" pltv-subgroup="Diversos",Dragon Ball Evolution DUB 2009		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/DBZEVLTN.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/GpxHLOo.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",Dragon Ball - Filme 01 - A Lenda de Shenlong DUB 1989		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCServer01/videos/DBFILME01.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/Au6tvOe.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",Dragon Ball - Filme 02 - O Castelo do Diabo DUB 1987		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCServer01/videos/DBFILME02.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/3Tflb31.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",Dragon Ball - Filme 03 - Uma Aventura MÃ­stica DUB 1988		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCServer01/videos/DBFILME03.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/ENkikqs.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",Dragon Ball - Filme 04 - Especial de 10 Anos: Em Busca do Poder DUB 1996		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCServer01/videos/DBFILME04.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/0EuEA2L.jpg" group-title="Diversos" pltv-subgroup="Diversos",300 DUB 2007		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/300.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/rd9xIDv.jpg" group-title="Diversos" pltv-subgroup="Diversos",300 - A AscensÃ£o do ImpÃ©rio DUB 2014		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/300AASCSDIMPRO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/PYTUeTt.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",9 - A SalvaÃ§Ã£o DUB 2009		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/ASLVCAO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/1u0sx82.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",Appleseed Alpha DUB 2014		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/APLSDALPHDUB.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/Uk8xkmD.jpg" group-title="Nacional" pltv-subgroup="Nacional",A Noite da Virada (Nacional) 2014		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/ANTDVRDNAC.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/sN7t8VM.jpg" group-title="Diversos" pltv-subgroup="Diversos",A Marca do Medo DUB 2014		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRCDMDDUB.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/GM7x5au.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",As Aventuras de Tintim - O Filme DUB 2011		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/AAVTRSDTNFILME.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/Xc9Ro6h.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",Como Treinar o Seu DragÃ£o DUB 2010		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCServer08/ondemand/CMTRNRDRG.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/rbDOpZo.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",Como Treinar o Seu DragÃ£o 2 DUB 2014		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCServer09/ondemand/CMTRNRDRG2.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/I80Bc4r.jpg" group-title="Diversos" pltv-subgroup="Diversos",Os Vingadores: The Avengers DUB 2012		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/OSVGDRS.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/wQSVHM2.jpg" group-title="Diversos" pltv-subgroup="Diversos",O IncrÃ­vel Hulk DUB 2008		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/OINCVLHLK.mp4		
+		
+EXTINF:-1 tvg-logo="http://i.imgur.com/xrqE92K.jpg" group-title="1999 para TrÃ¡s" pltv-subgroup="1999 para TrÃ¡s",Lutador de Rua DUB 1975		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/LTDRSRUA.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/XTL1PNF.jpg" group-title="Diversos" pltv-subgroup="Diversos",PerseguiÃ§Ã£o DUB 2016		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/PRSGCAO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/kxbJqnp.jpg" group-title="1999 para TrÃ¡s" pltv-subgroup="1999 para TrÃ¡s",Pague Para Entrar, Reze Para Sair DUB 1981		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/PGPRENTRRZPRSIR.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/mQa8pEU.jpg" group-title="Diversos" pltv-subgroup="Diversos",Os Pinguins do Papai DUB 2011		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/OSPNGUNSDPAI.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/JwLYlIL.jpg" group-title="Diversos" pltv-subgroup="Diversos",O Segredo da Borboleta DUB 2014		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/OSGRDBRLTA.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/71VnhZF.jpg" group-title="Diversos" pltv-subgroup="Diversos",Mommy DUB 2014		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/MOMWY.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/Wh7qSM6.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",Snoopy e Charlie Brown: Peanuts, O Filme DUB 2016		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/SNPYECRLIBRPANRSOFLM.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/6QvOrL3.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",Os Croods DUB 2013		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/OSCRDS.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/XbQb0JO.jpg" group-title="1999 para TrÃ¡s" pltv-subgroup="1999 para TrÃ¡s",Good Burger DUB 1997		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/GODBRGRS.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/45Vdkel.jpg" group-title="Diversos" pltv-subgroup="Diversos",G.I. Joe: A Origem de Cobra DUB 2009		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/GIJOE1.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/aDomXNn.jpg" group-title="Diversos" pltv-subgroup="Diversos",G.I. Joe: RetaliaÃ§Ã£o DUB 2013		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/GIJOE2.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/sNAdqGh.jpg" group-title="Diversos" pltv-subgroup="Diversos",Click DUB 2006		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/CLCK.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/9vsnz6m.jpg" group-title="Diversos" pltv-subgroup="Diversos",17 Outra Vez DUB 2009		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/17OUTVZ.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/4d6QiuT.jpg" group-title="Diversos" pltv-subgroup="Diversos",A MÃ¡quina do Tempo DUB 2002		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/AMQNDTMP.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/GbUjFbh.jpg" group-title="Diversos" pltv-subgroup="Diversos",Alta FrequÃªncia DUB 2000		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/ALTFRQNC.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/Lmk6GS9.jpg" group-title="Diversos" pltv-subgroup="Diversos",Amor por Acidente DUB 2016		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/AMRPRACDNT.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/FfUnIbZ.jpg" group-title="Diversos" pltv-subgroup="Diversos",As Sufragistas DUB 2015		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/ASFRGISTA.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/yqAzzph.jpg" group-title="1999 para TrÃ¡s" pltv-subgroup="1999 para TrÃ¡s",O Talentoso Ripley DUB 1999		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/OTLNTSRPLY.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/PhpLkwY.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Uma RazÃ£o Para RecomeÃ§ar DUB 2017		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/UMARZAOPRCOMCR.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/s8Je0nf.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Uma Vida com PropÃ³sito DUB 2017		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/UMAVDCMPRPSTO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/wHb5BEe.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Um LaÃ§o de Amor DUB 2017		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/UMLCDAMR.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/UnmScKI.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Um Homem de FamÃ­lia DUB 2017		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/UMHMNDFML.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/STttu1U.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Um RefÃºgio DUB 2017		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/UMRFG.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/Sef98xk.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Victoria e Abdul: O Confidente da Rainha DUB 2017		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/VCTREABDL.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/DNG5v6y.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Viagem das Garotas DUB 2017		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/VIAGMDSGRTS.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/2yIUeuk.jpg" group-title="Diversos" pltv-subgroup="Diversos",VulcÃ£o: O Apocalipse DUB 2014		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/VLCOAPCLPSE.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/KD1463P.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Vamps  A Morte NÃ£o Existe para o Amor DUB 2017		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/VMPSAMRTNEXTPROAMR.mp4		
+		
+#EXTINF:-1 tvg-logo="https://imgur.com/X7PPzR5.jpg" group-title="Diversos" pltv-subgroup="Diversos",Norbit DUB (2007)
+https://dropapk.com/vidembed-ayv9a7ocjvsn.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/oIPKRvx.jpg" group-title="LanÃ§amentos 2018" pltv-subgroup="LanÃ§amentos 2018",A VilÃ£ DUB (2018)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/AVLA.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/r8PS0Hk.jpg" group-title="LanÃ§amentos 2018" pltv-subgroup="LanÃ§amentos 2018",A ExceÃ§Ã£o DUB (2018)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/AEXCAO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/ac3idU4.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",As Aventuras de Tadeo 2 - O Segredo do Rei Midas DUB (2017)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/ASAVNTRSDTAD2OSGRNDRM.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/LDBJ8ct.jpg" group-title="Legendados" pltv-subgroup="Legendados",Maze Runner - A Cura Mortal LEG (2018)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/MAZERUNNERLEG-ALTO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/trc2QsH.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",O Poderoso Chefinho DUB (2017)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/OPDRSOCFNHDUB.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/VzKKDXo.jpg" group-title="Nacional" pltv-subgroup="Nacional",Fala SÃ©rio, MÃ£e (2017)		
+		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/hBXYUez.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",ConspiraÃ§Ã£o Terrorista DUB (2017)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/CNSPRCTRRST.mp4?CiscoOliveira		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/DvauDIE.jpg" group-title="LanÃ§amentos 2018" pltv-subgroup="LanÃ§amentos 2018",Perda Total DUB (2018)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/PRDTOTL.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/vV2jSvj.jpg" group-title="LanÃ§amentos 2018" pltv-subgroup="LanÃ§amentos 2018",Benji DUB (2018)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/BNJI.mp4	
+		
+EXTINF:-1 tvg-logo="https://imgur.com/WhYTNqr.jpg" group-title="1999 para TrÃ¡s" pltv-subgroup="1999 para TrÃ¡s",CoraÃ§Ã£o Valente DUB (1995)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/CORACAOVALENTEDUB-ALTO.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/jmvmBhW.jpg" group-title="Diversos" pltv-subgroup="Diversos",Gladiador DUB (2000)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/GLADIADORDUB-ALTO.mp4	
+		
+EXTINF:-1 tvg-logo="https://imgur.com/awOauah.jpg" group-title="Diversos" pltv-subgroup="Diversos",TrÃ³ia DUB (2004)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/TROIADUB-ALTO.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/51hdHQb.jpg" group-title="Legendados" pltv-subgroup="Legendados",Corrida Mortal 4 LEG (2018)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/DEATHRACE4-ALTO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/ifHEWrq.jpg" group-title="LanÃ§amentos 2018" pltv-subgroup="LanÃ§amentos 2018",Sobrenatural - A Ãšltima Chave DUB (2018)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/SBNTLAULTMCHV.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/66eD57W.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",Trolls DUB (2017)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//TRLS.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/QjyR4eA.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",101 DÃ¡lmatas DUB (1961)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//101DMLTS1.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/jbnEjsw.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Na Mira do Atirador DUB (2017)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/NAMRDATRDR.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/Sq1GgGN.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",As Aventuras de Paddington DUB (2014)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/AAVNTRDPNGTN.mp4?CiscoOliveira		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/PXTdx1H.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",Paddington 2 DUB (2018)		
+
+		
+EXTINF:-1 tvg-logo="https://imgur.com/1eAOPau.jpg" group-title="Diversos" pltv-subgroup="Diversos",Bastardos InglÃ³rios DUB (2009)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/BASTADOSINGLORIOSDUB-ALTO.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/ilk5Qpz.jpg" group-title="Diversos" pltv-subgroup="Diversos",O Lobo de Wall Street DUB (2014)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/LOBOWALLSTREETDUB-ALTO.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/roC4Xns.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",Os IncrÃ­veis DUB (2004)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/OSINCRIVEISDUB-ALTO.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/SBO72Dn.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",OperaÃ§Ã£o Big Hero DUB (2014)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/BIGHERODUB-ALTO.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/cEXB4Ch.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",WALL-E DUB (2008)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/WLLE.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/wBelKwE.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",Detona Ralph DUB (2012)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/DTNARLPH.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/vLnNLxV.jpg" group-title="Legendados" pltv-subgroup="Legendados",Dois Caras Legais LEG (2016)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/NICEGUYSLEG-ALTO.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/r7sbjuG.jpg" group-title="LanÃ§amentos 2018" pltv-subgroup="LanÃ§amentos 2018",AniquilaÃ§Ã£o DUB (2018)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/ANQLCAO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/q3nbHUV.jpg" group-title="Diversos" pltv-subgroup="Diversos",QuestÃ£o de Tempo DUB (2013)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/QSTDTMP.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/xd4Nj02.jpg" group-title="Diversos" pltv-subgroup="Diversos",Eu Estava Justamente Pensando em VocÃª DUB (2015)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/PENSANDOEMVOCE-ALTO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/1z8zNtZ.jpg" group-title="Diversos" pltv-subgroup="Diversos",(500) Dias com Ela DUB (2009)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/500DIASCOMELADUB-ALTO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/mJYav7x.jpg" group-title="LanÃ§amentos 2018" pltv-subgroup="LanÃ§amentos 2018",O Estrangeiro DUB (2018)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/OESTNGRO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/d6Jy77L.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",Uma Floresta Muito Louca DUB (2018)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/UMFLRSTMTLC.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/ZQjawSB.jpg" group-title="Diversos" pltv-subgroup="Diversos",Liga dos Deuses DUB (2016)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/LGDSDEUS.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/3k4KMcG.jpg" group-title="Legendados" pltv-subgroup="Legendados",Maverick - CaÃ§ada no Brasil LEG (2016)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/MAVERICK16-ALTO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/TJJyYLb.jpg" group-title="Legendados" pltv-subgroup="Legendados",Star Wars - Os Ãšltimos Jedi LEG (2017)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/STARWARS8LEG-ALTO.mp4		
+		
+#EXTINF:-1 tvg-logo="https://imgur.com/4p4CrWN.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",O Touro Ferdinando DUB (2018)
+https://dropapk.com/vidembed-lqm6xzsyuk9r.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/bLIAdyP.jpg" group-title="LanÃ§amentos 2018" pltv-subgroup="LanÃ§amentos 2018",Jumanji - Bem-Vindo Ã  Selva DUB (2018)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/JMNJBMVNDASLV.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/LT8oNuV.jpg" group-title="Legendados" pltv-subgroup="Legendados",DÃ­vida Perigosa LEG (2018)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/THEOUTSIDE2018LEG-ALTO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/rs7TLqX.jpg" group-title="Legendados" pltv-subgroup="Legendados",Batman vs. Two-Face LEG (2017)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/BATMANDUASCARAS-ALTO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/kerebZj.jpg" group-title="Diversos" pltv-subgroup="Diversos",Mama DUB (2013)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/MAMADUB-ALTO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/3wJbalw.jpg" group-title="Diversos" pltv-subgroup="Diversos",InvocaÃ§Ã£o do Mal DUB (2013)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//INVCAODML.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/0ERz444.jpg" group-title="Diversos" pltv-subgroup="Diversos",InvocaÃ§Ã£o do Mal 2 DUB (2016)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//INVCAODML2.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/HtlH6zf.jpg" group-title="Diversos" pltv-subgroup="Diversos",Annabelle DUB (2014)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/ANBL.mp4
+		
+EXTINF:-1 tvg-logo=".jpg" group-title="Diversos" pltv-subgroup="Diversos",Annabelle 2: A CriaÃ§Ã£o do Mal DUB (2017)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/ANBL2ACRCDML.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/JmTEtCC.jpg" group-title="Legendados" pltv-subgroup="Legendados",Eu, Tonya LEG (2018)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/ITONYALEG-ALTO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/28DvKEy.jpg" group-title="1999 para TrÃ¡s" pltv-subgroup="1999 para TrÃ¡s",Ã€ Espera de um Milagre DUB (1999)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/MILAGREDUB-ALTO.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/FuzupIh.jpg" group-title="1999 para TrÃ¡s" pltv-subgroup="1999 para TrÃ¡s",Forrest Gump - O Contador de HistÃ³rias DUB (1994)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/FORSTGRMPOCNTADRDHSTRIA.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/6aC0K8M.jpg" group-title="Diversos" pltv-subgroup="Diversos",Click DUB (2006)
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/CLCK.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/2VE9WXq.jpg" group-title="LanÃ§amentos 2018" pltv-subgroup="LanÃ§amentos 2018",Me Chame pelo Seu Nome DUB (2018)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/MECHMPLSEUNME.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/GXXYGYJ.jpg" group-title="Nacional" pltv-subgroup="Nacional",Os Dez Mandamentos - O Filme (2016)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/OSDZMANDMTS.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/4p4CrWN.jpg" group-title="Legendados" pltv-subgroup="Legendados",O Touro Ferdinando LEG (2018)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/FERDINANDOLEG-ALTO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/f2dvguW.jpg" group-title="Legendados" pltv-subgroup="Legendados",Gigante LEG (2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/GIGANTE2018LEG-ALTO.mp4	
+		
+EXTINF:-1 tvg-logo="https://imgur.com/y99njJK.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",O Rei do Show DUB (2017)		
+http://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/OREIDSHW.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/2k3WtqI.jpg" group-title="Legendados" pltv-subgroup="Legendados",Lady Bird: A Hora de Voar LEG (2018)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/LADYBIRDLEG-ALTO.mp4
+		
+#EXTINF:-1 tvg-logo="https://imgur.com/jtxoZR9.jpg" group-title="LanÃ§amentos 2018" pltv-subgroup="LanÃ§amentos 2018",A Forma da Ãgua DUB (2018)		
+https://dropapk.com/vidembed-5uuo9mi35nip.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/jOWfG4Q.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",Viva: A Vida Ã© uma Festa DUB (2018)
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/VIVAAVDEUMFST.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/FNWb7Z6.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",A Estrela de BelÃ©m DUB (2017)
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/AESTRLDBLM.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/VqRB9UV.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",VerÃ³nica DUB (2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/content/httpdelivery/filmes2018/VERONICA2018DUB-ALTO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/XoIJluC.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",Com Amor, Van Gogh DUB (2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/VANGOGHDUB-ALTO.mp4		
+		
+#EXTINF:-1 tvg-logo="https://imgur.com/owb5lIN.jpg" group-title="1999 para TrÃ¡s" pltv-subgroup="1999 para TrÃ¡s",Os Goonies DUB (1985)
+https://dropapk.com/vidembed-8bhnoaq1u1ol.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/WSRRnID.jpg.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Jogos Mortais: Jigsaw DUB (2017)	
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/JGSMRTAS08.mp4?CiscoOliveira
+		
+EXTINF:-1 tvg-logo="https://imgur.com/6V7Gczf.jpg" group-title="Nacional" pltv-subgroup="Nacional",Os ParÃ§as (2017)	
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/OSPRCS.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/gz0BXQJ.jpg" group-title="Diversos" pltv-subgroup="Diversos",Assassinâ€™s Creed DUB (2016)
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//ASINSCRD.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/15lVgzv.jpg.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Bright DUB (2017)
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/BRGHT.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/eiYcPc0.jpg" group-title="Diversos" pltv-subgroup="Diversos",Animais FantÃ¡sticos e Onde Habitam DUB (2016)
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//ANMSFNTSTCEONDHBTM.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/lPBPZM9.jpg" group-title="Diversos" pltv-subgroup="Diversos",Doutor Estranho DUB (2016)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//DRESTNHO.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/2k9eWou.jpg" group-title="Diversos" pltv-subgroup="Diversos",Warcraft - O Primeiro Encontro de Dois Mundos DUB (2016)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//WARCRFT.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/F1zbUx2.jpg" group-title="Diversos" pltv-subgroup="Diversos",Batman vs. Superman  A Origem da JustiÃ§a DUB (2016)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/BTMNVSPRMNAODJT.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/sEcTv1E.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Mulher-Maravilha DUB (2017)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/MLHRMRVLHA.mp4?CiscoOliveira		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/m5DecXB.jpg" group-title="Diversos" pltv-subgroup="Diversos",O Homem de AÃ§o DUB (2013)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/OHMNDACO.mp4?CiscoOliveira		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/nyiwH8A.jpg" group-title="Diversos" pltv-subgroup="Diversos",Quarteto FantÃ¡stico DUB (2015)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/QRTFNTSC2015.mp4?CiscoOliveira		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/HIGuljd.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",GuardiÃµes da GalÃ¡xia Vol. 2 DUB (2017)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/GRDOESDGLXIAVL2.mp4?CiscoOliveira		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/qS2YF8O.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Homem-Aranha: De Volta ao Lar DUB (2017)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/HOMARNHDVLTALR.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/p3qYmaM.jpg" group-title="Diversos" pltv-subgroup="Diversos",Truque de Mestre DUB (2013)		
+http://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand/TRQDMSTR.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/GjoSt7O.jpg" group-title="Diversos" pltv-subgroup="Diversos",Truque de Mestre - O 2Âº Ato DUB (2016)		
+http://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand/TRQDMSTR2.mp4
+		
+EXTINF:-1 tvg-logo="https://imgur.com/bNRxVEB.jpg" group-title="Diversos" pltv-subgroup="Diversos",O Espetacular Homem-Aranha DUB (2012)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/OESPTCLHMNARNH01.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/CPRz4M8.jpg" group-title="Diversos" pltv-subgroup="Diversos",O Espetacular Homem-Aranha 2 â€“ A AmeaÃ§a de Electro DUB (2014)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/OESPTCLHMNARNH02.mp4		
+		
+#EXTINF:-1 tvg-logo="https://imgur.com/kaG4PUi.jpg" group-title="Trilogias e Series" pltv-subgroup="A Hora do Rush",A Hora do Rush DUB (1998)		
+https://dropapk.com/vidembed-p8atm1oywlv5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/9n5lWfc.jpg" group-title="Trilogias e Series" pltv-subgroup="A Hora do Rush",A Hora do Rush 2 DUB (2001)		
+https://dropapk.com/vidembed-6oibnib2vyt9.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Erdlvzq.jpg" group-title="Trilogias e Series" pltv-subgroup="A Hora do Rush",A Hora do Rush 3 DUB (2007)		
+https://dropapk.com/vidembed-e3642udbej1l.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/xOTYunW.jpg" group-title="Trilogias e Series" pltv-subgroup="As CrÃ´nicas de NÃ¡rnia",As CrÃ´nicas de NÃ¡rnia: O LeÃ£o, a Feiticeira e o Guarda-Roupa DUB 2005		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/ASCRNCSDNRNOLEAFETEOGRDRP.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/ffMop22.jpg" group-title="Trilogias e Series" pltv-subgroup="As CrÃ´nicas de NÃ¡rnia",As CrÃ´nicas de NÃ¡rnia: PrÃ­ncipe Caspian DUB 2008		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/ASCRNCSDNRNPRNCPCASPAN.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/E2vd41z.jpg" group-title="Trilogias e Series" pltv-subgroup="As CrÃ´nicas de NÃ¡rnia",As CrÃ´nicas de NÃ¡rnia: A Viagem do Peregrino da Alvorada DUB 2010		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/ASCRNCSDNRNAVGMDPRGNDALV.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/4PWFsMb.jpg" group-title="Trilogias e Series" pltv-subgroup="Busca Explosiva",Busca Explosiva DUB 2006		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//BSCEXPLSV1.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/4iVZT5z.jpg" group-title="Trilogias e Series" pltv-subgroup="Busca Explosiva",Busca Explosiva 2 DUB 2009		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//BSCEXPLSV2.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/qu9kfUU.jpg" group-title="Trilogias e Series" pltv-subgroup="Busca Explosiva",Busca Explosiva 3 DUB 2013		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//BSCEXPLSV3.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/aeAopOy.jpg" group-title="Trilogias e Series" pltv-subgroup="Busca Explosiva",Busca Explosiva 4 DUB 2015		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//BSCEXPLSV4.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/LRHlmQ3.png" group-title="Trilogias e Series" pltv-subgroup="Busca Explosiva",Busca Explosiva 5: Campo de Batalha DUB 2017		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//BSCEXPLSV5.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/SftXOsP.jpg" group-title="Trilogias e Series" pltv-subgroup="CapitÃ£o AmÃ©rica",CapitÃ£o AmÃ©rica - O Primeiro Vingador DUB (2011)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/CAPTAMRC1.mp4?CiscoOliveira
+
+EXTINF:-1 tvg-logo="https://imgur.com/m4OpZLe.jpg" group-title="Trilogias e Series" pltv-subgroup="CapitÃ£o AmÃ©rica",CapitÃ£o AmÃ©rica 2 - O Soldado Invernal DUB (2014)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/CAPTAMRC2.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/6ADCO2o.jpg" group-title="Trilogias e Series" pltv-subgroup="CapitÃ£o AmÃ©rica",CapitÃ£o AmÃ©rica - Guerra Civil DUB (2016)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//CAPTAMRC3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Cry8EvS.jpg" group-title="Trilogias e Series" pltv-subgroup="Cinquenta Tons",Cinquenta Tons de Cinza DUB 2015
+https://dropapk.com/vidembed-xzk1akz363e3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QcjJGfe.jpg" group-title="Trilogias e Series" pltv-subgroup="Cinquenta Tons",Cinquenta Tons Mais Escuros DUB 2017
+https://dropapk.com/vidembed-gcgjc7ids29l.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4dpAJp6.jpg" group-title="Trilogias e Series" pltv-subgroup="Cinquenta Tons",Cinquenta Tons de Liberdade DUB 2018
+https://dropapk.com/vidembed-95jy6zpu7vkh.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ZYIsilm.png" group-title="Trilogias e Series" pltv-subgroup="CoraÃ§Ã£o de DragÃ£o",CoraÃ§Ã£o de DragÃ£o DUB 1997		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/CRCDRG1.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/BltA7ut.jpg" group-title="Trilogias e Series" pltv-subgroup="CoraÃ§Ã£o de DragÃ£o",CoraÃ§Ã£o de DragÃ£o 2: Um Novo ComeÃ§o DUB 2000		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/CRCDRG2.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/lYaJlX9.jpg" group-title="Trilogias e Series" pltv-subgroup="CoraÃ§Ã£o de DragÃ£o",CoraÃ§Ã£o de DragÃ£o 3: A MaldiÃ§Ã£o do Feiticeiro DUB 2015		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/CRCDRG3.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/7rxxFHK.jpg" group-title="Trilogias e Series" pltv-subgroup="CoraÃ§Ã£o de DragÃ£o",CoraÃ§Ã£o de DragÃ£o 4: A Batalha Pelo CoraÃ§Ã£o de Fogo DUB 2017		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/CRCDRG4.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/EOTeuoY.jpg" group-title="Trilogias e Series" pltv-subgroup="De Volta Para O Futuro",De Volta Para O Futuro DUB (1985)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/DVLTPROFUT1.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/TlyI97H.jpg" group-title="Trilogias e Series" pltv-subgroup="De Volta Para O Futuro",De Volta Para o Futuro II DUB (1989)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/DVLTPROFUT2.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/pEKmm6D.jpg" group-title="Trilogias e Series" pltv-subgroup="De Volta Para O Futuro",De Volta para o Futuro III DUB (1990)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/DVLTPROFUT3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/SRCu4he.jpg" group-title="Trilogias e Series" pltv-subgroup="Harry Potter",Harry Potter e a Pedra Filosofal DUB (2001)	
+https://dropapk.com/vidembed-7mtrkfrhku2p.mp4?CiscoOliveira
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kzQKsy9.jpg" group-title="Trilogias e Series" pltv-subgroup="Harry Potter",Harry Potter e a CÃ¢mara Secreta DUB (2002)	
+https://dropapk.com/vidembed-72ml4ypgma0c.mp4?CiscoOliveira
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zDcg66F.jpg" group-title="Trilogias e Series" pltv-subgroup="Harry Potter",Harry Potter e o Prisioneiro de Azkaban DUB (2004)		
+https://dropapk.com/vidembed-5z0q35yuvarj.mp4?CiscoOliveira
+
+#EXTINF:-1 tvg-logo="https://imgur.com/wje5urR.jpg" group-title="Trilogias e Series" pltv-subgroup="Harry Potter",Harry Potter e o CÃ¡lice de Fogo DUB (2005)	
+https://dropapk.com/vidembed-gdrtjj43rudr.mp4?CiscoOliveira
+
+#EXTINF:-1 tvg-logo="https://imgur.com/XaFwvJt.jpg" group-title="Trilogias e Series" pltv-subgroup="Harry Potter",Harry Potter e a Ordem da FÃªnix DUB (2007)		
+https://dropapk.com/vidembed-nd3yrbcwoous.mp4?CiscoOliveira
+
+#EXTINF:-1 tvg-logo="https://imgur.com/7YdAJq4.jpg" group-title="Trilogias e Series" pltv-subgroup="Harry Potter",Harry Potter e o Enigma do PrÃ­ncipe DUB (2009)		
+https://dropapk.com/vidembed-xyc3h6ayui5p.mp4?CiscoOliveira
+
+#EXTINF:-1 tvg-logo="https://imgur.com/voMfRUC.jpg" group-title="Trilogias e Series" pltv-subgroup="Harry Potter",Harry Potter e as RelÃ­quias da Morte - Parte 1 DUB (2010)		
+https://dropapk.com/vidembed-dqt6ddwlimfw.mp4?CiscoOliveira
+
+#EXTINF:-1 tvg-logo="https://imgur.com/aDt3V0S.jpg" group-title="Trilogias e Series" pltv-subgroup="Harry Potter",Harry Potter e as RelÃ­quias da Morte - Parte 2 DUB (2011)		
+https://dropapk.com/vidembed-jcwmzuul0sra.mp4?CiscoOliveira
+
+#EXTINF:-1 tvg-logo="https://imgur.com/tVJoIPx.jpg" group-title="Trilogias e Series" pltv-subgroup="Homem-Aranha",Homem-Aranha DUB (2002)		
+https://dropapk.com/vidembed-603bfd0zl697.mp4?CiscoOliveira
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5AhsBe8.jpg" group-title="Trilogias e Series" pltv-subgroup="Homem-Aranha",Homem-Aranha 2 DUB (2004)		
+https://dropapk.com/vidembed-mjvscs26jwhc.mp4?CiscoOliveira
+
+#EXTINF:-1 tvg-logo="https://imgur.com/nUVXoDp.jpg" group-title="Trilogias e Series" pltv-subgroup="Homem-Aranha",Homem-Aranha 3 DUB (2007)		
+https://dropapk.com/vidembed-zcvth84h46u0.mp4?CiscoOliveira
+
+#EXTINF:-1 tvg-logo="https://imgur.com/uLnyesa.jpg" group-title="Trilogias e Series" pltv-subgroup="Homem de Ferro",Homem de Ferro DUB (2008)		
+https://dropapk.com/vidembed-ed9wdotvixcn.mp4?CiscoOliveira
+
+#EXTINF:-1 tvg-logo="https://imgur.com/UVSdYwY.jpg" group-title="Trilogias e Series" pltv-subgroup="Homem de Ferro",Homem de Ferro 2 DUB (2010)		
+https://dropapk.com/vidembed-kno768tu0vqe.mp4?CiscoOliveira
+
+#EXTINF:-1 tvg-logo="https://imgur.com/D2oB2VP.jpg" group-title="Trilogias e Series" pltv-subgroup="Homem de Ferro",Homem de Ferro 3 DUB (2013)		
+https://dropapk.com/vidembed-x7njyhqjze3h.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/pblbN9M.jpg" group-title="Trilogias e Series" pltv-subgroup="Jornada nas Estrelas",Jornada nas Estrelas: O Filme DUB 1980		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//JORNDMSESTRLS01.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/yZ4w82b.jpg" group-title="Trilogias e Series" pltv-subgroup="Jornada nas Estrelas",Jornada nas Estrelas II: A Ira de Khan DUB 1982		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//JORNDMSESTRLS02.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/roZTv6J.jpg" group-title="Trilogias e Series" pltv-subgroup="Jornada nas Estrelas",Jornada nas Estrelas III: Ã€ Procura de Spock DUB 1984		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//STRTRK03.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/FaYVC5h.jpg" group-title="Trilogias e Series" pltv-subgroup="Jornada nas Estrelas",Jornada nas Estrelas IV: A Volta para Casa DUB 1987		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//STRTRK04.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/pGmvOqJ.jpg" group-title="Trilogias e Series" pltv-subgroup="Jornada nas Estrelas",Jornada nas Estrelas V: A Fronteira Final DUB 1989		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//STRTRK05.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/0MoeU9x.jpg" group-title="Trilogias e Series" pltv-subgroup="Jornada nas Estrelas",Jornada nas Estrelas VI: A Terra Desconhecida DUB 1991		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//STRTRK06.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/fVm8NPt.jpg" group-title="Trilogias e Series" pltv-subgroup="Jornada nas Estrelas",Jornada nas Estrelas: Generations DUB 1994		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//STRTRK07.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/7oTxShp.jpg" group-title="Trilogias e Series" pltv-subgroup="Jornada nas Estrelas",Jornada nas Estrelas: Primeiro Contato DUB 1997		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//JORNDMSESTRLS08.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/Vtv1yfq.jpg" group-title="Trilogias e Series" pltv-subgroup="Jornada nas Estrelas",Jornada nas Estrelas: InsurreiÃ§Ã£o DUB 1998		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//JRNDNESTRLINSRC.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/zjtQEmK.jpg" group-title="Trilogias e Series" pltv-subgroup="Jornada nas Estrelas",Jornada nas Estrelas: Nemesis DUB 2002		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//STRTRK10.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/dAe5iCF.jpg" group-title="Trilogias e Series" pltv-subgroup="Jornada nas Estrelas",Star Trek DUB 2009		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//STRTRK11.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/7OJIm5M.jpg" group-title="Trilogias e Series" pltv-subgroup="Jornada nas Estrelas",AlÃ©m da EscuridÃ£o: Star Trek DUB 2013		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//JORNDMSESTRLS12.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/6KcFnWI.jpg" group-title="Trilogias e Series" pltv-subgroup="Jornada nas Estrelas",Star Trek: Sem Fronteiras DUB 2016		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//STRTRK13.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/bxSxztj.jpg" group-title="Trilogias e Series" pltv-subgroup="O Hobbit",O Hobbit - Uma Jornada Inesperada DUB (2012)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/OHBTUJRNINSPRD.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/7PMGa4j.jpg" group-title="Trilogias e Series" pltv-subgroup="O Hobbit",O Hobbit - A DesolaÃ§Ã£o de Smaug DUB (2013)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/OHBTADSLCDSMG.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/T46Qy90.jpg" group-title="Trilogias e Series" pltv-subgroup="O Hobbit",O Hobbit - A Batalha dos Cinco ExÃ©rcitos DUB (2014)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/OHBTABTLHDSCNCEXRCTS.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/Md9Sq3T.jpg" group-title="Trilogias e Series" pltv-subgroup="Piratas do Caribe",Piratas do Caribe: A MaldiÃ§Ã£o do PÃ©rola Negra DUB (2003)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/PRTSDCRB01.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/ijO4LrF.jpg" group-title="Trilogias e Series" pltv-subgroup="Piratas do Caribe",Piratas do Caribe: O BaÃº Da Morte DUB (2006)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/PRTSDCRB02.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/3OohuZb.jpg" group-title="Trilogias e Series" pltv-subgroup="Piratas do Caribe",Piratas do Caribe: No Fim do Mundo DUB (2007)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/PRTSDCRB03.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/S9NYJfX.jpg" group-title="Trilogias e Series" pltv-subgroup="Piratas do Caribe",Piratas do Caribe: Navegando Em Ãguas Misteriosas DUB (2011)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/PRTSDCRB04.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/m8KOWwG.jpg" group-title="Trilogias e Series" pltv-subgroup="Piratas do Caribe",Piratas do Caribe - A VinganÃ§a de Salazar DUB (2017)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//PRTSDCRB05.mp4		
+		
+#EXTINF:-1 tvg-logo="https://imgur.com/4cFiCIx.jpg" group-title="Trilogias e Series" pltv-subgroup="Senhor dos AnÃ©is",Senhor dos AnÃ©is â€“ A Sociedade do Anel DUB (2002)		
+https://dropapk.com/vidembed-4v932ffk1zsz.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VFsqplC.jpg" group-title="Trilogias e Series" pltv-subgroup="Senhor dos AnÃ©is",Senhor dos AnÃ©is â€“ As Duas Torres DUB (2002)		
+https://dropapk.com/vidembed-9vdbh5axcp2p.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/XZS4GAS.jpg" group-title="Trilogias e Series" pltv-subgroup="Senhor dos AnÃ©is",Senhor dos AnÃ©is â€“ O Retorno do Rei DUB (2003)		
+https://dropapk.com/vidembed-winqepbxlef7.mp4	
+
+EXTINF:-1 tvg-logo="https://imgur.com/KXYlgAR.jpg" group-title="Trilogias e Series" pltv-subgroup="Sharknado",Sharknado DUB 2013		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/SHRKND1.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/eXNTcqF.jpg" group-title="Trilogias e Series" pltv-subgroup="Sharknado",Sharknado 2: A Segunda Onda DUB 2014		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/SHRKND2.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/hpOEd7p.jpg" group-title="Trilogias e Series" pltv-subgroup="Sharknado",Sharknado 3: Oh, NÃ£o! DUB 2015		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/SHRKND3.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/KWslMAX.jpg" group-title="Trilogias e Series" pltv-subgroup="Sharknado",Sharknado 4: Corra Para o Quarto DUB 2016		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/SHRKND4.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/N6Wbftb.jpg" group-title="Trilogias e Series" pltv-subgroup="Sharknado",Sharknado 5: Voracidade Global DUB 2017		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/SHRKND5.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/Crq8mbg.jpg" group-title="Trilogias e Series" pltv-subgroup="Star Wars",Star Wars: EpisÃ³dio I â€“ A AmeaÃ§a Fantasma DUB (1999)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/STRWRSI.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/IVfIKYR.jpg" group-title="Trilogias e Series" pltv-subgroup="Star Wars",Star Wars: EpisÃ³dio II â€“ Ataque dos Clones DUB (2002)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/STRWRSII.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/7N7e2Uu.jpg" group-title="Trilogias e Series" pltv-subgroup="Star Wars",Star Wars: EpisÃ³dio III â€“ A VinganÃ§a dos Sith DUB (2005) 		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/STRWRSIII.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/97tBnRa.jpg" group-title="Trilogias e Series" pltv-subgroup="Star Wars",Star Wars: EpisÃ³dio IV â€“ Uma Nova EsperanÃ§a DUB (1977)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/STRWRSIV.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/X3HgfwM.jpg" group-title="Trilogias e Series" pltv-subgroup="Star Wars",Star Wars: EpisÃ³dio V â€“ O ImpÃ©rio Contra-Ataca DUB (1980)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/STRWRSV.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/COOItTc.jpg" group-title="Trilogias e Series" pltv-subgroup="Star Wars",Star Wars: EpisÃ³dio VI â€“ O Retorno de Jedi DUB (1983)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/STRWRSVI.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/PJvGHWp.jpg" group-title="Trilogias e Series" pltv-subgroup="Star Wars",Star Wars: EpisÃ³dio VII â€“ O Despertar da ForÃ§a DUB (2015)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/STRWRSVII.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/x5ysKPp.jpg" group-title="Trilogias e Series" pltv-subgroup="Star Wars",Rogue One â€“ Uma HistÃ³ria Star Wars DUB (2016)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//RGONUHSTRWRS.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/TJJyYLb.jpg" group-title="Trilogias e Series" pltv-subgroup="Star Wars",Star Wars - Os Ãšltimos Jedi DUB (2017)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/STRWRSOSULTMSJD.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/rhjp1QG.jpg" group-title="Trilogias e Series" pltv-subgroup="Thor",Thor DUB (2011)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/THOR.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/LJ2OQGg.jpg" group-title="Trilogias e Series" pltv-subgroup="Thor",Thor: O Mundo Sombrio DUB (2013)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/THOROMNDSBR.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/lcl6lSk.jpg.jpg" group-title="Trilogias e Series" pltv-subgroup="Thor",Thor Ragnarok DUB (2017)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/THORAGORK.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/xoAokZF.jpg" group-title="Trilogias e Series" pltv-subgroup="Todo Mundo em PÃ¢nico",Todo Mundo em PÃ¢nico DUB (2000)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/TDMNDEMPNC1.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/zcIB15k.jpg" group-title="Trilogias e Series" pltv-subgroup="Todo Mundo em PÃ¢nico",Todo Mundo em PÃ¢nico 2 DUB (2001)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/TDMNDEMPNC2.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/ULnrOrX.jpg" group-title="Trilogias e Series" pltv-subgroup="Todo Mundo em PÃ¢nico",Todo Mundo em PÃ¢nico 3 DUB (2003)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/TDMNDEMPNC3.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/fbZd6SZ.jpg" group-title="Trilogias e Series" pltv-subgroup="Todo Mundo em PÃ¢nico",Todo Mundo em PÃ¢nico 4 DUB (2006)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/TDMNDEMPNC4.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/ZyNSch1.jpg" group-title="Trilogias e Series" pltv-subgroup="Todo Mundo em PÃ¢nico",Todo Mundo em PÃ¢nico 5 DUB (2013)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/TDMNDEMPNC5.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/H801VvI.jpg" group-title="Trilogias e Series" pltv-subgroup="Transformers",Transformers DUB (2007)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/TNSFRMRS01.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/v1PJIm1.jpg" group-title="Trilogias e Series" pltv-subgroup="Transformers",Transformers: A VinganÃ§a dos Derrotados DUB (2009)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/TNSFRMRS02.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/79hRCc2.jpg" group-title="Trilogias e Series" pltv-subgroup="Transformers",Transformers: O Lado Oculto da Lua DUB (2011)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/TNSFRMRS03.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/XLfefzm.jpg" group-title="Trilogias e Series" pltv-subgroup="Transformers",Transformers: A Era da ExtinÃ§Ã£o DUB (2014)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer1/ondemand/TNSFRMRS04.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/7SfE6iw.jpg" group-title="Trilogias e Series" pltv-subgroup="Transformers",Transformers: O Ãšltimo Cavaleiro DUB (2017)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/TNSFRMRS05.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/dl8jMU5.jpg" group-title="Trilogias e Series" pltv-subgroup="X-Men",X-Men: O Filme DUB (2000)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//XMEN01.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/HLMR658.jpg" group-title="Trilogias e Series" pltv-subgroup="X-Men",X-Men 2 DUB (2003)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//XMEN02.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/O5iRyAc.jpg" group-title="Trilogias e Series" pltv-subgroup="X-Men",X-Men: O Confronto Final DUB (2006)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//XMEN03.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/5PyaLYM.jpg" group-title="Trilogias e Series" pltv-subgroup="X-Men",X-Men Origens: Wolverine DUB (2009)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//XMEN04.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/TMCD0Ks.jpg" group-title="Trilogias e Series" pltv-subgroup="X-Men",X-Men: Primeira Classe DUB (2011)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//XMEN05.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/WEHsLGM.jpg" group-title="Trilogias e Series" pltv-subgroup="X-Men",Wolverine: Imortal DUB (2013)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//XMEN06.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/BopdVHu.jpg" group-title="Trilogias e Series" pltv-subgroup="X-Men",X-Men â€“ Dias de Um Futuro Esquecido DUB (2014)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//XMEN07.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/2ySZ0V3.jpg" group-title="Trilogias e Series" pltv-subgroup="X-Men",X-Men: Apocalipse DUB (2016)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer3/ondemand//XMENAPCLPSE.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/0MMHlQP.jpg" group-title="Trilogias e Series" pltv-subgroup="X-Men",Logan DUB (2017)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/LOGN.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/4XOaEtA.jpg" group-title="Diversos" pltv-subgroup="Diversos",GuardiÃµes da GalÃ¡xia DUB (2014)		
+https://sv1v.mania.gg/RedeCanais/RedeCanais/RCFServer2/ondemand/GRDOESDGLXIA.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/VYC6bOn.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Doentes de Amor DUB (2017)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/DOENTSDAMR.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/97u7ZP4.jpg" group-title="LanÃ§amentos 2018" pltv-subgroup="LanÃ§amentos 2018",Mudo DUB (2018)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/MUDO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/ZuXtDYh.jpg" group-title="Diversos" pltv-subgroup="Diversos",Donnie Darko DUB (2003)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/DONNIEDARKODUB-ALTO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/a0TkTuk.jpg" group-title="Legendados" pltv-subgroup="Legendados",Looking Glass LEG (2018)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/LOOKINGGLASSLEG-ALTO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/CGWZCJ3.jpg" group-title="Legendados" pltv-subgroup="Legendados",My Friend Dahmer LEG (2017)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/MYFRIENDDAHMERLEG-ALTO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/HsIJzV7.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",ExtraordinÃ¡rio DUB (2017)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/EXTRORDNR.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/dm2fSYZ.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Your Name DUB (2017)		
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/YOURNAMEDUB-ALTO.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/7xKo7Fe.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Hacker â€“ Todo Crime Tem Um InÃ­cio DUB (2017)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/HKRTDCRMTMUINC.mp4		
+		
+EXTINF:-1 tvg-logo="https://imgur.com/4xgm6tK.jpg" group-title="Legendados" pltv-subgroup="Legendados",ExtraordinÃ¡rio LEG (2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/WONDERR2018-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/aKxSwSv.jpg" group-title="Diversos" pltv-subgroup="Diversos",Matilda DUB (1996)
+https://dropapk.com/vidembed-sxn3hjll2a4o.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/0TCnzk8.jpg" group-title="AnimaÃ§Ã£o" pltv-subgroup="AnimaÃ§Ã£o",Pica-Pau: O Filme DUB 2017
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/PICPAU.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/VrHSJHP.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Assassinato no Expresso do Oriente DUB (2017)		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/ASSNTNEXPRSDORNT.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/uDlzNK8.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",The Post -A Guerra Secreta DUB (2018)
+https://dropapk.com/vidembed-29yq99q8eop6.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/kc23pYf.jpg" group-title="Legendados" pltv-subgroup="Legendados",American Satan LEG (2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/AMERICANSATAN2017LEG-ALTO.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/SIqaJjF.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Liga da JustiÃ§a DUB 2017
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/LGDJSTC.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/3iCX5DD.jpg" group-title="LanÃ§amentos 2018" pltv-subgroup="LanÃ§amentos 2018",O Paradoxo Cloverfield DUB 2018
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/CLVRFLDAPRTCDS.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/6QhgKU7.jpg" group-title="Legendados" pltv-subgroup="Legendados",Liga da JustiÃ§a LEG (2017)
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/LGDJSTCLEG.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/YGZqZ9F.jpg" group-title="LanÃ§amentos 2018" pltv-subgroup="LanÃ§amentos 2018",Scooby-Doo & Batman: Os Bravos e Destemidos DUB		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/SCBYDOEBTMNOSBVSEDSTMDS.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/zq4tAng.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",A Torre Negra DUB 2017
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/ATRENGR.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/6CATztA.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Planeta dos Macacos: A Guerra DUB 2017
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/PLNTDSMCMCSAGRRA.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/87LUP4O.jpg" group-title="Diversos" pltv-subgroup="Diversos",Fragmentado DUB 2016
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/FRGMTDO.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/ZzooB8E.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",O EspaÃ§o Entre NÃ³s DUB 2017
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/OESPCENTNS.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/l3hIThg.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Vida DUB 2017
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/VIDA.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/YeaG1kx.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",T2 Trainspotting DUB 2017
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/SMLMTS2.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/057m5Be.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Corra! DUB 2017
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/CORRA.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/rwzCCLt.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",John Wick - Um Novo Dia para Matar DUB 2017		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/JHNWCKUMNVDIAPRMTR.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/Gm4nA0d.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",A Vigilante do AmanhÃ£: Ghost in the Shell DUB 2017		
+https://sv2v.mania.gg/RedeCanais/RedeCanais/RCFServer4/ondemand/AVGLNTDAMNH.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/n3Ss15G.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",A Cabana DUB 2017		
+https://dropapk.com/vidembed-d7huepsy6byh.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/zz6INK7.jpg" group-title="Nacional" pltv-subgroup="Nacional",O Vendedor de Sonhos (Nacional) 2017		
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KKlu0nH.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Rei Arthur - A Lenda da Espada DUB 2017		
+https://dropapk.com/vidembed-kwi8brfxvjlh.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/a3TvJzr.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Velozes e Furiosos 8 DUB 2017		
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/cgmZvsT.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Baywatch: S.O.S. Malibu DUB 2017
+https://dropapk.com/vidembed-n5h8gitph05y.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8SHrKyo.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Z - A Cidade Perdida DUB 2017
+https://dropapk.com/vidembed-e4q3tj4lh54l.mp4
+
+EXTINF:-1 tvg-logo="https://imgur.com/2BQMyCa.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",O CÃ­rculo DUB 2017
+https://dropapk.com/vidembed-qwfh3wwuhzix.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/tWnsrGF.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",A MÃºmia DUB 2017
+https://dropapk.com/vidembed-y5hjdcrk2un2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/y6ZnGU5.jpg" group-title="LanÃ§amentos 2017" pltv-subgroup="LanÃ§amentos 2017",Fome de Poder DUB (2017)
+https://dropapk.com/vidembed-jc1ct8ny8oiu.mp4
