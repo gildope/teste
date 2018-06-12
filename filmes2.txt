@@ -1,4 +1,10 @@
 <item>
+<title>O Retorno de John Henry</title>
+<link>https://lh3.googleusercontent.com/PNU0zIA1dFwSWxLLRKf1N2nF4QHVcK3vHy6txUSAv9VGqiP92SSa9D5iE3eUwNvXzYYOMOvp-27hmtrRFR0Eo-ax6-wtGpaZYYJXqNWct4pFWOgSYMQDwGEQCHXSxmWMAUjhXajtwA=m18</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTc1MTkxNzc5OF5BMl5BanBnXkFtZTgwMDczNTQ3NzE@._V1_UY268_CR1,0,182,268_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>The Machinist (2004)</title>
 <link>https://lh3.googleusercontent.com/5_3T14jTvoP-lONm5nhj0btcV6lrwJzzOgRUBdL61LpxCOidy8scutYuTkyDm8ROY5TjCX0PpAiu8VCOx9t1TPhOCvkS7D6p7pEYfDGtNnBO0q1fsYqgHwSNfq6c4fBJofFMiDJFXA=m18</link>
 <thumbnail>https://resizing.flixster.com/lPzDwf9Uvo6l7E9vqTUrA2dpsX4=/206x305/v1.bTsxMTM3MjM0MztqOzE3NzI2OzEyMDA7OTAwOzEyMDA</thumbnail>
