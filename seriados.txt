@@ -135,6 +135,12 @@
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/Dawson's%20Creek</externallink>
 </channel>
 
+<channel>
+<name>TESTE</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjhjNzBiNGMtZGI0ZC00NjEyLTgxM2EtYzU3OWYwOTdhOTE3XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/DAWNSON1</externallink>
+</channel>
+
 
 </channels>
 
