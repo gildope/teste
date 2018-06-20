@@ -25,6 +25,24 @@
 
 <item>
 <title>Slasher Episódio 5</title>
-<link>https://lh3.googleusercontent.com/vlFzZMuznGiCLxgUnXCIYEIUa-s9CoXbxAjDeDq7vI53VMIPfMbhWVg2AHrP2NQ-3nCbwuU3sdu196ltcsb-v9eK-UuiIAInxg-0Dg0QWP5zX76U2Wn_ah6ipVH_lVNpzsdA7Eb9ig=m22</link>
+<link>https://lh3.googleusercontent.com/z8eLrcihHp_-i5AAQvSgNXF2hq5XY9WMhizIUsc8uYjJS8U5ZiXxfRljnf5-hF4jD7pFkWsuh9n184ldPJR7MCnzaRvE06uYVSOB6K9Xk8k5u9skKjGo-1BUXmtQMw-E7DD0I83iQw=m18</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmI0OTZjM2MtMTUyNC00MzhjLWIzMTEtZTlmZmM3NzM4MDg1XkEyXkFqcGdeQXVyMzUxMzEwODA@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>Slasher Episódio 6</title>
+<link>https://lh3.googleusercontent.com/X_N5FRKugccps8IYJDxDGTt5a7vdMQK-RU4yd6XtTFwvxyhLAnHKfGcldO-PvP71tZeERs2wYnYF0e7DfONFBfzriOrc7aAWYUrGXQHe7G_ICfl8t_WnseMM2be4GNfjAfgLqJK41g=m18</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmI0OTZjM2MtMTUyNC00MzhjLWIzMTEtZTlmZmM3NzM4MDg1XkEyXkFqcGdeQXVyMzUxMzEwODA@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>Slasher Episódio 7</title>
+<link>https://lh3.googleusercontent.com/i2l0Kp2zbTbaFmez7W2nI8SnOXVafqDLQad5ErPrS9EIxTj3GW6rLZCfTpjtXlKvswEJeyXToi0BVGdjRj80yl-Cot4rVqeqGapcv0hAlUx-AjWJMLpPQRDk8RJ-J16UWYXDtYM0hQ=m18</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmI0OTZjM2MtMTUyNC00MzhjLWIzMTEtZTlmZmM3NzM4MDg1XkEyXkFqcGdeQXVyMzUxMzEwODA@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>Slasher Episódio 8</title>
+<link>https://lh3.googleusercontent.com/dTorkSJnHIvp6bJ072sTgvdFqnUPxkasblPGOIlzg2vIpv6yNuSofsGg0PFu0lxnbxP5-RfzQSJB3XGMn3SLmYtv35VI67O1jGztU86o5bJisWUCQGx6LkJw3Bz5ix0T8nMV_BYm6A=m18</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmI0OTZjM2MtMTUyNC00MzhjLWIzMTEtZTlmZmM3NzM4MDg1XkEyXkFqcGdeQXVyMzUxMzEwODA@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
 </item>
