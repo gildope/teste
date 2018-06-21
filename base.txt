@@ -27,10 +27,10 @@
 </item>
 
 <item>
- <title>[COLOR red] [COLOR red][I][B]SERIADOS 2(LISTA GERAL)[/I][/B][/COLOR]</title>
+ <title>[COLOR blue] [COLOR blue][I][B]Lista de Filmes 3(LISTA GERAL)[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>http://www.cinedoanula.com/assets/uploads/images/w9BRGsvgWN.png</thumbnail>
-<externallink>https://gitlab.com/Slimshadycold/series/raw/master/series.m3u8</externallink>
+<externallink>http://pastebin.com/raw/qhttxYrx</externallink>
 </item>
 
 <item>
