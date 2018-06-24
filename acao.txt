@@ -18,6 +18,30 @@
 </item>
 
 <item>
+<title>Caça aos Gângsteres (Dublado) - 2013 - 1080p</title>
+<link>https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/CACAPSGANGSTRS.mp4</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTcwMjAyMTUzMl5BMl5BanBnXkFtZTcwODgxNzk1OA@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>Braddock 3: O Resgate (Dublado) - 1988 - 720p</title>
+<link>https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/BRDCK3.mp4</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTRjODU0MTUtMjBmMi00ZTBmLTk2MDYtOWQzYjg1M2FiZDJiXkEyXkFqcGdeQXVyMjY3MjUzNDk@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>Braddock 2: O Início da Missão (Dublado) - 1985 - 720p</title>
+<link>https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/BRDCK2.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/92/77/93/20224157.jpg</thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title></title>
 <link></link>
 <thumbnail></thumbnail>
