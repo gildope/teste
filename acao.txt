@@ -1,3 +1,40 @@
+
+<item>
+<title>Vingadores: Guerra Infinita (Dublado) - 2018 - 720p (Cinema)</title>
+<link>https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/VNGDRSGRAINFNTCINEMA.mp4</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>Beirute (Dublado) - 2018 - 1080p</title>
+<link>https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/BEITE.mp4</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZWU5MjMxYmMtYzY2NS00MDU1LWIwMzAtMzIwYjY5NDIxZjZkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>O Passageiro (Dublado) - 2018 - 1080p</title>
+<link>https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OPSGRO.mp4</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTc0NDg1MjI4OV5BMl5BanBnXkFtZTgwMDIwMTEwNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
 <item>
 <title>Uma Noite de Crime: Eleição - The Purge: Election Year (2016)</title>
 <link>https://lh3.googleusercontent.com/BoYmps9fg6Zk-ycOzPWNk_US_TI50cai8lrW2twZtn8LQNkra7FI-Kh8DmeYZ1bb9ZLuOe6GTkL4mg=m22</link>
