@@ -23,14 +23,7 @@
  <title>[COLOR red] [COLOR red][I][B]FILMES 2(LISTA GERAL)[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>http://3.bp.blogspot.com/-6377k0lmUEI/UOV0ATleukI/AAAAAAAAGVU/vqedzbjT4GI/s1600/LogoEuropaFilmes2.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/iSfckqGY</externallink>
-</item>
-
-<item>
- <title>[COLOR blue] [COLOR blue][I][B]Lista de Filmes 3(LISTA GERAL)[/I][/B][/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>http://www.cinedoanula.com/assets/uploads/images/w9BRGsvgWN.png</thumbnail>
-<externallink>http://pastebin.com/raw/qhttxYrx</externallink>
+<externallink>https://pastebin.com/raw/DddJZHsa</externallink>
 </item>
 
 <item>
