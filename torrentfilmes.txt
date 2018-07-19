@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <layoutype>thumbnail</layoutype>
 
-
+<item>
+<title>Olhos Famintos</title>
+<link>magnet:?xt=urn:btih:01EA27F36B78D2591C7699D1C3025E64C940F70D&dn=Jeepers.Creepers.2018.Trilogy.1080p.BRRip.x264.AC3-DUAL-NoUsEr&tr=udp%3a%2f%2ftracker.trackerfix.com%3a82%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2790%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2740%2fannounce
+magnet:?xt=urn:btih:44A3637FEACBE75731548666D6CA1B05489CD41B&dn=Curso%20Certifica%c3%a7%c3%a3o%20Linux%20LPI%20-%20N%c3%advel%201&tr=http%3a%2f%2ftracker.bj-share.info%3a2052%2f4a71a86a50bbb6fffe8e004c0d64b54a%2fannounce</link>
+<thumbnail></thumbnail>
+</item>
 
 
 <item>
