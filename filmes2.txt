@@ -1,37 +1,37 @@
 <item>
-<title>TAU (Dublado) - 2018 - 1080p</title>
-<link>https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/TAU.mp4</link>
-<thumbnail>http://www.filmesonlinex.co/wp-content/uploads/2018/06/MV5BNmYzYWNhYWQtNjg0MS00NWU5LTgyZGUtYzViNjgwY2NjY2YwXkEyXkFqcGdeQXVyNjYzMzU4OTg@._V1_UX182_CR00182268_AL_.jpg</thumbnail>
+<title>Vingadores: Guerra Infinita Dublado</title>
+<link>https://lh3.googleusercontent.com/XcLKsJTWmUqlB7Torl1Ysc_Gs_nmZkVhbZGwtiEmhSEBJstaA7wfb9eLsCgYeO6Yr4MoDagqGdw7VXJB5w=m22</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/299536movie.jpg</thumbnail>
 </item>
 
 <item>
-<title>Sob a Pele do Lobo (Dublado) - 2018 - 1080p</title>
-<link>https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/SOBAPLEDOLBO.mp4</link>
-<thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/18/02/07/17/21/3897458.jpg</thumbnail>
+<title>Uma Dobra no Tempo</title>
+<link>https://lh3.googleusercontent.com/6tXyDufmiK2ElaywM6NrdGDLr-GNcHDHMwIldOXCBlVSaFnmt82csFel2uy5ghwnmL_CJ4mL1t-E4Lbf_g=m22</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/407451movie.jpg</thumbnail>
 </item>
 
 <item>
-<title>Rampage: Destruição Total (Dublado) - 2018 - 1080p</title>
-<link>https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/RMPGEDSTRCAOTL.mp4</link>
-<thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/18/04/05/19/50/5994305.jpg</thumbnail>
+<title>A Origem dos Guardiões - Rise of the Guardians (2012)</title>
+<link>https://lh3.googleusercontent.com/eNjvK8txEe_hf1_vwg1QQn31lAJYpQ5ItzGHXHBQ0oQFU073HNJT2PiqvOtDCxF-YEquz1lvZENnN6sBYw=m22</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/81188movie.jpg</thumbnail>
 </item>
 
 <item>
-<title>Plano Quase Perfeito (Dublado) - 2018 - 1080p</title>
-<link>https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/PLNOQSEPRFTO.mp4</link>
-<thumbnail>http://br.web.img2.acsta.net/c_215_290/pictures/17/05/12/14/49/107633.jpg</thumbnail>
+<title>A Noite do Jogo - Game Night (2018)</title>
+<link>https://lh3.googleusercontent.com/z_ciQMYkAdm-PnURxvzb1AgN2WQOAqCrggBlOdeHWp-Jd9-TiAEDevbP2O8jNGhbTkAUwcuZurebCzcjfg=m22</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/445571movie.jpg</thumbnail>
 </item>
 
 <item>
-<title>Perigo Próximo (Dublado) - 2017</title>
-<link>https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/PRGOPRXMO.mp4</link>
-<thumbnail>https://ottvsimg.singularcdn.net.br/cov/uni.056942/0056942_200.jpg</thumbnail>
+<title>A Vingança Perfeita - Terminal (2018)</title>
+<link>https://lh3.googleusercontent.com/KD4snYP1uxpXKJqcKP303vOYhwX0nIK4G17wxb2jABV_SI3HdS7qZqAYoqhMjSp_mnMCnPDi3zGAWpHadA=m22</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/385332movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Jogador n° 1 - Ready Player One (2018)</title>
+<link>https://lh3.googleusercontent.com/JlVZlwtvJg3cKYmAvt4ePWnVlwHUOzBXaBwdFJ8n19W6Rf2rYgk22AD6ZI98SNCj6h6v_UGEnZ-ChA3AMt0=m22</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/333339movie.jpg</thumbnail>
 </item>
 
 <item>
