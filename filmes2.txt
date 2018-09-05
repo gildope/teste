@@ -35,57 +35,57 @@
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Rampage: Destruição Total (2018)</title>
+<link>https://lh3.googleusercontent.com/SOqJ-lO597ggDXnitX4ziG42iQEDuBIxSMGSXHJ25rnVxOvivEB_yCFtRMeAZ0OrIAT-uMQnz2kXn0DPvg=m22</link>
+<thumbnail>http://www.anulacine.com/imdb/posters/427641movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Um Lugar Silencioso - A Quiet Place (2018)</title>
+<link>https://lh3.googleusercontent.com/5E1WHzBSeJlGma9vAQXIAdDw4rsQSkudu2bKJryPVwdGJpYC4TwWOl51jsIF4j3E-KoVcTTgkFkydzfEkw=m22</link>
+<thumbnail>http://www.anulacine.com/imdb/posters/447332movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Círculo de Fogo: A Revolta - Pacific Rim: Uprising (2018)</title>
+<link>https://lh3.googleusercontent.com/EWAOR4rzz0cxcCOTEP7nRRiR91nAJhq1Fnucvz6Rf698BoksDI_XOwX6lkK8id1hKEs3gTg9cC59n49NnQ=m22</link>
+<thumbnail>http://www.anulacine.com/imdb/posters/268896movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Covil de Ladrões - Den Of Thieves (2018)</title>
+<link>https://lh3.googleusercontent.com/UqmBuOA2S_9O_U5FUdisz3d7nNIc-LXg5aUc9kfr9bRDwRYU0zqbrajNWeVEcUVNWmNti-GAU6YhcwXi2A=m22</link>
+<thumbnail>http://www.anulacine.com/imdb/posters/449443movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Os Farofeiros (2018)</title>
+<link>https://lh3.googleusercontent.com/iAd8LAnCEKpe6zoqmG4B04UiCev5HDIlyUopnEhxPhMlQdkOW3YUREUH6iYpvh2j5L8y1TsW_PPGN0m6zw=m22</link>
+<thumbnail>http://www.anulacine.com/imdb/posters/494493movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Tomb Raider: A Origem (2018)</title>
+<link>https://lh3.googleusercontent.com/UbNjypj8v4WvtPz2vQR5lUdCv7-S_hIeihCB7BoFtJO7s-zFVamzNwGcG2xuDPv04S5X-2SdVkX6NJaCIw=m22</link>
+<thumbnail>http://www.anulacine.com/imdb/posters/338970movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Trama Fantasma - Phantom Thread (2017)</title>
+<link>https://lh3.googleusercontent.com/UFa2CGgCSrHI79KZje61yUGDvgr7LVMUxJ_N01hHokuVTxg5EaZBDs94nl0pVPfDUjFphsUlOwL312Sqrg=m22</link>
+<thumbnail>http://www.anulacine.com/imdb/posters/400617movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>A Maldição da Casa Winchester (2018)</title>
+<link>https://lh3.googleusercontent.com/sKSO2KwUvSVGngaodGdcRKhUzaxOGj6ksqZ59ZKVXTb8Nd5BnYwD3zYKWkEcXcKuoxotEuT9rNrT6IXJhQ=m22</link>
+<thumbnail>http://www.anulacine.com/imdb/posters/416234movie.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Atos de Violência - Acts of Violence (2018)</title>
+<link>https://lh3.googleusercontent.com/SvBXeWX_Alako8jhGrcEe1n8Dyt8TAAnQ_Dpor8K-T73en31xzjndbn5OOn1e_SqsGotAU_3rbYYkk2_oA=m22</link>
+<thumbnail>http://www.anulacine.com/imdb/posters/479040movie.jpg</thumbnail>
 </item>
 
 <item>
