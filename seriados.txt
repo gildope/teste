@@ -136,9 +136,9 @@
 </channel>
 
 <channel>
-<name>TESTE</name>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNjhjNzBiNGMtZGI0ZC00NjEyLTgxM2EtYzU3OWYwOTdhOTE3XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/DAWNSON1</externallink>
+<name>Antologia do Medo</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTY4NzE5NjU1OF5BMl5BanBnXkFtZTcwMzU5MDEwNQ@@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/Ant_medo.txt</externallink>
 </channel>
 
 
