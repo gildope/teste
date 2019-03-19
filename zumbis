@@ -4,3 +4,24 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",REC
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/13LtO5h0ySE3TbfL1KX2XCVj_YP99WDgz/view
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",A NOITE DOS MORTOS VIVOS
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/18_yk2C7KODEvQQgmNpUinRihIBqNyvWI
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",A NOITE DOS MORTOS REANIMAÇÃO 2011
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1biyQbL8XfCcc4V4Ol7pkcsRHJYHCLuxP
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",AO CAIR DA NOITE
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/13OErTh-MmztEx8xLkk_-9FxKSL-YP93u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",DIA DOS MORTOS 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Rjmkx4m5bBagi8CE4oCtQcL8gp1cTGfP
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",EXTERMÍNIO
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1kpWcRkq_FFnxLQdZ5repe6oMpWCQAhmC
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",EXTERMÍNIO 2
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1MqlvrJoqacOm_AlhdNxKfuSlDgILrzha
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",FILME B: ENTRE MORTOS E VIVOS
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1BlUpEhAGdZeP4M9UvKA7SpevzqHmIGLw
