@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/150/21015042_20130624230921516.jpg" group-title="GDRIVE",ILHA DOS MORTOS
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1wO---C5OoEPTXe18Lb6ELKLI33nO4ooc/view
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",REC
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/13LtO5h0ySE3TbfL1KX2XCVj_YP99WDgz/view
