@@ -5,6 +5,12 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",REC
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/13LtO5h0ySE3TbfL1KX2XCVj_YP99WDgz/view
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",REC2
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1IE-PAtw8hG5h-cUI8qKdStgA7WP_Ha4y/view
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",REC3
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1lCLt8QBGtH0yehZQx72AUSiQYKH3WsKO/view
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",A NOITE DOS MORTOS VIVOS
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/18_yk2C7KODEvQQgmNpUinRihIBqNyvWI
 
