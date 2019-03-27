@@ -4,17 +4,17 @@
 <channels>
 
 <channel>
-<name>TWD 9 Temporada</name>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/The_Walking_Dead_Temporada_9_Poster.jpg/230px-The_Walking_Dead_Temporada_9_Poster.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/twd9.txt</externallink>
-</channel>
-
-<channel>
-<name>TWD 9 Temporada</name>
+<name>TWD 1 Temporada</name>
 <thumbnail>https://http2.mlstatic.com/the-walking-dead-1-temporada-completa-box-3-dvds-lacrado-D_NQ_NP_998580-MLB26458519955_112017-F.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/twd_1</externallink>
 </channel>
 
+
+<channel>
+<name>TWD 9 Temporada</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/The_Walking_Dead_Temporada_9_Poster.jpg/230px-The_Walking_Dead_Temporada_9_Poster.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/twd9.txt</externallink>
+</channel>
 
 </channels>
 
