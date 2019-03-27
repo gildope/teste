@@ -1,4 +1,9 @@
 <item>
+<title>TWD 9 Temporada"</title>
+<link>https://raw.githubusercontent.com/gildope/teste/master/twd9.txt</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/The_Walking_Dead_Temporada_9_Poster.jpg/230px-The_Walking_Dead_Temporada_9_Poster.jpg</thumbnail>
+</item>
+
 <title>TWD 1 Episódio 1 "Adeus, passado"</title>
 <link>https://lh3.googleusercontent.com/PvTXVqK8e4A7jtjTztbXj9CFxxmRrzrqypbzktuUi9qUeW5WHrP4IWzOtBnWLZVE8rIg3qErX20GEnOZ4xtNI_ciTgCygfSyHWx96Xv3bZt2AyBdtcfPL_JHQU53ZQTxut6Su2jTxw=m37</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/1402series.jpg</thumbnail>
