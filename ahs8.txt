@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTIzNDM1NjkwOV5BMl5BanBnXkFtZTgwNDU4ODgxNjM@._V1_UX182_CR0,0,182,268_AL_.jpg", Ep 01 O Fim
+#EXTINF:-1 tvg-logo="https://www.baixarseriesmega.org/wp-content/uploads/2019/03/american-horror-story-s08-200x300.jpg", Ep 01 O Fim
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1BX0gRHukqTqOW7B7m44Oh7gGafCgbSii/view
 
 #EXTM3U
