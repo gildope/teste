@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTIzNDM1NjkwOV5BMl5BanBnXkFtZTgwNDU4ODgxNjM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="GDRIVE",Ep 01 O Fim
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1BX0gRHukqTqOW7B7m44Oh7gGafCgbSii/view
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTIzNDM1NjkwOV5BMl5BanBnXkFtZTgwNDU4ODgxNjM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="GDRIVE",Ep 02 A Manhã Seguinte 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1WVw8_810uw47z8buUtUZqYs3jiDHkyk2/view
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTIzNDM1NjkwOV5BMl5BanBnXkFtZTgwNDU4ODgxNjM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="GDRIVE",Ep 03Fruta Probida 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1ijBPlOBEb8o74xqFIhDFeFsLF7Q4ToTn/view
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTIzNDM1NjkwOV5BMl5BanBnXkFtZTgwNDU4ODgxNjM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="GDRIVE",Ep 04 Poseria ser... Satanás?
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1qN9ByPFoEiRUQdcUO5ThiTZbok7E2GXO/view
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTIzNDM1NjkwOV5BMl5BanBnXkFtZTgwNDU4ODgxNjM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="GDRIVE",Ep 05 Menino Maravilha
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1XYjC_UTMbTMoIs0JkxoK5q3PiqDlXkgf/view
+
