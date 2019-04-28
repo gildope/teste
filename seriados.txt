@@ -3,6 +3,12 @@
 
 <channels>
 
+<channel>
+<name>THE Magicians</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81%2Bl%2BVNuYIL.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/magicians.txt</externallink>
+</channel>
+
 
 <channel>
 <name>THE PASSAGE</name>
