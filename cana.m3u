@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,1 Music Channel
-http://stream.1music.hu/stream/1music.m3u8
 
 #EXTINF:-1,TV JORNAL
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1551062450_b216000_sleng.m3u8?EDSONSOUSALIST
@@ -47,9 +45,6 @@ https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/playlist.m
 #EXTINF:-1,Maricá Tv
 https://5abdf4edae5bf.streamlock.net/maricatvstation/maricatvstation/playlist.m3u8
 
-#EXTINF:-1,Yeeah! Teen
-http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8
-
 #EXTINF:-1,Tv Ad Vila Verde
 https://5cc00ac6defaf.streamlock.net:1443/advilaverde/_definst_/advilaverde/playlist.m3u8
 
@@ -57,10 +52,19 @@ https://5cc00ac6defaf.streamlock.net:1443/advilaverde/_definst_/advilaverde/play
 http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
 
 #EXTINF:-1,TV Jornal Caruaru (SBT PE)
-https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+http://evpp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
 
-#EXTINF:-1,Globo Nordeste
-http://127.0.0.1:58118/stream/42482533/output.m3u8
+#EXTINF:-1,Yeeah! Teen
+http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8
 
 #EXTINF:-1,retro
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
+
+#EXTINF:-1,HIT MUSIC CHANEL
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+
+#EXTINF:-1,1 MUSIC
+http://stream.1music.hu/stream/1music.m3u8
+
+#EXTINF:-1,XITE
+http://highvolume03.streampartner.nl/vleugels_hd4/livestream/playlist.m3u8
