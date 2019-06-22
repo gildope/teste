@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2013/05/Exit-Humanity-2011-5.jpg" group-title="GDRIVE",FIM DA HUMANIDADE
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51vL7EIokrL._SX342_.jpg" group-title="GDRIVE",FIM DA HUMANIDADE
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1vF-7kd2l8JAWOCYLXmyryIJK56yZQe1W/view
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/150/21015042_20130624230921516.jpg" group-title="GDRIVE",ILHA DOS MORTOS
