@@ -8,10 +8,10 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",REC
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/13LtO5h0ySE3TbfL1KX2XCVj_YP99WDgz/view
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",REC2
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/fDZoH0cgvLUKe-2DkRCDNpqWQNQ=/fit-in/290x478/smart/media/movies/covers/2010/08/6091b7768647466892059657d314bc79.jpg" group-title="GDRIVE",REC2
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1IE-PAtw8hG5h-cUI8qKdStgA7WP_Ha4y/view
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",REC3
+#EXTINF:-1 tvg-logo="https://wegotthiscovered.com/wp-content/uploads/rec3.jpeg" group-title="GDRIVE",REC3
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1lCLt8QBGtH0yehZQx72AUSiQYKH3WsKO/view
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",A NOITE DOS MORTOS VIVOS
