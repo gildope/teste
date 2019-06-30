@@ -27,14 +27,7 @@
 </item>
 
 <item>
- <title>[COLOR red] [COLOR brown][I][B]CINE ROOM FILMES[/I][/B][/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>http://2.bp.blogspot.com/-SievHmselTg/V5DLqbGSSqI/AAAAAAAAAXo/6d6mh4lpUHER6B_764o0Yy2f-rGVuXhKwCK4B/s1600/logox.fw.png</thumbnail>
-<externallink>http://cineroom.tk/listas/CineRoom-Filmes.m3u</externallink>
-</item>
-
-<item>
- <title>[COLOR red] [COLOR red][I][B]Canais Online[/I][/B][/COLOR]</title>
+ <title>[COLOR yellow] [COLOR yellow][I][B]Canais Online[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://www.culturamix.com/wp-content/gallery/1-260/como-foi-feita-a-pesquisa-2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/cana.m3u</externallink>
@@ -48,9 +41,9 @@
 </item>
 
 <item>
- <title>[COLOR red] [COLOR orange][I][B]Documentários[/I][/B][/COLOR]</title>
+ <title>[COLOR yellow] [COLOR yellow][I][B]Documentários[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://ikonbrazil.com.br/wp-content/uploads/2016/06/documentarios.png</thumbnail>
+<thumbnail>https://1.bp.blogspot.com/-_0r7OIqViqw/WRKg9-XKioI/AAAAAAAAL3U/SdIAVn7lOA0GkZgnRrPsWt5jNgBMH9QvgCLcB/s1600/Document%25C3%25A1rios.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/docs.txt</externallink>
 </item>
 
