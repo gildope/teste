@@ -70,3 +70,10 @@ Luiz Filmes
 <thumbnail>https://3.bp.blogspot.com/_36x37e5S95A/S9QJdc7LBgI/AAAAAAAAAVc/Pa0JAKjeAVg/s1600/zDark-Evil-45893-434559.jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/zumbis</externallink>
 </item>
+
+<item>
+ <title>[COLOR red] [COLOR yellow][I][B]Tudo HD[/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://3.bp.blogspot.com/_36x37e5S95A/S9QJdc7LBgI/AAAAAAAAAVc/Pa0JAKjeAVg/s1600/zDark-Evil-45893-434559.jpeg</thumbnail>
+<externallink>http://bit.ly/brasiltudohd</externallink>
+</item>
