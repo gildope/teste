@@ -40,6 +40,16 @@
 <externallink>http://www.lhmtv.tk/series/lhm-series.txt</externallink>
 </item>
 
+Luiz Filmes
+
+<item>
+ <title>[COLOR yellow] [COLOR yellow][I][B]Luiz Filmes[/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://static6.depositphotos.com/1014999/603/v/950/depositphotos_6030007-stock-illustration-film-and-movies-industry-icon.jpg</thumbnail>
+<externallink>http://bit.ly/LuizFilmes</externallink>
+</item>
+
+
 <item>
  <title>[COLOR yellow] [COLOR yellow][I][B]Documentários[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
