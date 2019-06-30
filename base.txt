@@ -34,9 +34,9 @@
 </item>
 
 <item>
- <title>[COLOR red] [COLOR red][I][B]Canais (LISTA GERAL)[/I][/B][/COLOR]</title>
+ <title>[COLOR red] [COLOR red][I][B]Canais Online[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://3.bp.blogspot.com/-6377k0lmUEI/UOV0ATleukI/AAAAAAAAGVU/vqedzbjT4GI/s1600/LogoEuropaFilmes2.jpg</thumbnail>
+<thumbnail>https://www.culturamix.com/wp-content/gallery/1-260/como-foi-feita-a-pesquisa-2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/cana.m3u</externallink>
 </item>
 
