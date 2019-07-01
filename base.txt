@@ -1,4 +1,4 @@
-<item>
+o<item>
 <title>[COLOR green] [COLOR green][I][B]SERIADOS[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://lh3.googleusercontent.com/_BgymwE-9mH0/TdUEfrPT0VI/AAAAAAAAEy0/1PuI8Y5fkAA/Seriados-1A2.png</thumbnail>
@@ -20,7 +20,7 @@
 </item>
 
 <item>
- <title>[COLOR red] [COLOR orange][I][B]FILMES 2(LISTA GERAL)[/I][/B][/COLOR]</title>
+ <title>[COLOR yellow] [COLOR yellow][I][B]FILMES 2(LISTA GERAL)[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>http://3.bp.blogspot.com/-6377k0lmUEI/UOV0ATleukI/AAAAAAAAGVU/vqedzbjT4GI/s1600/LogoEuropaFilmes2.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/MDyZjM5f</externallink>
@@ -34,7 +34,7 @@
 </item>
 
 <item>
- <title>[COLOR yellow] [COLOR yeelow][B]Bruno Filmes(LISTA GERAL)[/B][/COLOR]</title>
+ <title>[COLOR yellow] [COLOR yeelow][B]Bruno Filmes(LISTA GERAL)[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>http://3.bp.blogspot.com/-6377k0lmUEI/UOV0ATleukI/AAAAAAAAGVU/vqedzbjT4GI/s1600/LogoEuropaFilmes2.jpg</thumbnail>
 <externallink>http://bit.ly/lhmtvfilmesonline</externallink>
