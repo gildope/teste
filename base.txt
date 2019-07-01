@@ -34,13 +34,11 @@
 </item>
 
 <item>
- <title>[COLOR red] [COLOR red][I][B]Séries 2(LISTA GERAL)[/I][/B][/COLOR]</title>
+ <title>[COLOR yellow] [COLOR yeelow][B]Bruno Filmes(LISTA GERAL)[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>http://3.bp.blogspot.com/-6377k0lmUEI/UOV0ATleukI/AAAAAAAAGVU/vqedzbjT4GI/s1600/LogoEuropaFilmes2.jpg</thumbnail>
-<externallink>http://www.lhmtv.tk/series/lhm-series.txt</externallink>
+<externallink>http://bit.ly/lhmtvfilmesonline</externallink>
 </item>
-
-Luiz Filmes
 
 <item>
  <title>[COLOR yellow] [COLOR yellow][I][B]Luiz Filmes[/I][/B][/COLOR]</title>
