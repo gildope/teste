@@ -27,11 +27,19 @@ o<item>
 </item>
 
 <item>
- <title>[COLOR yellow] [COLOR yellow][I][B]Canais Online[/I][/B][/COLOR]</title>
+ <title>[COLOR yellow] [COLOR yellow][I][B]Lista de Canais Online[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://www.culturamix.com/wp-content/gallery/1-260/como-foi-feita-a-pesquisa-2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/cana.m3u</externallink>
 </item>
+
+<item>
+ <title>[COLOR yellow] [COLOR orange][I][B]Lista de Canais Online 2[/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.culturamix.com/wp-content/gallery/1-260/como-foi-feita-a-pesquisa-2.jpg</thumbnail>
+<externallink>http://bit.ly/LISTAPPTV</externallink>
+</item>
+
 
 <item>
  <title>[COLOR yellow] [COLOR yeelow][B]Bruno Filmes(LISTA GERAL)[/I][/B][/COLOR]</title>
