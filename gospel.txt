@@ -26,6 +26,13 @@
 
 <item>
 <title>Telecine</title>
+<utube>MoJnBjzLe4g</utube>
+<thumbnail>http://www.filmesgospel.com/images/conteudo/peq/255.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Telecine</title>
 <utube>RU3LypzvlcU</utube>
 <thumbnail>http://www.filmesgospel.com/images/conteudo/peq/255.jpg</thumbnail>
 </item>
