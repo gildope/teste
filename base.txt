@@ -85,8 +85,8 @@ o<item>
 </item>
 
 <item>
- <title>[COLOR red] [COLOR yellow][I][B]Tudo HD[/I][/B][/COLOR]</title>
+ <title>[COLOR red] [COLOR yellow][I][B]Filmes de Terror (teste)[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://3.bp.blogspot.com/_36x37e5S95A/S9QJdc7LBgI/AAAAAAAAAVc/Pa0JAKjeAVg/s1600/zDark-Evil-45893-434559.jpeg</thumbnail>
-<externallink>https://pastebin.com/raw/GA96A0AH</externallink>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/terrorgdrive</externallink>
 </item>
