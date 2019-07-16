@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ae/Jeepers_Creepers_capa.jpg/225px-Jeepers_Creepers_capa.jpg" group-title="GDRIVE",(1963) Mazzaropi - Casinha Pequenina
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1-IcMxuXI6V_DlgQSg3YIV6uT3QFv_fxs/view
