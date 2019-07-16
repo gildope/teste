@@ -90,3 +90,10 @@ o<item>
 <thumbnail>https://3.bp.blogspot.com/_36x37e5S95A/S9QJdc7LBgI/AAAAAAAAAVc/Pa0JAKjeAVg/s1600/zDark-Evil-45893-434559.jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/terrorgdrive</externallink>
 </item>
+
+<item>
+ <title>[COLOR red] [COLOR yellow][I][B]Festival Mazzaropi[/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.bastidoresdatv.com.br/wp-content/uploads/2016/09/Festival.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/mazza</externallink>
+</item>
