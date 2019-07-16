@@ -1,527 +1,515 @@
-<layouttype>thumbnail</layouttype>
-
-
-<channels>
+<item>
+<title>A Dama do Espelho: O Ritual das Trevas</title>
+<link>https://lh3.googleusercontent.com/ZawUgVEKNcmIjE_hmfz5lseeIFulFdrZ8-2PpJWHDwb-qBgQxed9qIl-QRU7zJheq-E9t3MeV1-ZOJIsRiChd0FrQNBJ_BN2unAquBP4D3KuTMLS41q7mSvg_LNewA-1hBIKVK-0HQ=m22</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzUyMzU0NjgzNl5BMl5BanBnXkFtZTgwNjc1Mzk0OTE@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
+ </item>
  
-
-<channel>
-<name>Terror Gdrive</name>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/terrorgdrive</externallink>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzUyMzU0NjgzNl5BMl5BanBnXkFtZTgwNjc1Mzk0OTE@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
-  
-<channel>
-<name>A Dama do Espelho: O Ritual das Trevas</name>
-<externallink>https://lh3.googleusercontent.com/ZawUgVEKNcmIjE_hmfz5lseeIFulFdrZ8-2PpJWHDwb-qBgQxed9qIl-QRU7zJheq-E9t3MeV1-ZOJIsRiChd0FrQNBJ_BN2unAquBP4D3KuTMLS41q7mSvg_LNewA-1hBIKVK-0HQ=m22</externallink>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzUyMzU0NjgzNl5BMl5BanBnXkFtZTgwNjc1Mzk0OTE@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
-  
-<channel>
-<name>Cherry Tree</name>
-<externallink>https://lh3.googleusercontent.com/If8kk951RnjVIS9EOPnSzK-BwqhcouBIICiH5GHIwUglVFkrxkf5oiRCd25oTIMZp871_sofkLnJJR07dN4-cgzISbJnyV_x1pPQMb9XN7FLe0Ayq46Y8zQ8X1RD6jBzCSaA5yclzw=m22</externallink>
+<item>
+<title>Cherry Tree</title>
+<link>https://lh3.googleusercontent.com/If8kk951RnjVIS9EOPnSzK-BwqhcouBIICiH5GHIwUglVFkrxkf5oiRCd25oTIMZp871_sofkLnJJR07dN4-cgzISbJnyV_x1pPQMb9XN7FLe0Ayq46Y8zQ8X1RD6jBzCSaA5yclzw=m22</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjUzNzgxNzI2OF5BMl5BanBnXkFtZTgwMzc4NjY2NzE@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>A Mansão Marsten (1979)</name>
-<externallink>https://lh3.googleusercontent.com/C51XHUHCsHsfBWuTy29riAWCQcuvQRquEgESi7CMvocl_3sCQ-2DRXsghWnMdK-ZUmmmK2NquGM-W7TtdilD6xlO7lQMEZTE_NFlVM6C5RTKHGStz4gMtFIoIi-bQT7idp343K_KcA=m22</externallink>
+<item>
+<title>A Mansão Marsten (1979)</title>
+<link>https://lh3.googleusercontent.com/C51XHUHCsHsfBWuTy29riAWCQcuvQRquEgESi7CMvocl_3sCQ-2DRXsghWnMdK-ZUmmmK2NquGM-W7TtdilD6xlO7lQMEZTE_NFlVM6C5RTKHGStz4gMtFIoIi-bQT7idp343K_KcA=m22</link>
 <thumbnail>https://muitomolho.files.wordpress.com/2014/03/salems-lot.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>Mistério da Rua 7</name>
-<externallink>https://lh3.googleusercontent.com/dI8qsppdY9YSx0F_IU7mmDKe9jjzxsQuieNKtOr7IsybGqEK_NrqEXRGWwrIdBGVv2gLLQkwhRTdQTyPXtbc6M76nANGXheYwAyFALi0YaGI_Ke7O7NIRShbm7xlGM2VG_C5LH8dag=m37</externallink>
+<item>
+<title>Mistério da Rua 7</title>
+<link>https://lh3.googleusercontent.com/dI8qsppdY9YSx0F_IU7mmDKe9jjzxsQuieNKtOr7IsybGqEK_NrqEXRGWwrIdBGVv2gLLQkwhRTdQTyPXtbc6M76nANGXheYwAyFALi0YaGI_Ke7O7NIRShbm7xlGM2VG_C5LH8dag=m37</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQxMTU4NDg5OF5BMl5BanBnXkFtZTcwMzU5OTcxNA@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>The Sublet</name>
-<externallink>https://lh3.googleusercontent.com/O8C6Lp6gaM7SSlK5UqVOb-1_XvV-2XnJmd-8syEvk7oaKqYhAXzHcGbtyQkuPmUmPsU7MPjIIv-oGA8VVX-AjTmxmkVidnVkVH8nnpIN5d6t0H8K4ow3UgocUdO0bDOqd4qrDg6A0Q=m18</externallink>
+<item>
+<title>The Sublet</title>
+<link>https://lh3.googleusercontent.com/O8C6Lp6gaM7SSlK5UqVOb-1_XvV-2XnJmd-8syEvk7oaKqYhAXzHcGbtyQkuPmUmPsU7MPjIIv-oGA8VVX-AjTmxmkVidnVkVH8nnpIN5d6t0H8K4ow3UgocUdO0bDOqd4qrDg6A0Q=m18</link>
 <thumbnail>http://www.filmesonlinehd7.cc/static/images/posters/the-sublet.jpg</thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>Anjos da Noite: Guerras de Sangue</name>
-<externallink>https://lh3.googleusercontent.com/WF3wNCY1c1PSzawf7dR2v2AC3biASfVaLLBFEXGw9xOvlM5Hsp3GbPnooP3tYgshJ1iPG6kJ83PHDg=m22</externallink>
+<item>
+<title>Anjos da Noite: Guerras de Sangue</title>
+<link>https://lh3.googleusercontent.com/WF3wNCY1c1PSzawf7dR2v2AC3biASfVaLLBFEXGw9xOvlM5Hsp3GbPnooP3tYgshJ1iPG6kJ83PHDg=m22</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/346672movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>Ainda Estamos Aqui - We Are Still Here (2015)</name>
-<externallink>https://lh3.googleusercontent.com/GGVyLrsVbx-A6HN8YBnxFfjIWS2E6UYrNWu3S3fIP3-JQE3IqCN10sROUMJkA38EEdk9jxgooHpkvg=m18</externallink>
+<item>
+<title>Ainda Estamos Aqui - We Are Still Here (2015)</title>
+<link>https://lh3.googleusercontent.com/GGVyLrsVbx-A6HN8YBnxFfjIWS2E6UYrNWu3S3fIP3-JQE3IqCN10sROUMJkA38EEdk9jxgooHpkvg=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/291272movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>Uma Noite de Crime: Eleição - Dublado)</name>
-<externallink>https://lh3.googleusercontent.com/F74AYPh7ARYRhgDPsvQ8Lpdw8ITXuLmEi_-HULh4rJvdGRGWj2kIcETet3E4T41dW3y4gHOmsj9Gxg=m22</externallink>
+<item>
+<title>Uma Noite de Crime: Eleição - Dublado)</title>
+<link>https://lh3.googleusercontent.com/F74AYPh7ARYRhgDPsvQ8Lpdw8ITXuLmEi_-HULh4rJvdGRGWj2kIcETet3E4T41dW3y4gHOmsj9Gxg=m22</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/316727movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>O Último Capítulo - I Am the Pretty Thing That Lives in the House (2016)</name>
-<externallink>https://lh3.googleusercontent.com/-gcDb9Ml1DYnzGo6eokdk31_LgktfpfQYMMARC9JWy94X0VTdfgFO7CzLwh5jm4nm1aag4R5FeicdQ=m18</externallink>
+<item>
+<title>O Último Capítulo - I Am the Pretty Thing That Lives in the House (2016)</title>
+<link>https://lh3.googleusercontent.com/-gcDb9Ml1DYnzGo6eokdk31_LgktfpfQYMMARC9JWy94X0VTdfgFO7CzLwh5jm4nm1aag4R5FeicdQ=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/407559movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>Águas Rasas - The Shallows (2016)</name>
-<externallink>https://lh3.googleusercontent.com/LtLss4QvkeY9WaBS3gID7GqcgHsHSF-bhNPq2yY7Fr80Z1cpBWSYn99PzNFOsSXx83z5e-qJ2i_DXg=m18</externallink>
+<item>
+<title>Águas Rasas - The Shallows (2016)</title>
+<link>https://lh3.googleusercontent.com/LtLss4QvkeY9WaBS3gID7GqcgHsHSF-bhNPq2yY7Fr80Z1cpBWSYn99PzNFOsSXx83z5e-qJ2i_DXg=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/332567movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>João e Maria - Caçadores de Bruxas</name>
-<externallink>https://lh3.googleusercontent.com/89l66_7DuV1uex8MKYw-3Xec10cYGbV7rJViX00BUZM=m18</externallink>
+<item>
+<title>João e Maria - Caçadores de Bruxas</title>
+<link>https://lh3.googleusercontent.com/89l66_7DuV1uex8MKYw-3Xec10cYGbV7rJViX00BUZM=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/60304movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>Sobrenatural - A Origem: Capítulo 3 - Insidious: Chapter 3 (2015)</name>
-<externallink>https://lh3.googleusercontent.com/8YC_w8TZtVudllY4Zw-PRGQrqrt6wIWBF4ANRye7pjo=m18</externallink>
+<item>
+<title>Sobrenatural - A Origem: Capítulo 3 - Insidious: Chapter 3 (2015)</title>
+<link>https://lh3.googleusercontent.com/8YC_w8TZtVudllY4Zw-PRGQrqrt6wIWBF4ANRye7pjo=m18</link>
 <thumbnail>http://image.tmdb.org/t/p/w342/9Cdiuk9neGynlz7TmhxY37t9so9.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>Sobrenatural: Capítulo 2 - Insidious: Chapter 2 (2013)</name>
-<externallink>https://lh3.googleusercontent.com/XUxTUDrRkiiTv4p_nKDzpheM_K4cYN9SwtUuk-_-EDU=m18</externallink>
+<item>
+<title>Sobrenatural: Capítulo 2 - Insidious: Chapter 2 (2013)</title>
+<link>https://lh3.googleusercontent.com/XUxTUDrRkiiTv4p_nKDzpheM_K4cYN9SwtUuk-_-EDU=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/91586movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>A Escuridão - The Darkness (2016)</name>
-<externallink>https://lh3.googleusercontent.com/2myzuYz6OO-x-LlsQTAfcrAgHODfAq8n-dB7TlIUw5baHNxz30WJqACUCFm2KZHKX6JhTwycGm0F8k0=m22</externallink>
+<item>
+<title>A Escuridão - The Darkness (2016)</title>
+<link>https://lh3.googleusercontent.com/2myzuYz6OO-x-LlsQTAfcrAgHODfAq8n-dB7TlIUw5baHNxz30WJqACUCFm2KZHKX6JhTwycGm0F8k0=m22</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/257345movie.jpg</thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>Caça-Fantasmas - Ghostbusters (2016)</name>
-<externallink>https://lh3.googleusercontent.com/S8DrBuC4py6jo5r662E-mDIE9Rd9S9j8R_tnIH9NY4X4UAEOV6Z_EZ_zxS8EjyHL2RmhDAdXOVvQCzk=m22</externallink>
+<item>
+<title>Caça-Fantasmas - Ghostbusters (2016)</title>
+<link>https://lh3.googleusercontent.com/S8DrBuC4py6jo5r662E-mDIE9Rd9S9j8R_tnIH9NY4X4UAEOV6Z_EZ_zxS8EjyHL2RmhDAdXOVvQCzk=m22</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/43074movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>A Última Premonição - Visions (2015)</name>
-<externallink>https://lh3.googleusercontent.com/_vkCmpzOxLIbtTB_wcGLEZpuHWUHahuL2eim8LBPj5qfp7u9RJvuvb-87_zNL1vs8QBPMy5h0OJSGA=m22</externallink>
+<item>
+<title>A Última Premonição - Visions (2015)</title>
+<link>https://lh3.googleusercontent.com/_vkCmpzOxLIbtTB_wcGLEZpuHWUHahuL2eim8LBPj5qfp7u9RJvuvb-87_zNL1vs8QBPMy5h0OJSGA=m22</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/353686movie.jpg</thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>Satânico - Satanic (2016)</name>
-<externallink>https://lh3.googleusercontent.com/xebkQQjnMNXwYGR22WYj9ea8ClZ76_8E1eHJd0FxQkqQT8_TGIXJ8xti3F4kLYdZVW02r3oq0DO_Sg=m18</externallink>
+<item>
+<title>Satânico - Satanic (2016)</title>
+<link>https://lh3.googleusercontent.com/xebkQQjnMNXwYGR22WYj9ea8ClZ76_8E1eHJd0FxQkqQT8_TGIXJ8xti3F4kLYdZVW02r3oq0DO_Sg=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/400411movie.jpg</thumbnail>
-</channel>  
+</item>  
 
-<channel>
-<name>O Sono da Morte - Before I Wake (2016)</name>
-<externallink>https://lh3.googleusercontent.com/S9vDMYyfFTRnZuUsi5qyrLSIe9Axr0Ffa-rGDfGgg6GUnXruUBKR77KGCGSOdrYmTtVhtokKupvpTg=m18</externallink>
+<item>
+<title>O Sono da Morte - Before I Wake (2016)</title>
+<link>https://lh3.googleusercontent.com/S9vDMYyfFTRnZuUsi5qyrLSIe9Axr0Ffa-rGDfGgg6GUnXruUBKR77KGCGSOdrYmTtVhtokKupvpTg=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/301804movie.jpg</thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>Daylight's End (2016)</name>
-<externallink>https://lh3.googleusercontent.com/txlLtMdbdlUmXiNr9dH49_A_P_32ysZJ_Li1_QbNTO9x1WDRY6jBFhSLAaDOvIljgrSjYT6_WQ=m18</externallink>
+<item>
+<title>Daylight's End (2016)</title>
+<link>https://lh3.googleusercontent.com/txlLtMdbdlUmXiNr9dH49_A_P_32ysZJ_Li1_QbNTO9x1WDRY6jBFhSLAaDOvIljgrSjYT6_WQ=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/399894movie.jpg</thumbnail>
-</channel>  
+</item>  
   
-<channel>
-<name>Constantine</name>
-<externallink>https://lh3.googleusercontent.com/e5HYmsBe5XfEQYxXW_lNSTOy_b40y_UtnASlXD7Hmlk=m18</externallink>
+<item>
+<title>Constantine</title>
+<link>https://lh3.googleusercontent.com/e5HYmsBe5XfEQYxXW_lNSTOy_b40y_UtnASlXD7Hmlk=m18</link>
 <thumbnail>http://image.tmdb.org/t/p/w342/yGMnu5JddJXl87S9wmDGPAKF75W.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>A Morte do Demônio - Evil Dead (2013)</name>
-<externallink>https://lh3.googleusercontent.com/5harCIitmElgeiPIDBLUR_CXA1xgSfdKWvOqaiUVa5NuLELFz51ulgqurkuzLLCYDi33=m18</externallink>
+<item>
+<title>A Morte do Demônio - Evil Dead (2013)</title>
+<link>https://lh3.googleusercontent.com/5harCIitmElgeiPIDBLUR_CXA1xgSfdKWvOqaiUVa5NuLELFz51ulgqurkuzLLCYDi33=m18</link>
 <thumbnail>http://cinedoanula.com/imdb/posters/109428movie.jpg</thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>Drácula A História Nunca Contada - Dracula Untold (2014)</name>
-<externallink>https://lh3.googleusercontent.com/thn625QoypBvtDzZt1wsrohrUDub8erxttWHomd2S_I=m18</externallink>
+<item>
+<title>Drácula A História Nunca Contada - Dracula Untold (2014)</title>
+<link>https://lh3.googleusercontent.com/thn625QoypBvtDzZt1wsrohrUDub8erxttWHomd2S_I=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/49017movie.jpg</thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>Holidays (2016)</name>
-<externallink>https://lh3.googleusercontent.com/fQk6Tms5PPmNqM7UISJfJ_9sp5sWNPMPko0EWTCW-4xlRhXv9fSvY5YE96t9neEPOGpEclPx1w=m18</externallink>
+<item>
+<title>Holidays (2016)</title>
+<link>https://lh3.googleusercontent.com/fQk6Tms5PPmNqM7UISJfJ_9sp5sWNPMPko0EWTCW-4xlRhXv9fSvY5YE96t9neEPOGpEclPx1w=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/323262movie.jpg</thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>Guerra Mundial Z - World War Z (2013)</name>
-<externallink>https://lh3.googleusercontent.com/HpTTQ4hgEPS0kW8RvYuaCML2I2Tr5Lj2bWbF5CzBK1k=m18</externallink>
+<item>
+<title>Guerra Mundial Z - World War Z (2013)</title>
+<link>https://lh3.googleusercontent.com/HpTTQ4hgEPS0kW8RvYuaCML2I2Tr5Lj2bWbF5CzBK1k=m18</link>
 <thumbnail>http://cinedoanula.com/imdb/posters/72190movie.jpg</thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>Canibais - The Green Inferno (2013)</name>
-<externallink>https://lh3.googleusercontent.com/xv4rPrejX2-j2qY423xx5XYZL_5phYyTU2MQKaG4tvF3Y6k7zuubycf7tBHIjVMcAiruWg=m18</externallink>
+<item>
+<title>Canibais - The Green Inferno (2013)</title>
+<link>https://lh3.googleusercontent.com/xv4rPrejX2-j2qY423xx5XYZL_5phYyTU2MQKaG4tvF3Y6k7zuubycf7tBHIjVMcAiruWg=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/171424movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>O Convite - The Invitation (2015)</name>
-<externallink>https://lh3.googleusercontent.com/Ig53p8L8j2VhiW7eTnnZZAWDEZbxwj3lSX9HIVb5mKJ8q5t76feE_x3KGxyl9osxxWz75mqx4A=m18</externallink>
+<item>
+<title>O Convite - The Invitation (2015)</title>
+<link>https://lh3.googleusercontent.com/Ig53p8L8j2VhiW7eTnnZZAWDEZbxwj3lSX9HIVb5mKJ8q5t76feE_x3KGxyl9osxxWz75mqx4A=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/306947movie.jpg</thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>Goosebumps: Monstros e Arrepios (2015)</name>
-<externallink>https://lh3.googleusercontent.com/3jEwG-wtLhbMatGQNBcxWef8QAK7h4btpx75ZUFx-FE=m18</externallink>
+<item>
+<title>Goosebumps: Monstros e Arrepios (2015)</title>
+<link>https://lh3.googleusercontent.com/3jEwG-wtLhbMatGQNBcxWef8QAK7h4btpx75ZUFx-FE=m18</link>
 <thumbnail>http://cinedoanula.com/imdb/posters/257445movie.jpg</thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>Victor Frankenstein (2015)</name>
-<externallink>https://lh3.googleusercontent.com/w-rvXjO55zwnguNcnGCtkdNiDi9WEEZLIIgs-otbMYDDQQGDYl5Dwhzgj37pFkI-hExYTQ=m18</externallink>
+<item>
+<title>Victor Frankenstein (2015)</title>
+<link>https://lh3.googleusercontent.com/w-rvXjO55zwnguNcnGCtkdNiDi9WEEZLIIgs-otbMYDDQQGDYl5Dwhzgj37pFkI-hExYTQ=m18</link>
 <thumbnail>http://cinedoanula.com/imdb/posters/228066movie.jpg</thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>A Hora do Espanto - Fright Night (2011)</name>
-<externallink>https://lh3.googleusercontent.com/9krgtf0EkRMZktz6l92vF1Xayb-tqMDiv2Nz9SS1TCI=m18</externallink>
+<item>
+<title>A Hora do Espanto - Fright Night (2011)</title>
+<link>https://lh3.googleusercontent.com/9krgtf0EkRMZktz6l92vF1Xayb-tqMDiv2Nz9SS1TCI=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/58151movie.jpg</thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>Apocalipse - Extinction (2015)</name>
-<externallink>https://lh3.googleusercontent.com/2eqR6KudEm7GQNpG_nRQANfp_nMle01cbiY8_WLZoa8=m18</externallink>
+<item>
+<title>Apocalipse - Extinction (2015)</title>
+<link>https://lh3.googleusercontent.com/2eqR6KudEm7GQNpG_nRQANfp_nMle01cbiY8_WLZoa8=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/338676movie.jpg</thumbnail>
-</channel>  
+</item>  
 
   
-<channel>
-<name>Invocação do Mal 2- Conjuring 2 (2016)</name>
-<externallink>https://lh3.googleusercontent.com/_ELNvdtY0PIS5eLY6vA7bO3egXGPSD4XFKvYCzkkvx5U3gFdagBLk8jC4BZ47XtOIOBJtEqDpHDe-g=m22</externallink>
+<item>
+<title>Invocação do Mal 2- Conjuring 2 (2016)</title>
+<link>https://lh3.googleusercontent.com/_ELNvdtY0PIS5eLY6vA7bO3egXGPSD4XFKvYCzkkvx5U3gFdagBLk8jC4BZ47XtOIOBJtEqDpHDe-g=m22</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/259693movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>Lugares Escuros - Dark Places (2015)</name>
-<externallink>https://lh3.googleusercontent.com/ArFIq6pi-2ZHntwavIsvM_lyLf_rjRsGO3wAtjjEpBM=m18</externallink>
+<item>
+<title>Lugares Escuros - Dark Places (2015)</title>
+<link>https://lh3.googleusercontent.com/ArFIq6pi-2ZHntwavIsvM_lyLf_rjRsGO3wAtjjEpBM=m18</link>
 <thumbnail>http://image.tmdb.org/t/p/w342/awTyPEeoLerEWWQ4TulEr22qCBd.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>Annabelle (2014)</name>
-<externallink>https://lh3.googleusercontent.com/5dMgeuV7lqOfzf9vg9-2erO7BSG-zBqUNah2ZA3ekR4=m18</externallink>
+<item>
+<title>Annabelle (2014)</title>
+<link>https://lh3.googleusercontent.com/5dMgeuV7lqOfzf9vg9-2erO7BSG-zBqUNah2ZA3ekR4=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/250546movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>Antes de Dormir - Before I Go to Sleep (2014)</name>
-<externallink>https://lh3.googleusercontent.com/nZiHOwEjtdryEtT7Z_WsFduxJ6XvzWWfqOxWfzR0WtU=m18</externallink>
+<item>
+<title>Antes de Dormir - Before I Go to Sleep (2014)</title>
+<link>https://lh3.googleusercontent.com/nZiHOwEjtdryEtT7Z_WsFduxJ6XvzWWfqOxWfzR0WtU=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/204922movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>Sala Verde - Green Room (2016)</name>
-<externallink>https://lh3.googleusercontent.com/fc_KyzXU0r8IvTgxYK1e4SafgwkyM0ehx9QPyaCgx9txOHUzcDO28VD-DUW6bOL7JIaoYMkxdA=m22</externallink>
+<item>
+<title>Sala Verde - Green Room (2016)</title>
+<link>https://lh3.googleusercontent.com/fc_KyzXU0r8IvTgxYK1e4SafgwkyM0ehx9QPyaCgx9txOHUzcDO28VD-DUW6bOL7JIaoYMkxdA=m22</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/313922movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>Kill Command (2016)</name>
-<externallink>https://lh3.googleusercontent.com/eTNIqeafdY7sCjbcsQ1ocyyfiYNGn2n-RE8MRwzspqBDgNcDBcdZDxjqEjgu9wWZ6oXipoMKnlg=m18</externallink>
+<item>
+<title>Kill Command (2016)</title>
+<link>https://lh3.googleusercontent.com/eTNIqeafdY7sCjbcsQ1ocyyfiYNGn2n-RE8MRwzspqBDgNcDBcdZDxjqEjgu9wWZ6oXipoMKnlg=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/384798movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>Alma Perdida - The Unborn (2009)</name>
-<externallink>https://lh3.googleusercontent.com/w-hcEgxf9G9AjRAh2L4AsHcoMZ-VJwQ_UdUOn_TSBZ0=m18</externallink>
+<item>
+<title>Alma Perdida - The Unborn (2009)</title>
+<link>https://lh3.googleusercontent.com/w-hcEgxf9G9AjRAh2L4AsHcoMZ-VJwQ_UdUOn_TSBZ0=m18</link>
 <thumbnail>http://cinedoanula.com/imdb/posters/13788movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>Exorcistas do Vaticano - The Vatican Tapes (2015)</name>
-<externallink>https://lh3.googleusercontent.com/dJuD5aAA6hTSBAnQDuNBbhw9T5Vk0rDyLLeXZWKFgKQ=m18</externallink>
+<item>
+<title>Exorcistas do Vaticano - The Vatican Tapes (2015)</title>
+<link>https://lh3.googleusercontent.com/dJuD5aAA6hTSBAnQDuNBbhw9T5Vk0rDyLLeXZWKFgKQ=m18</link>
 <thumbnail>http://cinedoanula.com/imdb/posters/157544movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>Livrai-Nos Do Mal - Deliver Us from Evil (2014)</name>
-<externallink>https://lh3.googleusercontent.com/As0I06fb6mwaAMnCO37MrF9f2o723rDVdTpFHSawhDw=m18</externallink>
+<item>
+<title>Livrai-Nos Do Mal - Deliver Us from Evil (2014)</title>
+<link>https://lh3.googleusercontent.com/As0I06fb6mwaAMnCO37MrF9f2o723rDVdTpFHSawhDw=m18</link>
 <thumbnail>http://cinedoanula.com/imdb/posters/184346movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>Amnésia - Amnesiac (2015)</name>
-<externallink>https://lh3.googleusercontent.com/28wXWF4HWHVWjrnegy5kXNJaQ-BpOJ27zALxQ173mGM=m18</externallink>
+<item>
+<title>Amnésia - Amnesiac (2015)</title>
+<link>https://lh3.googleusercontent.com/28wXWF4HWHVWjrnegy5kXNJaQ-BpOJ27zALxQ173mGM=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/351043movie.jpg</thumbnail>
-</channel>
+</item>
 
 
-<channel>
-<name>Maggie: A Transformação (2015)</name>
-<externallink>https://lh3.googleusercontent.com/KtqkHvLeOkrVxWbUWQ22Z5a2n10ktTGAhCt4X0n7Nsc=m18</externallink>
+<item>
+<title>Maggie: A Transformação (2015)</title>
+<link>https://lh3.googleusercontent.com/KtqkHvLeOkrVxWbUWQ22Z5a2n10ktTGAhCt4X0n7Nsc=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/287424movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>O Misterioso Caso de Judith Winstead(2015)</name>
-<externallink>https://lh3.googleusercontent.com/xhocupvAGkYvyfx-gMSL_Hh7z-dROl8x9Rye2J3eFYg=m18</externallink>
+<item>
+<title>O Misterioso Caso de Judith Winstead(2015)</title>
+<link>https://lh3.googleusercontent.com/xhocupvAGkYvyfx-gMSL_Hh7z-dROl8x9Rye2J3eFYg=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/299551movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>Blade - O Caçador de Vampiros (1998)</name>
-<externallink>https://lh3.googleusercontent.com/8OqHfQCjWVt8ZVYw1LBFMFfTIAxoFV2xZp5kDW7WSP0=m18</externallink>
+<item>
+<title>Blade - O Caçador de Vampiros (1998)</title>
+<link>https://lh3.googleusercontent.com/8OqHfQCjWVt8ZVYw1LBFMFfTIAxoFV2xZp5kDW7WSP0=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/36647movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>Os Garotos Perdidos - Lost Boys (1987)</name>
-<externallink>https://lh3.googleusercontent.com/AN8UuNskrMW8ui9yEq1-QSG8VSjigVD5uxXN0CQEW_g=m18</externallink>
+<item>
+<title>Os Garotos Perdidos - Lost Boys (1987)</title>
+<link>https://lh3.googleusercontent.com/AN8UuNskrMW8ui9yEq1-QSG8VSjigVD5uxXN0CQEW_g=m18</link>
 <thumbnail>http://cinedoanula.com/imdb/posters/1547movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>O Espelho - Oculus (2013)</name>
-<externallink>https://lh3.googleusercontent.com/GIErfbs7wGrzWVl4sAG1xQ5SoryvKPon5jwYr1Zab_HerV01uzO5_Dhs87TLpIRNGyZY=m18</externallink>
+<item>
+<title>O Espelho - Oculus (2013)</title>
+<link>https://lh3.googleusercontent.com/GIErfbs7wGrzWVl4sAG1xQ5SoryvKPon5jwYr1Zab_HerV01uzO5_Dhs87TLpIRNGyZY=m18</link>
 <thumbnail>http://cinedoanula.com/imdb/posters/157547movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>Renascida do Inferno (2015)</name>
-<externallink>https://lh3.googleusercontent.com/PSOB5nF5qfK7sccqDIWf4zY7eo3Q_OBEDq_pB6my1O0=m18</externallink>
+<item>
+<title>Renascida do Inferno (2015)</title>
+<link>https://lh3.googleusercontent.com/PSOB5nF5qfK7sccqDIWf4zY7eo3Q_OBEDq_pB6my1O0=m18</link>
 <thumbnail>http://image.tmdb.org/t/p/w342/dFx04Wg0oCb4jlN0c4vqu9bXHXH.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>O Sono da Morte – HD 720p Legendado</name>
-<externallink>https://lh3.googleusercontent.com/SWxpFAEWvrOkCV0OZtXbK1M_Dg4Sgf0ZeGAKQtJ80XD33gVj011AhlHqNaXItwxmgUs_pt3y1g=m18</externallink>
+<item>
+<title>O Sono da Morte – HD 720p Legendado</title>
+<link>https://lh3.googleusercontent.com/SWxpFAEWvrOkCV0OZtXbK1M_Dg4Sgf0ZeGAKQtJ80XD33gVj011AhlHqNaXItwxmgUs_pt3y1g=m18</link>
 <thumbnail>http://www.filmesonlinehd1.com/wp-content/uploads/2016/06/o-sono-da-morte-capa-hd-720p-dublado.fw_.png</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>Doce Vingança - I Spit on Your Grave (2010)</name>
-<externallink>https://lh3.googleusercontent.com/KY13ZDKbHwm8SwOg2eoeAoKB0Q3tbMwGyyDtpFllZbMsDXmTGreBXzvJEGaj75TZ8Qe6X2YzoA=m18</externallink>
+<item>
+<title>Doce Vingança - I Spit on Your Grave (2010)</title>
+<link>https://lh3.googleusercontent.com/KY13ZDKbHwm8SwOg2eoeAoKB0Q3tbMwGyyDtpFllZbMsDXmTGreBXzvJEGaj75TZ8Qe6X2YzoA=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/43947movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>Doce Vingança 2 - I Spit on Your Grave 2 (2013)</name>
-<externallink>https://lh3.googleusercontent.com/A0t95X9jkc7GKsODSIZmIY7qCvK620y35oQPEpMumgXGrKVWP3Vj4LqNHUQc456fJ6Pnu-AIMw=m18</externallink>
+<item>
+<title>Doce Vingança 2 - I Spit on Your Grave 2 (2013)</title>
+<link>https://lh3.googleusercontent.com/A0t95X9jkc7GKsODSIZmIY7qCvK620y35oQPEpMumgXGrKVWP3Vj4LqNHUQc456fJ6Pnu-AIMw=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/207768movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>Doce Vingança 3: A Vingança é Minha - I Spit on Your Grave: Vengeance is Mine (2015)</name>
-<externallink>https://lh3.googleusercontent.com/hBrIV6_zLo6ZueVMLvmu5ouV7uXZjNMTMBjk9_QRQ3DKquhFtC4bVUb4pmtrABhn3-IYJ79dCQ=m18</externallink>
+<item>
+<title>Doce Vingança 3: A Vingança é Minha - I Spit on Your Grave: Vengeance is Mine (2015)</title>
+<link>https://lh3.googleusercontent.com/hBrIV6_zLo6ZueVMLvmu5ouV7uXZjNMTMBjk9_QRQ3DKquhFtC4bVUb4pmtrABhn3-IYJ79dCQ=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/357096movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>A Colina Escarlate - Crimson Peak (2015)</name>
-<externallink>https://lh3.googleusercontent.com/VSzXB1Bl2pRAwDNDbvgyQdSCWwoSUqvg-lApVltKwas=m18</externallink>
+<item>
+<title>A Colina Escarlate - Crimson Peak (2015)</title>
+<link>https://lh3.googleusercontent.com/VSzXB1Bl2pRAwDNDbvgyQdSCWwoSUqvg-lApVltKwas=m18</link>
 <thumbnail></thumbnail>
-</channel>
-<channel>
-<name>Boneco do Mal - The Boy (2016)</name>
-<externallink>https://lh3.googleusercontent.com/G1Ccv_oQ18vk3fpfjN0yhxDGWYUh6h_PAUGAlW_ynu7pBD8XvgfeBi2vsGqcJ0Ict41_c-dYWeM=m22</externallink>
+</item>
+<item>
+<title>Boneco do Mal - The Boy (2016)</title>
+<link>https://lh3.googleusercontent.com/G1Ccv_oQ18vk3fpfjN0yhxDGWYUh6h_PAUGAlW_ynu7pBD8XvgfeBi2vsGqcJ0Ict41_c-dYWeM=m22</link>
 <thumbnail></thumbnail>
-</channel>
-<channel>
-<name>A Floresta Maldita</name>
-<externallink>https://lh3.googleusercontent.com/ZprMLH4AoP2tLyluH2JI715H4VnGMjegNadCy2fvQw6W_Zbtm2ZoSNOlwiXVDaL2ZRZ_q7pgqYI=m18</externallink>
+</item>
+<item>
+<title>A Floresta Maldita</title>
+<link>https://lh3.googleusercontent.com/ZprMLH4AoP2tLyluH2JI715H4VnGMjegNadCy2fvQw6W_Zbtm2ZoSNOlwiXVDaL2ZRZ_q7pgqYI=m18</link>
 <thumbnail>http://cinedoanula.com/imdb/posters/329440movie.jpg</thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>10 - LEGENDADO.</name>
-<externallink>https://lh3.googleusercontent.com/ld8KzAb_gS7LTDFC8i67Cb7aAMH2rAaqqyXjYBgM8YK_WIKRuNUuoPql60o09nlqG1X6_gY0UA=m18</externallink>
+<item>
+<title>10 - LEGENDADO.</title>
+<link>https://lh3.googleusercontent.com/ld8KzAb_gS7LTDFC8i67Cb7aAMH2rAaqqyXjYBgM8YK_WIKRuNUuoPql60o09nlqG1X6_gY0UA=m18</link>
 <thumbnail></thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>O Dia do Terror ֠HD 720p Dublado</name>
-<externallink>https://lh3.googleusercontent.com/6IdhQUK4fUsrxmcozYINJMwRLxRKmL1Gr7kIchqqhHaAxgEmEsVS6UIhdv_QM1sCd3TUqxoI7w=m18</externallink>
+<item>
+<title>O Dia do Terror ֠HD 720p Dublado</title>
+<link>https://lh3.googleusercontent.com/6IdhQUK4fUsrxmcozYINJMwRLxRKmL1Gr7kIchqqhHaAxgEmEsVS6UIhdv_QM1sCd3TUqxoI7w=m18</link>
 <thumbnail></thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>O Nevoeiro ֠HD 1080p Dublado</name>
-<externallink>https://lh3.googleusercontent.com/NYlc9ZYvcFGtzvEhjhJJQhpSSkq6c50NwnrWFmY2Hn0z4CyZ61E8Awg1sfwk3xgfcM-cvxymmQ=m18</externallink>
+<item>
+<title>O Nevoeiro ֠HD 1080p Dublado</title>
+<link>https://lh3.googleusercontent.com/NYlc9ZYvcFGtzvEhjhJJQhpSSkq6c50NwnrWFmY2Hn0z4CyZ61E8Awg1sfwk3xgfcM-cvxymmQ=m18</link>
 <thumbnail></thumbnail>
-</channel>
-<channel>
-<name>Um Lobisomem Americano Em Londres</name>
-<externallink>https://lh3.googleusercontent.com/_l78-NeOFRzhbHtJb83gYwUzEgyjNk8WTyBA5-jnkgyW-bkGGGXLOmTGsVc67QzPlFwloD7jUw=m18</externallink>
+</item>
+<item>
+<title>Um Lobisomem Americano Em Londres</title>
+<link>https://lh3.googleusercontent.com/_l78-NeOFRzhbHtJb83gYwUzEgyjNk8WTyBA5-jnkgyW-bkGGGXLOmTGsVc67QzPlFwloD7jUw=m18</link>
 <thumbnail></thumbnail>
-</channel>
-<channel>
-<name>Invocação do Mal</name>
-<externallink>https://lh3.googleusercontent.com/Pfdw0GDFfPyX7xT9M7w-kRgV_8eYqkwP7IW1sylb6ylaUdD8re6fbje-_N1WSuHlBw0a44sp-w=m18</externallink>
+</item>
+<item>
+<title>Invocação do Mal</title>
+<link>https://lh3.googleusercontent.com/Pfdw0GDFfPyX7xT9M7w-kRgV_8eYqkwP7IW1sylb6ylaUdD8re6fbje-_N1WSuHlBw0a44sp-w=m18</link>
 <thumbnail></thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>Orgulho e Preconceito e Zumbis ֠HD 720p</name>
-<externallink>https://lh3.googleusercontent.com/EtEVEbjTmFi0qFLE0E1H7vp5UB_tkK4PfAZlCEp-ooidpAbcgqUy0_hSQ0MvdTMC4XI55-qq5zI=m18</externallink>
+<item>
+<title>Orgulho e Preconceito e Zumbis ֠HD 720p</title>
+<link>https://lh3.googleusercontent.com/EtEVEbjTmFi0qFLE0E1H7vp5UB_tkK4PfAZlCEp-ooidpAbcgqUy0_hSQ0MvdTMC4XI55-qq5zI=m18</link>
 <thumbnail></thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>O Mestre dos Desejos (1) ֠HD 720p Dublado</name>
-<externallink>https://lh3.googleusercontent.com/GXlvrWbUwRnCXpOMv9Nc-T3tstXOtJBgx93ly_unFn0InexJoM51ppqdfYXwnU4nMoBnpmCfSw=m18</externallink>
+<item>
+<title>O Mestre dos Desejos (1) ֠HD 720p Dublado</title>
+<link>https://lh3.googleusercontent.com/GXlvrWbUwRnCXpOMv9Nc-T3tstXOtJBgx93ly_unFn0InexJoM51ppqdfYXwnU4nMoBnpmCfSw=m18</link>
 <thumbnail></thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>UMA DE NOITE DE CRIME</name>
-<externallink>https://lh3.googleusercontent.com/oMJn71kCkEIwCqSVZQaEYfn1_risAjWIu4Os6JPxAA4=m18</externallink>
+<item>
+<title>UMA DE NOITE DE CRIME</title>
+<link>https://lh3.googleusercontent.com/oMJn71kCkEIwCqSVZQaEYfn1_risAjWIu4Os6JPxAA4=m18</link>
 <thumbnail></thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>Uma Noite de Crime: Anarquia</name>
-<externallink>https://lh3.googleusercontent.com/Lpg4TXJsnbo3SbLYDAkf_EuPzcL9fvrZL2zlJe1nnm8=m18</externallink>
+<item>
+<title>Uma Noite de Crime: Anarquia</title>
+<link>https://lh3.googleusercontent.com/Lpg4TXJsnbo3SbLYDAkf_EuPzcL9fvrZL2zlJe1nnm8=m18</link>
 <thumbnail></thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>Do Outro Lado da Porta - The Other Side of the Door (2016)</name>
-<externallink>https://lh3.googleusercontent.com/DhnizLsTsTmYxFqZ4r_kMZA4WPMHNKK9xNga8LVtGjtAJZTd0KoAGDDYlza9y2KxVHvQCDMG6Lo=m18</externallink>
+<item>
+<title>Do Outro Lado da Porta - The Other Side of the Door (2016)</title>
+<link>https://lh3.googleusercontent.com/DhnizLsTsTmYxFqZ4r_kMZA4WPMHNKK9xNga8LVtGjtAJZTd0KoAGDDYlza9y2KxVHvQCDMG6Lo=m18</link>
 <thumbnail></thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>Visões do Passado - Backtrack (2016)</name>
-<externallink>https://lh3.googleusercontent.com/fk04BSSvsInSc0Tvew_AesLUD-PZEEl2Tie7DxzUVk8h12kQUyR4oR6Z8U6M8VglLiOLnqeaLcQ=m18</externallink>
+<item>
+<title>Visões do Passado - Backtrack (2016)</title>
+<link>https://lh3.googleusercontent.com/fk04BSSvsInSc0Tvew_AesLUD-PZEEl2Tie7DxzUVk8h12kQUyR4oR6Z8U6M8VglLiOLnqeaLcQ=m18</link>
 <thumbnail></thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>Terror Online - H0me Invasion (2016)</name>
-<externallink>https://lh3.googleusercontent.com/XbNTKPjp5fOr60afuZh1EgdHdgM13HeepXdliVbimEQ=m18</externallink>
+<item>
+<title>Terror Online - H0me Invasion (2016)</title>
+<link>https://lh3.googleusercontent.com/XbNTKPjp5fOr60afuZh1EgdHdgM13HeepXdliVbimEQ=m18</link>
 <thumbnail></thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>Victor Frankenstein (2015)</name>
-<externallink>https://lh3.googleusercontent.com/w-rvXjO55zwnguNcnGCtkdNiDi9WEEZLIIgs-otbMYDDQQGDYl5Dwhzgj37pFkI-hExYTQ=m18</externallink>
+<item>
+<title>Victor Frankenstein (2015)</title>
+<link>https://lh3.googleusercontent.com/w-rvXjO55zwnguNcnGCtkdNiDi9WEEZLIIgs-otbMYDDQQGDYl5Dwhzgj37pFkI-hExYTQ=m18</link>
 <thumbnail></thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>O Resgate (1986)</name>
-<externallink>https://lh3.googleusercontent.com/Xi1hLAU9iHgmr4XBexER4c3vAUwVLqg2YpgUyTYD-Yg=m18</externallink>
+<item>
+<title>O Resgate (1986)</title>
+<link>https://lh3.googleusercontent.com/Xi1hLAU9iHgmr4XBexER4c3vAUwVLqg2YpgUyTYD-Yg=m18</link>
 <thumbnail></thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>Frankenstein: Entre Anjos e Demônios</name>
-<externallink>https://lh3.googleusercontent.com/RDWLLVO_CNJYC_A_3pVEvACHJTq1GnICVU5kIJ9YMBM=m18</externallink>
+<item>
+<title>Frankenstein: Entre Anjos e Demônios</title>
+<link>https://lh3.googleusercontent.com/RDWLLVO_CNJYC_A_3pVEvACHJTq1GnICVU5kIJ9YMBM=m18</link>
 <thumbnail></thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>[REC] (2007)</name>
-<externallink>https://lh3.googleusercontent.com/qkRSzbEVUP_UThEgVeTmkj0_AE-LBAgAwJZITl2XhDQ=m22</externallink>
+<item>
+<title>[REC] (2007)</title>
+<link>https://lh3.googleusercontent.com/qkRSzbEVUP_UThEgVeTmkj0_AE-LBAgAwJZITl2XhDQ=m22</link>
 <thumbnail></thumbnail>
-</channel>
+</item>
   
-<channel>
-<name>[REC] 2 - Possuídos (2009)</name>
-<externallink>https://lh3.googleusercontent.com/xCZmcBIq7F-JKdWP7ruVp_69UMCuD9pHoyIthPdC7kI=m18</externallink>
+<item>
+<title>[REC] 2 - Possuídos (2009)</title>
+<link>https://lh3.googleusercontent.com/xCZmcBIq7F-JKdWP7ruVp_69UMCuD9pHoyIthPdC7kI=m18</link>
 <thumbnail></thumbnail>
-</channel>
-<channel>
-<name>[REC]Ӡ Gênesis (2012)</name>
-<externallink>https://lh3.googleusercontent.com/Zks18_sUKHIvfIbj-sL6eOInQguuAL-LEh2Be4fTMuM=m18</externallink>
+</item>
+<item>
+<title>[REC]Ӡ Gênesis (2012)</title>
+<link>https://lh3.googleusercontent.com/Zks18_sUKHIvfIbj-sL6eOInQguuAL-LEh2Be4fTMuM=m18</link>
 <thumbnail></thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>A Chave Mestra</name>
-<externallink>https://lh3.googleusercontent.com/H9llfyYTb44B8weSEaQskmW6tx8kGRMM3_ppf7xIo5k=m18</externallink>
+<item>
+<title>A Chave Mestra</title>
+<link>https://lh3.googleusercontent.com/H9llfyYTb44B8weSEaQskmW6tx8kGRMM3_ppf7xIo5k=m18</link>
 <thumbnail>http://cinedoanula.com/imdb/posters/9913movie.jpg</thumbnail>
-</channel>
-<channel>
-<name>Assassino Invisível</name>
-<externallink>https://lh3.googleusercontent.com/iuLjEMUExAkfxzRIe8-oRGGResKx2kTHVw3vZrvJbhSsnVUDwU8eljp4H68oq4zkvfrx=m18</externallink>
+</item>
+<item>
+<title>Assassino Invisível</title>
+<link>https://lh3.googleusercontent.com/iuLjEMUExAkfxzRIe8-oRGGResKx2kTHVw3vZrvJbhSsnVUDwU8eljp4H68oq4zkvfrx=m18</link>
 <thumbnail></thumbnail>
-</channel>
-<channel>
-<name>A Hora do Pesadelo - A Nightmare on Elm Street (2010)</name>
-<externallink>https://lh3.googleusercontent.com/delmIyNlZzImeULIcG2GjOUiRiXr6v5j-Rrry3gfmq0=m22</externallink>
+</item>
+<item>
+<title>A Hora do Pesadelo - A Nightmare on Elm Street (2010)</title>
+<link>https://lh3.googleusercontent.com/delmIyNlZzImeULIcG2GjOUiRiXr6v5j-Rrry3gfmq0=m22</link>
 <thumbnail></thumbnail>
-</channel>
-<channel>
-<name>Pacto Maligno - Mercy (2014)</name>
-<externallink>https://lh3.googleusercontent.com/63VByjZX88cTFEndqG7LgOvvq7OSKeYmTWHykEqZVA4=m18</externallink>
+</item>
+<item>
+<title>Pacto Maligno - Mercy (2014)</title>
+<link>https://lh3.googleusercontent.com/63VByjZX88cTFEndqG7LgOvvq7OSKeYmTWHykEqZVA4=m18</link>
 <thumbnail></thumbnail>
-</channel>
-<channel>
-<name>o 8ڠPassageiro (1979)</name>
-<externallink>https://lh3.googleusercontent.com/bJgb-K5Yu-h4ART1UOrm2cMlA-v_JACkbxAeuye9Rbk=m22</externallink>
+</item>
+<item>
+<title>o 8ڠPassageiro (1979)</title>
+<link>https://lh3.googleusercontent.com/bJgb-K5Yu-h4ART1UOrm2cMlA-v_JACkbxAeuye9Rbk=m22</link>
 <thumbnail></thumbnail>
-</channel>
-<channel>
-<name>Os 13 Pecados - 13 Sins (2014)</name>
-<externallink>https://lh3.googleusercontent.com/jd6hBroEb-D8ZFPs3LqVW5kGIOQfwtLbMss22ThDGwA=m18</externallink>
+</item>
+<item>
+<title>Os 13 Pecados - 13 Sins (2014)</title>
+<link>https://lh3.googleusercontent.com/jd6hBroEb-D8ZFPs3LqVW5kGIOQfwtLbMss22ThDGwA=m18</link>
 <thumbnail></thumbnail>
-</channel>
-<channel>
-<name>Canibais - The Green Inferno (2013)</name>
-<externallink>https://lh3.googleusercontent.com/xv4rPrejX2-j2qY423xx5XYZL_5phYyTU2MQKaG4tvF3Y6k7zuubycf7tBHIjVMcAiruWg=m18</externallink>
+</item>
+<item>
+<title>Canibais - The Green Inferno (2013)</title>
+<link>https://lh3.googleusercontent.com/xv4rPrejX2-j2qY423xx5XYZL_5phYyTU2MQKaG4tvF3Y6k7zuubycf7tBHIjVMcAiruWg=m18</link>
 <thumbnail></thumbnail>
-</channel>
-<channel>
-<name>Annabelle (2014)</name>
-<externallink>https://lh3.googleusercontent.com/5dMgeuV7lqOfzf9vg9-2erO7BSG-zBqUNah2ZA3ekR4=m18</externallink>
+</item>
+<item>
+<title>Annabelle (2014)</title>
+<link>https://lh3.googleusercontent.com/5dMgeuV7lqOfzf9vg9-2erO7BSG-zBqUNah2ZA3ekR4=m18</link>
 <thumbnail></thumbnail>
-</channel>
-<channel>
-<name>Poltergeist - O Fenômeno (2015)</name>
-<externallink>https://lh3.googleusercontent.com/8d8xla0di20LSy4zjnsJgRTkCkDAabp0AT-KmQGNxIQ=m18</externallink>
+</item>
+<item>
+<title>Poltergeist - O Fenômeno (2015)</title>
+<link>https://lh3.googleusercontent.com/8d8xla0di20LSy4zjnsJgRTkCkDAabp0AT-KmQGNxIQ=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/tt1029360.jpg</thumbnail>
-</channel>
-<channel>
-<name>Eu Sou a Lenda (2007)</name>
-<externallink>https://lh3.googleusercontent.com/s2Sou7gVrtFh3QbvDSUc3-DupESqHPdCy6CMWCYaivA=m18</externallink>
+</item>
+<item>
+<title>Eu Sou a Lenda (2007)</title>
+<link>https://lh3.googleusercontent.com/s2Sou7gVrtFh3QbvDSUc3-DupESqHPdCy6CMWCYaivA=m18</link>
 <thumbnail></thumbnail>
-</channel>
-<channel>
-<name>Sobrenatural - Insidious (2010)</name>
-<externallink>https://lh3.googleusercontent.com/63Egu7DSED-Z8kxu-1MDmd6BjtD-i0KiXGjzkrF73Ck=m18</externallink>
+</item>
+<item>
+<title>Sobrenatural - Insidious (2010)</title>
+<link>https://lh3.googleusercontent.com/63Egu7DSED-Z8kxu-1MDmd6BjtD-i0KiXGjzkrF73Ck=m18</link>
 <thumbnail></thumbnail>
-</channel>
-<channel>
-<name>Abraham Lincoln: Caçador de Vampiros - Vampire Hunter (2012)</name>
-<externallink>https://lh3.googleusercontent.com/gMQVATyavEwbyofozwmggOUj0uYLb6B0J3_332yH0qQ=m18</externallink>
+</item>
+<item>
+<title>Abraham Lincoln: Caçador de Vampiros - Vampire Hunter (2012)</title>
+<link>https://lh3.googleusercontent.com/gMQVATyavEwbyofozwmggOUj0uYLb6B0J3_332yH0qQ=m18</link>
 <thumbnail></thumbnail>
-</channel>
-<channel>
-<name>Livrai-Nos Do Mal - Deliver Us from Evil (2014)</name>
-<externallink>https://lh3.googleusercontent.com/As0I06fb6mwaAMnCO37MrF9f2o723rDVdTpFHSawhDw=m18</externallink>
+</item>
+<item>
+<title>Livrai-Nos Do Mal - Deliver Us from Evil (2014)</title>
+<link>https://lh3.googleusercontent.com/As0I06fb6mwaAMnCO37MrF9f2o723rDVdTpFHSawhDw=m18</link>
 <thumbnail></thumbnail>
-</channel>
-<channel>
-<name>Padre (2011)</name>
-<externallink>https://lh3.googleusercontent.com/S14RCpFxBZT1eBCAn9Pneo_KWoEYpnESO0zcu9c1zZw=m18</externallink>
+</item>
+<item>
+<title>Padre (2011)</title>
+<link>https://lh3.googleusercontent.com/S14RCpFxBZT1eBCAn9Pneo_KWoEYpnESO0zcu9c1zZw=m18</link>
 <thumbnail></thumbnail>
-</channel>
-<channel>
-<name>Panico - Scream (1996)</name>
-<externallink>https://lh3.googleusercontent.com/c5kGHMeYV3Qc72EWY1SRJhIQRLNe_pFUIzV_4QFASJ0=m18</externallink>
+</item>
+<item>
+<title>Panico - Scream (1996)</title>
+<link>https://lh3.googleusercontent.com/c5kGHMeYV3Qc72EWY1SRJhIQRLNe_pFUIzV_4QFASJ0=m18</link>
 <thumbnail></thumbnail>
-</channel>
-<channel>
-<name>A Maldição de Chucky - Curse of Chucky (2013)</name>
-<externallink>https://lh3.googleusercontent.com/iAioLq9Zi18rVxfDOiD8Uq3jB77ezkZ0DXfgcAcTmS4=m18</externallink>
+</item>
+<item>
+<title>A Maldição de Chucky - Curse of Chucky (2013)</title>
+<link>https://lh3.googleusercontent.com/iAioLq9Zi18rVxfDOiD8Uq3jB77ezkZ0DXfgcAcTmS4=m18</link>
 <thumbnail></thumbnail>
-</channel>
-<channel>
-<name>Drácula de Bram Stoker - Bram Stoker's Dracula (1992)</name>
-<externallink>https://lh3.googleusercontent.com/BfTyMJxBTRWqdmQDEeKYDBfa_CJBEeCGd3j-mRA_xho=m22</externallink>
+</item>
+<item>
+<title>Drácula de Bram Stoker - Bram Stoker's Dracula (1992)</title>
+<link>https://lh3.googleusercontent.com/BfTyMJxBTRWqdmQDEeKYDBfa_CJBEeCGd3j-mRA_xho=m22</link>
 <thumbnail></thumbnail>
-</channel>
+</item>
 
-<channel>
-<name>Corrente do Mal Dublado</name>
-<externallink>https://lh3.googleusercontent.com/epbkLrwu7clvq-yPPQf_FPaccLWKLF0Z5dMkAcWGY7s=m18</externallink>
+<item>
+<title>Corrente do Mal Dublado</title>
+<link>https://lh3.googleusercontent.com/epbkLrwu7clvq-yPPQf_FPaccLWKLF0Z5dMkAcWGY7s=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/270303movie.jpg</thumbnail>
-</channel>
+</item>
   
-
-</channels>
