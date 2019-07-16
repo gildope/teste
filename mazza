@@ -1,3 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ae/Jeepers_Creepers_capa.jpg/225px-Jeepers_Creepers_capa.jpg" group-title="GDRIVE",(1963) Mazzaropi - Casinha Pequenina
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1-IcMxuXI6V_DlgQSg3YIV6uT3QFv_fxs/view
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ae/Jeepers_Creepers_capa.jpg/225px-Jeepers_Creepers_capa.jpg" group-title="GDRIVE",(1964) Mazzaropi - Meu Japão Brasileiro
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/17GyKTTkiOvguX1IayXWE_ZkIt87HINvY/view
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ae/Jeepers_Creepers_capa.jpg/225px-Jeepers_Creepers_capa.jpg" group-title="GDRIVE",(1964) Mazzaropi - O Lamparina
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1RDvd8icAlH5q_979Go6pVloPS3IyIiD6/view
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ae/Jeepers_Creepers_capa.jpg/225px-Jeepers_Creepers_capa.jpg" group-title="GDRIVE",(1965) Mazzaropi - O Puritano da rua augusta
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1AQujYOnCkwL6JqIdQ3W-XtXXYJyuvhwW/view
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ae/Jeepers_Creepers_capa.jpg/225px-Jeepers_Creepers_capa.jpg" group-title="GDRIVE",(1966) Mazzaropi - O Corintiano
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1-9oYdyvDuvtCaCNdBBlngeGbiBVn4gzN/view
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ae/Jeepers_Creepers_capa.jpg/225px-Jeepers_Creepers_capa.jpg" group-title="GDRIVE",(1967) Mazzaropi - O Jeca e a Freira
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/12vhAx_pYQw25n_g_xP1RaN5S6dqf51h6/view
