@@ -5,16 +5,17 @@
 <channels>
 
 <channel>
-<name>TWD 1 Temporada</name>
+<name>Terror 1</name>
 <thumbnail>https://http2.mlstatic.com/the-walking-dead-1-temporada-completa-box-3-dvds-lacrado-D_NQ_NP_998580-MLB26458519955_112017-F.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/terror_bagu</externallink>
 </channel>
 
 
 <channel>
-<name>TWD 9 Temporada</name>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/The_Walking_Dead_Temporada_9_Poster.jpg/230px-The_Walking_Dead_Temporada_9_Poster.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/twd9.txt</externallink>
+<name>Terror 2</name>
+<thumbnail>http://orig10.deviantart.net/18f7/f/2016/001/2/0/horror_by_themustang24-d9md38l.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/terror.xml</externallink>
 </channel>
+
 
 </channels>
