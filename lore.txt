@@ -35,3 +35,8 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3ODQwNzM0OF5BMl5BanBnXkFtZTgwMjY5MTczMzI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 </item>]
 
+<item>
+<title>Lore EP 07</title>
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/10iD0hv-ZNCsvZCIHkz44MNctfud22rWb/view
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3ODQwNzM0OF5BMl5BanBnXkFtZTgwMjY5MTczMzI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>]
