@@ -1,8 +1,0 @@
-#EXTM3U
- 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ne1UZgZg3EE/W-lsxe_EqFI/AAAAAAAAYoA/OZAUyMXaIBQhYZJTV6-vuVoKD2DrcuT2gCLcBGAs/s1600/fear2.jpg" group-title="GDRIVE", Antologia do Medo
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1R8ePNebxeN8UzpiRUb7x5KavtexpwQAg/view
-
-#EXTINF:-1 tvg-logo="http://woomagazine.com.br/wp-content/uploads/2016/02/13-horas-os-soldados-secretos-de-Benghazi-2.jpg" group-title="GDRIVE",Teste
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1ilclEQv4r2oljnjct1aMfssgDlv9w_3t/view
-
