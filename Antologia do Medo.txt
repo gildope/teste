@@ -76,10 +76,5 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4NzE5NjU1OF5BMl5BanBnXkFtZTcwMzU5MDEwNQ@@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
 </item>]
 
-<item>
-<title>teste</title>
-<link>http://srv1.racaty.com:182/d/qqffqatd6woorx5iygk4lzkm3keijnuw5ep4zosfabpxdquvoekzhehmcvx4l2obmosbwyjc/Cad%C3%A1ver-dub-720p.mp4</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4NzE5NjU1OF5BMl5BanBnXkFtZTcwMzU5MDEwNQ@@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
-</item>]
 
-http://srv1.racaty.com:182/d/qqffqatd6woorx5iygk4lzkm3keijnuw5ep4zosfabpxdquvoekzhehmcvx4l2obmosbwyjc/Cad%C3%A1ver-dub-720p.mp4
+
