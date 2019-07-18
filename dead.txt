@@ -1,21 +1,7 @@
-<layouttype>thumbnail</layouttype>
+#EXTM3U
 
 
-<channels>
-
-<channel>
-<name>TWD 1 Temporada</name>
-<thumbnail>https://http2.mlstatic.com/the-walking-dead-1-temporada-completa-box-3-dvds-lacrado-D_NQ_NP_998580-MLB26458519955_112017-F.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/twd_1</externallink>
-</channel>
-
-
-<channel>
-<name>TWD 9 Temporada</name>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/The_Walking_Dead_Temporada_9_Poster.jpg/230px-The_Walking_Dead_Temporada_9_Poster.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/twd9.txt</externallink>
-</channel>
-
-</channels>
+#EXTINF:-1 tvg-logo="https://assets1.ignimgs.com/2018/10/02/walkingdead-season9-header-1538446849577.jpg" group-title="TEMPORADA 9",The Walking Dead - 9x01 - A New Beginning
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1YQAnUaPFSbhl089zqUGVoGmhru6VV66T/edit
 
 
