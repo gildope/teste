@@ -154,6 +154,12 @@
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/Ant_medo.txt</externallink>
 </channel>
 
+<channel>
+<name>La Casa de Papel</name>
+<thumbnail>https://media.fstatic.com/sxUT-xzAE0uXvNvZG9wAKN0DFSw=/fit-in/290x478/smart/media/movies/covers/2017/12/16197aced1049174c47f958b0c5b46e20da9e56b.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/lacasapapel</externallink>
+</channel>
+
 
 </channels>
 
