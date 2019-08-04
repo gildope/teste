@@ -1,3 +1,16 @@
+<item>
+<title>Xtro – Estranhas Metamorfoses – 1983 – Dublagem Clássica – Dual Áudio – Bluray 1080p</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1LNzQxYE8rW9sUc2eZi-X7LtduG0p-e0T/view</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGZhY2I4M2MtMDlkYS00ZDEyLWIyNjctM2VjMmNiN2ExZGFhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+ </item>
+
+
+<item>
+<title>Os olhos de Laura</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/19vXk8sLQ2TXxm0HMnNwCzJnN-2fibBo5/view</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDFhMzQ2ZmYtMWM3NC00ZWQ2LTkwOTAtZjcyYTBjZThkYmJmXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+ </item>
+
 
 <item>
 <title>Os olhos de Laura</title>
