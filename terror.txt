@@ -1,3 +1,11 @@
+
+<item>
+<title>Os olhos de Laura</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/19vXk8sLQ2TXxm0HMnNwCzJnN-2fibBo5/view</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDFhMzQ2ZmYtMWM3NC00ZWQ2LTkwOTAtZjcyYTBjZThkYmJmXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+ </item>
+ 
+
 <item>
 <title>A Dama do Espelho: O Ritual das Trevas</title>
 <link>https://lh3.googleusercontent.com/ZawUgVEKNcmIjE_hmfz5lseeIFulFdrZ8-2PpJWHDwb-qBgQxed9qIl-QRU7zJheq-E9t3MeV1-ZOJIsRiChd0FrQNBJ_BN2unAquBP4D3KuTMLS41q7mSvg_LNewA-1hBIKVK-0HQ=m22</link>
