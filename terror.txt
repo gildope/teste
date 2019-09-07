@@ -1,4 +1,10 @@
 <item>
+<title>The Isle</title>
+<link>http://srv3.racaty.com:182/d/qyfm3ulm6woorx5i4okz7zcozkjqdywbug6i6fhy2joz2cpvuf2fokhnl32ne2qeigmzklqx/THEISLE.mp4</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/v22vodart/16456660/p16456660_v_v8_aa.jpg</thumbnail>
+</item>
+
+<item>
 <title>Xtro – Estranhas Metamorfoses – 1983 – Dublagem Clássica – Dual Áudio – Bluray 1080p</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1LNzQxYE8rW9sUc2eZi-X7LtduG0p-e0T/view</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOGZhY2I4M2MtMDlkYS00ZDEyLWIyNjctM2VjMmNiN2ExZGFhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
