@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ae/Jeepers_Creepers_capa.jpg/225px-Jeepers_Creepers_capa.jpg" group-title="GDRIVE",(1963) Mazzaropi -Teste
+https://lh3.googleusercontent.com/-EoGnwq1jpaMkpF3iTEyEFNCcEsnhffWoe-j_p_9DO7ojL2SmkNEcsGaPdaoIUX2-cWoMTm2p1nW7NuQLmQeIfzs7N--FQ72t88lJkiRGnJgFKnUXZRfDP8hSj3KOCTrz2_TfA-5ifWDR6Kh1K76erMUyEl1Hlsnw2FkVnJEcNG6CfhxggcUTVRj8iPDEEri9QeWz_S9Ipr_O6U1pZFYhA698KEigsHliIlEbWx-LvZHbNuLjNcakBSppQ52nWJr6oqo__zyIWEznnVWj4pURZws6V5jz4I5Z2-lMWb-b4MOX71U9zSjAc9Q-3hH1wGyVEkvzayTs6RusNFV2UP6rf0oQU-s_FbmNYGOZsD55uOaGKr_hKGBRV4wW2lVgPayzkNVPupnE9-gOb0mi0Wbgov-gZbNqAtuv1mTpwNYxaKB8Yo8YBqZsmrGImplcHDHUUf5AcvqQRdaBNIOTu6wA5cv1slDZ9sDUc6ShVK8sQIUvijSMzXMBZtIt5yeD41R085aOa8KsepvCok_wMTFwcdjkG40qwYwrHuzySvrBqyMBMzIQhKbKpC2NPPfGFrCzhaJip6YDbNul4Xgy2vQdSzHDeOoMrVqUdLQu_HJfuYYg8GMEZiIYQd-FEMcERQHBTeY6ZuJzFBg7N-WnCVWCWzpnmO7x8eWPoWOVgrNY7tkK1kJ_TJyytmv15y2W-IX-SJP4MZkGbLHRs7v0xDjwQwTW5vyvEA6qS6-k3-dXsitMnBZ=m18
+
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ae/Jeepers_Creepers_capa.jpg/225px-Jeepers_Creepers_capa.jpg" group-title="GDRIVE",(1963) Mazzaropi - Casinha Pequenina
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1-IcMxuXI6V_DlgQSg3YIV6uT3QFv_fxs/view
 
