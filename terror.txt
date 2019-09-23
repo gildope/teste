@@ -1,7 +1,13 @@
 <item>
-<title>The Isle</title>
-<link>http://srv3.racaty.com:182/d/qyfm3ulm6woorx5i4okz7zcozkjqdywbug6i6fhy2joz2cpvuf2fokhnl32ne2qeigmzklqx/THEISLE.mp4</link>
-<thumbnail>http://www.gstatic.com/tv/thumb/v22vodart/16456660/p16456660_v_v8_aa.jpg</thumbnail>
+<title>A Bolha Assassina (1988)</title>
+<link>https://lh3.googleusercontent.com/1PEx-Zw3pNvIZzNcEKEpovd5GbBGlCZk4AM7wGPHcSRcRPf6c-fqRteF1hhLDwCEwnFSfNB37tJOf7zux13qkfN0nW5IN3ZBQ2WbvujO1lqLgH_XGG0ccdZ0qGcrlED6Xj-CdShyEg=m22</link>
+<thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/14/10/06/20/24/026318.jpg</thumbnail>
+</item>
+
+<item>
+<title>Annabelle 3: De Volta para Casa (Dublado)/title>
+<link>http://cdnfe3.azureedge.net/RCFServer1/ondemand/ANBL3DVLTPCSA.mp4?attachment=true</link>
+<thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/14/10/06/20/24/026318.jpg</thumbnail>
 </item>
 
 <item>
