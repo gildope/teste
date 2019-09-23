@@ -1,4 +1,42 @@
 <item>
+<title>O Internato (Dublado) - 2019</title>
+<link>http://cdnfe3.azureedge.net/RCFServer1/ondemand/OINTRNTO.mp4?attachment=true</link>
+<thumbnail>https://redecanais.si/player3/imgs-videos/Filmes/O%20Internato.jpg</thumbnail>
+</item>
+
+<item>
+<title>Um Lobisomem Americano em Londres (Dublado) - 1981</title>
+<link>http://cdnfe3.azureedge.net/RCFServer1/ondemand/UMLBSMAMRCNEMLNDRS.mp4?attachment=true</link>
+<thumbnail>https://redecanais.si/player3/imgs-videos/Filmes/Um%20Lobisomem%20Americano%20em%20Londres.jpg</thumbnail>
+</item>
+
+<item>
+<title>Weevil (Dublado) - 2019</title>
+<link>http://cdnfe3.azureedge.net/RCFServer1/ondemand/WEVL.mp4?attachment=true</link>
+<thumbnail>https://redecanais.si/player3/imgs-videos/Filmes/Weevil.jpg</thumbnail>
+</item>
+
+<item>
+<title>Itsy Bitsy (Dublado) - 2019</title>
+<link>http://cdnfe3.azureedge.net/RCFServer1/ondemand/ITSBTSY.mp4?attachment=true</link>
+<thumbnail>https://redecanais.si/player3/imgs-videos/Filmes/Itsy%20Bitsy.jpg</thumbnail>
+</item>
+
+<item>
+<title>A Moça da Limpeza (Dublado) - 2019</title>
+<link>http://cdnfe3.azureedge.net/RCFServer1/ondemand/AMCADLMPZA.mp4?attachment=true</link>
+<thumbnail>https://redecanais.si/player3/imgs-videos/Filmes/A%20Mo%C3%A7a%20da%20Limpeza.jpg</thumbnail>
+</item>
+
+<item>
+<title>Gritos da Noite (Dublado) - 2019</title>
+<link>http://cdnfe3.azureedge.net/RCFServer1/ondemand/GRTSDNTE.mp4?attachment=true</link>
+<thumbnail>https://redecanais.si/player3/imgs-videos/Filmes/Gritos%20da%20Noite.jpg</thumbnail>
+</item>
+
+
+
+<item>
 <title>A Bolha Assassina (1988)</title>
 <link>https://lh3.googleusercontent.com/1PEx-Zw3pNvIZzNcEKEpovd5GbBGlCZk4AM7wGPHcSRcRPf6c-fqRteF1hhLDwCEwnFSfNB37tJOf7zux13qkfN0nW5IN3ZBQ2WbvujO1lqLgH_XGG0ccdZ0qGcrlED6Xj-CdShyEg=m22</link>
 <thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/14/10/06/20/24/026318.jpg</thumbnail>
