@@ -5,9 +5,15 @@
 </item>
 
 <item>
-<title>Annabelle 3: De Volta para Casa (Dublado)/title>
+<title>Annabelle 3: De Volta para Casa (Dublado)</title>
 <link>http://cdnfe3.azureedge.net/RCFServer1/ondemand/ANBL3DVLTPCSA.mp4?attachment=true</link>
-<thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/14/10/06/20/24/026318.jpg</thumbnail>
+<thumbnail>https://redecanais.si/player3/imgs-videos/Filmes/Annabelle%203%20-%20De%20Volta%20para%20Casa.jpg</thumbnail>
+</item>
+
+<item>
+<title>Nightmare Cinema (Dublado) - 2018</title>
+<link>http://cdnfe3.azureedge.net/RCFServer1/ondemand/NGHTMRCNMA.mp4?attachment=true</link>
+<thumbnail>https://redecanais.si/player3/imgs-videos/Filmes/Nightmare%20Cinema.jpg</thumbnail>
 </item>
 
 <item>
