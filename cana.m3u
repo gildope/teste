@@ -60,11 +60,26 @@ http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8
 #EXTINF:-1,retro
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
 
+#EXTINF:-1,Retro Plus TV
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1,KISS TV
+https://5d23bdca513db.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTINF:-1,TV Internauta
+https://srv1.zcast.com.br/luiseduardo7379/luiseduardo7379/playlist.m3u8
+
 #EXTINF:-1,HIT MUSIC CHANEL
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
 
 #EXTINF:-1,1 MUSIC
 http://stream.1music.hu/stream/1music.m3u8
 
-#EXTINF:-1,XITE
-http://streaming.seventv.com.br:8080/hls/5409f4122dec8f6cd52764acc2a99b1d.m3u8
+#EXTINF:-1,TOP TV (Música)
+https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
+
+#EXTINF:-1,TOP MIX TV
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8
+
+#EXTINF:-1,1 HD
+https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/index.m3u8
