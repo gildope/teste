@@ -60,6 +60,9 @@ http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8
 #EXTINF:-1,retro
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
 
+#EXTINF:-1 group-title="General" tvg-logo="http://crawler.mdcgate.com/iptv/logo/6374.png",RETRO TV
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
+
 #EXTINF:-1,Retro Plus TV
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
@@ -72,6 +75,9 @@ https://srv1.zcast.com.br/luiseduardo7379/luiseduardo7379/playlist.m3u8
 #EXTINF:-1,HIT MUSIC CHANEL
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
 
+#EXTINF:-1 group-title="General" tvg-logo="http://crawler.mdcgate.com/iptv/logo/8323.png",1 MUSIC CHANNEL
+http://stream.1music.hu/stream/1music.m3u8
+
 #EXTINF:-1,1 MUSIC
 http://stream.1music.hu/stream/1music.m3u8
 
@@ -80,6 +86,27 @@ https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
 
 #EXTINF:-1,TOP MIX TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="http://crawler.mdcgate.com/iptv/logo/15741.png",HIT MUSIC
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 group-title="General" tvg-logo="http://crawler.mdcgate.com/iptv/logo/2163.png",Summer Tv
+http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w1820117447.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="http://crawler.mdcgate.com/iptv/logo/7414.png",ONE MUSIC
+http://rtmp.one.by:1200
+
+#EXTINF:-1 group-title="General" tvg-logo="http://www.unored.tv/wp-content/uploads/2017/11/Logo_Sobrenatural_TV_-_Pra_TV.png",SOBRENATURAL TV
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="http://crawler.mdcgate.com/iptv/logo/12802.png",MUSICTOP
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="http://crawler.mdcgate.com/iptv/logo/2163.png",MTV HITS
+http://182.73.122.74:10005/bysid/412
+
+#EXTINF:-1 group-title="General" ,NRJ HITS
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w1511906972_b2588672.m3u8
 
 #EXTINF:-1,1 HD
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/index.m3u8
