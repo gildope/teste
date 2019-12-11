@@ -1,3 +1,10 @@
+
+<item>
+<title>Teste</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1WpvXnhZd1S6F0LzhylAK0bH4i442k7h3/view</link>
+<thumbnail>https://redecanais.si/player3/imgs-videos/Filmes/O%20Internato.jpg</thumbnail>
+</item>
+
 <item>
 <title>O Internato (Dublado) - 2019</title>
 <link>http://cdnfe3.azureedge.net/RCFServer1/ondemand/OINTRNTO.mp4?attachment=true</link>
