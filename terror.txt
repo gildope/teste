@@ -1,3 +1,20 @@
+<item>
+<title>A Maldição da Chorona (Dublado) - 2019</title>
+<thumbnail></thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1V1dbMQlNqGjQMItjE_E5DoUrCLOdI6uT/view</link>
+</item>
+
+<item>
+<title>Cemitério Maldito (Dublado) - 2019 - 1080p</title>
+<thumbnail></thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/16NmeV2ydifCiecVnVIH0iHquG3kSN2Qb/view</link>
+</item>
+
+<item>
+<title>Os.Mortos.Nao.Morrem</title>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZWQxZDIzNzUtZGE3MS00MGU3LTk5NjMtZGFjMDljNDlmMWE1XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/109Rc31uKFsPE7IqZzI2NfLm6XZegRWV6/view</link>
+</item>
 
 <item>
 <title>Teste</title>
