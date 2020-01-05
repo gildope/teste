@@ -1,4 +1,10 @@
 <item>
+<title>A Caixa</title>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjJiN2UwYWItNWJjNi00Zjg4LWE5NmItMmM4N2I3ZjY3OTY2XkEyXkFqcGdeQXVyODQxMTI4MjM@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1sfBVCN6Cq699wyvKdkDPul-H0r1ZErXk/view</link>
+</item>
+
+<item>
 <title>A Maldição da Chorona (Dublado) - 2019</title>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNjU4NjU4ZDktOTg2Ny00MWI2LThiMTAtMGFkZGE1MWI5MzhjXkEyXkFqcGdeQXVyODQxMTI4MjM@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1V1dbMQlNqGjQMItjE_E5DoUrCLOdI6uT/view</link>
