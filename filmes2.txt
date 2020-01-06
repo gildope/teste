@@ -1,6 +1,6 @@
 <item>
 <title>John Wick 3: Parabellum</title>
-<link>http://srv3.racaty.com:182/d/qyfnrudm6woorx5i4okyfpsizcsi3sytfb7mrmsfrnezuc3ojikettvkxgjshxh7xkv4zcqz/JHNWCK3.mp4</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UkptbMOfeCztEqf4yVHdkUfsa25bK4Nq/view</link>
 <thumbnail>https://www.the-rampage.org/wp-content/uploads/2019/06/268x0w.png</thumbnail>
 </item>
 
