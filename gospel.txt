@@ -1,4 +1,10 @@
 <item>
+<title>A Cruz e a Espada (2016)</title>
+<link>https://lh3.googleusercontent.com/EaAS0PIwbKv-Ettq4lCW2hM7mX6lOrJQVAT6rlzxGfUQya0kUIx69DoWsZGNdmxgxc10AZJJPvuvxWDnTy7-vEbDWwCu8ABNyAu_BAnqMsu-Mw6zYekfatGBrM7iS83thKv0TM4MJw=m18</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/347126movie.jpg</thumbnail>
+</item>
+
+<item>
 <title>Deus Não Está Morto 2 - God's Not Dead 2 (2016)</title>
 <link>https://lh3.googleusercontent.com/FCwPGnp2rKlpGj4jNg7wnBRpSD1BJ-vZKnNGhad-VKyVkuXWvijloCygcN7OFs4-9I_qxwu5lT6_u_s=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/347126movie.jpg</thumbnail>
