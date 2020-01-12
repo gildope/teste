@@ -1,8 +1,15 @@
 <item>
+<title>teste</title>
+<thumbnail>https://capas-m.imagemfilmes.com.br/103786_000_m.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17nZ8oukZVit1NMPn3H3u-hVsqqeFjKsi/view</link>
+</item>
+
+<item>
 <title>A Caixa</title>
 <thumbnail>https://capas-m.imagemfilmes.com.br/103786_000_m.jpg</thumbnail>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sfBVCN6Cq699wyvKdkDPul-H0r1ZErXk/view</link>
 </item>
+
 
 <item>
 <title>A Maldição da Chorona (Dublado) - 2019</title>
