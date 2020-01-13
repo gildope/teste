@@ -44,7 +44,7 @@ o<item>
  <title>[COLOR red] [COLOR yellow][I][B]Lista de Canais 3 Online[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://www.culturamix.com/wp-content/gallery/1-260/como-foi-feita-a-pesquisa-2.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/zrKmTNHv</externallink>
+<externallink>https://pastebin.com/raw/AXPWeiWj</externallink>
 </item>
 
 
