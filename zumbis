@@ -1,6 +1,8 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzYxZTE2ZWYtMGYxNS00OTFlLTkyYmMtYzVkZjI0ZTdmYzdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="GDRIVE",A noite dos mortos-vivos
-https://lh3.googleusercontent.com/WiCUhRWljn4hxmGN887GC3y2UesqfBmIHHUmL0xG-GfSdRkygbHz073ex76sVNsGgQcPvLNLwZOfLkBkuREFx-S2W1heDE33CbgnTTsI8Y8XE8zgIdnKk72U-HHxzIUHLT3q4OcDYw=m18
+<item>
+<title>A noite dos mortos-vivos</title>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzYxZTE2ZWYtMGYxNS00OTFlLTkyYmMtYzVkZjI0ZTdmYzdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<link>https://lh3.googleusercontent.com/WiCUhRWljn4hxmGN887GC3y2UesqfBmIHHUmL0xG-GfSdRkygbHz073ex76sVNsGgQcPvLNLwZOfLkBkuREFx-S2W1heDE33CbgnTTsI8Y8XE8zgIdnKk72U-HHxzIUHLT3q4OcDYw=m18</link>
+</item>
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/19/08/09/14/20/5117880.jpg" group-title="GDRIVE",Zumbilândia
