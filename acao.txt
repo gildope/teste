@@ -1,39 +1,10 @@
-
 <item>
-<title>Vingadores: Guerra Infinita (Dublado) - 2018 - 720p (Cinema)</title>
-<link>magnet:?xt=urn:btih:38589B1642BACD905A4635531F051CB45DB6A473&dn=Avengers.Infinity.War.2018.1080p.WEB-DL.H264.AC3-EVO&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2770%2fannounce</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<title>Vingadores - Era de Ultron (2015)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KliyNcJG_pRcXidH_eMrVA5GXYvdl879/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/t1F8xnBHZlQMkSAacfhUUXhmcgo.jpg</thumbnail>
 </item>
 
-<item>
-<title>Beirute (Dublado) - 2018 - 1080p</title>
-<link>https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/BEITE.mp4</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZWU5MjMxYmMtYzY2NS00MDU1LWIwMzAtMzIwYjY5NDIxZjZkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-</item>
 
-<item>
-<title>O Passageiro (Dublado) - 2018 - 1080p</title>
-<link>https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OPSGRO.mp4</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTc0NDg1MjI4OV5BMl5BanBnXkFtZTgwMDIwMTEwNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Caça aos Gângsteres (Dublado) - 2013 - 1080p</title>
-<link>https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/CACAPSGANGSTRS.mp4</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTcwMjAyMTUzMl5BMl5BanBnXkFtZTcwODgxNzk1OA@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Braddock 3: O Resgate (Dublado) - 1988 - 720p</title>
-<link>https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/BRDCK3.mp4</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZTRjODU0MTUtMjBmMi00ZTBmLTk2MDYtOWQzYjg1M2FiZDJiXkEyXkFqcGdeQXVyMjY3MjUzNDk@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Braddock 2: O Início da Missão (Dublado) - 1985 - 720p</title>
-<link>https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/BRDCK2.mp4</link>
-<thumbnail>http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/92/77/93/20224157.jpg</thumbnail>
-</item>
 
 <item>
 <title></title>
