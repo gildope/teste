@@ -68,7 +68,7 @@
 
 <channel>
 <name>Nacional</name>
-<thumbnail>http://icon-icons.com/icons2/515/PNG/256/Animated-Movies_icon-icons.com_51062.png</thumbnail>
+<thumbnail>https://cdn.icon-icons.com/icons2/515/PNG/256/Western-Movies_icon-icons.com_51037.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/nacional.txt</externallink>
 <fanart></fanart>
 <info></info>
@@ -86,6 +86,14 @@
 <name>Filmes Torrents</name>
 <thumbnail>https://i.ytimg.com/vi/CUdDDt0Vayk/hqdefault.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/torrentfilmes.txt</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Filmes Faroeste</name>
+<thumbnail>https://i.ytimg.com/vi/CUdDDt0Vayk/hqdefault.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/faroeste</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
