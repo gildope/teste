@@ -2,3 +2,6 @@
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w185/oTmBk34zblowybsJOABe0zEz9Kz.jpg" group-title="Faroeste",A Lenda de Wild Bill Hickok (Dublado) - 2017
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Q36FZm77aLpuKpDmWg-hYYXXhWq67jiK/view
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTE1MjVmYTYtOGFjZi00NGM3LTg0ZTEtNWI4MGI3NmM1MTVhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Faroeste",
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10t-2NcyAI76T-BjkBC2qtbCBibgNtcpH/view
