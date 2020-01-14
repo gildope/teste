@@ -4,47 +4,158 @@
 <link>https://lh3.googleusercontent.com/WiCUhRWljn4hxmGN887GC3y2UesqfBmIHHUmL0xG-GfSdRkygbHz073ex76sVNsGgQcPvLNLwZOfLkBkuREFx-S2W1heDE33CbgnTTsI8Y8XE8zgIdnKk72U-HHxzIUHLT3q4OcDYw=m18</link>
 </item>
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/19/08/09/14/20/5117880.jpg" group-title="GDRIVE",Zumbilândia
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1dbsppIkFoI-V8rAvEsK6p6dD9XZjJBkd/view
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<link></link>
+</item>
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/05/17/21/30/2447928.jpg" group-title="GDRIVE",A NOITE DEVOROU O MUNDO
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1bOcZ8D4-8Keav-c7FX_lC28b-eaXtV9T/view
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<link></link>
+</item>
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51vL7EIokrL._SX342_.jpg" group-title="GDRIVE",FIM DA HUMANIDADE
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1vF-7kd2l8JAWOCYLXmyryIJK56yZQe1W/view
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<link></link>
+</item>
 
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/150/21015042_20130624230921516.jpg" group-title="GDRIVE",ILHA DOS MORTOS
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1wO---C5OoEPTXe18Lb6ELKLI33nO4ooc/view
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",REC
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/13LtO5h0ySE3TbfL1KX2XCVj_YP99WDgz/view
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<link></link>
+</item>
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/fDZoH0cgvLUKe-2DkRCDNpqWQNQ=/fit-in/290x478/smart/media/movies/covers/2010/08/6091b7768647466892059657d314bc79.jpg" group-title="GDRIVE",REC2
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1IE-PAtw8hG5h-cUI8qKdStgA7WP_Ha4y/view
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<link></link>
+</item>
 
-#EXTINF:-1 tvg-logo="https://wegotthiscovered.com/wp-content/uploads/rec3.jpeg" group-title="GDRIVE",REC3
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1lCLt8QBGtH0yehZQx72AUSiQYKH3WsKO/view
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<link></link>
+</item>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",A NOITE DOS MORTOS VIVOS
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/18_yk2C7KODEvQQgmNpUinRihIBqNyvWI
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<link></link>
+</item>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",A NOITE DOS MORTOS REANIMAÇÃO 2011
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1biyQbL8XfCcc4V4Ol7pkcsRHJYHCLuxP
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<link></link>
+</item>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",AO CAIR DA NOITE
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/13OErTh-MmztEx8xLkk_-9FxKSL-YP93u
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<link></link>
+</item>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",DIA DOS MORTOS 2018
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Rjmkx4m5bBagi8CE4oCtQcL8gp1cTGfP
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<link></link>
+</item>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",EXTERMÍNIO
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1kpWcRkq_FFnxLQdZ5repe6oMpWCQAhmC
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<link></link>
+</item>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",EXTERMÍNIO 2
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1MqlvrJoqacOm_AlhdNxKfuSlDgILrzha
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<link></link>
+</item>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Rec_poster.jpg/200px-Rec_poster.jpg" group-title="GDRIVE",FILME B: ENTRE MORTOS E VIVOS
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1BlUpEhAGdZeP4M9UvKA7SpevzqHmIGLw
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<link></link>
+</item>
+
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<link></link>
+</item>
+
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<link></link>
+</item>
+
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<link></link>
+</item>
+
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<link></link>
+</item>
+
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<link></link>
+</item>
+
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<link></link>
+</item>
+
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<link></link>
+</item>
+
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<link></link>
+</item>
+
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<link></link>
+</item>
+
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<link></link>
+</item>
+
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<link></link>
+</item>
+
+<item>
+<title>A NOITE DEVOROU O MUNDO</title>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/05/17/21/30/2447928.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1bOcZ8D4-8Keav-c7FX_lC28b-eaXtV9T/view</link>
+</item>
+
+<item>
+<title>Zumbilândia</title>
+<thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/19/08/09/14/20/5117880.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1dbsppIkFoI-V8rAvEsK6p6dD9XZjJBkd/view</link>
+</item>
