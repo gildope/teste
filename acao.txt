@@ -9,7 +9,7 @@
 <item>
 <title>Vingadores: Ultimato (2019)</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SmQL1FDur-F3UpQpofGRTcrXPWjjpKjC/view</link>
-<thumbnail>https://www.themoviedb.org/movie/299534-avengers-endgame?language=pt-BR#</thumbnail>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 </item>
 
 <item>
