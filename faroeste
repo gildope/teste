@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w185/oTmBk34zblowybsJOABe0zEz9Kz.jpg" group-title="Faroeste",A Lenda de Wild Bill Hickok (Dublado) - 2017
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Q36FZm77aLpuKpDmWg-hYYXXhWq67jiK/view
+
