@@ -98,5 +98,12 @@
 <info></info>
 </channel>
 
+<channel>
+<name>Filmes de Zumbis</name>
+<thumbnail>https://cdn.icon-icons.com/icons2/941/PNG/512/13_icon-icons.com_73799.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/zumbis</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
 
 </channels>
