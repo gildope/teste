@@ -62,6 +62,16 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
 #EXTINF:-1,Retro Plus TV
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
+#EXTINF:-1,Canal Futura
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+
+#EXTINF:-1,TV Aparecida
+https://caikron.com.br:8082/tvap/tvap/playlist.m3u8
+
+#EXTINF:-1,TV Brasil
+http://ebctvbrasil-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvbrasil/manifest.m3u8
+
+
 
 
 
