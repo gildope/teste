@@ -92,7 +92,7 @@
 
 <channel>
 <name>Filmes Faroeste</name>
-<thumbnail>https://i.ytimg.com/vi/CUdDDt0Vayk/hqdefault.jpg</thumbnail>
+<thumbnail>https://cdn.icon-icons.com/icons2/515/PNG/256/Western-Movies_icon-icons.com_51037.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/faroeste</externallink>
 <fanart></fanart>
 <info></info>
