@@ -1,12 +1,4 @@
 <item>
-<title>John Wick 3: Parabellum</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UkptbMOfeCztEqf4yVHdkUfsa25bK4Nq/view</link>
-<thumbnail>https://www.the-rampage.org/wp-content/uploads/2019/06/268x0w.png</thumbnail>
-</item>
-
-
-
-<item>
 <title>Vingadores: Guerra Infinita Dublado</title>
 <link>https://lh3.googleusercontent.com/XcLKsJTWmUqlB7Torl1Ysc_Gs_nmZkVhbZGwtiEmhSEBJstaA7wfb9eLsCgYeO6Yr4MoDagqGdw7VXJB5w=m22</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/299536movie.jpg</thumbnail>
