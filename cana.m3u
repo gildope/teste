@@ -1,7 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1,fox
-http://198.255.23.18:2095/streams/55_.m3u8
+#EXTINF:-1,Cine Filmes
+https://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV&wowzasessionid=871175269
+
+#EXTINF:-1,Classic TV
+https://stmv2.euroti.com.br/classique/classique/live.m3u8?wowzasessionid=362999001
+
+#EXTINF:-1,Classic TV 2
+https://stmv1.ifantasy.com.br/classique/classique/playlist.m3u8
+
+
+#EXTINF:-1,Globo
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-sp1/hls-globo-sp1_1485/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
 
 #EXTINF:-1,teste 3
 udp://@224.0.0.1:9999
