@@ -1,0 +1,39 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>JvFlix - FILMES - A</name>
+<thumbnail>http://icon-icons.com/icons2/515/PNG/256/Action-Movies_icon-icons.com_51064.png</thumbnail>
+<externallink>https://pastebin.com/raw/cErqia7X</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>JvFlix - FILMES - B</name>
+<thumbnail>http://orig11.deviantart.net/212a/f/2015/109/b/c/comedy_folder_icon_by_mikromike-d8qctc1.png</thumbnail>
+<externallink>https://pastebin.com/raw/00zMTnfP</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>JvFlix - FILMES LANCAMENTOS</name>
+<thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Drama-icon.png</thumbnail>
+<externallink>https://pastebin.com/raw/QsV1FF8D</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>JvFlix - FILMES VARIADOS</name>
+<thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Drama-icon.png</thumbnail>
+<externallink>https://pastebin.com/raw/tPLs12PB</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+
+
+</channels>
