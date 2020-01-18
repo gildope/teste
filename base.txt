@@ -1,54 +1,68 @@
 o<item>
-<title>[COLOR green] [COLOR green][I][B]SERIADOS[/I][/B][/COLOR]</title>
+<title>[COLOR green] [COLOR orange][I][B]SERIADOS[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://lh3.googleusercontent.com/_BgymwE-9mH0/TdUEfrPT0VI/AAAAAAAAEy0/1PuI8Y5fkAA/Seriados-1A2.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/seriados.txt</externallink>
 </item>
 
 <item>
-<title>[COLOR brown] [COLOR darkviolet][I][B]FILMES[/I][/B][/COLOR]</title>
+<title>[COLOR brown] [COLOR orange][I][B]FILMES[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://lh5.googleusercontent.com/--KLTTOSFTMk/UDM-qNRO4BI/AAAAAAAAB7U/h8_KmTfWXeU/s256/filmes2.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/filmes.txt</externallink>
 </item>
 
 <item>
- <title>[COLOR red] [COLOR red][I][B]FILMES (LISTA GERAL)[/I][/B][/COLOR]</title>
+ <title>[COLOR red] [COLOR orange][I][B]FILMES (LISTA GERAL)[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>https://i.ytimg.com/vi/oWlOMTNsfOY/maxresdefault.jpg</thumbnail>
+<thumbnail>https://cdn.icon-icons.com/icons2/1146/PNG/512/1486485577-314arrow-film-movie-play-player-start-video_81195.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/filmes2.txt</externallink>
 </item>
 
 <item>
- <title>[COLOR yellow] [COLOR yellow][I][B]Lista de Canais Online[/I][/B][/COLOR]</title>
+ <title>[COLOR red] [COLOR orange][I][B]JvFlix - FILMES LANCAMENTOS[/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://cdn.icon-icons.com/icons2/1146/PNG/512/1486485577-314arrow-film-movie-play-player-start-video_81195.png</thumbnail>
+<externallink>https://pastebin.com/raw/QsV1FF8D</externallink>
+</item>
+
+<item>
+ <title>[COLOR red] [COLOR orange][I][B]JvFlix - FILMES VARIADOS[/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://i.ytimg.com/vi/oWlOMTNsfOY/maxresdefault.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/tPLs12PB</externallink>
+</item>
+
+<item>
+ <title>[COLOR yellow] [COLOR orange][I][B]Lista de Canais Online[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://www.culturamix.com/wp-content/gallery/1-260/como-foi-feita-a-pesquisa-2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/cana.m3u</externallink>
 </item>
 
 <item>
- <title>[COLOR yellow] [COLOR yellow][I][B]Luiz Filmes[/I][/B][/COLOR]</title>
+ <title>[COLOR yellow] [COLOR orange][I][B]Luiz Filmes[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://static6.depositphotos.com/1014999/603/v/950/depositphotos_6030007-stock-illustration-film-and-movies-industry-icon.jpg</thumbnail>
 <externallink>http://bit.ly/LuizFilmes</externallink>
 </item>
 
 <item>
- <title>[COLOR yellow] [COLOR yellow][I][B]Documentários[/I][/B][/COLOR]</title>
+ <title>[COLOR yellow] [COLOR orange][I][B]Documentários[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://1.bp.blogspot.com/-_0r7OIqViqw/WRKg9-XKioI/AAAAAAAAL3U/SdIAVn7lOA0GkZgnRrPsWt5jNgBMH9QvgCLcB/s1600/Document%25C3%25A1rios.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/docs.txt</externallink>
 </item>
 
 <item>
- <title>[COLOR red] [COLOR yellow][I][B]ALÉM DA IMAGINAÇÃO[/I][/B][/COLOR]</title>
+ <title>[COLOR red] [COLOR orange][I][B]ALÉM DA IMAGINAÇÃO[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://static.wmobjects.com.br/imgres/arquivos/ids/3162766-344-344/.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/alem.txt</externallink>
 </item>
 
 <item>
- <title>[COLOR red] [COLOR yellow][I][B]Festival Mazzaropi[/I][/B][/COLOR]</title>
+ <title>[COLOR red] [COLOR orange][I][B]Festival Mazzaropi[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>http://www.bastidoresdatv.com.br/wp-content/uploads/2016/09/Festival.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/mazza</externallink>
