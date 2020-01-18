@@ -15,7 +15,7 @@ o<item>
 <item>
  <title>[COLOR red] [COLOR orange][I][B]FILMES (LISTA GERAL)[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>https://cdn.icon-icons.com/icons2/1146/PNG/512/1486485577-314arrow-film-movie-play-player-start-video_81195.png</thumbnail>
+<thumbnail>https://cdn.icon-icons.com/icons2/1146/PNG/512/1486485582-311arrow-film-movie-play-player-start-video_81177.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/filmes2.txt</externallink>
 </item>
 
@@ -36,7 +36,7 @@ o<item>
 <item>
  <title>[COLOR yellow] [COLOR orange][I][B]Luiz Filmes[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>https://static6.depositphotos.com/1014999/603/v/950/depositphotos_6030007-stock-illustration-film-and-movies-industry-icon.jpg</thumbnail>
+<thumbnail>https://cdn.icon-icons.com/icons2/1147/PNG/512/1486486316-arrow-film-movie-play-player-start-video_81236.png</thumbnail>
 <externallink>http://bit.ly/LuizFilmes</externallink>
 </item>
 
