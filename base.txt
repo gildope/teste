@@ -27,17 +27,17 @@ o<item>
 </item>
 
 <item>
- <title>[COLOR yellow] [COLOR orange][I][B]Lista de Canais Online[/I][/B][/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>https://www.culturamix.com/wp-content/gallery/1-260/como-foi-feita-a-pesquisa-2.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/cana.m3u</externallink>
-</item>
-
-<item>
  <title>[COLOR yellow] [COLOR orange][I][B]Luiz Filmes[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://cdn.icon-icons.com/icons2/1147/PNG/512/1486486316-arrow-film-movie-play-player-start-video_81236.png</thumbnail>
 <externallink>http://bit.ly/LuizFilmes</externallink>
+</item>
+
+<item>
+ <title>[COLOR yellow] [COLOR orange][I][B]Lista de Canais Online[/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.culturamix.com/wp-content/gallery/1-260/como-foi-feita-a-pesquisa-2.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/cana.m3u</externallink>
 </item>
 
 <item>
