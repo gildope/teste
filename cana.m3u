@@ -107,6 +107,15 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
 #EXTINF:-1,Retro Plus TV
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
+#EXTINF:-1, 1HD Music Television
+https://strm.yandex.ru/kal/1hd/1hd0_169_480p.json/index-v1-a1.m3u8
+
+#EXTINF:-1, 1Music HU
+http://1music.hu/1music.m3u8
+
+#EXTINF:-1, 1st Baltic Music
+https://streamer5.tvdom.tv/in/tvdom/index.m3u8
+
 #EXTINF:-1,Canal Futura
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
 
