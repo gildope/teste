@@ -1,4 +1,11 @@
 <item>
+
+<title>A Tara Maldita (Dublado) - 2018</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14yTzsKbW0ffw43u_LV6fI5fGxPJry-8-/view</link>
+<thumbnail>https://4.bp.blogspot.com/-gYBH4GI0_Bc/W1JCntIuQQI/AAAAAAAAQGM/J6ApHG8X6iguaE3om_VTxwsZ3O2L-UK4ACLcBGAs/s640/thebadseedposter.jpg</thumbnail>
+</item>
+https://drive.google.com/file/d/14yTzsKbW0ffw43u_LV6fI5fGxPJry-8-/view
+
 <title>Ano Novo, Morte Nova (Dublado) - 2018</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12AyG_sIEQb5blaUJm4VSdQAmEHjmoqPp/view</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTY3NTUzNTgzNV5BMl5BanBnXkFtZTgwOTk2MDUxNzE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
