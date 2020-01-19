@@ -127,5 +127,23 @@ http://ebctvbrasil-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvbrasi
 
 
 
+#EXTINF:-1, M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1, Melody Channel TV
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1, MOOZ DANCE
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/227.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1, MOOZ DANCE
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/227.m3u8/Level(545259)?start=LIVE&end=END&time=1472768812494
+#EXTINF:-1, MOOZ HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/227.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044
+#EXTINF:-1, Mooz Hits
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/227.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1, MOOZ HITS
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/227.m3u8/Level(545259)?start=LIVE&end=END&time=1472768646553
 
+#EXTINF:-1, NRJ Hits TV
+http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_360p/playlist.m3u8
+#EXTINF:-1, VH1 Classic
+http://46.32.68.167/s/live/106/816951136/819088191919/0.m3u8
 
