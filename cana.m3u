@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1,MTV HD
+http://ll-tv.xyz:24561/live/bird/bird/3906.ts
+#EXTINF:-1,MTV 2
+http://ll-tv.xyz:24561/live/bird/bird/71458.ts
+
 #EXTINF:-1,Cine Filmes
 https://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV&wowzasessionid=871175269
 
