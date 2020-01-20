@@ -6,20 +6,15 @@
 
 <item>
 <title>Ano Novo, Morte Nova (Dublado) - 2018</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12AyG_sIEQb5blaUJm4VSdQAmEHjmoqPp/view</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTY3NTUzNTgzNV5BMl5BanBnXkFtZTgwOTk2MDUxNzE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Ano Novo, Morte Nova (Opção 2)</title>
-<link>https://lh3.googleusercontent.com/zACPhrqIQzylgnqBKIa8oTkV98sLrdsB_3Tk87G79qJ6TjhcihBacdzi6TddW6vzuzXhpSsP4rb0X75MsT-VY1UP6MCk5_oxC2k_XzW8neEYh9zltuFGc5S6733YpvGqelxW6__6aA=m22</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12AyG_sIEQb5blaUJm4VSdQAmEHjmoqPp/view?usp=drivesdk</link>
+<link>https://lh3.googleusercontent.com/zACPhrqIQzylgnqBKIa8oTkV98sLrdsB_3Tk87G79qJ6TjhcihBacdzi6TddW6vzuzXhpSsP4rb0X75MsT-VY1UP6MCk5_oxC2k_XzW8neEYh9zltuFGc5S6733YpvGqelxW6__6aA=m18</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTY3NTUzNTgzNV5BMl5BanBnXkFtZTgwOTk2MDUxNzE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 </item>
 
 <item>
 <title>Os Assassinatos de Amityville (Dublado) - 2018</title>
 <thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/19/01/04/11/37/0052600.jpg</thumbnail>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NE0VuCy_T0BEj6HtbDXrGMytgBjUuQLh/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NE0VuCy_T0BEj6HtbDXrGMytgBjUuQLh/view?usp=drivesdk</link>
 </item>
 
 
@@ -27,11 +22,6 @@
 <title>A Maldição Da Bela Adormecida (Dublado) - 2016</title>
 <thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/16/04/04/14/15/585749.jpg</thumbnail>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XbvKLTLf-KmxfXjeiuwFi8NU28Xj7l76/view</link>
-</item>
-
-<item>
-<title>A Maldição Da Bela Adormecida (Opção 2)</title>
-<thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/16/04/04/14/15/585749.jpg</thumbnail>
 <link>https://lh3.googleusercontent.com/OYp_Oi4bmLq6xGIZhxpZ_aqaUjI8CYlWo3_1W3M3QEJJSPgmlf_PLPSCKQntbbEz3Ep00l6Nqg0vA6z8WeETwsQThOFgeooE7-Gs_9UiDfPKrrSdyvpvyHTUyBVpnq1qwJc42G4tHg=m22</link>
 </item>
 
