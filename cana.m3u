@@ -1,7 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1,Lista
-https://pastebin.com/raw/AXPWeiWj
+
+#EXTINF: -1,FOX PREMIUM 2
+https://d3mfhh867eqwm0.cloudfront.net/hls1/foxpremium2.m3u8?wmsAuthSign=
+
 
 #EXTINF:-1,Cine Filmes
 https://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV&wowzasessionid=871175269
