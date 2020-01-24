@@ -1,27 +1,6 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ae/Jeepers_Creepers_capa.jpg/225px-Jeepers_Creepers_capa.jpg" group-title="GDRIVE",(1963) Mazzaropi -Teste
-https://lh3.googleusercontent.com/-EoGnwq1jpaMkpF3iTEyEFNCcEsnhffWoe-j_p_9DO7ojL2SmkNEcsGaPdaoIUX2-cWoMTm2p1nW7NuQLmQeIfzs7N--FQ72t88lJkiRGnJgFKnUXZRfDP8hSj3KOCTrz2_TfA-5ifWDR6Kh1K76erMUyEl1Hlsnw2FkVnJEcNG6CfhxggcUTVRj8iPDEEri9QeWz_S9Ipr_O6U1pZFYhA698KEigsHliIlEbWx-LvZHbNuLjNcakBSppQ52nWJr6oqo__zyIWEznnVWj4pURZws6V5jz4I5Z2-lMWb-b4MOX71U9zSjAc9Q-3hH1wGyVEkvzayTs6RusNFV2UP6rf0oQU-s_FbmNYGOZsD55uOaGKr_hKGBRV4wW2lVgPayzkNVPupnE9-gOb0mi0Wbgov-gZbNqAtuv1mTpwNYxaKB8Yo8YBqZsmrGImplcHDHUUf5AcvqQRdaBNIOTu6wA5cv1slDZ9sDUc6ShVK8sQIUvijSMzXMBZtIt5yeD41R085aOa8KsepvCok_wMTFwcdjkG40qwYwrHuzySvrBqyMBMzIQhKbKpC2NPPfGFrCzhaJip6YDbNul4Xgy2vQdSzHDeOoMrVqUdLQu_HJfuYYg8GMEZiIYQd-FEMcERQHBTeY6ZuJzFBg7N-WnCVWCWzpnmO7x8eWPoWOVgrNY7tkK1kJ_TJyytmv15y2W-IX-SJP4MZkGbLHRs7v0xDjwQwTW5vyvEA6qS6-k3-dXsitMnBZ=m18
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ae/Jeepers_Creepers_capa.jpg/225px-Jeepers_Creepers_capa.jpg" group-title="GDRIVE",(1963) Mazzaropi - Casinha Pequenina
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1-IcMxuXI6V_DlgQSg3YIV6uT3QFv_fxs/view
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ae/Jeepers_Creepers_capa.jpg/225px-Jeepers_Creepers_capa.jpg" group-title="GDRIVE",(1964) Mazzaropi - Meu Japão Brasileiro
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/17GyKTTkiOvguX1IayXWE_ZkIt87HINvY/view
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ae/Jeepers_Creepers_capa.jpg/225px-Jeepers_Creepers_capa.jpg" group-title="GDRIVE",(1964) Mazzaropi - O Lamparina
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1RDvd8icAlH5q_979Go6pVloPS3IyIiD6/view
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ae/Jeepers_Creepers_capa.jpg/225px-Jeepers_Creepers_capa.jpg" group-title="GDRIVE",(1965) Mazzaropi - O Puritano da rua augusta
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1AQujYOnCkwL6JqIdQ3W-XtXXYJyuvhwW/view
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ae/Jeepers_Creepers_capa.jpg/225px-Jeepers_Creepers_capa.jpg" group-title="GDRIVE",(1966) Mazzaropi - O Corintiano
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1-9oYdyvDuvtCaCNdBBlngeGbiBVn4gzN/view
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ae/Jeepers_Creepers_capa.jpg/225px-Jeepers_Creepers_capa.jpg" group-title="GDRIVE",(1967) Mazzaropi - O Jeca e a Freira
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/12vhAx_pYQw25n_g_xP1RaN5S6dqf51h6/view
+<item>
+<title>(1963) Mazzaropi - Casinha Pequenina</title>
+<link>https://doc-0g-7o-docs.googleusercontent.com/docs/securesc/m3jc1gail5p6vm5a65j738jvip04t66f/pblrcj2f4grdhplj44dhmkogbqlg9iaj/1579824000000/11542273209601612520/11542273209601612520/1yMtmmPYhWiouVQcbfPNskLHDf4E_zwi-?e=download&gd=true&access_token=ya29.ImG7B5QaQ0S6CaEynoI7AlCm8QeoFjeFCj179tdmH_ikMA_zfn8WX1Uf9bikmhcbgmtIDLnTliK0ZYqtALGQlAQ_R2deIQiWQ5Ofhx1DaS3YMPgTk5NDkMUvY-cwDT3wL7U3</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yMtmmPYhWiouVQcbfPNskLHDf4E_zwi-/view</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4NzE5NjU1OF5BMl5BanBnXkFtZTcwMzU5MDEwNQ@@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
+</item>]
