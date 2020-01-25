@@ -1,16 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 ,HBO Family HD
-http://187.120.222.12:8000/play/a00k/index.m3u8
-#EXTINF:-1 ,HBO HD
-http://187.120.222.12:8000/play/HBOLEG/index.m3u8
-#EXTINF:-1 ,HBO Signature HD
-http://187.120.222.12:8000/play/a00l/index.m3u8
-#EXTINF:-1 ,HBO+ HD
-http://187.120.222.12:8000/play/HBOPlusLEG/index.m3u8
-#EXTINF:-1 ,HBO2 HD
-http://187.120.222.12:8000/play/a00i/index.m3u8
+#EXTINF:-1 ,Disney Júnior
+http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyJrBRA/master_Layer3.m3u8
 
 
 #EXTINF:-1,Cine Filmes
