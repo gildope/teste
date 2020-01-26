@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,TNT
+https://df6xz8y67u5dl.cloudfront.net/hls1/tnt.m3u8?wmsAuthSign=
 
 #EXTINF:-1,Cine Filmes
 https://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV&wowzasessionid=871175269
