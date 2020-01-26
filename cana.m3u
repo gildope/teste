@@ -1,10 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 ,Disney Júnior
-http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyJrBRA/master_Layer3.m3u8
-
-
 #EXTINF:-1,Cine Filmes
 https://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV&wowzasessionid=871175269
 
@@ -97,22 +93,22 @@ https://5abdf4edae5bf.streamlock.net/maricatvstation/maricatvstation/playlist.m3
 #EXTINF:-1,Tv Ad Vila Verde
 https://5cc00ac6defaf.streamlock.net:1443/advilaverde/_definst_/advilaverde/playlist.m3u8
 
-#EXTINF:-1,Gospel Movie TV
+#EXTINF:-1 group-title="Religioso",Gospel Movie TV
 http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
 
-#EXTINF:-1,TV Jornal Caruaru (SBT PE)
+#EXTINF:-1 group-title="TV ABERTA",TV Jornal Caruaru (SBT PE)
 http://evpp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
 
-#EXTINF:-1,retro
+#EXTINF:-1 group-title="Música", retro
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="General" tvg-logo="http://crawler.mdcgate.com/iptv/logo/6374.png",RETRO TV
+#EXTINF:-1 group-title="Música",RETRO TV
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
 
-#EXTINF:-1,Retro Plus TV
+#EXTINF:-1 group-title="Música",Retro Plus TV
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
-#EXTINF:-1, 1HD Music Television
+#EXTINF:-1 group-title="Música", 1HD Music Television
 https://strm.yandex.ru/kal/1hd/1hd0_169_480p.json/index-v1-a1.m3u8
 
 #EXTINF:-1, 1Music HU
@@ -132,23 +128,25 @@ http://ebctvbrasil-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvbrasi
 
 
 
-#EXTINF:-1, M2O TV
+#EXTINF:-1 group-title="Música", M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1, Melody Channel TV
+#EXTINF:-1 group-title="Música", Melody Channel TV
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:-1, MOOZ DANCE
+#EXTINF:-1 group-title="Música", MOOZ DANCE group-title="Música",
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/227.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1, MOOZ DANCE
+#EXTINF:-1 group-title="Música", MOOZ DANCE
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/227.m3u8/Level(545259)?start=LIVE&end=END&time=1472768812494
-#EXTINF:-1, MOOZ HD
+#EXTINF:-1 group-title="Música", MOOZ HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/227.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044
-#EXTINF:-1, Mooz Hits
+#EXTINF:-1 group-title="Música", Mooz Hits
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/227.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1, MOOZ HITS
+#EXTINF:-1 group-title="Música", MOOZ HITS
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/227.m3u8/Level(545259)?start=LIVE&end=END&time=1472768646553
 
-#EXTINF:-1, NRJ Hits TV
+#EXTINF:-1 group-title="Música", NRJ Hits TV
 http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_360p/playlist.m3u8
-#EXTINF:-1, VH1 Classic
+#EXTINF:-1 group-title="Música", VH1 Classic
 http://46.32.68.167/s/live/106/816951136/819088191919/0.m3u8
 
+#EXTINF:-1 group-title="Infantil" ,Disney Júnior
+http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyJrBRA/master_Layer3.m3u8
