@@ -160,6 +160,12 @@
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/lacasapapel</externallink>
 </channel>
 
+<channel>
+<name>O Mandaloriano</name>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/syGVWP2DdSMtZvYq05aTIiHG8TO.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/The.Mandalorian</externallink>
+</channel>
+
 
 </channels>
 
