@@ -4,16 +4,27 @@
 <channels>
 
 <channel>
-<name>THE Magicians</name>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81%2Bl%2BVNuYIL.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/magicians.txt</externallink>
+<name>Fear the Walking Dead: Temporada 3</name>
+<thumbnail>http://cinedoanula.com/imdb/posters/62286series.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/fear.txt</externallink>
 </channel>
 
+<channel>
+<name>The Walking Dead</name>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/1402series.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/dead.txt</externallink>
+</channel>
 
 <channel>
-<name>THE PASSAGE</name>
-<thumbnail>http://br.web.img3.acsta.net/c_216_288/pictures/18/11/16/09/57/1523903.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/The%20Passage.txt</externallink>
+<name>O Mandaloriano</name>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/syGVWP2DdSMtZvYq05aTIiHG8TO.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/The.Mandalorian</externallink>
+</channel>
+
+<channel>
+<name>La Casa de Papel</name>
+<thumbnail>https://media.fstatic.com/sxUT-xzAE0uXvNvZG9wAKN0DFSw=/fit-in/290x478/smart/media/movies/covers/2017/12/16197aced1049174c47f958b0c5b46e20da9e56b.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/lacasapapel</externallink>
 </channel>
 
 <channel>
@@ -38,30 +49,6 @@
 <name>Slasher/<name>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/slasher.txt</externallink>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmI0OTZjM2MtMTUyNC00MzhjLWIzMTEtZTlmZmM3NzM4MDg1XkEyXkFqcGdeQXVyMzUxMzEwODA@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
-</channel>
-
-<channel>
-<name>O NEVOEIRO</name>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/68315series.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/nevoeiro.txt</externallink>
-</channel>
-
-<channel>
-<name>Game of Trones</name>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/1399series.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/game.txt</externallink>
-</channel>
-
-<channel>
-<name>Penny Dreadful</name>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/54671series.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/penny.txt</externallink>
-</channel>
-
-<channel>
-<name>The Walking Dead</name>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/1402series.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/dead.txt</externallink>
 </channel>
 
 <channel>
@@ -119,12 +106,6 @@
 </channel>
 
 <channel>
-<name>PLANETA TERRA II</name>
-<thumbnail>https://www.brasilturbo.com/tdQvm5Mi.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/terra2.txt</externallink>
-</channel>
-
-<channel>
 <name>Hannibal</name>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/40008series.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/hannibal.txt</externallink>
@@ -137,35 +118,16 @@
 </channel>
 
 <channel>
-<name>Fear the Walking Dead: Temporada 3</name>
-<thumbnail>http://cinedoanula.com/imdb/posters/62286series.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/fear.txt</externallink>
-</channel>
-
-<channel>
-<name>Dawson's Creek</name>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNjhjNzBiNGMtZGI0ZC00NjEyLTgxM2EtYzU3OWYwOTdhOTE3XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/Dawson's%20Creek</externallink>
-</channel>
-
-<channel>
 <name>Antologia do Medo</name>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTY4NzE5NjU1OF5BMl5BanBnXkFtZTcwMzU5MDEwNQ@@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/Ant_medo.txt</externallink>
 </channel>
 
 <channel>
-<name>La Casa de Papel</name>
-<thumbnail>https://media.fstatic.com/sxUT-xzAE0uXvNvZG9wAKN0DFSw=/fit-in/290x478/smart/media/movies/covers/2017/12/16197aced1049174c47f958b0c5b46e20da9e56b.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/lacasapapel</externallink>
+<name>THE PASSAGE</name>
+<thumbnail>http://br.web.img3.acsta.net/c_216_288/pictures/18/11/16/09/57/1523903.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/The%20Passage.txt</externallink>
 </channel>
-
-<channel>
-<name>O Mandaloriano</name>
-<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/syGVWP2DdSMtZvYq05aTIiHG8TO.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/The.Mandalorian</externallink>
-</channel>
-
 
 </channels>
 
