@@ -12,8 +12,11 @@ https://globolive.akamaized.net/d/c/x2800/s/hls-globo-rj/hls-globo-rj_964/playli
 #EXTINF:-1,RECORD SP HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
-#EXTINF:-1,NOSSA TV
-http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
+#EXTINF:-1,NOSSA TV RN
+https://cdn.jmvstream.com/w/sadrak/_definst_/sadrak/playlist.m3u8
+
+#EXTINF:-1,AGRO BRASIL TV
+http://177.54.152.243/agrobrasiltv/agrobrasiltv/media_w697568885_14562.ts?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1,Cine Filmes
 https://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV&wowzasessionid=871175269
