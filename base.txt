@@ -48,6 +48,14 @@ o<item>
 </item>
 
 <item>
+ <title>[COLOR yellow] [COLOR orange][I][B]Lista de Canais Online[/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.culturamix.com/wp-content/gallery/1-260/como-foi-feita-a-pesquisa-2.jpg</thumbnail>
+<externallink>http://bit.ly/PJT2018</externallink>
+</item>
+
+
+<item>
  <title>[COLOR yellow] [COLOR orange][I][B]Documentários[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://1.bp.blogspot.com/-_0r7OIqViqw/WRKg9-XKioI/AAAAAAAAL3U/SdIAVn7lOA0GkZgnRrPsWt5jNgBMH9QvgCLcB/s1600/Document%25C3%25A1rios.jpg</thumbnail>
