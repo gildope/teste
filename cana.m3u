@@ -18,6 +18,18 @@ https://cdn.jmvstream.com/w/sadrak/_definst_/sadrak/playlist.m3u8
 #EXTINF:-1,AGRO BRASIL TV
 http://177.54.152.243/agrobrasiltv/agrobrasiltv/media_w697568885_14562.ts?PEDROJUNIORTUTORIAIS
 
+#EXTINF:-1,TERRA VIVA
+http://evpp.mm.uol.com.br/band_live/terraviva/media_w1187601395_24783.ts?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1,GNT
+https://globolive.akamaized.net/d/c/x2800/s/hls-gnt24ha/hls-gnt24ha_886/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1,MAIS GLOBOSAT
+https://globolive.akamaized.net/d/c/x2800/s/hls-maisgsat24ha/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e&PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1,yeeaah TV
+https://stmv1.srvstm.com/yeeaah/yeeaah/playlist.m3u8?wowzasessionid=1141758021&PEDROJUNIORTUTORIAIS
+
 #EXTINF:-1,Cine Filmes
 https://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV&wowzasessionid=871175269
 
