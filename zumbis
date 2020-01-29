@@ -30,12 +30,6 @@
 </item>
 
 <item>
-<title>[REC] 3 - Gênesis (2012)</title>
-<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/f8u0XzYhv0oiuXSI9facdsZSJhj.jpg</thumbnail>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10eU7vPWpmmv2y4Jl15WEC6ZuzJHDWyw0/view</link>
-</item>
-
-<item>
 <title>Extermínio (2002)</title>
 <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/dBOXqgyClYtbyXhgU61pIjqSwL5.jpg</thumbnail>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17-PNaxuJMUVyoH5f0mvFJfXRvfnKr-sO/view</link>
@@ -48,15 +42,15 @@
 </item>
 
 <item>
-<title></title>
-<thumbnail></thumbnail>
-<link></link>
+<title>Vírus (2009)</title>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/sXwshSzVsMvpJpGxvuPGsRxGzpV.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1klJKDflPIe-5rQ2nNfqtM3-ZVRdWAO7p/view</link>
 </item>
 
 <item>
-<title></title>
-<thumbnail></thumbnail>
-<link></link>
+<title>Como Sobreviver a um Ataque Zumbi (2015)</title>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/dZp19QRLVH6jWZXDWlSN47P282H.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Jx-x_w9pwPHA9SlmgRYWRejFoi68BpQl/view</link>
 </item>
 
 <item>
