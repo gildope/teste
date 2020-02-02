@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 ,BAND
+https://video01.kshost.com.br/rba2779/rba2779/chunklist_w1648404677.m3u8
+
 #EXTINF:-1,SBT HD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 
@@ -9,11 +12,12 @@ https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u
 #EXTINF:-1,GLOBO RJ
 https://globolive.akamaized.net/d/c/x2800/s/hls-globo-rj/hls-globo-rj_964/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 
+#EXTINF:-1,Globo SP
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-sp1/hls-globo-sp1_1485/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+
 #EXTINF:-1,RECORD SP HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-
-#EXTINF:-1,NOSSA TV RN
-https://cdn.jmvstream.com/w/sadrak/_definst_/sadrak/playlist.m3u8
 
 #EXTINF:-1,AGRO BRASIL TV
 http://177.54.152.243/agrobrasiltv/agrobrasiltv/media_w697568885_14562.ts?PEDROJUNIORTUTORIAIS
@@ -24,6 +28,9 @@ http://evpp.mm.uol.com.br/band_live/terraviva/media_w1187601395_24783.ts?PEDROJU
 #EXTINF:-1,GNT
 https://globolive.akamaized.net/d/c/x2800/s/hls-gnt24ha/hls-gnt24ha_886/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 
+#EXTINF:-1,Viva (New!)
+https://globolive.akamaized.net/d/c/x2800/s/hls-viva24ha/hls-viva24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
 #EXTINF:-1,MAIS GLOBOSAT
 https://globolive.akamaized.net/d/c/x2800/s/hls-maisgsat24ha/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e&PEDROJUNIORTUTORIAIS
 
@@ -32,6 +39,13 @@ https://stmv1.srvstm.com/yeeaah/yeeaah/playlist.m3u8?wowzasessionid=1141758021&P
 
 #EXTINF:-1,BIS
 https://globolive.akamaized.net/d/c/x2800/s/hls-bis24ha/hls-bis24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1,Multishow Channel (Opt-1)
+https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_1417/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1,Multishow Channel (Opt-2)
+https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_886/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
 
 #EXTINF:-1,Cine Filmes
 https://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV&wowzasessionid=871175269
@@ -43,20 +57,12 @@ https://stmv2.euroti.com.br/classique/classique/live.m3u8?wowzasessionid=3629990
 https://stmv1.ifantasy.com.br/classique/classique/playlist.m3u8
 
 
-#EXTINF:-1,Globo
-https://globolive.akamaized.net/d/c/x2800/s/hls-globo-sp1/hls-globo-sp1_1485/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-
-#EXTINF:-1,Viva (New!)
-https://globolive.akamaized.net/d/c/x2800/s/hls-viva24ha/hls-viva24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+#EXTINF:-1 group-title="Infantil" ,Disney Júnior
+http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyJrBRA/master_Layer3.m3u8
 
 #EXTINF:-1,Gloob
 https://globolive.akamaized.net/d/c/x2800/s/hls-gloob24ha/hls-gloob24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 
-#EXTINF:-1,Multishow Channel (Opt-1)
-https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_1417/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-
-#EXTINF:-1,Multishow Channel (Opt-2)
-https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_886/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 
 #EXTINF:-1,All Sports
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
@@ -207,5 +213,4 @@ http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_360p/playlist.m3u8
 #EXTINF:-1 group-title="Música", VH1 Classic
 http://46.32.68.167/s/live/106/816951136/819088191919/0.m3u8
 
-#EXTINF:-1 group-title="Infantil" ,Disney Júnior
-http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyJrBRA/master_Layer3.m3u8
+
