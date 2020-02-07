@@ -1,4 +1,10 @@
 <item>
+<title>Os Vingadores (2012)</title>
+<link>https://lh3.googleusercontent.com/ghIqDDm9w4Ma1NqERqVy57zjfcYOoKzs1in2hY-z-TWZiPp1FG9dtwCp35dTME1e94kLF3OKNkcfuvsSUUoRDbWzhXn3jLetxErSGcFfQFux8djxfucBxyLJqVfLtKHrvMPjzgp6jA=m37</link>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/xX2xp5QSQPhnqZK9BnluFg9v8qs.jpg</thumbnail>
+</item>
+
+<item>
 <title>Vingadores - Era de Ultron (2015)</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KliyNcJG_pRcXidH_eMrVA5GXYvdl879/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/t1F8xnBHZlQMkSAacfhUUXhmcgo.jpg</thumbnail>
