@@ -563,27 +563,27 @@
 <item>
 <title>Padre (2011)</title>
 <link>https://lh3.googleusercontent.com/S14RCpFxBZT1eBCAn9Pneo_KWoEYpnESO0zcu9c1zZw=m18</link>
-<thumbnail></thumbnail>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTQ1MTAwODc3OV5BMl5BanBnXkFtZTcwNzI0MDQ3NA@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 </item>
 <item>
 <title>Panico - Scream (1996)</title>
 <link>https://lh3.googleusercontent.com/c5kGHMeYV3Qc72EWY1SRJhIQRLNe_pFUIzV_4QFASJ0=m18</link>
-<thumbnail></thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/upnfFGicoEVLcByltRG6DbYEKwU.jpg</thumbnail>
 </item>
 <item>
 <title>A Maldição de Chucky - Curse of Chucky (2013)</title>
 <link>https://lh3.googleusercontent.com/iAioLq9Zi18rVxfDOiD8Uq3jB77ezkZ0DXfgcAcTmS4=m18</link>
-<thumbnail></thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/jgnUGRq88H3uxz1Gj7vpEp6EQgT.jpg</thumbnail>
 </item>
 <item>
 <title>Drácula de Bram Stoker - Bram Stoker's Dracula (1992)</title>
 <link>https://lh3.googleusercontent.com/BfTyMJxBTRWqdmQDEeKYDBfa_CJBEeCGd3j-mRA_xho=m22</link>
-<thumbnail></thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/8EOShxQherGi0XAemBc1cEBJTte.jpg</thumbnail>
 </item>
 
 <item>
 <title>Corrente do Mal Dublado</title>
 <link>https://lh3.googleusercontent.com/epbkLrwu7clvq-yPPQf_FPaccLWKLF0Z5dMkAcWGY7s=m18</link>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/270303movie.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/rGH9NafHyg3Of2cMY5oOVb7p4HA.jpg</thumbnail>
 </item>
   
