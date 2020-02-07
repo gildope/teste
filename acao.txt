@@ -20,7 +20,7 @@
 <title>Vingadores: Ultimato (2019)</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SmQL1FDur-F3UpQpofGRTcrXPWjjpKjC/view</link>
 <link>https://lh3.googleusercontent.com/jMyG6_KO-nB6bih0LEkYqftlHNXGSH5-W-rBT-le9kQ=m18</link>
-<thumbnail>http://image.tmdb.org/t/p/w342/kldrjhg2NhywlAGsck2mRTKiVyb.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg</thumbnail>
 </item>
 
 <item>
@@ -48,9 +48,9 @@
 </item>
 
 <item>
-<title>Uma Noite de Crime: Eleição - The Purge: Election Year (2016)</title>
+<title>12 Horas Para Sobreviver: O Ano da Eleição (2016)</title>
 <link>https://lh3.googleusercontent.com/BoYmps9fg6Zk-ycOzPWNk_US_TI50cai8lrW2twZtn8LQNkra7FI-Kh8DmeYZ1bb9ZLuOe6GTkL4mg=m22</link>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/316727movie.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/wNoWyYq8wEWziUSM7PAOp5y7Cin.jpg</thumbnail>
 </item>
 
 <item>
