@@ -3,6 +3,7 @@
 <item>
 <title>Quatro Histórias de Fantasmas (2019)</title>
 <link>https://lh3.googleusercontent.com/dNjvU7VNkXhZ4ePRHwdAMXewrNJqeWxxtCaFhKEpEZWzh1vsxff2Q1Odz7WmHApukf9oOZjgDRylK6MZBJa8kiobhCtlk8ceS6N9QZtj6YPGC28_ZYV1U5YByjtMzTCvc0cwrY_m7A=m37</link>
+<link><a href="https://lh3.googleusercontent.com/dNjvU7VNkXhZ4ePRHwdAMXewrNJqeWxxtCaFhKEpEZWzh1vsxff2Q1Odz7WmHApukf9oOZjgDRylK6MZBJa8kiobhCtlk8ceS6N9QZtj6YPGC28_ZYV1U5YByjtMzTCvc0cwrY_m7A=m18>Google</a>"</link>
 <thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/iXtqWsjs4kiClTD6zLJlijFdDBY.jpg</thumbnail>
 </item>
 
