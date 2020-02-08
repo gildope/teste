@@ -1,5 +1,11 @@
 
 <item>
+<title>A Casa de Cera (2005)</title>
+<link>https://lh3.googleusercontent.com/Ijlkjdo__iLX35wRDQcLyvOLzCBF3WiewowdT4rYSQGseEkC-IGVTrM9lHx3I6npIkhPumFwgBiTYzsw5VmVWuTD7K0k8j2KK4Ym_vJtCp1kaxi8eEozr0M7KqHgowrkG4olb2UXsQ=m18</link>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/mXKpCgZNokswSFLfckUwUS0xWLF.jpg</thumbnail>
+</item>
+
+<item>
 <title>A Casa Silenciosa (2011))</title>
 <link>https://lh3.googleusercontent.com/ah7N1PhGulON2qMhKNemdvWXXiTKqEDYU7GEcOnQDDii2sVTu8tbjKvClcnPiqAIozIqie-8iWZvZy_u982VPfjF4DGNJW5vsIvHFSa9I2wYv9iVFsTg-znrBLY6uUGNW87eHYmzkw=m37</link>
 <thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/qrjjNKUQikiPoS8tK0vSTtruig.jpg</thumbnail>
