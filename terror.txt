@@ -490,30 +490,30 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[REC]Ӡ Gênesis (2012)</title>
+<title>[REC] 3 - Gênesis (2012)</title>
 <link>https://lh3.googleusercontent.com/Zks18_sUKHIvfIbj-sL6eOInQguuAL-LEh2Be4fTMuM=m18</link>
-<thumbnail></thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/f8u0XzYhv0oiuXSI9facdsZSJhj.jpg</thumbnail>
 </item>
 
 <item>
 <title>A Chave Mestra</title>
 <link>https://lh3.googleusercontent.com/H9llfyYTb44B8weSEaQskmW6tx8kGRMM3_ppf7xIo5k=m18</link>
-<thumbnail>http://cinedoanula.com/imdb/posters/9913movie.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/bqvPiyD3TfVHbHwInCRML5APNMM.jpg</thumbnail>
 </item>
 <item>
 <title>Assassino Invisível</title>
 <link>https://lh3.googleusercontent.com/iuLjEMUExAkfxzRIe8-oRGGResKx2kTHVw3vZrvJbhSsnVUDwU8eljp4H68oq4zkvfrx=m18</link>
-<thumbnail></thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/vHC8k6e7ACae5CfORZN8fQv6A00.jpg</thumbnail>
 </item>
 <item>
 <title>A Hora do Pesadelo - A Nightmare on Elm Street (2010)</title>
 <link>https://lh3.googleusercontent.com/delmIyNlZzImeULIcG2GjOUiRiXr6v5j-Rrry3gfmq0=m22</link>
-<thumbnail></thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/cxaIqcHiCN1KEaiaFEtpD8O755S.jpg</thumbnail>
 </item>
 <item>
 <title>Pacto Maligno - Mercy (2014)</title>
 <link>https://lh3.googleusercontent.com/63VByjZX88cTFEndqG7LgOvvq7OSKeYmTWHykEqZVA4=m18</link>
-<thumbnail></thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/NjPqCsirgMKcmwlJZbmfhjKYQZ.jpg</thumbnail>
 </item>
 <item>
 <title>Alien - O 8º Passageiro (1979)</title>
