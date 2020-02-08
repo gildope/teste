@@ -546,19 +546,19 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Sobrenatural - Insidious (2010)</title>
+<title>https://www.themoviedb.org/movie/49018-insidious?language=pt-BR</title>
 <link>https://lh3.googleusercontent.com/63Egu7DSED-Z8kxu-1MDmd6BjtD-i0KiXGjzkrF73Ck=m18</link>
-<thumbnail></thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/8pqQLEACD1T2pAmZTF0nT2K7TsR.jpg</thumbnail>
 </item>
 <item>
-<title>Abraham Lincoln: Caçador de Vampiros - Vampire Hunter (2012)</title>
+<title>Abraham Lincoln: Caçador de Vampiros (2012)</title>
 <link>https://lh3.googleusercontent.com/gMQVATyavEwbyofozwmggOUj0uYLb6B0J3_332yH0qQ=m18</link>
-<thumbnail></thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/w3h0coOTKrZyKar76VvITWLygRi.jpg</thumbnail>
 </item>
 <item>
-<title>Livrai-Nos Do Mal - Deliver Us from Evil (2014)</title>
+<title>Livrai-nos do Mal (2014)</title>
 <link>https://lh3.googleusercontent.com/As0I06fb6mwaAMnCO37MrF9f2o723rDVdTpFHSawhDw=m18</link>
-<thumbnail></thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/zmkNlUK0cvnxrzrDwfUxlKALtoB.jpg</thumbnail>
 </item>
 <item>
 <title>Padre (2011)</title>
