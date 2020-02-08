@@ -105,19 +105,19 @@
 <item>
 <title>Anjos da Noite: Guerras de Sangue</title>
 <link>https://lh3.googleusercontent.com/WF3wNCY1c1PSzawf7dR2v2AC3biASfVaLLBFEXGw9xOvlM5Hsp3GbPnooP3tYgshJ1iPG6kJ83PHDg=m22</link>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/346672movie.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/wYO6rwmDbldoX9KIU20xIOLsQtm.jpg</thumbnail>
 </item>
 
 <item>
-<title>Ainda Estamos Aqui - We Are Still Here (2015)</title>
+<title>Ainda Estamos Aqui (2015)</title>
 <link>https://lh3.googleusercontent.com/GGVyLrsVbx-A6HN8YBnxFfjIWS2E6UYrNWu3S3fIP3-JQE3IqCN10sROUMJkA38EEdk9jxgooHpkvg=m18</link>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/291272movie.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/kFChPJxGu6eiDTfg2FtRJeahEqj.jpg</thumbnail>
 </item>
 
 <item>
-<title>Uma Noite de Crime: Eleição - Dublado)</title>
+<title>12 Horas Para Sobreviver: O Ano da Eleição (2016)</title>
 <link>https://lh3.googleusercontent.com/F74AYPh7ARYRhgDPsvQ8Lpdw8ITXuLmEi_-HULh4rJvdGRGWj2kIcETet3E4T41dW3y4gHOmsj9Gxg=m22</link>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/316727movie.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/wNoWyYq8wEWziUSM7PAOp5y7Cin.jpg</thumbnail>
 </item>
 
 <item>
