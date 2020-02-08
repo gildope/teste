@@ -210,6 +210,8 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/227.m3u8/Level(545259)?st
 
 #EXTINF:-1 group-title="Música", NRJ Hits TV
 http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_360p/playlist.m3u8
+#EXTINF:-1,Unknown_9476
+http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
 #EXTINF:-1 group-title="Música", VH1 Classic
 http://46.32.68.167/s/live/106/816951136/819088191919/0.m3u8
 
