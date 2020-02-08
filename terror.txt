@@ -516,34 +516,34 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>o 8ڠPassageiro (1979)</title>
+<title>Alien - O 8º Passageiro (1979)</title>
 <link>https://lh3.googleusercontent.com/bJgb-K5Yu-h4ART1UOrm2cMlA-v_JACkbxAeuye9Rbk=m22</link>
-<thumbnail></thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/qgc31GV2awxEuH09QdGbKRs2bjT.jpg</thumbnail>
 </item>
 <item>
 <title>Os 13 Pecados - 13 Sins (2014)</title>
 <link>https://lh3.googleusercontent.com/jd6hBroEb-D8ZFPs3LqVW5kGIOQfwtLbMss22ThDGwA=m18</link>
-<thumbnail></thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/rmrvASOogbcOiKgSaZkaBKA0DBp.jpg</thumbnail>
 </item>
 <item>
-<title>Canibais - The Green Inferno (2013)</title>
+<title>Canibais (2014)</title>
 <link>https://lh3.googleusercontent.com/xv4rPrejX2-j2qY423xx5XYZL_5phYyTU2MQKaG4tvF3Y6k7zuubycf7tBHIjVMcAiruWg=m18</link>
-<thumbnail></thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/eZa1Dn51mZvJZrDA0iOLwhD4LY8.jpg</thumbnail>
 </item>
 <item>
 <title>Annabelle (2014)</title>
 <link>https://lh3.googleusercontent.com/5dMgeuV7lqOfzf9vg9-2erO7BSG-zBqUNah2ZA3ekR4=m18</link>
-<thumbnail></thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/tJVrAvOmhof5AxCFba5FGw3ezeY.jpg</thumbnail>
 </item>
 <item>
 <title>Poltergeist - O Fenômeno (2015)</title>
 <link>https://lh3.googleusercontent.com/8d8xla0di20LSy4zjnsJgRTkCkDAabp0AT-KmQGNxIQ=m18</link>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/tt1029360.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/j4Wo1GdFPfn42mHx47CwB1J5Uxr.jpg</thumbnail>
 </item>
 <item>
 <title>Eu Sou a Lenda (2007)</title>
 <link>https://lh3.googleusercontent.com/s2Sou7gVrtFh3QbvDSUc3-DupESqHPdCy6CMWCYaivA=m18</link>
-<thumbnail></thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/eu7TDJOpEmx9x4sQEhfdw7pqsiM.jpg</thumbnail>
 </item>
 <item>
 <title>Sobrenatural (2010)</title>
