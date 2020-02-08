@@ -2,14 +2,13 @@
 
 <item>
 <title>Quatro Histórias de Fantasmas (2019)</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14yTzsKbW0ffw43u_LV6fI5fGxPJry-8-/view</link>
+<link>https://lh3.googleusercontent.com/dNjvU7VNkXhZ4ePRHwdAMXewrNJqeWxxtCaFhKEpEZWzh1vsxff2Q1Odz7WmHApukf9oOZjgDRylK6MZBJa8kiobhCtlk8ceS6N9QZtj6YPGC28_ZYV1U5YByjtMzTCvc0cwrY_m7A=m37</link>
 <thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/iXtqWsjs4kiClTD6zLJlijFdDBY.jpg</thumbnail>
 </item>
 
 <item>
 <title>1303 - Apartamento do Mal (2012)</title>
-<link><a href="plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14yTzsKbW0ffw43u_LV6fI5fGxPJry-8-/view>GD</a></link>
-<link><a href="https://lh3.googleusercontent.com/tTSFQ3Cv2TPnGMUH0WW67TxmzpCxvnj74stTw6qAbki-Qks0ay5H46DVfRtkAcXjpHVtly1KYkbUDqNhXBb6ptNWcAb_orqm3OCmSB7q-Ufkqeia990sTSLEjc38UHpcdfcngxb-WA=m22">GF</a></link>
+<link>https://lh3.googleusercontent.com/tTSFQ3Cv2TPnGMUH0WW67TxmzpCxvnj74stTw6qAbki-Qks0ay5H46DVfRtkAcXjpHVtly1KYkbUDqNhXBb6ptNWcAb_orqm3OCmSB7q-Ufkqeia990sTSLEjc38UHpcdfcngxb-WA=m22</link>
 <thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/3uiKe1uMgVdcWj2zyjNGzpSHNOi.jpg</thumbnail>
 </item>
 
