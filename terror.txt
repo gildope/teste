@@ -1,5 +1,11 @@
 
 <item>
+<title>A Casa Silenciosa (2011))</title>
+<link>https://lh3.googleusercontent.com/ah7N1PhGulON2qMhKNemdvWXXiTKqEDYU7GEcOnQDDii2sVTu8tbjKvClcnPiqAIozIqie-8iWZvZy_u982VPfjF4DGNJW5vsIvHFSa9I2wYv9iVFsTg-znrBLY6uUGNW87eHYmzkw=m37</link>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/qrjjNKUQikiPoS8tK0vSTtruig.jpg</thumbnail>
+</item>
+
+<item>
 <title>Demônio (2010)</title>
 <link>https://lh3.googleusercontent.com/_M46uIXyiMOAi37LIzPOSlx3VhUW1p0qIj6yd9PLz6diMPt_YwpEKt7r7y0Y9lxU9nZDx8D_iHgBOZk_vguZtH3xu9s_KPmg31tHFTlK0tLC5SyGz44WpnqOaF-2N0w9lo6e2dHowQ=m22</link>
 <thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/9q6y5LJZJZDNZH8uuIcwGpycSco.jpg</thumbnail>
