@@ -546,7 +546,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>https://www.themoviedb.org/movie/49018-insidious?language=pt-BR</title>
+<title>Sobrenatural (2010)</title>
 <link>https://lh3.googleusercontent.com/63Egu7DSED-Z8kxu-1MDmd6BjtD-i0KiXGjzkrF73Ck=m18</link>
 <thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/8pqQLEACD1T2pAmZTF0nT2K7TsR.jpg</thumbnail>
 </item>
