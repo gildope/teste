@@ -430,23 +430,23 @@
 <item>
 <title>A Colina Escarlate - Crimson Peak (2015)</title>
 <link>https://lh3.googleusercontent.com/VSzXB1Bl2pRAwDNDbvgyQdSCWwoSUqvg-lApVltKwas=m18</link>
-<thumbnail></thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/tps80Vd8Bwj03UlUgJSo9lwJNS1.jpg</thumbnail>
 </item>
 <item>
 <title>Boneco do Mal - The Boy (2016)</title>
 <link>https://lh3.googleusercontent.com/G1Ccv_oQ18vk3fpfjN0yhxDGWYUh6h_PAUGAlW_ynu7pBD8XvgfeBi2vsGqcJ0Ict41_c-dYWeM=m22</link>
-<thumbnail></thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/v2pTJA87zqVgQXr4UHdut2oBFdw.jpg</thumbnail>
 </item>
 <item>
 <title>A Floresta Maldita</title>
 <link>https://lh3.googleusercontent.com/ZprMLH4AoP2tLyluH2JI715H4VnGMjegNadCy2fvQw6W_Zbtm2ZoSNOlwiXVDaL2ZRZ_q7pgqYI=m18</link>
-<thumbnail>http://cinedoanula.com/imdb/posters/329440movie.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/onJyrocHkWbqQ89pye5h3xMiEzQ.jpg</thumbnail>
 </item>
 
 <item>
-<title>10 - LEGENDADO.</title>
-<link>https://lh3.googleusercontent.com/ld8KzAb_gS7LTDFC8i67Cb7aAMH2rAaqqyXjYBgM8YK_WIKRuNUuoPql60o09nlqG1X6_gY0UA=m18</link>
-<thumbnail></thumbnail>
+<title>Rua Cloverfield, 10 (2016)</title>
+<link>https://lh3.googleusercontent.com/ld8KzAb_gS7LTDFC8i67Cb7aAMH2rAaqqyXjYBgM8YK_WIKRuNUuoPql60o09nlqG1X6_gY0UA=m37</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/22kUNxBQkrz2k8M3Uxb4aLS2kPv.jpg</thumbnail>
 </item>
 
 <item>
