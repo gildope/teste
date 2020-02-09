@@ -404,12 +404,6 @@
 </item>
 
 <item>
-<title>O Sono da Morte – HD 720p Legendado</title>
-<link>https://lh3.googleusercontent.com/SWxpFAEWvrOkCV0OZtXbK1M_Dg4Sgf0ZeGAKQtJ80XD33gVj011AhlHqNaXItwxmgUs_pt3y1g=m18</link>
-<thumbnail>http://www.filmesonlinehd1.com/wp-content/uploads/2016/06/o-sono-da-morte-capa-hd-720p-dublado.fw_.png</thumbnail>
-</item>
-
-<item>
 <title>Doce Vingança - I Spit on Your Grave (2010)</title>
 <link>https://lh3.googleusercontent.com/KY13ZDKbHwm8SwOg2eoeAoKB0Q3tbMwGyyDtpFllZbMsDXmTGreBXzvJEGaj75TZ8Qe6X2YzoA=m18</link>
 <thumbnail>http://www.cinedoanula.com/imdb/posters/43947movie.jpg</thumbnail>
@@ -450,31 +444,33 @@
 </item>
 
 <item>
-<title>O Dia do Terror ֠HD 720p Dublado</title>
-<link>https://lh3.googleusercontent.com/6IdhQUK4fUsrxmcozYINJMwRLxRKmL1Gr7kIchqqhHaAxgEmEsVS6UIhdv_QM1sCd3TUqxoI7w=m18</link>
-<thumbnail></thumbnail>
+<title>O Dia do Terror (2001)</title>
+<link>https://lh3.googleusercontent.com/6IdhQUK4fUsrxmcozYINJMwRLxRKmL1Gr7kIchqqhHaAxgEmEsVS6UIhdv_QM1sCd3TUqxoI7w=m22</link>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/tgMMYdzk5FaUXPxtML92NAi7Q9w.jpg</thumbnail>
 </item>
   
 <item>
-<title>O Nevoeiro ֠HD 1080p Dublado</title>
-<link>https://lh3.googleusercontent.com/NYlc9ZYvcFGtzvEhjhJJQhpSSkq6c50NwnrWFmY2Hn0z4CyZ61E8Awg1sfwk3xgfcM-cvxymmQ=m18</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Um Lobisomem Americano Em Londres</title>
-<link>https://lh3.googleusercontent.com/_l78-NeOFRzhbHtJb83gYwUzEgyjNk8WTyBA5-jnkgyW-bkGGGXLOmTGsVc67QzPlFwloD7jUw=m18</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Invocação do Mal</title>
-<link>https://lh3.googleusercontent.com/Pfdw0GDFfPyX7xT9M7w-kRgV_8eYqkwP7IW1sylb6ylaUdD8re6fbje-_N1WSuHlBw0a44sp-w=m18</link>
-<thumbnail></thumbnail>
+<title>O Nevoeiro (2007)</title>
+<link>https://lh3.googleusercontent.com/NYlc9ZYvcFGtzvEhjhJJQhpSSkq6c50NwnrWFmY2Hn0z4CyZ61E8Awg1sfwk3xgfcM-cvxymmQ=m37</link>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/8tMTNYvqewp84gb1LSOukTmlOQy.jpg</thumbnail>
 </item>
 
 <item>
-<title>Orgulho e Preconceito e Zumbis ֠HD 720p</title>
-<link>https://lh3.googleusercontent.com/EtEVEbjTmFi0qFLE0E1H7vp5UB_tkK4PfAZlCEp-ooidpAbcgqUy0_hSQ0MvdTMC4XI55-qq5zI=m18</link>
-<thumbnail></thumbnail>
+<title>Um Lobisomem Americano em Londres (1981)</title>
+<link>https://lh3.googleusercontent.com/_l78-NeOFRzhbHtJb83gYwUzEgyjNk8WTyBA5-jnkgyW-bkGGGXLOmTGsVc67QzPlFwloD7jUw=m37</link>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/8X0fBreShb4UO9wF4HCpjfonOIA.jpg</thumbnail>
+</item>
+
+<item>
+<title>Invocação do Mal (2013)</title>
+<link>https://lh3.googleusercontent.com/Pfdw0GDFfPyX7xT9M7w-kRgV_8eYqkwP7IW1sylb6ylaUdD8re6fbje-_N1WSuHlBw0a44sp-w=m37</link>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/x4OydN9XST5huCPzijNwxiUL50x.jpg</thumbnail>
+</item>
+
+<item>
+<title>Orgulho e Preconceito e Zumbis (2016)</title>
+<link>https://lh3.googleusercontent.com/EtEVEbjTmFi0qFLE0E1H7vp5UB_tkK4PfAZlCEp-ooidpAbcgqUy0_hSQ0MvdTMC4XI55-qq5zI=m37</link>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/tRbKZ7o6YQvuZDWysRQ0TdUXkpq.jpg</thumbnail>
 </item>
   
 <item>
