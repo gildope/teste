@@ -1,23 +1,32 @@
-2019 - O Ano da Extinção (2009)
-https://drive.google.com/file/d/1YGJM0iOiRFS_fcpXNI2VHG1Er0Ayryzu/view
-https://image.tmdb.org/t/p/w185_and_h278_bestv2/eLgkMhsGDOvlLrkC8HFNOLhE0wL.jpg
+<item>
+<title>2019 - O Ano da Extinção (2009)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YGJM0iOiRFS_fcpXNI2VHG1Er0Ayryzu/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/eLgkMhsGDOvlLrkC8HFNOLhE0wL.jpg</thumbnail>
+</item>
 
-A Casa do Medo: Incidente em Ghostland (2018)
-https://drive.google.com/file/d/14luF9YN-52QyXBs8o-lLv39YRQncXKxR/view
-https://image.tmdb.org/t/p/w185_and_h278_bestv2/j7p3JKIAwysHpZsmdINLNeVjApg.jpg
+<item>
+<title>A Casa do Medo: Incidente em Ghostland (2018)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14luF9YN-52QyXBs8o-lLv39YRQncXKxR/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/j7p3JKIAwysHpZsmdINLNeVjApg.jpg</thumbnail>
+<item>
 
-A Visita (2015)
-https://drive.google.com/file/d/1Yrq_JFdZolHueUfKVvBcJtMgRVDZ68eX/view
-https://image.tmdb.org/t/p/w185_and_h278_bestv2/vzb1UEYWJ2rhrA71mQGgZLbr8lf.jpg
+<item>
+<title>A Visita (2015)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Yrq_JFdZolHueUfKVvBcJtMgRVDZ68eX/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/vzb1UEYWJ2rhrA71mQGgZLbr8lf.jpg</thumbnail>
+</item>
 
-Além da Escuridão (2012)
-https://drive.google.com/file/d/1PPIjaxFtYrbvrKPWTKpvZMFRi3ise-cy/view
-https://image.tmdb.org/t/p/w185_and_h278_bestv2/cW1hXIe6El6Yrrka5dU6s92rOGF.jpg
+<item>
+<title>Além da Escuridão (2012)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PPIjaxFtYrbvrKPWTKpvZMFRi3ise-cy/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/cW1hXIe6El6Yrrka5dU6s92rOGF.jpg</thumbnail>
+</item>
 
-
-Ánimas (2018)
-https://drive.google.com/file/d/13HIhpmuHwrrgVIKUZVWvDuG423F9EuqU/view
-https://image.tmdb.org/t/p/w185_and_h278_bestv2/2pOIMOAsi2zPAWzf0sy2Zk9BSTp.jpg
+<item>
+<title>Ánimas (2018)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13HIhpmuHwrrgVIKUZVWvDuG423F9EuqU/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/2pOIMOAsi2zPAWzf0sy2Zk9BSTp.jpg</thumbnail>
+</item>
 
 <item>
 <title>A Casa de Cera (2005)</title>
