@@ -305,13 +305,6 @@
 <thumbnail>http://www.cinedoanula.com/imdb/posters/338676movie.jpg</thumbnail>
 </item>  
 
-  
-<item>
-<title>Invocação do Mal 2- Conjuring 2 (2016)</title>
-<link>https://lh3.googleusercontent.com/_ELNvdtY0PIS5eLY6vA7bO3egXGPSD4XFKvYCzkkvx5U3gFdagBLk8jC4BZ47XtOIOBJtEqDpHDe-g=m22</link>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/259693movie.jpg</thumbnail>
-</item>
-
 <item>
 <title>Lugares Escuros - Dark Places (2015)</title>
 <link>https://lh3.googleusercontent.com/ArFIq6pi-2ZHntwavIsvM_lyLf_rjRsGO3wAtjjEpBM=m18</link>
@@ -387,7 +380,7 @@
 
 <item>
 <title>Os Garotos Perdidos - Lost Boys (1987)</title>
-<link>https://lh3.googleusercontent.com/AN8UuNskrMW8ui9yEq1-QSG8VSjigVD5uxXN0CQEW_g=m18</link>
+<link>https://lh3.googleusercontent.com/AN8UuNskrMW8ui9yEq1-QSG8VSjigVD5uxXN0CQEW_g=m37</link>
 <thumbnail>http://cinedoanula.com/imdb/posters/1547movie.jpg</thumbnail>
 </item>
 
@@ -465,6 +458,12 @@
 <title>Invocação do Mal (2013)</title>
 <link>https://lh3.googleusercontent.com/Pfdw0GDFfPyX7xT9M7w-kRgV_8eYqkwP7IW1sylb6ylaUdD8re6fbje-_N1WSuHlBw0a44sp-w=m37</link>
 <thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/x4OydN9XST5huCPzijNwxiUL50x.jpg</thumbnail>
+</item>
+
+<item>
+<title>Invocação do Mal 2- Conjuring 2 (2016)</title>
+<link>https://lh3.googleusercontent.com/_ELNvdtY0PIS5eLY6vA7bO3egXGPSD4XFKvYCzkkvx5U3gFdagBLk8jC4BZ47XtOIOBJtEqDpHDe-g=m37</link>
+<thumbnail>http://www.cinedoanula.com/imdb/posters/259693movie.jpg</thumbnail>
 </item>
 
 <item>
