@@ -379,9 +379,9 @@
 </item>
 
 <item>
-<title>Os Garotos Perdidos - Lost Boys (1987)</title>
-<link>https://lh3.googleusercontent.com/AN8UuNskrMW8ui9yEq1-QSG8VSjigVD5uxXN0CQEW_g=m37</link>
-<thumbnail>http://cinedoanula.com/imdb/posters/1547movie.jpg</thumbnail>
+<title>Os Garotos Perdidos (1987)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/188oTJgi3bvmAjyKioSkCdmPcPiwxc1IV/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/9rnZ4bYuGooWkehtwoNxZ3OvWwj.jpg</thumbnail>
 </item>
 
 <item>
