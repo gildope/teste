@@ -51,7 +51,7 @@ o<item>
  <title>[COLOR yellow] [COLOR orange][I][B]Lista de Canais Online[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://www.culturamix.com/wp-content/gallery/1-260/como-foi-feita-a-pesquisa-2.jpg</thumbnail>
-<externallink>http://bit.ly/PJT2018</externallink>
+<externallink>https://pastebin.com/raw/0F3dMKK2</externallink>
 </item>
 
 
