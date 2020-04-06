@@ -1,5 +1,12 @@
 <stream>
 
+
+<item>
+<title>Bacurau (2019)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1w7aMXb7p2oWckJ5C_yA8OMA-HUZtpcVm/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w94_and_h141_bestv2/hu5RpvEdLjJ2sLGkAMzRjoNWbMj.jpg</thumbnail>
+</item>
+
 <item>
 <title>Lisbela e o Prisioneiro (2013)</title>
 <link>https://lh3.googleusercontent.com/gXLkBE4FXEnt9KCWa6ZpezdsByrNX9Bwrt0W_wIysAdYIKGellJiOqm2PH5nIuTCi8M7M9H6W-uLUL0Xwslg6DjS-lJnd6XzobdQhtfCZfLNRlGBB1wjRiPqFKOMBBD7OXM5XDI6SQ=m18</link>
