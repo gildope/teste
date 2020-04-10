@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://assets1.ignimgs.com/2018/10/02/walkingdead-season9-header-1538446849577.jpg" group-title="TEMPORADA 9",The Walking Dead - 9x01 - A New Beginning
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1YQAnUaPFSbhl089zqUGVoGmhru6VV66T/edit
+#EXTINF:-1 tvg-logo="https://assets1.ignimgs.com/2018/10/02/walkingdead-season9-header-1538446849577.jpg" group-title="TEMPORADA 10",The Walking Dead - 10x01 -The Walking Dead - 10x01 - Limites que Cruzamos
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1T9WPHwRyqYSqsPV3gDHD5UIrLj_ovAKy/view
 
 
