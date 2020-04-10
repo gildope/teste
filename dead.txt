@@ -36,6 +36,30 @@
 </channel>
 
 <channel>
+<name>Temporada 6</name>
+<thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/zmCHLZkjIKTLE9KgFAzu4OqwbMx.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/terror.txt</externallink>
+</channel>
+
+<channel>
+<name>Temporada 7</name>
+<thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/6Rud3YJD8MiJr42Sac7wUEMwm2z.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/terror.txt</externallink>
+</channel>
+
+<channel>
+<name>Temporada 8</name>
+<thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/n7q4z8pFKsvrw9eONCai5JHzVPa.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/terror.txt</externallink>
+</channel>
+
+<channel>
+<name>Temporada 9</name>
+<thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/wMe4r0eQEpGjXlqEPIi2kDGHJIi.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/terror.txt</externallink>
+</channel>
+
+<channel>
 <name>Temporada 10</name>
 <thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/q3rlhCrawPHssE5kY7GeI2hN0GB.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/terror.txt</externallink>
