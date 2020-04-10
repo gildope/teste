@@ -1,13 +1,46 @@
-#EXTM3U
+<layouttype>thumbnail</layouttype>
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="InformaÃ§Ãµes da Lista",By Pedro Junior Tutoriais
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="InformaÃ§Ãµes da Lista",The Walking Dead
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+<channels>
 
-#EXTINF:-1 tvg-logo="https://assets1.ignimgs.com/2018/10/02/walkingdead-season9-header-1538446849577.jpg" group-title="TEMPORADA 10",The Walking Dead - 10x01 -The Walking Dead - 10x01 - Limites que Cruzamos
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1T9WPHwRyqYSqsPV3gDHD5UIrLj_ovAKy/view
+<channel>
+<name>Temporada 1</name>
+<thumbnail>https://http2.mlstatic.com/the-walking-dead-1-temporada-completa-box-3-dvds-lacrado-D_NQ_NP_998580-MLB26458519955_112017-F.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/terror_bagu</externallink>
+</channel>
 
-#EXTINF:0 tvg-id="ext" group-title="The Walking Dead",The Walking Dead - 10x01 - Limites que Cruzamos
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1T9WPHwRyqYSqsPV3gDHD5UIrLj_ovAKy/view
+
+<channel>
+<name>Temporada 2</name>
+<thumbnail>http://orig10.deviantart.net/18f7/f/2016/001/2/0/horror_by_themustang24-d9md38l.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/terror.txt</externallink>
+</channel>
+
+<channel>
+<name>Temporada 2</name>
+<thumbnail>http://orig10.deviantart.net/18f7/f/2016/001/2/0/horror_by_themustang24-d9md38l.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/terror.txt</externallink>
+</channel>
+
+
+<channel>
+<name>Temporada 2</name>
+<thumbnail>http://orig10.deviantart.net/18f7/f/2016/001/2/0/horror_by_themustang24-d9md38l.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/terror.txt</externallink>
+</channel>
+
+<channel>
+<name>Temporada 2</name>
+<thumbnail>http://orig10.deviantart.net/18f7/f/2016/001/2/0/horror_by_themustang24-d9md38l.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/terror.txt</externallink>
+</channel>
+
+<channel>
+<name>Temporada 10</name>
+<thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/q3rlhCrawPHssE5kY7GeI2hN0GB.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/terror.txt</externallink>
+</channel>
+
+
+</channels>
+
