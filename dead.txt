@@ -5,33 +5,33 @@
 
 <channel>
 <name>Temporada 1</name>
-<thumbnail>https://http2.mlstatic.com/the-walking-dead-1-temporada-completa-box-3-dvds-lacrado-D_NQ_NP_998580-MLB26458519955_112017-F.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/kTezyobPNbLYzltZ2x9e5Gowvt5.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/terror_bagu</externallink>
 </channel>
 
 
 <channel>
 <name>Temporada 2</name>
-<thumbnail>http://orig10.deviantart.net/18f7/f/2016/001/2/0/horror_by_themustang24-d9md38l.png</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/kkPh9VxdP8kiWY5esINrDlqapoB.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/terror.txt</externallink>
 </channel>
 
 <channel>
-<name>Temporada 2</name>
-<thumbnail>http://orig10.deviantart.net/18f7/f/2016/001/2/0/horror_by_themustang24-d9md38l.png</thumbnail>
+<name>Temporada 3</name>
+<thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/lq3H4LSVHB8BHjzOVnv3BOpB5Zv.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/terror.txt</externallink>
 </channel>
 
 
 <channel>
-<name>Temporada 2</name>
-<thumbnail>http://orig10.deviantart.net/18f7/f/2016/001/2/0/horror_by_themustang24-d9md38l.png</thumbnail>
+<name>Temporada 4</name>
+<thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/drhqpL945Yhip0TQA8PD6E6x7Qv.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/terror.txt</externallink>
 </channel>
 
 <channel>
-<name>Temporada 2</name>
-<thumbnail>http://orig10.deviantart.net/18f7/f/2016/001/2/0/horror_by_themustang24-d9md38l.png</thumbnail>
+<name>Temporada 5</name>
+<thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/mVL6TPRAzOn3UmraBCHa54gV6kC.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gildope/teste/master/terror.txt</externallink>
 </channel>
 
