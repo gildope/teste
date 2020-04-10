@@ -6,7 +6,7 @@
 <channel>
 <name>Temporada 1</name>
 <thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/kTezyobPNbLYzltZ2x9e5Gowvt5.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/terror_bagu</externallink>
+<externallink>https://raw.githubusercontent.com/gildope/teste/master/dead1temp</externallink>
 </channel>
 
 
