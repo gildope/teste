@@ -450,7 +450,7 @@
 
 <item>
 <title>Um Lobisomem Americano em Londres (1981)</title>
-<link>https://lh3.googleusercontent.com/_l78-NeOFRzhbHtJb83gYwUzEgyjNk8WTyBA5-jnkgyW-bkGGGXLOmTGsVc67QzPlFwloD7jUw=m37</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uwT9XO1OdPzTPO5xvvHENbqj0UT5w9K4/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/8X0fBreShb4UO9wF4HCpjfonOIA.jpg</thumbnail>
 </item>
 
