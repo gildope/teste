@@ -1,4 +1,10 @@
 <item>
+<title>A Casa dos 1000 Corpos (2003)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16S6Dt-KNLmdSfcc3GohrPCRuj-O4ddzf/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w94_and_h141_bestv2/jN1cpttVUjNqbhzRXDt8QVPtGh8.jpg</thumbnail>
+</item>
+
+<item>
 <title>2019 - O Ano da Extinção (2009)</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YGJM0iOiRFS_fcpXNI2VHG1Er0Ayryzu/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/eLgkMhsGDOvlLrkC8HFNOLhE0wL.jpg</thumbnail>
