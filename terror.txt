@@ -12,6 +12,16 @@
 </item>
 
 <item>
+<title>#Horror (2015)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t962-zCGiebecFGBBRpm-RrkxKvRmnUP/view</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM5ODg2NjU2Nl5BMl5BanBnXkFtZTgwMTY0NTIwMDI@._V1_UY268_CR2,0,182,268_AL_.jpg</thumbnail>
+</item>
+
+
+
+
+
+<item>
 <title>2019 - O Ano da Extinção (2009)</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YGJM0iOiRFS_fcpXNI2VHG1Er0Ayryzu/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/eLgkMhsGDOvlLrkC8HFNOLhE0wL.jpg</thumbnail>
