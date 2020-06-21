@@ -43,9 +43,9 @@
 </item>
 
 <item>
-<title></title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t962-zCGiebecFGBBRpm-RrkxKvRmnUP/view</link>
-<thumbnail></thumbnail>
+<title>O Homem Invisível (2020)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15U_BxAH1gZOQnQuJX8kPafecwZVSTFJG/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w94_and_h141_bestv2/jGftFA2Orf2AmVNpslsOqifANcA.jpg</thumbnail>
 </item>
 
 <item>
