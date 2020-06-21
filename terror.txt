@@ -31,9 +31,9 @@
 </item>
 
 <item>
-<title></title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t962-zCGiebecFGBBRpm-RrkxKvRmnUP/view</link>
-<thumbnail></thumbnail>
+<title>Paciente Zero (2019)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DCJ0oBE472F6SxL21NrRsraHwPjEWYrV/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w94_and_h141_bestv2/oYgghR2MSMntmC621GxqG9ATCJc.jpg</thumbnail>
 </item>
 
 <item>
