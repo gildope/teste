@@ -45,8 +45,16 @@ o<item>
  <title>[COLOR yellow] [COLOR orange][I][B]lhmtv Filmes[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://cdn.icon-icons.com/icons2/1147/PNG/512/1486486316-arrow-film-movie-play-player-start-video_81236.png</thumbnail>
-<externallink>https://pastebin.com/raw/St8Wzb1v</externallink>
+<externallink>http://www.lhmtv.tk/filmes/lhm-filmes.txt</externallink>
 </item>
+
+<item>
+ <title>[COLOR yellow] [COLOR orange][I][B]lhmtv Seriados[/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://cdn.icon-icons.com/icons2/1147/PNG/512/1486486316-arrow-film-movie-play-player-start-video_81236.png</thumbnail>
+<externallink>http://www.lhmtv.tk/series/lhm-series.txt</externallink>
+</item>
+
 
 <item>
  <title>[COLOR yellow] [COLOR orange][I][B]Lista de Canais Online[/I][/B][/COLOR]</title>
