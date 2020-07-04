@@ -161,9 +161,9 @@
 
 
 <item>
-<title>De Volta ao Jogo - John Wick (2014)</title>
-<link>https://lh3.googleusercontent.com/kNETFyFjli3b93Re-jfp_Kp2sz39iOV2kWo-7A7qy-M=m18</link>
-<thumbnail>http://www.cinedoanula.com/imdb/posters/245891movie.jpg</thumbnail>
+<title>John Wick: De Volta ao Jogo (2014)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1J2lryAMaIKtkxB_laaQhYITwGWBMpmYr/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg</thumbnail>
 </item>
 
 <item>
