@@ -55,9 +55,9 @@
 </item>
 
 <item>
-<title></title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t962-zCGiebecFGBBRpm-RrkxKvRmnUP/view</link>
-<thumbnail></thumbnail>
+<title>Os Invasores de Corpos (1978)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hQuuPlYxF4g5ZB6qc_BOnLmJ9_S5Vu3m/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/fqvoXoi8Vn53c0WtjEXn7kBLfeO.jpg</thumbnail>
 </item>
 
 <item>
