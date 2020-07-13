@@ -1,14 +1,15 @@
-<layouttype>thumbnail</layouttype>
-
-
-<channels>
+<item>
+<title>Dia dos Mortos (2017)</title>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/aUzikf7oKuzkqEBblQ4RZa78x98.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1htg091TyJcslpSV0Gb_S3xe4KloBTnFK/view</link>
+</item>
   
-<channel>
+<item>
 <name>Zumbilândia (Dublado) - 2009<name>
 <thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/xlRn4QPCA0D9BfBSoe1tkzzGeNk.jpg</thumbnail>
 <link>https://lh3.googleusercontent.com/2qTdynnZbv-Q1lv16umH7vgw0B5bpiyVuHH0EeQ4k9wRWHhNUQI9gP2LBaEbSPhMzak8VewjKnkHEWCDg8OKlJ3v_1Qo7TfA0J2NTFCNC4jiZKekEK2UAPWH_0I0crZpOpwyAQI_cA=m37</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fCwGwduqQ5veGdIWMreB58D3zrNls8Pi/view</link>
-</channel>
+</item>
 
 <item>
 <title>Zumbilândia: Atire Duas Vezes (2019)</title>
@@ -286,4 +287,4 @@
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
 </item>
 
-</channels>
+
