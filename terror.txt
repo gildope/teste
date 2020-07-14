@@ -49,9 +49,9 @@
 </item>
 
 <item>
-<title></title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t962-zCGiebecFGBBRpm-RrkxKvRmnUP/view</link>
-<thumbnail></thumbnail>
+<title>Chernobyl: Sinta a Radiação (2012)</title>
+<link>https://lh3.googleusercontent.com/7r3QljwmfEW1xE1hCrWtW1LElhduIrJbVNLOZvuNU-ExLbZYZX1q59cSG20QdtFkCr6z9my-JJUj8ss7L1x_2gqYOe14amFajdukSQys89Cid0yckeiWeCLeSKCuXmbl6XXGrDNBxA=m22</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/n3w4H2DvfanwvTZXuUfwMblk3mV.jpg</thumbnail>
 </item>
 
 <item>
