@@ -11,9 +11,9 @@
 </item>
 
 <item>
-<title></title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t962-zCGiebecFGBBRpm-RrkxKvRmnUP/view</link>
-<thumbnail></thumbnail>
+<title>A Casa da Colina (1999)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1b8PR09pA3beSMkLQnbKhWilIxwKNKBTQ/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/sTOXrdhDq8EYKAiMVcWbkiVfU9d.jpg</thumbnail>
 </item>
 
 <item>
