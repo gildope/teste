@@ -5,9 +5,9 @@
 </item>
 
 <item>
-<title></title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t962-zCGiebecFGBBRpm-RrkxKvRmnUP/view</link>
-<thumbnail></thumbnail>
+<title>A Hora do Espanto 2 (1988)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tOy2W_2oAMfff1eTTyOvEgf05Z1x1nU_/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/whMgDO52v23QeWhMyDki5a3mgpu.jpg</thumbnail>
 </item>
 
 <item>
