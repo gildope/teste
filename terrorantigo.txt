@@ -17,9 +17,9 @@
 </item>
 
 <item>
-<title></title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t962-zCGiebecFGBBRpm-RrkxKvRmnUP/view</link>
-<thumbnail></thumbnail>
+<title>Parasita (1982)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12KGUUdGORBeafV4XJ50dvBDGd1_xyT8U/view</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTFlZDVjMDMtODkwNS00MTM3LWJiMzQtY2IxN2JiNWZjMWUxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 </item>
 
 <item>
