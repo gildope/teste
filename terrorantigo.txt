@@ -1,6 +1,6 @@
 <item>
 <title>A Hora do Espanto (1985)</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nLKWngJhUykoCqyQA3uF1ybopQ2gSMbQ/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13KtRgI_823KC9nY8sISiBcdG773jZqGf/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2QcigbzKKTy9qR0PefNtnjkZWSL.jpg</thumbnail>
 </item>
 
