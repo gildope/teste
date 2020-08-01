@@ -83,9 +83,9 @@
 </channel>
 
 <channel>
-<name>Filmes Torrents</name>
-<thumbnail>https://i.ytimg.com/vi/CUdDDt0Vayk/hqdefault.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gildope/teste/master/torrentfilmes.txt</externallink>
+<name>Filmes de Terror Antigos</name>
+<thumbnail>https://i.pinimg.com/564x/85/c1/b0/85c1b069514aa9fa4164895c2e5bd6fd.jpg</thumbnail>
+<externallink>https://drive.google.com/uc?id=1MwtmVE_tuBslx_kFg_8xdy0ltlHjT_SN&export=download</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
