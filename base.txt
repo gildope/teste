@@ -70,6 +70,12 @@ o<item>
 <externallink>https://raw.githubusercontent.com/freearhey/iptv/master/channels/br.m3u</externallink>
 </item>
 
+<item>
+ <title>[COLOR yellow] [COLOR orange][I][B]Lista de Canais Online 3[/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://blog-iptv.com/wp-content/uploads/2020/02/IPTV-Extreme.jpg</thumbnail>
+<externallink>http://bit.ly/WIPTVBR</externallink>
+</item>
 
 
 
