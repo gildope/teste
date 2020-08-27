@@ -177,26 +177,63 @@ http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
 http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
 
 
-#EXTINF:-1 group-title="Música", M2O TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 group-title="Música", Melody Channel TV
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:-1 group-title="Música", MOOZ DANCE group-title="Música",
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/227.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="Música", MOOZ DANCE
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/227.m3u8/Level(545259)?start=LIVE&end=END&time=1472768812494
-#EXTINF:-1 group-title="Música", MOOZ HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/227.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044
-#EXTINF:-1 group-title="Música", Mooz Hits
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/227.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="Música", MOOZ HITS
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/227.m3u8/Level(545259)?start=LIVE&end=END&time=1472768646553
+#EXTINF:-1,RADIO ITALIA
+https://livetr.teleromagna.it/lifestyle/live/live/lifestyle480/chunks.m3u8?nimblesessionid=27218660
 
-#EXTINF:-1 group-title="Música", NRJ Hits TV
-http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_360p/playlist.m3u8
-#EXTINF:-1,Unknown_9476
-http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
-#EXTINF:-1 group-title="Música", VH1 Classic
-http://46.32.68.167/s/live/106/816951136/819088191919/0.m3u8
+#EXTINF:-1,TV MAR
+https://59f2354c05961.streamlock.net:1443/tvmarrg/_definst_/tvmarrg/playlist.m3u8
 
-
+#EXTINF:-1 group-title="General" ,CNN BRASIL
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
+#EXTINF:-1 group-title="General" ,BAND SPORTS
+https://evpp.mm.uol.com.br/geob_band/bandsports/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="http://crawler.mdcgate.com/iptv/logo/2163.png",TV UNIÃO
+http://stmv1.ifantasy.com.br:1935/tvu/tvu/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="General" tvg-logo="http://crawler.mdcgate.com/iptv/logo/2163.png",YEEAAH TV
+http://srv3.zcast.com.br:1935/yeeaah/yeeaah/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="General" tvg-logo="http://crawler.mdcgate.com/iptv/logo/2163.png",GV NEWS
+https://59f1cbe63db89.streamlock.net:1443/gvnews1/_definst_/gvnews1/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="General" tvg-logo="http://crawler.mdcgate.com/iptv/logo/2163.png",PORTO CANAL
+http://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="General" tvg-logo="http://www.sky.com/tv/images/splash/skymovies-logo.png",CINE SKY
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="General" tvg-logo="http://crawler.mdcgate.com/iptv/logo/8213.png",GOSPEL CARTOON
+http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="General" ,REDE FAMILIA
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_w1136060662_b1540000.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="General" ,TV GAZETA
+http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
+#EXTINF:-1 group-title="General" ,CNN BRASIL
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
+#EXTINF:-1 group-title="General" ,BAND SPORTS
+https://evpp.mm.uol.com.br/geob_band/bandsports/playlist.m3u8
+#EXTINF:-1 group-title="General" ,REDE TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w690507390.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="http://crawler.mdcgate.com/iptv/logo/2163.png",DISNEY CHANNEL
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="http://crawler.mdcgate.com/iptv/logo/2163.png",DISNEY JUNIOR
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
+#EXTINF:-1 group-title="General" ,DISNEY XD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
+#EXTINF:-1 group-title="General" ,PLAYKIDS
+http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8
+#EXTINF:-1 group-title="General" ,ESPN EXTRA
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
+#EXTINF:-1 group-title="General" ,ESPN 2
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-b.m3u8
+#EXTINF:-1 group-title="General" ,ESPN
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_360_av-b.m3u8
+#EXTINF:-1 group-title="General" ,ESPN BRASIL
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="http://crawler.mdcgate.com/iptv/logo/2163.png",BAND
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="http://crawler.mdcgate.com/iptv/logo/3982.png",TV CANÇÃO NOVA
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="http://crawler.mdcgate.com/iptv/logo/2163.png",BAH TV
+https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/chunklist_b1628000.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="http://crawler.mdcgate.com/iptv/logo/10987.png",REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="General" tvg-logo="http://crawler.mdcgate.com/iptv/logo/3803.png",TVE
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="General" ,FOX SPORTS
+https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/foxsports.smil/chunklist_b528441_sleng.m3u8
