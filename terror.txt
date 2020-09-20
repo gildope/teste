@@ -61,9 +61,9 @@
 </item>
 
 <item>
-<title></title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t962-zCGiebecFGBBRpm-RrkxKvRmnUP/view</link>
-<thumbnail></thumbnail>
+<title>O Senhor das Sombras 1998</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PMIk2JRuF1ccc_w0kqwFcFeeHU_Pu2rL/view</link>
+<thumbnail>https://i.imgur.com/HaNRSc1.jpg</thumbnail>
 </item>
 
 <item>
