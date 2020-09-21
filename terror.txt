@@ -67,9 +67,9 @@
 </item>
 
 <item>
-<title></title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t962-zCGiebecFGBBRpm-RrkxKvRmnUP/view</link>
-<thumbnail></thumbnail>
+<title>Amuleto (2020)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1L_1recowAtj9-MSDyjUfVsKhvZoo2grY/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/6p2xoOYwRgam0fxEOPZeCCh0i3q.jpg</thumbnail>
 </item>
 
 <item>
