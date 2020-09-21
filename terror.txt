@@ -61,9 +61,9 @@
 </item>
 
 <item>
-<title>O Senhor das Sombras 1998</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PMIk2JRuF1ccc_w0kqwFcFeeHU_Pu2rL/view</link>
-<thumbnail>https://i.imgur.com/HaNRSc1.jpg</thumbnail>
+<title>A Caçada (2020)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xrsO4AzwQ0vEQzFd88T9kEjH32cjyIjX/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/mDt3GkephI5yrRsEgLfdo3MYxyj.jpg</thumbnail>
 </item>
 
 <item>
