@@ -79,9 +79,9 @@
 </item>
 
 <item>
-<title></title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t962-zCGiebecFGBBRpm-RrkxKvRmnUP/view</link>
-<thumbnail></thumbnail>
+<title>A Casa Assombrada (2019)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1F2E5lmDTlIulmD_VV4IqGPctN9o-2BgH/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/dFMIr8IxA9kPyiOHWOXpzpRaJjd.jpg</thumbnail>
 </item>
 
 <item>
