@@ -73,9 +73,9 @@
 </item>
 
 <item>
-<title></title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t962-zCGiebecFGBBRpm-RrkxKvRmnUP/view</link>
-<thumbnail></thumbnail>
+<title>Os Órfãos (2020)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-cIpt6kDyUcLe2VYmPd2L8lwkv1XEZT8/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/nRXzwckAK3GqMfgbl2h0uWN6Id0.jpg</thumbnail>
 </item>
 
 <item>
