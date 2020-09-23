@@ -85,9 +85,9 @@
 </item>
 
 <item>
-<title></title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t962-zCGiebecFGBBRpm-RrkxKvRmnUP/view</link>
-<thumbnail></thumbnail>
+<title>Vem com o Papai (2019)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14zHMevg2X2j7LYjFrG33d8yyiwuLB6Bm/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/tlc8G9KJiTDDWUFTaWRqWeL1LkN.jpg</thumbnail>
 </item>
 
 <item>
