@@ -1,4 +1,10 @@
 <item>
+<title>A Maldição da Chorona (Dublado) - 2019 </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tvy-YRGYVn_jcFY4RgYVBJCvfZu_QjOF/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/cYNaKWraoWvAwLWukxQksz2NlFa.jpg</thumbnail>
+</item>
+
+<item>
 <title>Aberrações (2018)</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1W-dhbH2VI4f-ewkq8nHsVW1jx81rmHJ4/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w94_and_h141_bestv2/bdeW3VjDtXuVXQEQMO4n9fbx8Jf.jpg</thumbnail>
