@@ -13,33 +13,20 @@
 
 <item>
 <title>A Casa dos 1000 Corpos (2003)</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16S6Dt-KNLmdSfcc3GohrPCRuj-O4ddzf/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1niYmlUXnjvw5bAXJNgc1st5XkZK-TQX2/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w94_and_h141_bestv2/jN1cpttVUjNqbhzRXDt8QVPtGh8.jpg</thumbnail>
 </item>
 
 <item>
-<title>#Horror (2015)</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t962-zCGiebecFGBBRpm-RrkxKvRmnUP/view</link>
+<title>Into the Dark: A Casa da Árvore (2019)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xoAFUYf4JSHx8Ifk7iMd1UimaX0lPuLa/view</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjM5ODg2NjU2Nl5BMl5BanBnXkFtZTgwMTY0NTIwMDI@._V1_UY268_CR2,0,182,268_AL_.jpg</thumbnail>
 </item>
-
-<item>
-<title>1303 - Apartamento do Mal (2012)</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PlSyeR-e73RuXVixjCiliEoM9soTXTvK/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w94_and_h141_bestv2/5i84YtaQDHUdcC1YQp4i1wEyjAl.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>2001 Maníacos (2005)</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AwMGj0sUFoJsNyib9XfqeiYhV09xOEUf/view</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYmQ2YTQ5OWYtODY4YS00MGEyLTkzNWUtYmE0OWI1ODQ5NDFiXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Paciente Zero (2019)</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DCJ0oBE472F6SxL21NrRsraHwPjEWYrV/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w94_and_h141_bestv2/oYgghR2MSMntmC621GxqG9ATCJc.jpg</thumbnail>
 </item>
 
 <item>
@@ -55,12 +42,6 @@
 </item>
 
 <item>
-<title>Chernobyl: Sinta a Radiação (2012)</title>
-<link>https://lh3.googleusercontent.com/7r3QljwmfEW1xE1hCrWtW1LElhduIrJbVNLOZvuNU-ExLbZYZX1q59cSG20QdtFkCr6z9my-JJUj8ss7L1x_2gqYOe14amFajdukSQys89Cid0yckeiWeCLeSKCuXmbl6XXGrDNBxA=m22</link>
-<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/n3w4H2DvfanwvTZXuUfwMblk3mV.jpg</thumbnail>
-</item>
-
-<item>
 <title>Os Invasores de Corpos (1978)</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hQuuPlYxF4g5ZB6qc_BOnLmJ9_S5Vu3m/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/fqvoXoi8Vn53c0WtjEXn7kBLfeO.jpg</thumbnail>
@@ -68,7 +49,7 @@
 
 <item>
 <title>A Caçada (2020)</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xrsO4AzwQ0vEQzFd88T9kEjH32cjyIjX/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1obfRagGNzSImrmckevUQt0d0b4AaUg4W/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/mDt3GkephI5yrRsEgLfdo3MYxyj.jpg</thumbnail>
 </item>
 
@@ -85,39 +66,33 @@
 </item>
 
 <item>
-<title>A Casa Assombrada (2019)</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1F2E5lmDTlIulmD_VV4IqGPctN9o-2BgH/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/dFMIr8IxA9kPyiOHWOXpzpRaJjd.jpg</thumbnail>
-</item>
-
-<item>
 <title>Vem com o Papai (2019)</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14zHMevg2X2j7LYjFrG33d8yyiwuLB6Bm/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/tlc8G9KJiTDDWUFTaWRqWeL1LkN.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t962-zCGiebecFGBBRpm-RrkxKvRmnUP/view</link>
-<thumbnail></thumbnail>
+<title>A Ilha da Morte (2016)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1g9zCYzt_922jdFkQslZWaveUwr4J0NPn/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/aVWAM5L1PK9Ua6tZazRtIDUA6aj.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t962-zCGiebecFGBBRpm-RrkxKvRmnUP/view</link>
-<thumbnail></thumbnail>
+<title>A Invocação (2012)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OfaKwSTwoFBHe8hhM546K3Y1fbQHT2tq/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/n8fehkUle1rbiYopPpfxz5Tn3Bq.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t962-zCGiebecFGBBRpm-RrkxKvRmnUP/view</link>
-<thumbnail></thumbnail>
+<title>A Invocação 2 (2013)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZlyC43aoWs64mhI3EpDRG4a8xWku05E5/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/ogRl0IiOSMfQt8NaTC8y8g1uFR1.jpg</thumbnail>
 </item>
 
 <item>
-<title></title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t962-zCGiebecFGBBRpm-RrkxKvRmnUP/view</link>
-<thumbnail></thumbnail>
+<title>A Lenda do Cavaleiro Sem Cabeça (1999)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YAN8UiLGRjqNf3LKl160CodZQq5lnpjr/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/AvA2Sfypu8mJXf1pYzSZWOMWTd1.jpg</thumbnail>
 </item>
 
 
