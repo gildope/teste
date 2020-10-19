@@ -1,55 +1,37 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="http://celflix.net/wp-content/uploads/2017/02/5nMnyzVU4EsRlfQQSaUzmsHSvtQ-185x278.jpg" group-title="GDRIVE",Deadpool
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/158Lbqqomt4umTXTjCDVn6yraXLkCqYlm/edit
-
-#EXTINF:-1 tvg-logo="http://celflix.net/wp-content/uploads/2017/02/5nMnyzVU4EsRlfQQSaUzmsHSvtQ-185x278.jpg" group-title="GDRIVE",teste
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1v2HMT9Nl15RV-XccHcBxtA5HfzTmqpcC/view
-
-#EXTINF:-1 tvg-logo="http://celflix.net/wp-content/uploads/2017/02/5nMnyzVU4EsRlfQQSaUzmsHSvtQ-185x278.jpg" group-title="GDRIVE",teste
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1W058fxB4ZkqJdW3KioaE7JDrLdSD_wav/edit
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/aC0kx1" group-title="GDRIVE",Em nome da Lei
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B5889epTvHADQTdpREFQcEp0Nms/edit
-
-#EXTINF:-1 tvg-logo="https://goo.gl/aC0kx1" group-title="GDRIVE",Creed: Nascido para Lutar
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/18SflCstxS_tqgPOnfCCNvMZfVxWdQGjP3w/edit
-
-#EXTINF:-1 tvg-logo="https://blogdoheu.files.wordpress.com/2008/10/2001maniacs-big.jpg"  group-title="GDRIVE",A Coisa
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0ByZRoRRS7eR5ZlQ0TnJjSXdtNG8/edit
-
-#EXTINF:-1 tvg-logo="https://blogdoheu.files.wordpress.com/2008/10/2001maniacs-big.jpg"  group-title="GDRIVE",UM LOBISOMEM AMERICANO EM PARIS DUBLADO
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B47SxxBCoNu7MXpkMFJzUlA0SEU/edit
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2rQG_ZS0j4I/V5VR3thBPYI/AAAAAAAAGjQ/fJDf_GTXz-AvUMg1QGCaZUl6sNvp6CtsACLcB/s320/ds.jpg"  group-title="GDRIVE",The Invoking 2 - Legendado 2016 - HD
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4UqZ9iW3SrIZnFXc1RjNVZVWUk/edit
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-z8Cd4Z8uzcY/V41us-hgegI/AAAAAAAAGgQ/TGU7dmMf3X06-Uwb5HycJejynEvxiKhcQCLcB/s1600/download.jpg"  group-title="GDRIVE",Hangman’s Game 2016 - Legendado
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/d/0B_I23Abnn9WIYjd3blBUdkxad2M/edit
-
-#EXTINF:-1 tvg-logo="http://megaboxfilmesonline.com/wp-content/uploads/2015/02/capa89-136x186.jpg"  group-title="GDRIVE",A Profecia (1976) 
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B7wv2Tn9jFtbMl9GMTJPWkJITzg/edit
-
-#EXTINF:-1 tvg-logo="http://megaboxfilmesonline.com/wp-content/uploads/2015/02/capa86-136x186.jpg"  group-title="GDRIVE",Damian - A Profecia II (1978)
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B7mPPFmsOMkOb1ItNkFmMW5vZWM/edit
-
-#EXTINF:-1 tvg-logo="http://megaboxfilmesonline.com/wp-content/uploads/2015/02/capa88-136x186.jpg"  group-title="GDRIVE",A Profecia III - O Conflito Final (1981)
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B7wv2Tn9jFtbVDVmdmRzdW9BLXM/edit
-
-#EXTINF:-1 tvg-logo="http://megaboxfilmesonline.com/wp-content/uploads/2015/02/capa85-136x186.jpg"  group-title="GDRIVE",A Profecia IV - O Despertar (1991)
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B7wv2Tn9jFtbMFk1dnNxSTZuRDg/edit
-
-#EXTINF:-1 tvg-logo="http://megaboxfilmesonline.com/wp-content/uploads/2015/02/capa87.jpg"  group-title="GDRIVE",A Profecia (2006)
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B7wv2Tn9jFtbX2g2djNyTEtSNmM/edit
-
-#EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2015/06/thumbs/dark-moon-rising_t93240_jpg_210x312_crop_upscale_q90.jpg"  group-title="GDRIVE",Dark Moon Rising 2015 -Legendado
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B_JatFT_TpCKMXJEWEZTbE5Ca3c/edit
-
-#EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2014/02/thumbs/o-jardim-dos-esquecidos_t92190_jpg_210x312_crop_upscale_q90.jpg"  group-title="GDRIVE",O Jardim dos Esquecidos 2014 - Dublado
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d//0B_JatFT_TpCKalZielcxbnRoVVE/edit
-
-#EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2014/02/thumbs/o-jardim-dos-esquecidos_t92190_jpg_210x312_crop_upscale_q90.jpg"  group-title="GDRIVE",O Jardim dos Esquecidos 2014 - Dublado
-plugin://plugin.video.gdrive?mode=playvideo&title=Aprisionados por Promessas (2006).avi
-#https://docs.google.com/file/d/0B8wxMEegfZmmNTcxYmdUX0h5OUk/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1mjL1I.jpg",Acesse www.listam3u.net
+https://www.listam3u.net/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1mjL1I.jpg",Mulan (2020)
+http://www.supertorrent.com.br/meus-torrents/download/e09443016740/Mulan.2020.1080p.WEBRip.DDP5.1.x264-EVO.DUAL-RK.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1mjL1I.jpg",Privacidade Hackeada (2019)
+http://www.supertorrent.com.br/meus-torrents/download/6af7e3016420/Privacidade.Hackeada.2019.720p.WEB-DL.x264-DUAL.WWW.COMANDOTORRENTS.COM.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1mjL1I.jpg",ViihTube - Amiga do Inimigo (2020)
+http://www.supertorrent.com.br/meus-torrents/download/bda723016778/COMANDOTORRENTSHD.NET%20-%20Amiga.do.Inimigo.2020.1080p.WEB-DL.x264.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1mjL1I.jpg",Fuga de Auschwit (2020)
+http://www.supertorrent.com.br/meus-torrents/download/1f9c43016781/COMANDO.TO%20-%20Fuga.de.Auschwitz.2020.1080p.WEB-DL.DD5.1.H264.DUAL.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1mjL1I.jpg",Tirando a Maior Onda (2020)
+http://www.supertorrent.com.br/meus-torrents/download/3c4fa3016784/Impractical.Jokers.The.Movie.2020.720p.BRRip.x264.DUAL.COMANDO.TO.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1mjL1I.jpg",Rogue (2020)
+http://www.supertorrent.com.br/meus-torrents/download/364533016787/Rogue.2020.BRRip.720p.x264.DUAL-COMANDO.TO.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1mjL1I.jpg",O Segredo Ouse Sonhar (2020)
+http://www.supertorrent.com.br/meus-torrents/download/1a4c63016797/COMANDO.TO%20-%20O.Segredo.Ouse.Sonhar.2020.720p.WEB-DL.DD5.1.x264-DUAL.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1mjL1I.jpg",Uma Noite em Bangkok (2020)
+http://www.supertorrent.com.br/meus-torrents/download/021793016800/COMANDO.TO%20-%20Uma.Noite.em.Bangkok.2020.720p.WEB-DL.DDP5.1.H.264.DUAL.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1mjL1I.jpg",Instinto Predador (2019)
+http://www.supertorrent.com.br/meus-torrents/download/873aa3016802/Primal.2019.720p.BluRay.x264.DUAL-COMANDO.TO.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1mjL1I.jpg",Do Fundo do Mar 3 (2020)
+http://www.supertorrent.com.br/meus-torrents/download/7a7963016806/COMANDOTORRENTSHD.NET%20-%20Do.Fundo.do.Mar.3.2020.720p.BluRay.x264-DUAL.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1mjL1I.jpg",Aprendiz de Espia (2020)
+http://www.supertorrent.com.br/meus-torrents/download/386113016810/Aprendiz.de.Espi%C3%A3.2020.720p.BluRay.x264.DUAL-TDF.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1mjL1I.jpg",A Flor Mortal (1993)
+http://www.supertorrent.com.br/meus-torrents/download/431753016814/COMANDOTORRENTSHD.NET%20-%20A%20Flor%20Mortal%20(1993)%20Dual%20Bluray%20720p.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1mjL1I.jpg",Operacao Kickbox (1989)
+http://www.supertorrent.com.br/meus-torrents/download/0154b3016816/COMANDOTORRENTSHD.NET%20-%20Opera%C3%A7%C3%A3o%20Kickbox%20(1989)%20Dual%20Bluray%20720p.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1mjL1I.jpg",Quero Matar Meu Chefe (2011)
+http://www.supertorrent.com.br/meus-torrents/download/d137a3014066/Quero%20Matar%20Meu%20Chefe%20-%20ToTTi9.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1mjL1I.jpg",Quero Matar Meu Chefe 2 (2014)
+http://www.supertorrent.com.br/meus-torrents/download/09d663014068/Quero%20Matar%20Meu%20Chefe%202%20(2014)%20BRrip%20Blu-Ray%20720p%20Dublado%20-%20AndreTPF.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1mjL1I.jpg",Faces da Verdade (2008)
+http://www.supertorrent.com.br/meus-torrents/download/60e723016821/Faces.da.Verdade.2008.720p.WEB-DL.x264-DUAL.WWW.COMANDOTORRENTS.COM.mkv
+#EXTINF:-1,
