@@ -1,20 +1,7 @@
 <item>
-<title>A Maldição da Chorona (Dublado) - 2019 </title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tvy-YRGYVn_jcFY4RgYVBJCvfZu_QjOF/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/cYNaKWraoWvAwLWukxQksz2NlFa.jpg</thumbnail>
-</item>
-
-<item>
 <title>Aberrações (2018)</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1W-dhbH2VI4f-ewkq8nHsVW1jx81rmHJ4/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w94_and_h141_bestv2/bdeW3VjDtXuVXQEQMO4n9fbx8Jf.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>A Casa dos 1000 Corpos (2003)</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1niYmlUXnjvw5bAXJNgc1st5XkZK-TQX2/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w94_and_h141_bestv2/jN1cpttVUjNqbhzRXDt8QVPtGh8.jpg</thumbnail>
 </item>
 
 <item>
@@ -30,51 +17,16 @@
 </item>
 
 <item>
-<title>A Bolha Assassina (1988)</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iqWxojea7RQyAo2l7V9gWamDtjHez89L/view</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYWIzYjFmZTAtNWMxZS00MmVhLTkyYmEtZjkzZWQwMzg0N2ZjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-</item>
-
-<item>
 <title>O Homem Invisível (2020)</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15U_BxAH1gZOQnQuJX8kPafecwZVSTFJG/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w94_and_h141_bestv2/jGftFA2Orf2AmVNpslsOqifANcA.jpg</thumbnail>
 </item>
 
-<item>
-<title>Os Invasores de Corpos (1978)</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hQuuPlYxF4g5ZB6qc_BOnLmJ9_S5Vu3m/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/fqvoXoi8Vn53c0WtjEXn7kBLfeO.jpg</thumbnail>
-</item>
-
-<item>
-<title>A Caçada (2020)</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1obfRagGNzSImrmckevUQt0d0b4AaUg4W/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/mDt3GkephI5yrRsEgLfdo3MYxyj.jpg</thumbnail>
-</item>
-
-<item>
-<title>Amuleto (2020)</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1L_1recowAtj9-MSDyjUfVsKhvZoo2grY/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/6p2xoOYwRgam0fxEOPZeCCh0i3q.jpg</thumbnail>
-</item>
 
 <item>
 <title>Os Órfãos (2020)</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-cIpt6kDyUcLe2VYmPd2L8lwkv1XEZT8/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/nRXzwckAK3GqMfgbl2h0uWN6Id0.jpg</thumbnail>
-</item>
-
-<item>
-<title>Vem com o Papai (2019)</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14zHMevg2X2j7LYjFrG33d8yyiwuLB6Bm/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/tlc8G9KJiTDDWUFTaWRqWeL1LkN.jpg</thumbnail>
-</item>
-
-<item>
-<title>A Ilha da Morte (2016)</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1g9zCYzt_922jdFkQslZWaveUwr4J0NPn/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/aVWAM5L1PK9Ua6tZazRtIDUA6aj.jpg</thumbnail>
 </item>
 
 <item>
@@ -89,11 +41,7 @@
 <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/ogRl0IiOSMfQt8NaTC8y8g1uFR1.jpg</thumbnail>
 </item>
 
-<item>
-<title>A Lenda do Cavaleiro Sem Cabeça (1999)</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YAN8UiLGRjqNf3LKl160CodZQq5lnpjr/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/AvA2Sfypu8mJXf1pYzSZWOMWTd1.jpg</thumbnail>
-</item>
+
 
 
 
