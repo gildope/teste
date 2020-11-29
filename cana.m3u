@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 ,hbo
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/hbosd/video.m3u8
+https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/chunklist_w583027069_b1431072.m3u8
 
 #EXTINF:-1 ,BAND
 https://video01.kshost.com.br/rba2779/rba2779/chunklist_w1648404677.m3u8
