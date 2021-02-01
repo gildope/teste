@@ -46,7 +46,7 @@ o<item>
  <title>[COLOR yellow] [COLOR orange][I][B]Lista de Canais Pluto[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://www.culturamix.com/wp-content/gallery/1-260/como-foi-feita-a-pesquisa-2.jpg</thumbnail>
-<externallink>https://github.com/Free-IPTV/Countries/blob/master/BR02_BRAZIL_Pluto.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/Free-IPTV/Countries/master/BR02_BRAZIL_Pluto.m3u</externallink>
 </item>
 
 <item>
