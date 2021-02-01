@@ -50,10 +50,10 @@ o<item>
 </item>
 
 <item>
- <title>[COLOR yellow] [COLOR orange][I][B]Lista de Canais Online 3[/I][/B][/COLOR]</title>
+ <title>[COLOR yellow] [COLOR orange][I][B]Lista de Canais Música[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://blog-iptv.com/wp-content/uploads/2020/02/IPTV-Extreme.jpg</thumbnail>
-<externallink>http://bit.ly/WIPTVBR</externallink>
+<externallink>https://raw.githubusercontent.com/Free-IPTV/Countries/master/YZ001_MUSIC.m3u</externallink>
 </item>
 
 
