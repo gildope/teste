@@ -21,3 +21,6 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1,TV CULTURA
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 
+#EXTINF:-1,TV ficção
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+
