@@ -3,15 +3,6 @@
 #EXTINF:-1 ,kpop
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 
-#EXTINF:-1 ,NRJ HITS
-https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/chunklist_w583027069_b1431072.m3u8
-
-#EXTINF:-1 ,Melody Channel
-https://5f2eaf2aa4061.streamlock.net/live/smil:MelodyChannel.smil/playlist.m3u8
-
-#EXTINF:-1,Music Channel Romania
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/index.m3u8
-
 #EXTINF:-1,CDTV
 http://stmv1.caxiashost.com.br/caxiashost/caxiashost/playlist.m3u8?wowzasessionid=1090463670
 
@@ -27,26 +18,6 @@ https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
 #EXTINF:-1,Retro 
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
-#EXTINF:-1,Rede TV
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
-
 #EXTINF:-1,TV CULTURA
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 
-#EXTINF:-1,CNN BRASIL
-https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
-
-#EXTINF:-1,TV na Ilha
-https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/playlist.m3u8
-
-#EXTINF:-1,Tv Aracati HD
-https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Tv Osório News
-https://5d82644094cc0.streamlock.net/tvosorionews/tvosorionews/playlist.m3u8
-
-#EXTINF:-1,Kronos Movie WEB TV
-https://livefocamundo.com:8081/8588/index.m3u8
-
-#EXTINF:-1,PPTV Channel
-https://5cf4a2c2512a2.streamlock.net/felipemello/felipemello/playlist.m3u8
