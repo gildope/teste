@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 ,kpop
+https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
+
 #EXTINF:-1 ,NRJ HITS
 https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/chunklist_w583027069_b1431072.m3u8
 
@@ -15,8 +18,14 @@ http://stmv1.caxiashost.com.br/caxiashost/caxiashost/playlist.m3u8?wowzasessioni
 #EXTINF:-1,LFM TV
 https://edge8.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist_w846223479_b1600000.m3u8
 
+#EXTINF:-1,Trace Urban
+https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
+
 #EXTINF:-1,Retro Plus
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
+
+#EXTINF:-1,Retro 
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
 #EXTINF:-1,Rede TV
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
